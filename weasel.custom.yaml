@@ -1,0 +1,13 @@
+patch:
+  style/color_scheme: static2 #主题颜色
+  style/font_point: 14 #字体大小
+  style/horizontal: false #是否横向 true开/false关
+  style/layout/border: 2 #边框
+  style/layout/margin_x: 12
+  style/layout/margin_y: 12
+  style/layout/hilite_padding: 4
+  style/layout/hilite_spacing: 2
+  style/layout/spacing: 5
+  style/layout/candidate_spacing: 5
+  style/layout/round_corner: 0
+  style/corner_radius: 0

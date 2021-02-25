@@ -1,0 +1,14 @@
+# default.custom.yaml
+patch:
+  switcher:
+    caption: "「切换方案」"
+    hotkeys:
+      - "Control+grave"
+      - "F4"
+  schema_list:
+    - schema: xkjd6
+    - schema: xkjd6dz
+    - schema: xkjd6_bj
+
+  menu:
+    page_size: 6
