@@ -6,7 +6,7 @@ customization:
   rime_version: 1.5.3
 patch:
   menu:
-    page_size: 10
+    page_size: 6
   schema_list:
     - {schema: xkjd6}
     - {schema: luna_pinyin}
