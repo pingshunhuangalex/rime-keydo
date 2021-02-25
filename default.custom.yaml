@@ -1,14 +1,15 @@
-# default.custom.yaml
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu Feb 25 18:12:29 2021"
+  rime_version: 1.5.3
 patch:
-  switcher:
-    caption: "「切换方案」"
-    hotkeys:
-      - "Control+grave"
-      - "F4"
-  schema_list:
-    - schema: xkjd6
-    - schema: xkjd6dz
-    - schema: xkjd6_bj
-
   menu:
     page_size: 6
+  schema_list:
+    - {schema: xkjd6}
+    - {schema: luna_pinyin}
+  switcher:
+    caption: "「切换方案」"
+    hotkeys: ["Control+grave", F4]
