@@ -2,14 +2,14 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561218646
-    default.custom: 1614237149
+    default.custom: 1614238025
     key_bindings: 1561218646
     key_bindings.custom: 0
-    luna_pinyin.custom: 0
+    luna_pinyin.custom: 1614163195
     luna_pinyin.schema: 1561218646
     punctuation: 1561218646
     punctuation.custom: 0
-    symbols: 1614236700
+    symbols: 1614082150
     symbols.custom: 0
 custom_phrase:
   db_class: stabledb
@@ -76,7 +76,7 @@ key_binder:
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
   import_preset: default
 menu:
-  page_size: 6
+  page_size: 10
 punctuator:
   full_shape:
     " ": {commit: "　"}
@@ -328,6 +328,7 @@ switches:
   - name: full_shape
     states: ["半角", "全角"]
   - name: simplification
+    reset: 1
     states: ["漢字", "汉字"]
   - name: ascii_punct
     states: ["。，", "．，"]

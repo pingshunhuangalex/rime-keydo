@@ -1,8 +1,8 @@
 __build_info:
   rime_version: 1.5.3
   timestamps:
-    weasel: 1614236700
-    weasel.custom: 1614237159
+    weasel: 1614082150
+    weasel.custom: 1614238832
 app_options:
   cmd.exe:
     ascii_mode: true
@@ -382,6 +382,21 @@ preset_color_schemes:
     hilited_text_color: 0x98a12a
     name: "曬經石／Solarized Rock"
     text_color: 0x009985
+  sphs:
+    author: SPHS
+    back_color: 0x212121
+    border_color: 0x373737
+    candidate_text_color: 0xeeffff
+    comment_text_color: 0x6bcbff
+    hilited_back_color: 0x212121
+    hilited_candidate_back_color: 0x373737
+    hilited_candidate_text_color: 0xea92c7
+    hilited_comment_text_color: 0xea92c7
+    hilited_label_color: 0xea92c7
+    hilited_text_color: 0xea92c7
+    label_color: 0x797979
+    name: SPHS
+    text_color: 0xf3dd89
   starcraft:
     author: "Contralisk <contralisk@gmail.com>, original artwork by Blizzard Entertainment"
     back_color: 0x000000
@@ -490,25 +505,24 @@ preset_color_schemes:
     name: YouTube
     text_color: 0x000000
 style:
-  color_scheme: dark_temple
-  corner_radius: 0
+  color_scheme: sphs
+  corner_radius: 4
   display_tray_icon: false
-  font_face: "Microsoft YaHei"
+  font_face: "Sarasa Mono SC"
   font_point: 14
   fullscreen: false
   horizontal: false
   inline_preedit: false
-  label_format: "%s."
+  label_format: "%s"
   layout:
-    border: 2
-    border_width: 3
-    candidate_spacing: 5
-    hilite_padding: 4
-    hilite_spacing: 2
-    margin_x: 12
-    margin_y: 12
-    min_height: 0
-    min_width: 160
-    round_corner: 0
-    spacing: 5
+    border: "2,"
+    candidate_spacing: "4,"
+    hilite_padding: "2,"
+    hilite_spacing: "4,"
+    margin_x: "12,"
+    margin_y: "12,"
+    min_height: "0,"
+    min_width: "160,"
+    round_corner: "4,"
+    spacing: 4
   preedit_type: composition

@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561218646
-    default.custom: 1614237149
+    default.custom: 1614238025
     key_bindings: 1561218646
     key_bindings.custom: 0
     punctuation: 1561218646
@@ -50,7 +50,7 @@ key_binder:
     - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
 menu:
-  page_size: 6
+  page_size: 10
 punctuator:
   full_shape:
     " ": {commit: "　"}
@@ -130,5 +130,4 @@ schema_list:
 switcher:
   caption: "「切换方案」"
   hotkeys:
-    - "Control+grave"
-    - F4
+    - "Shift+space"

@@ -2,13 +2,13 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561218646
-    default.custom: 1614237149
+    default.custom: 1614238025
     key_bindings: 1561218646
     key_bindings.custom: 0
     punctuation: 1561218646
     punctuation.custom: 0
     xkjd6cx.custom: 0
-    xkjd6cx.schema: 1614236700
+    xkjd6cx.schema: 1614082150
 engine:
   filters:
     - uniquifier
@@ -32,7 +32,7 @@ engine:
     - table_translator
     - reverse_lookup_translator
 menu:
-  page_size: 6
+  page_size: 10
 schema:
   name: "键道6反查"
   schema_id: xkjd6cx

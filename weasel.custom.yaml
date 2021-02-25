@@ -2,18 +2,43 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Thu Feb 25 18:12:39 2021"
+  modified_time: "Thu Feb 25 18:35:58 2021"
   rime_version: 1.5.3
 patch:
-  "style/color_scheme": dark_temple
-  "style/corner_radius": 0
-  "style/font_point": 14
-  "style/horizontal": false
-  "style/layout/border": 2
-  "style/layout/candidate_spacing": 5
-  "style/layout/hilite_padding": 4
-  "style/layout/hilite_spacing": 2
-  "style/layout/margin_x": 12
-  "style/layout/margin_y": 12
-  "style/layout/round_corner": 0
-  "style/layout/spacing": 5
+  preset_color_schemes/sphs:
+    author: SPHS
+    back_color: 0x212121
+    border_color: 0x373737
+    candidate_text_color: 0xeeffff
+    comment_text_color: 0x6bcbff
+    hilited_back_color: 0x212121
+    hilited_candidate_back_color: 0x373737
+    hilited_candidate_text_color: 0xea92c7
+    hilited_comment_text_color: 0xea92c7
+    hilited_label_color: 0xea92c7
+    hilited_text_color: 0xea92c7
+    label_color: 0x797979
+    name: SPHS
+    text_color: 0xf3dd89
+  style:
+    color_scheme: sphs
+    corner_radius: 4
+    display_tray_icon: false
+    font_face: "Sarasa Mono SC"
+    font_point: 14
+    fullscreen: false
+    horizontal: false
+    inline_preedit: false
+    label_format: "%s"
+    layout:
+      border: 2,
+      candidate_spacing: 4,
+      hilite_padding: 2,
+      hilite_spacing: 4,
+      margin_x: 12,
+      margin_y: 12,
+      min_height: 0,
+      min_width: 160,
+      round_corner: 4,
+      spacing: 4
+    preedit_type: composition

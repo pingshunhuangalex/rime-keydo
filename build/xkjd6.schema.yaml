@@ -5,15 +5,15 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561218646
-    default.custom: 1614237149
+    default.custom: 1614238025
     key_bindings: 1561218646
     key_bindings.custom: 0
     punctuation: 1561218646
     punctuation.custom: 0
-    symbols: 1614236700
+    symbols: 1614082150
     symbols.custom: 0
-    xkjd6.custom: 0
-    xkjd6.schema: 1614236700
+    xkjd6.custom: 1614156082
+    xkjd6.schema: 1614082150
 bmms:
   comment_format:
     - "xform/'/ /"
@@ -28,9 +28,10 @@ custom_phrase:
   user_dict: user_dict
 danzi_lookup:
   comment_format:
-    - "xform/^/〔/"
-    - "xform/$/〕/"
     - "xform/ /, /"
+    - "xform/~/ ~/"
+    - "xform/^//"
+    - "xform/$//"
   dictionary: xkjd6.extended
   enable_charset_filter: false
   enable_completion: true
@@ -106,7 +107,7 @@ layout:
     topup_this: bcdefghjklmnpqrstwxyz
     topup_with: "avuio;"
 menu:
-  page_size: 6
+  page_size: 10
 punctuator:
   full_shape:
     " ": {commit: "　"}

@@ -1,0 +1,7 @@
+# encoding: utf-8
+patch:
+  danzi_lookup/comment_format:
+    - "xform/ /, /"
+    - "xform/~/ ~/"
+    - "xform/^//"
+    - "xform/$//"

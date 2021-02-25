@@ -47,7 +47,7 @@ local function getUpDate()
    local h = os.date('%Y')
    local m = os.date('%m')
    local d = os.date('%d')
-   
+
    local hour = translateDate(h)
    local month = translateDate(m)
    local month = translateDateSuffix(month, 'month')
@@ -59,10 +59,10 @@ end
 
 local function translator(input, seg)
    if (input == "o") then
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), "~rq"))
+      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), " ~rq"))
    end
    if (input == "or") then
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), "~q"))
+      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), " ~q"))
    end
    if (input == "orq") then
       --[[ 用 `yield` 产生一个候选项
