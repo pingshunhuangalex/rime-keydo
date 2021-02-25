@@ -1,10 +1,11 @@
 var:
-  last_build_time: 1614240273
+  last_build_time: 1614254894
   option:
     full_shape: false
-  previously_selected_schema: luna_pinyin
+  previously_selected_schema: xkjd6
   schema_access_time:
     jdybcz3: 1504536486
     jdybdz3: 1504536480
-    luna_pinyin: 1614240367
-    xkjd6: 1614238895
+    luna_pinyin: 1614252924
+    xkjd6: 1614254790
+    xkjd6cx: 1614250548

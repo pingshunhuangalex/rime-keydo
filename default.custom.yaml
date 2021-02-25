@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Feb 25 18:12:29 2021"
+  modified_time: "Thu Feb 25 21:56:19 2021"
   rime_version: 1.5.3
 patch:
   menu:
