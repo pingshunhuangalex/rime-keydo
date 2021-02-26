@@ -31,14 +31,14 @@ patch:
     inline_preedit: false
     label_format: "%s"
     layout:
-      border: 2,
-      candidate_spacing: 4,
-      hilite_padding: 2,
-      hilite_spacing: 4,
-      margin_x: 12,
-      margin_y: 12,
-      min_height: 0,
-      min_width: 160,
-      round_corner: 4,
+      border: 2
+      candidate_spacing: 4
+      hilite_padding: 2
+      hilite_spacing: 4
+      margin_x: 12
+      margin_y: 12
+      min_height: 0
+      min_width: 160
+      round_corner: 4
       spacing: 4
     preedit_type: composition

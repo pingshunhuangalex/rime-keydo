@@ -5,6 +5,15 @@ customization:
   modified_time: "Thu Feb 25 21:56:19 2021"
   rime_version: 1.5.3
 patch:
+  ascii_composer:
+    good_old_caps_lock: false
+    switch_key:
+      Shift_L: inline_ascii
+      Shift_R: commit_text
+      Control_L: commit_code
+      Control_R: inline_ascii
+      Caps_Lock: clear
+      Eisu_toggle: clear
   menu:
     page_size: 6
   schema_list:
