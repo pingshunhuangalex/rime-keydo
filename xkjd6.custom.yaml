@@ -6,6 +6,8 @@ patch:
     - xform/ /, /
     - xform/^〔~(.*)〕$/ ~$1/
   key_binder:
-      bindings:
-        - {accept: comma, send: Page_Up, when: has_menu}
-        - {accept: period, send: Page_Down, when: has_menu}
+    bindings:
+      - {accept: comma, send: Page_Up, when: has_menu}
+      - {accept: period, send: Page_Down, when: has_menu}
+  menu:
+    page_size: 5

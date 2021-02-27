@@ -4,6 +4,8 @@ patch:
     bindings:
       - {accept: comma, send: Page_Up, when: has_menu}
       - {accept: period, send: Page_Down, when: has_menu}
+  menu:
+    page_size: 10
   switches:
     - name: ascii_mode
       reset: 0
