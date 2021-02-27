@@ -1,19 +1,11 @@
 # encoding: utf-8
 patch:
-  key_binder:
-    bindings:
-      - {accept: comma, send: Page_Up, when: has_menu}
-      - {accept: period, send: Page_Down, when: has_menu}
-  menu:
-    page_size: 10
+  key_binder/bindings:
+    - { accept: comma, send: Page_Up, when: has_menu }
+    - { accept: period, send: Page_Down, when: has_menu }
+  menu/page_size: 10
   switches:
-    - name: ascii_mode
-      reset: 0
-      states: ["中文", "西文"]
-    - name: full_shape
-      states: ["半角", "全角"]
-    - name: simplification
-      reset: 1
-      states: ["漢字", "汉字"]
-    - name: ascii_punct
-      states: ["。，", "．，"]
+    - { name: ascii_mode, reset: 0, states: [ "中文", "英文" ] }
+    - { name: full_shape, states: [ "半角", "全角" ] }
+    - { name: simplification, reset: 1, states: [ "繁體", "简体" ] }
+    - { name: ascii_punct, states: [ "。，", ". , "] }

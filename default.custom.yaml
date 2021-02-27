@@ -14,11 +14,10 @@ patch:
       Control_R: inline_ascii
       Caps_Lock: clear
       Eisu_toggle: clear
-  menu:
-    page_size: 6
+  menu/page_size: 6
   schema_list:
-    - {schema: xkjd6}
-    - {schema: luna_pinyin}
+    - { schema: xkjd6 }
+    - { schema: luna_pinyin }
   switcher:
     caption: "「切换方案」"
-    hotkeys: ["Shift+space"]
+    hotkeys: [ "Shift+space" ]
