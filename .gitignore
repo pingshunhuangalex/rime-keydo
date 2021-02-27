@@ -1,46 +1,10 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-# dependencies
-node_modules
-
-# testing
-coverage
-junit.xml
-.scannerwork
-test-report.xml
-**/cypress/videos
-**/cypress/screenshots
-**/cypress/reports
-**/cypress/logs
+# miscnpm
+.DS_Store
 
 # production
 build
-.out
 
-#pacts
-pacts
-logs
-
-# miscnpm
-.DS_Store
-.env
-*.log
-
-# VIM swap files
-*.swp
-
-# build files
-debian
-*.deb
-*.rpm
-
-# IDE files
-.idea
-.vs
-.vscode
-*.iml
-
-# temp
-tmp
-
-# local
+# user database
+*.userdb
