@@ -22,30 +22,30 @@ switches:
     states: [ 630关, 630开 ]
   - name: EN2en
     reset: 1
-    
+
 engine:
   processors:
     - ascii_composer
-    - chord_composer  # 实现按键并击   
+    - chord_composer  # 实现按键并击
     - recognizer
-    - key_binder 
-    - selector       
-    - speller  
-    - punctuator      
+    - key_binder
+    - selector
+    - speller
+    - punctuator
     - navigator
     - express_editor
   segmentors:
     - ascii_segmentor
     - matcher
-    - abc_segmentor  
+    - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator    
-    - reverse_lookup_translator  
+    - table_translator
+    - reverse_lookup_translator
     - table_translator@custom_phrase
-    - history_translator@repeat_history    
+    - history_translator@repeat_history
   filters:
     - simplifier
     - uniquifier
@@ -60,13 +60,13 @@ speller:
   auto_select: true
   alphabet: "zyxwvutsrqponmlkjihgfedcba;"
   initials: "abcdefghijklmnopqrstuvwxyz;"
-  
+
 chord_composer:
   # 字母表，包含用并击按键
   # 击键一律以字母表顺序排列
   alphabet: "qwertasdfgzxcvbyuiophjklnm;',./"
   algebra:
-    # 定义左手11键       
+    # 定义左手11键
     - xform/^er(?![左右])/i左/
     - xform/^df(?![左右])/y左/
     - xform/^cv(?![左右])/j左/
@@ -78,7 +78,7 @@ chord_composer:
     - xform/^xc(?![左右])/h左/
     - xform/^ef(?![左右])/u左/
     - xform/^dv(?![左右])/n左/
-   
+
 
     # 定义右手15键
     - xform/jk(?![左右])$/a右/
@@ -90,36 +90,36 @@ chord_composer:
     - xform/ui(?![左右])$/r右/
     - xform/io(?![左右])$/f右/
     - xform/m\,(?![左右])$/g右/
-    - xform/\,\.(?![左右])$/v右/    
+    - xform/\,\.(?![左右])$/v右/
     - xform/ij(?![左右])$/e右/
     - xform/oj(?![左右])$/z右/
     - xform/km(?![左右])$/s右/
     - xform/il(?![左右])$/x右/
     - xform/k\.(?![左右])$/w右/
-     
+
   # 并击完成后套用式样
   output_format:
     - "xform/^(.*)左/$1/"
     - "xform/^(.*)右$/$1/"
     - "xform/^(.*)左(.*)右$/$1$2/"
-      
- # 并击过程中套用式样  
+
+ # 并击过程中套用式样
   prompt_format:
     # 加方括号
-    - "xform/^(.*)$/[$1]/"     
+    - "xform/^(.*)$/[$1]/"
 
 translator:
   dictionary: xkjd6.extended
   prism: xkjd6_bj
   enable_charset_filter: false
-  enable_completion: true  
+  enable_completion: true
   enable_encoder: true
   enable_sentence: false
   encode_commit_history: true
   enable_user_dict: false
   max_phrase_length: 6
-  
-     
+
+
 repeat_history:
   input: ;h #重复上次上屏内容
   size: 1
