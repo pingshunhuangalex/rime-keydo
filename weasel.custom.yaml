@@ -19,7 +19,7 @@ patch:
     hilited_text_color: 0xea92c7
     label_color: 0x797979
     name: SPHS
-    text_color: 0xf3dd89
+    text_color: 0xffaa82
   style:
     color_scheme: sphs
     corner_radius: 4
@@ -28,7 +28,7 @@ patch:
     font_point: 14
     fullscreen: false
     horizontal: false
-    inline_preedit: true
+    inline_preedit: false
     label_format: "%s "
     layout:
       border: 2
