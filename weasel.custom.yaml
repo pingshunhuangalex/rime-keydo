@@ -14,8 +14,8 @@ patch:
     hilited_back_color: 0x212121
     hilited_candidate_back_color: 0x373737
     hilited_candidate_text_color: 0xea92c7
-    hilited_comment_text_color: 0xea92c7
-    hilited_label_color: 0xea92c7
+    hilited_comment_text_color: 0x6bcbff
+    hilited_label_color: 0x6a8cf7
     hilited_text_color: 0xea92c7
     label_color: 0x797979
     name: SPHS
@@ -28,7 +28,7 @@ patch:
     font_point: 14
     fullscreen: false
     horizontal: false
-    inline_preedit: false
+    inline_preedit: true
     label_format: "%s"
     layout:
       border: 2
