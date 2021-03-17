@@ -29,7 +29,7 @@ patch:
     fullscreen: false
     horizontal: false
     inline_preedit: true
-    label_format: "%s"
+    label_format: "%s "
     layout:
       border: 2
       candidate_spacing: 4
