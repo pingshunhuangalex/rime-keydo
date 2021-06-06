@@ -29,12 +29,12 @@ patch:
     fullscreen: false
     horizontal: true
     inline_preedit: true
-    label_format: "%s"
+    label_format: "%s "
     layout:
       border: 2
-      candidate_spacing: 24
-      hilite_padding: 12
-      hilite_spacing: 8
+      candidate_spacing: 20
+      hilite_padding: 10
+      hilite_spacing: 4
       margin_x: 12
       margin_y: 12
       min_height: 0
