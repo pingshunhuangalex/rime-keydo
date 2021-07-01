@@ -5,9 +5,6 @@ patch:
     - xform/$/〕/
     - xform/ /, /
     - xform/^〔~(.*)〕$/ ~$1/
-  key_binder/bindings:
-    - { accept: comma, send: Page_Up, when: paging }
-    - { accept: period, send: Page_Down, when: has_menu }
   menu/page_size: 6
   switches:
     - { name: ascii_mode, reset: 0, states: [ "中文", "英文" ] }
