@@ -12,7 +12,7 @@ My user configs backup for [Rime XKJD](https://xkinput.gitee.io/)
 
 - Install Rime XKJD in the default directory (the same directory as Rime), but unzip the installation tools in `D:\Rime XKJD`
 
-- Right-click the input method icon at the bottom-right of the screen and hit `Exit Rime`
+- Right-click the input method icon at the bottom-right of the screen and hit `Quit`
 
 - Replace all default configs in `C:\Users\%USERNAME%\AppData\Roaming\Rime` with the user configs in this repo (including the hidden git folder, so all future modifications can be managed by git)
 
