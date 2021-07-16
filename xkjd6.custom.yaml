@@ -5,10 +5,15 @@ patch:
     - xform/$/〕/
     - xform/ /, /
     - xform/^〔~(.*)〕$/ ~$1/
+  key_binder/bindings:
+    - { when: has_menu, accept: F1, toggle: emoji_cn}
+    - { when: has_menu, accept: F2, toggle: jffh }
   menu/page_size: 6
   switches:
     - { name: ascii_mode, reset: 0, states: [ "中文", "英文" ] }
     - { name: full_shape, states: [ "半角", "全角" ] }
     - { name: jffh, reset: 0, states: [ "简体", "繁體" ] }
     - { name: sbb_hint, reset: 1, states: [ "关₆₃₀", "开₆₃₀" ] }
+    - { name: emoji_cn, reset: 0, states: [ "关表情", "开表情" ] }
     - { name: EN2en, reset: 1 }
+    - { name: bmms, reset: 1 }
