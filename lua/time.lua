@@ -13,19 +13,19 @@ end
 
 local function translator(input, seg)
    if (input == "o") then
-      yield(Candidate("date", seg.start, seg._end, os.date("%H:%M:%S"), " ~ej"))
+      yield(Candidate("date", seg.start, seg._end, os.date("%H:%M:%S"), "ej"))
    end
    if (input == "oe") then
-      yield(Candidate("date", seg.start, seg._end, os.date("%H:%M:%S"), " ~j"))
+      yield(Candidate("date", seg.start, seg._end, os.date("%H:%M:%S"), "j"))
    end
    if (input == "oej") then
       yield(Candidate("date", seg.start, seg._end, os.date("%H:%M:%S"), ""))
    end
    if (input == "o") then
-      yield(Candidate("date", seg.start, seg._end, getWeekDay(), " ~xq"))
+      yield(Candidate("date", seg.start, seg._end, getWeekDay(), "xq"))
    end
    if (input == "ox") then
-      yield(Candidate("date", seg.start, seg._end, getWeekDay(), " ~q"))
+      yield(Candidate("date", seg.start, seg._end, getWeekDay(), "q"))
    end
    if (input == "oxq") then
       yield(Candidate("date", seg.start, seg._end, getWeekDay(), ""))

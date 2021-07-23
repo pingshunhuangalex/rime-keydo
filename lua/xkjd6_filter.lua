@@ -6,13 +6,13 @@ local function hint(cand, context, reverse)
     if utf8.len(cand.text) < 2 then
         return false
     end
-    
+
     local lookup = " " .. reverse:lookup(cand.text) .. " "
-    local short = string.match(lookup, " ([bcdefghjklmnpqrstwxyz][auiov]+) ") or 
+    local short = string.match(lookup, " ([bcdefghjklmnpqrstwxyz][auiov]+) ") or
                   string.match(lookup, " ([bcdefghjklmnpqrstwxyz][bcdefghjklmnpqrstwxyz]) ")
-    local input = context.input 
+    local input = context.input
     if short and utf8.len(input) > utf8.len(short) and not startswith(short, input) then
-        cand:get_genuine().comment = cand.comment .. "〔" .. short .. "〕"
+        cand:get_genuine().comment = cand.comment .. " [" .. short .. "]"
         return true
     end
 

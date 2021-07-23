@@ -1,10 +1,7 @@
 # encoding: utf-8
 patch:
   danzi_lookup/comment_format:
-    - xform/^/〔/
-    - xform/$/〕/
-    - xform/ /, /
-    - xform/^〔~(.*)〕$/ ~$1/
+    - xform/~//
   key_binder/bindings:
     - { when: has_menu, accept: F1, toggle: emoji_cn}
     - { when: has_menu, accept: F2, toggle: jffh }

@@ -42,25 +42,3 @@ patch:
       round_corner: 0
       spacing: 10
     preedit_type: composition
-  # style:
-  #   color_scheme: sphs
-  #   corner_radius: 4
-  #   display_tray_icon: false
-  #   font_face: "Sarasa Mono SC"
-  #   font_point: 14
-  #   fullscreen: false
-  #   horizontal: false
-  #   inline_preedit: false
-  #   label_format: "%s "
-  #   layout:
-  #     border: 2
-  #     candidate_spacing: 4
-  #     hilite_padding: 2
-  #     hilite_spacing: 4
-  #     margin_x: 12
-  #     margin_y: 12
-  #     min_height: 0
-  #     min_width: 160
-  #     round_corner: 4
-  #     spacing: 4
-  #   preedit_type: composition

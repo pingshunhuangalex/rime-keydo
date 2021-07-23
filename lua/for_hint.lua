@@ -24,12 +24,12 @@ local function hint(cand, input, env)
 
     if string.len(input) > 1 then
         if sbb and not startswith(sbb, input) then
-            cand:get_genuine().comment = cand.comment .. "〔" .. sbb .. "〕"
+            cand:get_genuine().comment = cand.comment .. " [" .. sbb .. "]"
             return 1
         end
 
         if short and not startswith(short, input) then
-            cand:get_genuine().comment = cand.comment .. "〔" .. short .. "❖" .. "〕"
+            cand:get_genuine().comment = cand.comment .. " [" .. short .. "❖" .. "]"
             return 2
         end
     end
