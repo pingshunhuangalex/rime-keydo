@@ -2,6 +2,8 @@
 
 My user configs backup for [Rime XKJD](https://xkinput.gitee.io/)
 
+Wanna give Rime XKJD a go? Check out my own version of [Rime XKJD Documentation](https://pingshunhuangalex.gitbook.io/rime-xkjd/)!
+
 ## Install
 
 - Download the latest [Rime for Windows](https://github.com/rime/weasel/releases/latest)
