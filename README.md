@@ -26,15 +26,19 @@ My user configs backup for [Rime XKJD](https://xkinput.gitee.io/)
 
 - Update Rime: right-click the input method icon at the bottom-right of the screen and hit `Check for updates`
 
-- [All your user configs will be lost after the Rime XKJD update] Backup your git configs in the hidden folder (`C:\Users\%USERNAME%\AppData\Roaming\Rime\.git`)
+- [All your user configs will be lost after the Rime XKJD update] Backup the entire user configs folder including git configs (`C:\Users\%USERNAME%\AppData\Roaming\Rime`)
 
 - Update Rime XKJD: go to the installation tools folder and run the update script (`D:\Rime XKJD\Rime_JD\Tools\SystemTools\WindowsTools\update.bat`), or just re-intialise everything using the start script (`D:\Rime XKJD\start.bat`)
 
 - Right-click the input method icon at the bottom-right of the screen and hit `Quit`, so the Rime service is shut down before restoring your customisation
 
-- Revert git configs in the hidden folder to the ones pointing to this repo (so you can see what's been changed after the update)
+- Duplicate the entire user configs folder without git configs (`C:\Users\%USERNAME%\AppData\Roaming\Rime`) so changes from the official repo can be isolated
 
-- Review all changes carefully to ensure your customisaion is restored while updates on Rime XKJD (input methods and dictionaries) remain effective
+- Revert the entire user configs folder including git configs (`C:\Users\%USERNAME%\AppData\Roaming\Rime`) to restore all the customisation
+
+- Merge the duplicated folder with changes from the official repo into the user config folder (so you can see what's been changed after the update)
+
+- Review all changes carefully to ensure all conflicts are resolved between your customisaion and changes from the official repo
 
 - Restart your OS to bring back the Rime service
 
