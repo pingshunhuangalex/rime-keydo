@@ -841,6 +841,7 @@ sort: original
 不识泰山	bete
 不识抬举	betj
 白手套	betu
+板刷头	betv
 不失为	bew
 不是为了	bewl
 榜上无名	bewm
@@ -921,6 +922,7 @@ sort: original
 半仓	bfcp
 板擦	bfcs
 半寸	bfcw
+板寸	bfcwv
 不复存在	bfcz
 不知道	bfd
 编织袋	bfda
@@ -1723,6 +1725,7 @@ sort: original
 病虫	bgwy
 冰超	bgwz
 不高兴	bgx
+不敢想	bgxva
 冰心	bgxb
 冰消	bgxc
 冰鞋	bgxd
@@ -2258,6 +2261,7 @@ sort: original
 百项	bhxx
 白熊	bhxy
 不会有	bhy
+编后语	bhya
 白银	bhyb
 柏油	bhyd
 百业	bhye
@@ -5013,7 +5017,7 @@ sort: original
 必然会	brho
 绷簧	brhx
 不入虎穴	brhxv
-不入虎穴焉得虎子	brhz
+不入虎穴 焉得虎子	brhz
 百日菊	brj
 绷紧	brjb
 崩解	brjd
@@ -13035,7 +13039,8 @@ sort: original
 颠鸾倒凤	dldf
 多读	dldj
 跺了跺脚	dldjo
-堕地	dldk
+多地	dldk
+堕地	dldka
 多多	dldl
 咄咄	dldlo
 斗罗大陆	dldloi
@@ -16076,6 +16081,7 @@ sort: original
 冻鳗	dymfo
 东明	dymg
 动脉	dymh
+打疫苗	dymi
 冬米	dymk
 冬末	dyml
 冬眠	dymm
@@ -17772,6 +17778,7 @@ sort: original
 手足	edzj
 受阻	edzju
 瘦子	edzk
+首字	edzko
 首座	edzl
 手作	edzli
 受赠	edzr
@@ -24099,6 +24106,7 @@ sort: original
 这辈子	fbz
 追责	fbze
 罚不责众	fbzf
+法不责众	fbzfa
 坠子	fbzk
 锥子	fbzki
 追赃	fbzp
@@ -24278,6 +24286,7 @@ sort: original
 分得开	fdk
 周口	fdkd
 周刊	fdkf
+放得开	fdko
 知道了	fdl
 费德勒	fdla
 发电量	fdlai
@@ -24579,6 +24588,7 @@ sort: original
 折衷	fefyi
 折中	fefyii
 众说纷纭	fefyio
+这种	fefyo
 这招	fefz
 遮罩	fefzo
 知识分子	fefzu
@@ -32906,6 +32916,7 @@ sort: original
 构造	gdzz
 各表	gebc
 个别	gebd
+光说不练假把势	gebe
 隔板	gebf
 各半	gebfu
 各班	gebfuv
@@ -32919,6 +32930,7 @@ sort: original
 隔壁	gebk
 戈壁	gebkv
 胳膊	gebl
+光说不练	gebli
 各遍	gebm
 歌本	gebn
 蛤蚌	gebp
@@ -47890,6 +47902,7 @@ sort: original
 胶合板	jhbu
 侪辈	jhbw
 拆包	jhbz
+焦化层	jhc
 决策	jhce
 蕨菜	jhch
 厥词	jhck
@@ -49364,6 +49377,7 @@ sort: original
 纪录	jklja
 激励	jklk
 几里	jklku
+几例	jklkui
 几粒	jklkuo
 肌理	jklkuv
 吉利	jklkv
@@ -66763,6 +66777,7 @@ sort: original
 模组	mlzj
 魔族	mlzjo
 墨子	mlzk
+末字	mlzkv
 末座	mlzl
 莫做	mlzli
 模造	mlzz
@@ -75279,6 +75294,7 @@ sort: original
 钦定	qbdg
 秦代	qbdh
 全部的	qbdi
+撬不动	qbdiv
 亲读	qbdj
 擒敌	qbdk
 侵夺	qbdl
@@ -75580,6 +75596,7 @@ sort: original
 桥段	qcdtv
 桥墩	qcdw
 桥洞	qcdy
+撬动	qcdyi
 这才是	qce
 贮藏室	qcea
 翘首	qced
@@ -78579,6 +78596,7 @@ sort: original
 契机	qkjkv
 七级	qkjkva
 器具	qkjl
+张口就来	qkjla
 齐聚	qkjlo
 弃剧	qkjloa
 起居	qkjlv
@@ -91796,6 +91814,7 @@ sort: original
 田野	tmye
 天眼	tmyf
 觍颜	tmyfi
+天衍	tmyfv
 天鹰	tmyg
 天应	tmygv
 天意	tmyk
@@ -93638,11 +93657,13 @@ sort: original
 五保户	wbhvi
 吹号	wbhz
 吃饱喝足	wbhzo
+抽不出	wbj
 吹进	wbjb
 垂教	wbjc
 我不觉得	wbjd
 文不加点	wbjdo
 吹净	wbjg
+万般皆下品 唯有读书高	wbjgv
 吹出	wbjj
 炊具	wbjl
 万般皆下品	wbjp
@@ -109841,7 +109862,8 @@ sort: original
 油箱	ydxxau
 幽香	ydxxi
 一定要	ydy
-约等于	ydya
+引导语	ydya
+约等于	ydyau
 阴道炎	ydyao
 诱因	ydyb
 又因	ydyba
@@ -110422,6 +110444,7 @@ sort: original
 也是一个	yeygao
 夜莺	yeygo
 疑神疑鬼	yeygu
+越少越好	yeyh
 业已	yeyk
 也已	yeyka
 也以	yeykaa
@@ -113956,10 +113979,10 @@ sort: original
 一路走来	ylzlv
 预增	ylzr
 余尊	ylzw
-与总	ylzy
-言论自由	ylzyo
+# 与总	ylzy
+言论自由	ylzy
 预造	ylzz
-油猫饼	ymb
+有毛病	ymb
 羽毛笔	ymba
 一毛不拔	ymbb
 也没办法	ymbf
@@ -114623,6 +114646,7 @@ sort: original
 遇人不淑	yrbe
 仰人鼻息	yrbx
 隐忍不言	yrby
+用人不疑 疑人不用	yrbyu
 应如此	yrc
 亚热带	yrd
 一人得道	yrdd
@@ -115952,6 +115976,7 @@ sort: original
 越陷越深	yxye
 言行一致	yxyf
 又爱又恨	yxyh
+越小越好	yxyhv
 隐形眼镜	yxyj
 有血有肉	yxyr
 影响因素	yxys
@@ -116397,6 +116422,7 @@ sort: original
 营业厅	yytii
 用途	yytj
 泳体	yytk
+颐养天年	yytn
 音乐厅	yyto
 育婴堂	yytoa
 音悦台	yytoo
@@ -119871,6 +119897,7 @@ sort: original
 咋能	zsnr
 杂品	zspb
 砸票	zspc
+砸盘	zspf
 杂评	zspg
 杂牌	zsph
 砸破	zspl
@@ -120743,7 +120770,7 @@ sort: original
 枣园	zzyt
 早孕	zzyw
 造谣	zzyz
-早早早	zzz
+# 早早早	zzz
 遭罪	zzzb
 自作自受	zzze
 早在	zzzh
@@ -120751,6 +120778,6 @@ sort: original
 造字	zzzku
 造作	zzzl
 早做	zzzlo
-蹲坐在	zzzo
+# 蹲坐在	zzzo
 早早	zzzz
-早早早早	zzzzo
+# 早早早早	zzzzo
