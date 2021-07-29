@@ -1,61 +1,33 @@
-# Rime XKJD
+# Rime键道输入法
 
-My user configs backup for [Rime XKJD](https://xkinput.gitee.io/)
+这个仓库包含了我所有关于[星空键道](https://github.com/xkinput/Rime_JD)的配置与自定义文件。
 
-Wanna give Rime XKJD a go? Check out my own version of [Rime XKJD Documentation](https://pingshunhuangalex.gitbook.io/rime-xkjd/)!
+## 回归初心
 
-## Install
+键道创始之初，其核心设计理念的一部分便是词库。“质量极高，大而不臃、全而不废，极低的词组打空率”曾一度是其闪光点。时过境迁，因缺乏统一的词库删改标准加上极其有限的审核维护资源，键道词库正渐渐趋于臃肿，怪词废词不断。
 
-- Download the latest [Rime for Windows](https://github.com/rime/weasel/releases/latest)
+由于目前词库的删改逻辑与我的预想相去甚远，极低的更新频率更是使其雪上加霜。思前想后，我决定摒弃官方词库，另起炉灶，打造属于我自己的键道词库。
 
-- Install Rime in the default directory
+## 词库删改逻辑
 
-- Download the latest Rime XKJD ([GitHub](https://github.com/xkinput/Rime_JD) | [Gitee](https://gitee.com/xkinput/Rime_JD))
+以官方词库为参照，本仓库将从零开始构建键道词库。以下为词库删改逻辑：
 
-- Install Rime XKJD in the default directory (the same directory as Rime), but unzip the installation tools in `D:\Rime XKJD`
+- 审核改动字词是否合理且具有复用性与时效性，尊崇“少既是多”的原则而非盲目占用编码空间
 
-- Right-click the input method icon at the bottom-right of the screen and hit `Quit`
+- 将改动字词根据其性质与输入方式进行更细致的归类（[查看词库结构](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.extended.dict.yaml)）
 
-- Replace all default configs in `C:\Users\%USERNAME%\AppData\Roaming\Rime` with the user configs in this repo (including the hidden git folder, so all future modifications can be managed by git)
+- 根据使用情况调整词频，同时调整四周具有相似编码的字词以优化该区域的平均码长
 
-- Copy the theme preview file (`color_scheme_sphs.png`) from `C:\Users\%USERNAME%\AppData\Roaming\Rime\preview` to `C:\Program Files (x86)\Rime\weasel-<latest version>\data\preview`
+- 视实际编码情况，在不损害输入效率与可读性的前提下，尽可能利用次选位置与简码
 
-- After an OS restart, activate the input method (add Rime in `Start -> Settings -> Time & Language -> Language (Chinese)` if it's not added automatically during the installation)
+- 视实际编码情况，在不损害输入效率与可读性的前提下，尽可能使相同结构的词拥有相同的编码长度
 
-- Right-click the input method icon at the bottom-right of the screen and hit `Redeploy`
+- 查看飞键的可行性，并做出相应的改动
 
-## Update
+> 以新构建的词库为蓝本，本仓库将会同步更新「极速跟打器」所使用的[编码文件](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/%E6%9E%81%E9%80%9F%E8%B7%9F%E6%89%93%E5%99%A8/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93.txt)以保证词库在实际应用中的有效性。
+>
+> 更细化的字词归类同时将优化跟打器中的编码提示与可视化，使其优先映射长度更大且码长更小的字词
 
-- Update Rime: right-click the input method icon at the bottom-right of the screen and hit `Check for updates`
+---
 
-- [All your user configs will be lost after the Rime XKJD update] Backup the entire user configs folder including git configs (`C:\Users\%USERNAME%\AppData\Roaming\Rime`)
-
-- Update Rime XKJD: go to the installation tools folder and run the update script (`D:\Rime XKJD\Rime_JD\Tools\SystemTools\WindowsTools\update.bat`), or just re-intialise everything using the start script (`D:\Rime XKJD\start.bat`)
-
-- Right-click the input method icon at the bottom-right of the screen and hit `Quit`, so the Rime service is shut down before restoring your customisation
-
-- Duplicate the entire user configs folder without git configs (`C:\Users\%USERNAME%\AppData\Roaming\Rime`) so changes from the official repo can be isolated
-
-- Revert the entire user configs folder including git configs (`C:\Users\%USERNAME%\AppData\Roaming\Rime`) to restore all the customisation
-
-- Merge the duplicated folder with changes from the official repo into the user config folder (so you can see what's been changed after the update)
-
-- Review all changes carefully to ensure all conflicts are resolved between your customisaion and changes from the official repo
-
-- Restart your OS to bring back the Rime service
-
-- Right-click the input method icon at the bottom-right of the screen and hit `Redeploy`
-
-- Right-click the input method icon at the bottom-right of the screen and hit `Sync user data`
-
-## Uninstall
-
-- Uninstall Rime using the Windows `Programs and Features`, followed by an OS restart
-
-- Delete the folder in `C:\Program Files (x86)\Rime`
-
-- Delete the installation tools in `D:\Rime XKJD`
-
-- Delete the user configs in `C:\Users\%USERNAME%\AppData\Roaming\Rime`
-
-- Clean the registry and any residue if needed
+想要进一步了解这款优雅的中文输入方案？来看看我自制的[Rime键道输入法文档](https://pingshunhuangalex.gitbook.io/rime-xkjd/)吧!
