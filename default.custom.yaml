@@ -8,11 +8,11 @@ patch:
   ascii_composer:
     good_old_caps_lock: false
     switch_key:
-      Shift_L: commit_code
-      Shift_R: commit_code
-      Control_L: inline_ascii
-      Control_R: inline_ascii
-      Caps_Lock: commit_text
+      Shift_L: commit_text
+      Shift_R: commit_text
+      Control_L: commit_code
+      Control_R: commit_code
+      Caps_Lock: inline_ascii
       Eisu_toggle: clear
   menu/page_size: 6
   schema_list:
