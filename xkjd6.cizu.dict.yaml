@@ -6808,7 +6808,8 @@ sort: original
 刺目	ckmjv
 次幂	ckmk
 次面	ckmm
-词码	ckms
+次码	ckms
+词码	ckmso
 雌马	ckmsi
 刺梅	ckmw
 雌猫	ckmz
@@ -6893,6 +6894,7 @@ sort: original
 次茶	ckwso
 刺穿	ckwt
 刺猬	ckww
+次位	ckwwo
 次创	ckwx
 参考文献	ckwxa
 茨冲	ckwy
@@ -15583,7 +15585,8 @@ sort: original
 水涝	eblz
 识别码	ebm
 水满	ebmf
-水明	ebmg
+双编码字根	ebmg
+水明	ebmga
 水脉	ebmh
 水母	ebmj
 水米	ebmk
@@ -24518,6 +24521,7 @@ sort: original
 中海油	fhyi
 摘译	fhyk
 防患于未然	fhyr
+发挥余热	fhyra
 宅院	fhyt
 摘要	fhyz
 这孩子	fhz
@@ -49521,6 +49525,7 @@ sort: original
 尖嘴	jmzb
 间奏	jmzd
 简则	jmze
+键名字根	jmzg
 健在	jmzh
 减灾	jmzho
 减租	jmzj
@@ -67179,12 +67184,13 @@ sort: original
 冒险者	mxf
 玛尔扎哈	mxfh
 某些方面	mxfm
-明儿个	mxg
-没想过	mxga
+没想过	mxg
+没写够	mxga
 墨西哥	mxgi
 莫西干	mxgiv
 墨西哥城	mxgj
 某些国家	mxgjv
+明儿个	mxgo
 毛细管	mxgu
 没信号	mxh
 满心欢喜	mxhx
@@ -82219,7 +82225,8 @@ sort: original
 人工智障	rgfq
 如果这样	rgfy
 如果只有	rgfya
-热滚滚	rgg
+若干个	rgg
+热滚滚	rggi
 荣归故里	rggl
 人格化	rgh
 容光焕发	rghf
@@ -110828,6 +110835,8 @@ sort: original
 游击战争	yjqq
 以及其他	yjqt
 以及其它	yjqta
+有激情	yjqv
+有奸情	yjqva
 一见倾心	yjqx
 一家人	yjr
 由俭入奢	yjre
