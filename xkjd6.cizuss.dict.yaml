@@ -30,7 +30,6 @@ sort: original
 并不是一个	bbeg
 摆摆手	bbei
 勃勃生机	bbej
-# 次选
 帮不上忙	bbem
 并不是什么	bbemo
 不辨菽麦	bbemv
@@ -163,7 +162,6 @@ sort: original
 # 次选
 不打不相识	bdbe
 不多不少	bdbev
-不打不相识	bdbevi
 宝刀不老	bdbl
 百毒不侵	bdbq
 不代表	bdbv
@@ -227,7 +225,6 @@ sort: original
 剥夺政治权利终身	bdqea
 剥夺政治权利	bdqla
 别当真	bdqo
-变电站	bdqoi
 不得其所	bdqs
 本地区	bdqv
 别的人	bdr
@@ -235,7 +232,6 @@ sort: original
 本地人	bdr
 不动如山	bdrev
 不打扰	bdrv
-本地人	bdrvv
 不得人心	bdrx
 不打算	bds
 本打算	bdsv
@@ -250,9 +246,9 @@ sort: original
 不到位	bdw
 不得无礼	bdwl
 本单位	bdwv
-不到位	bdwvv
-北斗星	bdx
+不当心	bdx
 不得而知	bdxf
+北斗星	bdxi
 不得安宁	bdxn
 拔地而起	bdxq
 拔刀相助	bdxqi
@@ -266,7 +262,6 @@ sort: original
 不得要领	bdyl
 # 次选
 弊大于利	bdyl
-弊大于利	bdylov
 必定有	bdyo
 必定要	bdyoo
 别的意思	bdys
@@ -323,7 +318,6 @@ sort: original
 饱食终日	befr
 博硕肥腯	beft
 标识符	befv
-不设防	befvo
 不时之需	befx
 杯水之谢	befxv
 不是这样	befy
@@ -380,7 +374,6 @@ sort: original
 白手起家	beqj
 不是这么	beqm
 变声器	beqo
-半衰期	beqoo
 变声期	beqov
 冰释前嫌	beqx
 保守主义	beqy
@@ -405,7 +398,6 @@ sort: original
 # 次选
 不省心	bex
 不顺心	bexv
-不省心	bexvi
 不是啊	bexvo
 博士学位	bexw
 不适应	bey
@@ -426,7 +418,6 @@ sort: original
 背水一战	beyq
 不是冤家不聚头	beyt
 不顺眼	beyv
-不属于	beyva
 不善于	beyvo
 不是因为	beyw
 巴山夜雨	beyya
@@ -437,7 +428,6 @@ sort: original
 不分彼此	bfbc
 百发百中	bfbf
 百折不回	bfbhv
-# 次选
 不知不觉	bfbj
 避之不及	bfbja
 不着边际	bfbjv
@@ -485,7 +475,6 @@ sort: original
 不法之徒	bfftv
 标志着	bffv
 百分制	bffvu
-百分之	bffvuo
 不负众望	bffwv
 捕风捉影	bffy
 八方支援	bffyu
@@ -535,12 +524,10 @@ sort: original
 保质期	bfq
 本质区别	bfqb
 不分青红皂白	bfqbv
-# 次选
 百转千折	bfqf
 不知轻重	bfqfv
 百转千折	bfqfvv
 播放器	bfqi
-保质期	bfqiu
 并发症	bfqo
 百转千折	bfqq
 不乏其人	bfqrv
@@ -550,9 +537,7 @@ sort: original
 不值钱	bfqvi
 百褶裙	bfqvo
 本周起	bfqvu
-不服气	bfqvuu
 标志着	bfqvv
-# 次选
 不知去向	bfqx
 不知其二	bfqxv
 不知去向	bfqxvu
@@ -594,9 +579,7 @@ sort: original
 蝙蝠侠	bfxi
 白费心机	bfxj
 爆炸性	bfxo
-暴风雪	bfxou
 标志性	bfxv
-# 次选
 不法行为	bfxw
 不知羞耻	bfxwv
 不法行为	bfxwva
@@ -606,7 +589,6 @@ sort: original
 别这样	bfy
 不止一次	bfyc
 不止于此	bfycv
-# 次选
 并非易事	bfye
 并非易事	bfyeoi
 不值一哂	bfyev
@@ -614,7 +596,6 @@ sort: original
 闭着眼睛	bfyj
 不知有汉，何论魏晋	bfyjv
 闭着眼	bfyo
-别这样	bfyoo
 暴风雨	bfyou
 本质要求	bfyq
 不值一钱	bfyqv
@@ -633,7 +614,6 @@ sort: original
 班干部	bgb
 半工半读	bgbd
 不管不顾	bgbg
-# 次选
 毕恭毕敬	bgbj
 不干不净	bgbjv
 毕恭毕敬	bgbjvv
@@ -648,14 +628,12 @@ sort: original
 不敢怠慢	bgdmv
 不共戴天	bgdt
 不敢当	bgdv
-不搞定	bgdvi
 半个多月	bgdyo
 办公室	bge
 # 次选
 不管是	bge
 不过是个	bgeg
 报告书	bgei
-# 次选
 半个世纪	bgej
 半个时辰	bgejo
 半个世纪	bgejoi
@@ -664,7 +642,6 @@ sort: original
 不过是	bgev
 不敢说	bgeva
 不光是	bgevi
-不管是	bgevu
 悲观失望	bgew
 杯弓蛇影	bgey
 补过拾遗	bgeyo
@@ -702,8 +679,6 @@ sort: original
 百公里	bglvu
 不管了	bglvua
 不过了	bglvv
-不干了	bglvva
-不过来	bglvvv
 不给力啊	bglxv
 帮个忙	bgm
 不感冒	bgmv
@@ -729,7 +704,6 @@ sort: original
 报告厅	bgti
 博古通今	bgtju
 八卦图	bgtu
-包工头	bgtuv
 不关痛痒	bgtyv
 八股文	bgw
 不关我事	bgwe
@@ -742,9 +716,7 @@ sort: original
 半个小时	bgxe
 不感兴趣	bgxqv
 不甘心	bgxv
-不敢想	bgxva
 不顾安危	bgxw
-# 次选
 不敢相信	bgxx
 不过尔尔	bgxxv
 不敢相信	bgxxva

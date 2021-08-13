@@ -7,6 +7,7 @@ sort: original
 鬓边	bbbm
 宾从	bbcy
 宾东	bbdyo
+# 次选
 鬓霜	bbem
 鬓霜	bbex
 缤纷	bbfn
@@ -59,7 +60,6 @@ sort: original
 # 次选
 标的	bcdk
 标底	bcdkv
-标的	bcdkvu
 标点	bcdm
 表达	bcds
 标段	bcdt
@@ -70,12 +70,10 @@ sort: original
 # 次选
 表叔	bcej
 标书	bcejv
-表叔	bcejvi
 表示	bcek
 # 次选
 标识	bcek
 标示	bcekv
-标识	bcekvv
 表婶	bcen
 标上	bcep
 飙升	bcer
@@ -414,6 +412,7 @@ sort: original
 搬兵	bfbg
 斑白	bfbh
 半百	bfbho
+# 次选
 颁布	bfbj
 半部	bfbjo
 半步	bfbjoi
@@ -453,7 +452,6 @@ sort: original
 搬到	bfdz
 绊倒	bfdza
 扳倒	bfdzi
-搬到	bfdziv
 半岛	bfdzo
 半道	bfdzoo
 版税	bfeb
@@ -509,7 +507,6 @@ sort: original
 # 次选
 搬回	bfhb
 扳回	bfhbi
-搬回	bfhbii
 板绘	bfhbv
 办后	bfhda
 半酣	bfhf
@@ -547,7 +544,6 @@ sort: original
 半程	bfjr
 扮成	bfjri
 半成	bfjro
-半程	bfjrou
 搬家	bfjs
 半价	bfjso
 颁奖	bfjx
@@ -622,6 +618,7 @@ sort: original
 般配	bfpw
 板桥	bfqc
 伴着	bfqe
+# 次选
 办展	bfqf
 版主	bfqj
 班主	bfqjv
@@ -633,6 +630,7 @@ sort: original
 半球	bfqq
 办证	bfqr
 版权	bfqt
+# 次选
 板墙	bfqx
 办照	bfqza
 搬入	bfrj
@@ -688,10 +686,12 @@ sort: original
 半仙	bfxm
 半袖	bfxq
 搬下	bfxs
+# 次选
 班训	bfxw
 扮相	bfxx
 伴音	bfyb
 伴有	bfyd
+# 次选
 半夜	bfye
 半叶	bfyeo
 扮演	bfyf
@@ -719,6 +719,7 @@ sort: original
 扮作	bfzl
 并表	bgbc
 兵败	bgbh
+# 次选
 并不	bgbj
 兵部	bgbju
 并比	bgbk
@@ -731,7 +732,6 @@ sort: original
 # 次选
 禀报	bgbz
 并报	bgbzo
-禀报	bgbzoi
 病残	bgcf
 并曾	bgcr
 冰层	bgcro
@@ -756,16 +756,15 @@ sort: original
 # 次选
 并到	bgdz
 冰岛	bgdzo
-并到	bgdzov
 冰水	bgeb
 并受	bged
 冰山	bgef
+# 次选
 兵书	bgej
 病逝	bgek
 # 次选
 病史	bgek
 病室	bgeko
-病史	bgekoi
 兵士	bgeku
 并说	bgel
 冰霜	bgem
@@ -778,7 +777,6 @@ sort: original
 # 次选
 并附	bgfj
 禀赋	bgfjo
-并附	bgfjoa
 并至	bgfk
 并指	bgfko
 病状	bgfm
@@ -824,7 +822,6 @@ sort: original
 # 次选
 冰盒	bghe
 冰核	bgheo
-冰盒	bgheoi
 冰寒	bghf
 病害	bghh
 冰壶	bghj
@@ -880,7 +877,6 @@ sort: original
 病理	bglko
 并力	bglkoa
 并立	bglkoo
-病历	bglkov
 兵力	bglku
 并联	bglm
 槟榔	bglp
@@ -969,7 +965,6 @@ sort: original
 # 次选
 并为	bgww
 病危	bgwwo
-并为	bgwwoo
 病床	bgwx
 病虫	bgwy
 冰心	bgxb
@@ -987,6 +982,7 @@ sort: original
 兵燹	bgxmu
 病休	bgxq
 并下	bgxs
+# 次选
 冰箱	bgxx
 并向	bgxxo
 病因	bgyb
@@ -994,7 +990,6 @@ sort: original
 # 次选
 并由	bgyd
 病友	bgydo
-并由	bgydoi
 并也	bgye
 冰岩	bgyf
 冰盐	bgyfo
@@ -1007,14 +1002,12 @@ sort: original
 # 次选
 并与	bgyl
 病愈	bgylo
-并与	bgylov
 冰洋	bgyp
 并压	bgyso
 病源	bgyt
 # 次选
 病员	bgyt
 病原	bgyto
-病员	bgytoo
 兵员	bgytu
 并允	bgyw
 并用	bgyy
