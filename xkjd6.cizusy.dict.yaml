@@ -56,6 +56,7 @@ sort: original
 标定	bcdg
 表带	bcdh
 标度	bcdj
+# 首选
 表弟	bcdk
 # 次选
 标的	bcdk
@@ -66,10 +67,12 @@ sort: original
 表首	bced
 飙射	bcee
 表率	bceg
+# 首选
 表述	bcej
 # 次选
 表叔	bcej
 标书	bcejv
+# 首选
 表示	bcek
 # 次选
 标识	bcek
@@ -447,6 +450,7 @@ sort: original
 半段	bfdt
 半吨	bfdw
 搬动	bfdy
+# 首选
 办到	bfdz
 # 次选
 搬到	bfdz
@@ -503,6 +507,7 @@ sort: original
 颁给	bfgw
 办公	bfgy
 半高	bfgzo
+# 首选
 班会	bfhb
 # 次选
 搬回	bfhb
@@ -539,6 +544,7 @@ sort: original
 半场	bfjp
 办厂	bfjpa
 斑鸠	bfjqv
+# 首选
 办成	bfjr
 # 次选
 半程	bfjr
@@ -728,6 +734,7 @@ sort: original
 冰棒	bgbp
 并把	bgbs
 并被	bgbw
+# 首选
 冰雹	bgbz
 # 次选
 禀报	bgbz
@@ -752,6 +759,7 @@ sort: original
 冰灯	bgdr
 冰盾	bgdw
 冰冻	bgdy
+# 首选
 病倒	bgdz
 # 次选
 并到	bgdz
@@ -761,6 +769,7 @@ sort: original
 冰山	bgef
 # 次选
 兵书	bgej
+# 首选
 病逝	bgek
 # 次选
 病史	bgek
@@ -773,6 +782,7 @@ sort: original
 冰霜	bgex
 冰锥	bgfb
 秉着	bgfe
+# 首选
 冰敷	bgfj
 # 次选
 并附	bgfj
@@ -818,6 +828,7 @@ sort: original
 并会	bghb
 冰厚	bghd
 病后	bghdo
+# 首选
 冰河	bghe
 # 次选
 冰盒	bghe
@@ -871,6 +882,7 @@ sort: original
 并栏	bglf
 冰凌	bglg
 兵略	bglhu
+# 首选
 病例	bglk
 # 次选
 病历	bglk
@@ -961,6 +973,7 @@ sort: original
 并网	bgwp
 并查	bgwso
 冰川	bgwt
+# 首选
 并未	bgww
 # 次选
 并为	bgww
@@ -986,6 +999,7 @@ sort: original
 冰箱	bgxx
 并向	bgxxo
 病因	bgyb
+# 首选
 并有	bgyd
 # 次选
 并由	bgyd
@@ -998,12 +1012,14 @@ sort: original
 并以	bgyk
 病疫	bgyko
 兵役	bgyku
+# 首选
 并于	bgyl
 # 次选
 并与	bgyl
 病愈	bgylo
 冰洋	bgyp
 并压	bgyso
+# 首选
 病源	bgyt
 # 次选
 病员	bgyt
