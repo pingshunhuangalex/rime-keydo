@@ -83,8 +83,12 @@ QLineEdit:hover,QTextEdit:hover,QPlainTextEdit:hover,QSpinBox:hover,QDoubleSpinB
 border:1px solid transparent;
 }
 
-QLineEdit:focus,QTextEdit:focus,QPlainTextEdit:focus,QSpinBox:focus,QDoubleSpinBox:focus,QComboBox:focus,QDateEdit:focus,QTimeEdit:focus,QDateTimeEdit:focus{
+QLineEdit:focus,QTextEdit:focus,QPlainTextEdit:focus,QSpinBox:focus,QDoubleSpinBox:focus,QDateEdit:focus,QTimeEdit:focus,QDateTimeEdit:focus{
 border:1px solid rgba(116,116,116,0.31);
+}
+
+QComboBox:focus{
+border:1px solid transparent;
 }
 
 QLineEdit[echoMode="2"]{
@@ -433,12 +437,24 @@ QScrollArea{
 border:0px;
 }
 
-QTreeView,QListView,QTableView,QTabWidget::pane{
+QSplitter::handle{
+background:#1a1a1a;
+}
+
+QTreeView,QTabWidget::pane{
 border:1px solid transparent;
 selection-background-color:rgba(116,116,116,0.31);
 selection-color:#c792ea;
 alternate-background-color:rgba(116,116,116,0.31);
 gridline-color:rgba(116,116,116,0.31);
+}
+
+QTreeView:hover,QTabWidget::pane:hover{
+border:1px solid transparent;
+}
+
+QTreeView:focus,QTabWidget::pane:focus{
+border:1px solid rgba(116,116,116,0.31);
 }
 
 QTreeView::branch:closed:has-children{
@@ -455,8 +471,18 @@ QTreeView,QListView,QTableView,QTreeView::branch{
 background:#212121;
 }
 
-QSplitter::handle{
-background:#1a1a1a;
+QTableView,QListView{
+border:0px solid transparent;
+selection-background-color:rgba(116,116,116,0.31);
+selection-color:#c792ea;
+alternate-background-color:rgba(116,116,116,0.31);
+gridline-color:rgba(116,116,116,0.31);
+}
+
+QTableView::item,QListView::item,QTreeView::item{
+padding:1px;
+margin:0px;
+border:1px solid transparent;
 }
 
 QTableView::item:hover,QListView::item:hover,QTreeView::item:hover{
@@ -467,11 +493,6 @@ background:rgba(116,116,116,0.31);
 QTableView::item:selected,QListView::item:selected,QTreeView::item:selected{
 color:#c792ea;
 background:rgba(116,116,116,0.31);
-}
-
-QTableView::item,QListView::item,QTreeView::item{
-padding:1px;
-margin:0px;
 }
 
 QHeaderView{
@@ -567,7 +588,7 @@ background:rgba(97,97,97,0.31);
 }
 
 QToolTip{
-border:1px solid #eeffff;
+border:1px solid rgba(116,116,116,0.31);
 padding:1px;
 color:#eeffff;
 background:#212121;
@@ -610,7 +631,7 @@ background:none;
 }
 
 QToolButton#qt_calendar_prevmonth:hover,QToolButton#qt_calendar_nextmonth:hover,QToolButton#qt_calendar_monthbutton:hover,QToolButton#qt_calendar_yearbutton:hover,QToolButton#qt_calendar_prevmonth:pressed,QToolButton#qt_calendar_nextmonth:pressed,QToolButton#qt_calendar_monthbutton:pressed,QToolButton#qt_calendar_yearbutton:pressed{
-border:1px solid #1a1a1a;
+border:0px solid transparent;
 }
 
 QCalendarWidget QSpinBox#qt_calendar_yearedit{
@@ -626,7 +647,7 @@ border-width:0px;
 }
 
 QCalendarWidget QWidget#qt_calendar_navigationbar{
-border:1px solid #212121;
+border:1px solid rgba(116,116,116,0.31);
 border-width:1px 1px 0px 1px;
 background:#1a1a1a;
 }
@@ -665,58 +686,3 @@ background:#212121;
 border-color:transparent;
 color:#4f6875;
 }
-
-
-/* Color Palette */
-/* text #eeffff */
-/* background #1a1a1a */
-/* workspace #212121 */
-/* accent #c792ea */
-/* accent #82aaff */
-/* accent #ffcb6b */
-/* button rgba(97,97,97,0.31) */
-/* border/interaction rgba(116,116,116,0.31) */
-/* completed/disabled #4f6875 */
-/* incorrect #ff5370 */
-/* close #ef5350 */
-/* handle rgba(199,146,234,0.5) */
-
-
-/*设置背景图*/
-/* #frmMain{background-image:url(./skin/xiaoshi/images/background.jpg);} */
-
-/*设置菜单透明*/
-/* QMenuBar{background-color:transparent;} */
-
-/*设置菜单透明*/
-/* QMenuBar::item{background-color:none;} */
-
-/*设置进度条透明*/
-/* QProgressBar{background: transparent;} */
-
-/*速度按钮透明*/
-/* #speedBtn{background: transparent;} */
-
-/*击键按钮透明*/
-/* #keystrokesBtn{background: transparent;} */
-
-/*码长按钮透明*/
-/* #codeLengthBtn{background: transparent;} */
-
-/*平均击键按钮透明*/
-/* #avgKeystrokesBtn{background: transparent;} */
-
-/*平均码长按钮透明*/
-/* #avgCodeLengthBtn{background: transparent;} */
-
-/*理论码长按钮透明*/
-/* #theoreticalCodeLengthBtn{background: transparent;} */
-
-/*文本框透明*/
-/* QTextEdit{background-color: rgba(255, 255, 224, 0%);} */
-
-/*文本框透明*/
-/* QPlainTextEdit{background-color: rgba(255, 255, 224, 0%);} */
-
-/*成绩栏透明*/
-/* QTableView{background-color: rgba(255, 255, 224, 0%);} */
