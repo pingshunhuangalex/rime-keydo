@@ -1177,6 +1177,7 @@ sort: original
 不传	bjwt
 不成问题	bjwtv
 不成文	bjwv
+不坚持	bjwvi
 比较差	bjwvv
 部位	bjww
 补位	bjwwo
@@ -14520,6 +14521,7 @@ sort: original
 电子表格	dzbgi
 道白	dzbh
 电子版	dzbi
+担责备	dzbiv
 倒闭	dzbk
 倒逼	dzbki
 导播	dzbl
@@ -15504,9 +15506,9 @@ sort: original
 受审	edenu
 说的是	edeo
 实打实	edeoi
-手上	edep
+受伤	edep
 上当受骗	edepi
-受伤	edepu
+手上	edepii
 手生	eder
 首杀	edes
 手刹	edesi
@@ -24222,7 +24224,7 @@ sort: original
 辅导	fjdz
 妇道	fjdza
 福岛	fjdzo
-负数	fje
+这就是	fje
 浙江省	fjea
 赋税	fjeb
 腹水	fjebu
@@ -57729,11 +57731,12 @@ sort: original
 老父亲	lfqu
 老中青	lfqui
 揽墙	lfqx
-老妇人	lfr
+两种人	lfr
 烂肉	lfrd
 阑入	lfrj
 兰若	lfrl
 懒人	lfrn
+老妇人	lfru
 蓝色	lfse
 懒散	lfsf
 滥俗	lfsj
@@ -61895,7 +61898,8 @@ sort: original
 两区	lxql
 联系起来	lxqlv
 两千	lxqm
-凉枕	lxqn
+两针	lxqn
+凉枕	lxqno
 旅行者	lxqo
 两张	lxqp
 梁丘	lxqq
@@ -70965,6 +70969,7 @@ sort: original
 瞥眼	pdyfo
 碰钉子	pdz
 撇嘴	pdzb
+磐石般	peb
 平时不努力	pebl
 平时不烧香	pebx
 派生词	pec
@@ -76158,7 +76163,7 @@ sort: original
 住到	qjdzi
 祝祷	qjdzo
 诸岛	qjdzou
-长见识	qje
+这就是	qje
 浙江省	qjea
 屈臣氏	qjeav
 注水	qjeb
@@ -76195,6 +76200,7 @@ sort: original
 这件事情	qjeq
 朱砂	qjes
 诛杀	qjeso
+长见识	qjeu
 起居室	qjev
 逐渐式微	qjew
 竹哨	qjez
@@ -82131,6 +82137,7 @@ sort: original
 软件开发	rjkf
 人尽可夫	rjkfi
 入库	rjkj
+人间苦累	rjkl
 入坑	rjkr
 入款	rjkt
 如空	rjky
@@ -90181,6 +90188,7 @@ sort: original
 天南地北	tndb
 拖泥带水	tnde
 听你说	tne
+童年时光	tneg
 团年饭	tnf
 它能够	tng
 太难喝	tnh
@@ -99800,7 +99808,8 @@ sort: original
 写稿	xdgz
 现代化	xdh
 协会	xdhb
-藕灰	xdhbi
+偶会	xdhbi
+藕灰	xdhbiv
 歇会	xdhbo
 邂逅	xdhd
 鞋盒	xdhe
@@ -106669,8 +106678,7 @@ sort: original
 需要一个	xyygv
 闲云野鹤	xyyh
 县医院	xyyi
-211工程	xyyj
-心有余悸	xyyjo
+心有余悸	xyyj
 胸臆	xyyk
 雄鱼	xyyl
 心猿意马	xyym
@@ -112486,8 +112494,9 @@ sort: original
 一年级	ynj
 有能力	ynl
 一年里	ynlv
-有那么	ynm
+也那么	ynm
 又那么	ynma
+有那么	ynmv
 一年内	ynn
 姨奶奶	ynna
 意难平	ynp
@@ -116349,7 +116358,7 @@ sort: original
 再错	zhcl
 再存	zhcw
 再从	zhcy
-最坏的	zhd
+最好的	zhd
 在对	zhdb
 再调	zhdc
 再跌	zhdd
@@ -116366,7 +116375,7 @@ sort: original
 在地	zhdkv
 再多	zhdl
 在点	zhdm
-最好的	zhdo
+最坏的	zhdo
 再当	zhdp
 再等	zhdr
 在等	zhdrv
