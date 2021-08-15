@@ -92,12 +92,12 @@ lineedit-password-character:9679;
 }
 
 .QFrame{
-border:1px solid rgba(0,0,0,0.38);
+border:1px solid rgba(116,116,116,0.31);
 border-radius:3px;
 }
 
 .QGroupBox{
-border:1px solid rgba(0,0,0,0.38);
+border:1px solid rgba(116,116,116,0.31);
 border-radius:5px;
 margin-top:3px;
 }
@@ -459,12 +459,12 @@ QSplitter::handle{
 background:#1a1a1a;
 }
 
-QTableView::item:selected,QListView::item:selected,QTreeView::item:selected{
-color:#c792ea;
+QTableView::item:hover,QListView::item:hover,QTreeView::item:hover{
+color:#eeffff;
 background:rgba(116,116,116,0.31);
 }
 
-QTableView::item:hover,QListView::item:hover,QTreeView::item:hover{
+QTableView::item:selected,QListView::item:selected,QTreeView::item:selected{
 color:#c792ea;
 background:rgba(116,116,116,0.31);
 }
