@@ -253,6 +253,13 @@ QComboBox::drop-down:on{
 top:1px;
 }
 
+QMenuBar,QMenuBar:disabled{
+color:#eeffff;
+background-color:transparent;
+border:0px solid transparent;
+margin:0px;
+}
+
 QMenuBar::item{
 color:#eeffff;
 background-color:#1a1a1a;
@@ -260,17 +267,16 @@ margin:0px;
 padding:3px 10px;
 }
 
-QMenuBar,QMenuBar:disabled{
-color:#eeffff;
-background-color:transparent;
-border:1px solid transparent;
-margin:0px;
+QMenuBar::item:selected,QMenu::item:selected{
+color:#c792ea;
+border:0px solid transparent;
+background:rgba(116,116,116,0.31);
 }
 
 QMenu,QMenu:disabled{
 color:#eeffff;
 background-color:#212121;
-border:1px solid #1a1a1a;
+border:1px solid rgba(116,116,116,0.31);
 margin:0px;
 }
 
@@ -281,12 +287,6 @@ padding:3px 20px;
 QMenu::indicator{
 width:13px;
 height:13px;
-}
-
-QMenu::item:selected,QMenuBar::item:selected{
-color:#c792ea;
-border:0px solid transparent;
-background:rgba(116,116,116,0.31);
 }
 
 QMenu::separator{
@@ -681,7 +681,11 @@ QTabWidget::pane:bottom{bottom:-1px;}
 QTabWidget::pane:left{right:-1px;}
 QTabWidget::pane:right{left:-1px;}
 
-*:disabled{
+#theoreticalCodeLengthBtn{
+color:#c792ea;
+}
+
+*:disabled, #theoreticalCodeLengthBtn:disabled{
 background:#212121;
 border-color:transparent;
 color:#4f6875;
