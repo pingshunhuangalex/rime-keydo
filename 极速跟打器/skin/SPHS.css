@@ -3,7 +3,7 @@ QPalette{background:#1a1a1a;}
 *{outline:0px;color:#eeffff;}
 
 QWidget[form="true"],QLabel[frameShape="1"]{
-border:1px solid rgba(0,0,0,0.38);
+border:1px solid rgba(116,116,116,0.31);
 border-radius:0px;
 }
 
@@ -12,7 +12,7 @@ background:#1a1a1a;
 }
 
 QWidget[form="bottom"] .QFrame{
-border:1px solid rgba(0,0,0,0.38);
+border:1px solid rgba(116,116,116,0.31);
 }
 
 QWidget[form="bottom"] QLabel,QWidget[form="title"] QLabel{
@@ -242,7 +242,7 @@ border-left-width:0px;
 border-left-style:solid;
 border-top-right-radius:3px;
 border-bottom-right-radius:3px;
-border-left-color:rgba(0,0,0,0.38);
+border-left-color:rgba(116,116,116,0.31);
 }
 
 QComboBox::drop-down:on{
@@ -666,11 +666,57 @@ border-color:transparent;
 color:#4f6875;
 }
 
-/*TextColor:#eeffff*/
-/*PanelColor:#212121*/
-/*BorderColor:#1a1a1a*/
-/*NormalColorStart:#1a1a1a*/
-/*NormalColorEnd:#1a1a1a*/
-/*DarkColorStart:#1a1a1a*/
-/*DarkColorEnd:#1a1a1a*/
-/*HighColor:#c792ea*/
+
+/* Color Palette */
+/* text #eeffff */
+/* background #1a1a1a */
+/* workspace #212121 */
+/* accent #c792ea */
+/* accent #82aaff */
+/* accent #ffcb6b */
+/* button rgba(97,97,97,0.31) */
+/* border/interaction rgba(116,116,116,0.31) */
+/* completed/disabled #4f6875 */
+/* incorrect #ff5370 */
+/* close #ef5350 */
+/* handle rgba(199,146,234,0.5) */
+
+
+/*设置背景图*/
+/* #frmMain{background-image:url(./skin/xiaoshi/images/background.jpg);} */
+
+/*设置菜单透明*/
+/* QMenuBar{background-color:transparent;} */
+
+/*设置菜单透明*/
+/* QMenuBar::item{background-color:none;} */
+
+/*设置进度条透明*/
+/* QProgressBar{background: transparent;} */
+
+/*速度按钮透明*/
+/* #speedBtn{background: transparent;} */
+
+/*击键按钮透明*/
+/* #keystrokesBtn{background: transparent;} */
+
+/*码长按钮透明*/
+/* #codeLengthBtn{background: transparent;} */
+
+/*平均击键按钮透明*/
+/* #avgKeystrokesBtn{background: transparent;} */
+
+/*平均码长按钮透明*/
+/* #avgCodeLengthBtn{background: transparent;} */
+
+/*理论码长按钮透明*/
+/* #theoreticalCodeLengthBtn{background: transparent;} */
+
+/*文本框透明*/
+/* QTextEdit{background-color: rgba(255, 255, 224, 0%);} */
+
+/*文本框透明*/
+/* QPlainTextEdit{background-color: rgba(255, 255, 224, 0%);} */
+
+/*成绩栏透明*/
+/* QTableView{background-color: rgba(255, 255, 224, 0%);} */
