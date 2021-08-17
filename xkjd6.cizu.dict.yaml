@@ -1449,6 +1449,7 @@ sort: original
 必杀	bkes
 白开水	bkeu
 本科生	bkev
+不肯说	bkevi
 笔顺	bkew
 不堪设想	bkex
 比少	bkez
@@ -1659,6 +1660,7 @@ sort: original
 必能	bknr
 必拿	bkns
 不可逆	bknv
+不肯拿	bknvi
 比内	bknw
 比浓	bkny
 不可能有	bknyv
@@ -12016,8 +12018,9 @@ sort: original
 大牛双拼	dnep
 东南风	dnf
 电脑桌	dnfi
-多瑙河	dnh
-多年后	dnhu
+多年后	dnh
+对你好	dnha
+多瑙河	dnhu
 大男孩	dnhv
 动脑筋	dnj
 低年级	dnji
@@ -13530,6 +13533,7 @@ sort: original
 端公	dtgyou
 短稿	dtgz
 洞庭湖	dth
+对他好	dtha
 断后	dthd
 短褐	dthe
 锻焊	dthf
@@ -34469,6 +34473,7 @@ sort: original
 更佳	grjsv
 固若金汤	grjt
 更将	grjx
+给人看	grk
 更可	grke
 更看	grkf
 更快	grkg
@@ -34543,6 +34548,7 @@ sort: original
 梗塞	grse
 个人所得税	grsei
 梗死	grsk
+给人听	grt
 更贴	grtd
 更土	grtj
 更替	grtk
@@ -41529,7 +41535,8 @@ sort: original
 毫无关系	hwgx
 黑工	hwgy
 混汞	hwgya
-缓冲行	hwh
+黑吃黑	hwh
+缓冲行	hwha
 婚后	hwhd
 浑厚	hwhda
 混合	hwhe
@@ -45307,6 +45314,7 @@ sort: original
 铲草	jfcz
 就知道	jfd
 出发点	jfda
+沉重的	jfdau
 铲掉	jfdc
 颤抖	jfdd
 鸡飞蛋打	jfdda
@@ -52087,6 +52095,7 @@ sort: original
 奖罚	jxfs
 讲法	jxfso
 程序法	jxfu
+进行着	jxfv
 将非	jxfw
 降费	jxfwa
 奖状	jxfx
@@ -52276,7 +52285,8 @@ sort: original
 近乡情怯	jxqqua
 将政	jxqr
 奖券	jxqt
-进行曲	jxqv
+进行着	jxqv
+进行曲	jxqvu
 降准	jxqw
 假戏真做	jxqz
 出席人	jxr
@@ -53085,7 +53095,8 @@ sort: original
 溃口	kbkd
 窥看	kbkf
 肯不肯	kbki
-暌阔	kbkl
+快不快乐	kbkl
+暌阔	kbklo
 快不快	kbko
 亏空	kbky
 苦不堪言	kbkyi
@@ -54874,8 +54885,9 @@ sort: original
 磕磕绊绊	kkbb
 磕磕巴巴	kkbbv
 咔咔嚓嚓	kkcc
-开口道	kkd
+苦苦的	kkd
 空空荡荡	kkdd
+开口道	kkdv
 看看谁	kke
 口口声声	kkee
 空口说白话	kkeh
@@ -82300,6 +82312,7 @@ sort: original
 如因	rjyb
 如有	rjyd
 入夜	rjye
+日久月深	rjyeo
 乳液	rjyeu
 如烟	rjyf
 如出一辙	rjyfa
@@ -83029,8 +83042,9 @@ sort: original
 日全食	rqe
 人情世故	rqeg
 忍者神龟	rqega
-人情债	rqf
+人群中	rqf
 人穷志短	rqfd
+人情债	rqfi
 入侵者	rqfu
 认真贯彻	rqgj
 认真贯彻	rqgw
@@ -100468,6 +100482,7 @@ sort: original
 恶徒	xetj
 讹脱	xetl
 唉声叹气	xetq
+爱上他	xetu
 昂首挺胸	xetx
 销售网	xew
 恶臭	xewd
@@ -105801,7 +105816,8 @@ sort: original
 响哨	xxez
 信心十足	xxezi
 儿媳妇	xxf
-阿尔法	xxfa
+续写着	xxfa
+阿尔法	xxfau
 香洲	xxfd
 想象中的	xxfdv
 想着	xxfe
@@ -106111,8 +106127,8 @@ sort: original
 相碰	xxpr
 相配	xxpw
 想跑	xxpz
-肖像权	xxq
-消消气	xxqa
+消消气	xxq
+续写着	xxqa
 相亲	xxqb
 乡亲	xxqba
 相桥	xxqc
@@ -106125,6 +106141,7 @@ sort: original
 详情	xxqg
 乡情	xxqga
 相轻	xxqgv
+肖像权	xxqi
 相助	xxqj
 想起	xxqk
 响起	xxqko
@@ -116141,7 +116158,8 @@ sort: original
 自治州	zff
 组织者	zffa
 自治制度	zffd
-咱这	zffe
+攒着	zffe
+咱这	zffeo
 暂付	zffj
 拶指	zffk
 自知之明	zffm
@@ -116205,7 +116223,8 @@ sort: original
 总方针	zfq
 组织者	zfqa
 暂且	zfqd
-咱这	zfqe
+攒着	zfqe
+咱这	zfqeo
 暂缺	zfqh
 赞助	zfqj
 暂住	zfqjv
