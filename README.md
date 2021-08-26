@@ -16,7 +16,7 @@
 
 为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，新词库将更为细化的对字词进行归类，使长度更大且码长更小的字词优先得到映射（[查看词库结构](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.extended.dict.yaml)）。词库的优先级为：
 
-> [多字词组声声词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.cizuss.dict.yaml) > [专有名词声声词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.userss.dict.yaml) > [630简码词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.wxw.dict.yaml) > 二级简码词库 > [二字词组声韵词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.cizusy.dict.yaml) > [专有名词声韵词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.usersy.dict.yaml) > 一级简码词库 > [单字词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.danzi.dict.yaml) > [超级字词词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.chaojizici.dict.yaml) > 其它词库
+> [多字词组声声词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.cizuss.dict.yaml) > [专有名词声声词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.userss.dict.yaml) > [特殊简码词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.wxw.dict.yaml) > 二级简码词库 > [二字词组声韵词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.cizusy.dict.yaml) > [专有名词声韵词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.usersy.dict.yaml) > 一级简码词库 > [单字词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.danzi.dict.yaml) > [超级字词词库](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.chaojizici.dict.yaml) > 其它词库
 
 ## 简码整理逻辑
 
@@ -28,7 +28,7 @@
 
 - 将简码字词在默认编码空间中进行后置
 
-- [待实验] 在630简码的声笔简码（`sb`）中添加次选从而将编码空间扩充至735
+- [待实验] 在特殊简码的声笔简码（`sb`）中添加次选从而将编码空间扩充至735（`21*5+21*5*5+21*5=735`）
 
 ## 词库删改逻辑
 
@@ -65,9 +65,9 @@
 - 在标注次选的字词编码后添加次选编码（`'`）并删除首选与次选标注
 
 - 在下列字词的编码后添加空格编码（`_`）
-  - 所有简码字词（不包含630简码）
-  - 编码为奇数的词组
-  - 编码为声韵（`sy`）的单字
+  - 所有简码字词（不包含特殊简码）
+  - 编码的声码部分为奇数且无形码的词组
+  - 编码的声码部分为声韵（`sy`）且无形码的单字
 
 - 对多字词组按字数进行倒序排列，使长度更大词组优先得到映射
 
