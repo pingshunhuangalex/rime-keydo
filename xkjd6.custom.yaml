@@ -14,3 +14,4 @@ patch:
     - { name: emoji_cn, reset: 0, states: [ "关表情", "开表情" ] }
     - { name: EN2en, reset: 1 }
     - { name: bmms, reset: 1 }
+  recognizer/patterns/retention: "^[bcdefghjklmnpqrstwxyz]{4}$"
