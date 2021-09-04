@@ -1,5 +1,8 @@
 # encoding: utf-8
 patch:
+  repeat_history:
+    input: ;;
+    size: 2
   danzi_lookup/comment_format:
     - xform/~[a-z;]//
   key_binder/bindings:
