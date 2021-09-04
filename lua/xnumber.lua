@@ -165,16 +165,16 @@ local function translator(input, seg, env)
 		local input2 = string.sub(input, 2)
 		if string.match(input2, "^[%+%-]?%d*%.?%d*$") then -- sadly, lua does not support regex like {0,4}
 			-- comment or reorder following lines to adjust the effects
-			yield(Candidate("number", seg.start, seg._end, speakMoney(input2), " 金额"))
-			yield(Candidate("number", seg.start, seg._end, speakOfficially(input2), " 文读"))
-			yield(Candidate("number", seg.start, seg._end, speakLiterally(input2), " 冷读"))
-			yield(Candidate("number", seg.start, seg._end, speakMillitary(input2), " 军语"))
+			yield(Candidate("number", seg.start, seg._end, speakMoney(input2), "〔金额〕"))
+			yield(Candidate("number", seg.start, seg._end, speakOfficially(input2), "〔文读〕"))
+			yield(Candidate("number", seg.start, seg._end, speakLiterally(input2), "〔冷读〕"))
+			yield(Candidate("number", seg.start, seg._end, speakMillitary(input2), "〔军语〕"))
 		else
 			local ok, ret = pcall(load, "return "..input2) -- from Lua 5.3, the `loadstring` function is replaced by `load`
-			if ok then yield(Candidate("number", seg.start, seg._end, tostring(ret()), " 计算")) end
+			if ok then yield(Candidate("number", seg.start, seg._end, tostring(ret()), "〔计算〕")) end
 		end
 		if string.match(input2, "^[%+%-]?%d*$") then -- plz, i dont want to deal with base conversion with decimals
-			yield(Candidate("number", seg.start, seg._end, baseConverse(input2, 10, 16), " 进制"))
+			yield(Candidate("number", seg.start, seg._end, baseConverse(input2, 10, 16), "〔进制〕"))
 		end
 	end
 end
