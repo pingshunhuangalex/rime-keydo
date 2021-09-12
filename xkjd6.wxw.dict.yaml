@@ -137,6 +137,9 @@ sort: original
 这些	fiv
 知道	fo
 放心	foa
+# 首选
+这是	foi
+# 次选
 只是	foi
 放学	foo
 之前	fou
@@ -340,6 +343,9 @@ sort: original
 你好	nau
 农民	nav
 你们	ni
+# 首选
+那里	nia
+# 次选
 哪里	nia
 那个	nii
 那位	nio
@@ -351,9 +357,12 @@ sort: original
 内容	noo
 怒火	nou
 内部	nov
+# 首选
+你的	nu
+# 次选
 那么	nu
 能够	nua
-你的	nui
+难的	nui
 难受	nuo
 难得	nuu
 那种	nuv
