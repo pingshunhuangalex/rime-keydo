@@ -8,7 +8,7 @@ patch:
   key_binder/bindings:
     - { when: has_menu, accept: F1, toggle: emoji_cn}
     - { when: has_menu, accept: F2, toggle: jffh }
-  menu/page_size: 6
+  menu/page_size: 2
   switches:
     - { name: ascii_mode, reset: 0, states: [ "中文", "英文" ] }
     - { name: full_shape, states: [ "半角", "全角" ] }
