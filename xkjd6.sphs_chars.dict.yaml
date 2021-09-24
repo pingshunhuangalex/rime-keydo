@@ -1,9 +1,8 @@
 ---
-name: xkjd6.danzi
-version: "Q1"
+name: xkjd6.sphs_chars
+version: "SPHS"
 sort: original
 ...
-不	b
 宾	bb
 滨	bba
 缤	bbaa
@@ -819,7 +818,6 @@ sort: original
 雹	bzvoua
 枹	bzvu
 枹	bzvuaa
-才	c
 催	cb
 翠	cba
 缞	cbaa
@@ -1167,7 +1165,6 @@ sort: original
 𥕢	czvuvi
 槽	czvv
 槽	czvvia
-的	d
 对	db
 队	dba
 队	dbaiii
@@ -1991,7 +1988,6 @@ sort: original
 焘	dzvv
 纛	dzvvia
 焘	dzvvoo
-是	e
 水	eb
 水	ebaa
 睡	ebi
@@ -2332,7 +2328,10 @@ sort: original
 侍	ekivo
 仕	ekivoo
 侍	ekivov
+# 首选
 试	eko
+# 次选
+实	eko
 诗	ekoa
 视	ekoai
 视	ekoaia
@@ -2352,7 +2351,6 @@ sort: original
 时	ekoivi
 是	ekoivi
 室	ekoo
-实	ekooo
 实	ekoooo
 恃	ekoov
 室	ekoova
@@ -2674,12 +2672,14 @@ sort: original
 楯	ewv
 楯	ewvuuu
 双	ex
-孀	exa
+灀	exa
 骦	exaa
-骦	exaavi
+孀	exau
+骦	exaavo
 双	exaoao
 孀	exauvo
 泷	exav
+灀	exavoa
 漺	exavu
 泷	exavua
 漺	exavuo
@@ -2735,7 +2735,6 @@ sort: original
 杓	ezvuao
 玿	ezvv
 玿	ezvvau
-这	f
 追	fb
 坠	fba
 缀	fbaa
@@ -3243,7 +3242,10 @@ sort: original
 庤	fkovvo
 痔	fkovvo
 痣	fkovvo
+# 首选
 知	fku
+# 次选
+支	fku
 旨	fkua
 炙	fkuao
 旨	fkuaoi
@@ -3252,7 +3254,7 @@ sort: original
 氏	fkuav
 氏	fkuava
 直	fkuo
-支	fkuoa
+𨙸	fkuoa
 疐	fkuoai
 𨙸	fkuoai
 支	fkuoao
@@ -3846,7 +3848,6 @@ sort: original
 棹	fzvi
 棹	fzvivo
 赵	fzvouo
-个	g
 规	gb
 癸	gba
 癸	gbaovv
@@ -4614,7 +4615,6 @@ sort: original
 槁	gzvovo
 槔	gzvu
 槔	gzvuia
-和	h
 会	hb
 汇	hba
 绘	hbaa
@@ -5530,7 +5530,6 @@ sort: original
 壕	hzvoo
 壕	hzvoov
 耗	hzvvuv
-就	j
 进	jb
 尽	jba
 浸	jbaa
@@ -7200,7 +7199,6 @@ sort: original
 耖	jzv
 超	jzvoau
 耖	jzvviu
-可	k
 亏	kb
 溃	kba
 骙	kbaa
@@ -7712,7 +7710,6 @@ sort: original
 犒	kzuvov
 栲	kzv
 栲	kzvuov
-了	l
 林	lb
 淋	lba
 潾	lbao
@@ -8028,11 +8025,13 @@ sort: original
 聆	lgviio
 柃	lgvio
 柃	lgvioa
-酃	lgvo
+夌	lgvo
+酃	lgvoa
 酃	lgvoai
 坽	lgvoi
 坽	lgvoio
 零	lgvoio
+夌	lgvouo
 玲	lgvv
 玲	lgvvio
 棱	lgvvo
@@ -8874,7 +8873,6 @@ sort: original
 栳	lzvuov
 耢	lzvv
 耢	lzvvii
-没	m
 民	mb
 泯	mba
 缗	mbaa
@@ -9560,7 +9558,6 @@ sort: original
 髦	mzviuv
 瑁	mzvv
 瑁	mzvvia
-你	n
 您	nb
 您	nbiuoa
 鸟	nc
@@ -9943,7 +9940,6 @@ sort: original
 桡	nzvva
 瑙	nzvvaa
 桡	nzvvau
-平	p
 品	pb
 姘	pba
 嫔	pbau
@@ -10545,7 +10541,6 @@ sort: original
 脬	pzuuoo
 匏	pzv
 匏	pzvuua
-去	q
 亲	qb
 沁	qba
 骎	qbaa
@@ -11131,22 +11126,25 @@ sort: original
 憩	qkuvoa
 迄	qkuvoa
 气	qkuvva
+# 首选
 其	qkv
+# 次选
+期	qkv
 七	qkva
 七	qkvaa
 郪	qkvaai
 妻	qkvaau
 杞	qkvav
 杞	qkvava
-期	qkvi
+欺	qkvi
 綦	qkvia
 綦	qkviaa
 桤	qkviai
-欺	qkviu
 欺	qkviua
 其	qkviuo
 期	qkviuu
 碁	qkviv
+碁	qkvivu
 圻	qkvo
 起	qkvoav
 圻	qkvouu
@@ -11799,7 +11797,6 @@ sort: original
 棹	qzvi
 棹	qzvivo
 赵	qzvouo
-人	r
 瑞	rb
 汭	rba
 汭	rbaiau
@@ -12050,7 +12047,6 @@ sort: original
 饶	rzuava
 桡	rzv
 桡	rzvvau
-三	s
 随	sb
 隋	sba
 绥	sbaa
@@ -12474,7 +12470,6 @@ sort: original
 梢	szvi
 梢	szviou
 埽	szvoav
-他	t
 推	tb
 退	tba
 退	tbavoa
@@ -13208,7 +13203,6 @@ sort: original
 韬	tzvvuo
 梼	tzvvv
 梼	tzvvvu
-我	w
 吹	wb
 陲	wba
 陲	wbaiuv
@@ -14098,7 +14092,6 @@ sort: original
 耖	wzv
 超	wzvoau
 耖	wzvviu
-而	x
 新	xb
 信	xbi
 薪	xbii
@@ -15451,7 +15444,6 @@ sort: original
 聱	xzvvvi
 獒	xzvvvu
 璈	xzvvvv
-一	y
 因	yb
 引	yba
 骃	ybaa
@@ -16060,7 +16052,10 @@ sort: original
 佚	ykiuvv
 倚	ykiv
 倚	ykivuo
+# 首选
 亦	yko
+# 次选
+疫	yko
 议	ykoa
 译	ykoaa
 诒	ykoaao
@@ -16117,6 +16112,7 @@ sort: original
 意	ykovoa
 癔	ykovov
 毅	ykovu
+豙	ykovua
 疫	ykovua
 毅	ykovua
 衣	ykovua
@@ -16836,7 +16832,6 @@ sort: original
 珧	yzvv
 珧	yzvvuo
 瑶	yzvvuo
-在	z
 最	zb
 罪	zbi
 罪	zbiaiv
