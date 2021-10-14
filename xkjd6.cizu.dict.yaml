@@ -4517,8 +4517,8 @@ sort: original
 脆薄	cbbz
 从不曾	cbc
 催催	cbcb
-璀璨	cbcf
-摧残	cbcfi
+摧残	cbcf
+璀璨	cbcfv
 摧挫	cbcl
 摧藏	cbcp
 翠丛	cbcy
@@ -6021,18 +6021,17 @@ sort: original
 措词	clcki
 错词	clckio
 搓搓	clcl
+猜来猜去	clcq
 错层	clcr
 催泪弹	cld
 错调	cldc
 蹉跌	cldd
 错的	clde
 错得	cldei
-从来都是	cldeiv
 错顶	cldg
 错待	cldh
 错读	cldj
-从来都没	cldm
-灿烂夺目	cldmo
+灿烂夺目	cldm
 措大	clds
 搓动	cldy
 从来都没有	cldyi
@@ -15316,9 +15315,7 @@ sort: original
 手尾	edwwi
 守卫	edwwo
 首尾	edwwoa
-首创	edwx
-手创	edwxi
-受创	edwxu
+深得我心	edwx
 受宠	edwy
 手冲	edwyi
 首冲	edwyo
@@ -18462,7 +18459,6 @@ sort: original
 什么叫	emj
 双面胶	emja
 双紧	emjb
-双脚	emjc
 什么程度	emjd
 双解	emjda
 双节	emjdai
@@ -38139,7 +38135,7 @@ sort: original
 呼错	hjcl
 扈从	hjcy
 何出此言	hjcyi
-很简单	hjd
+会记得	hjd
 互怼	hjdb
 蝴蝶	hjdd
 虎斗	hjddi
@@ -38156,6 +38152,7 @@ sort: original
 回肠荡气	hjdq
 湖大	hjds
 护短	hjdt
+很简单	hjdu
 护盾	hjdw
 互动	hjdy
 互道	hjdz
@@ -45981,9 +45978,9 @@ sort: original
 楚风	jjfr
 经济繁荣	jjfra
 瘠己肥人	jjfro
+出发	jjfs
 触发	jjfs
-出发	jjfsa
-除法	jjfsaa
+除法	jjfsa
 处罚	jjfsu
 紧急状态	jjft
 进程中	jjfv
@@ -50880,6 +50877,7 @@ sort: original
 春上	jwepvi
 借物抒情	jweq
 纯生	jwer
+成往事	jwev
 纯双	jwex
 俊爽	jwexi
 交往中	jwf
@@ -55995,6 +55993,7 @@ sort: original
 林控	lbky
 临考	lbkz
 来不来	lbl
+冷暴力	lbl
 粼粼	lblb
 淋淋	lblba
 凛凛	lblbo
@@ -56008,7 +56007,6 @@ sort: original
 淋滤	lbll
 老爸老妈	lblm
 礼拜六	lblo
-冷暴力	lbloo
 琳琅	lblp
 乱蹦乱跳	lblt
 老八路	lblu
@@ -59145,10 +59143,11 @@ sort: original
 联唱	lmjp
 练就	lmjq
 练成	lmjr
+连成	lmjr'
 炼成	lmjro
-连成	lmjrv
-连城	lmjrvv
+连城	lmjrv
 廉价	lmjs
+恋家	lmjso
 脸颊	lmjsu
 连卷	lmjt
 联军	lmjw
@@ -68829,10 +68828,12 @@ sort: original
 拿刀	nsdzi
 哪是	nse
 纳税	nseb
+那水	nseba
 拿手	nsed
 那首	nseda
 哪首	nsedo
 那扇	nsef
+那山	nsefa
 那束	nsej
 那时	nsek
 那事	nseka
@@ -68858,6 +68859,7 @@ sort: original
 哪份	nsfno
 哪方	nsfp
 那封	nsfr
+那风	nsfra
 哪种	nsfy
 那狗	nsgd
 哪敢	nsgf
@@ -68948,7 +68950,6 @@ sort: original
 那片	nspm
 那篇	nspma
 哪篇	nspmo
-哪怕	nsps
 拿乔	nsqc
 纳妾	nsqd
 拿着	nsqe
@@ -81209,7 +81210,8 @@ sort: original
 入境	rjjg
 如镜	rjjga
 如初	rjjj
-乳剂	rjjk
+入籍	rjjk
+乳剂	rjjku
 入局	rjjl
 如尘	rjjn
 入场	rjjp
@@ -82233,6 +82235,7 @@ sort: original
 仍由	rrydi
 人人影视	rrye
 如人饮水	rryea
+如人饮水，冷暖自知	rryf
 仍应	rryg
 荣辱与共	rrygi
 仍以	rryk
@@ -92604,6 +92607,7 @@ sort: original
 万壑千岩	whqy
 外罩	whqz
 文化人	whr
+完好如初	whrj
 外人	whrn
 文化入侵	whrq
 五花肉	whrv
@@ -96149,7 +96153,6 @@ sort: original
 微蓝	wwlfui
 违令	wwlg
 为零	wwlgo
-未来	wwlh
 围炉	wwlj
 为例	wwlk
 胃里	wwlki
@@ -96604,7 +96607,6 @@ sort: original
 闯关	wxgt
 万象更新	wxgx
 窗高	wxgz
-我喜欢	wxh
 创汇	wxhb
 窗户	wxhj
 闯祸	wxhl
@@ -108647,7 +108649,6 @@ sort: original
 一个个	ygg
 有关规定	yggd
 应感	yggf
-应该	yggh
 圆滚滚	yggi
 硬骨	yggj
 一个国家	yggjv
@@ -109149,7 +109150,8 @@ sort: original
 越紧	yhjbv
 月结	yhjd
 越界	yhjdv
-沿海城市	yhje
+有话就说	yhje
+沿海城市	yhjea
 月产	yhjf
 阅后即焚	yhjfo
 月经	yhjg
@@ -109591,7 +109593,6 @@ sort: original
 云卷云舒	yjye
 以简驭繁	yjyf
 一惊一乍	yjyfv
-有车有房	yjyfvv
 言简意赅	yjyg
 一件一件	yjyj
 眼睛一亮	yjyl
@@ -113169,6 +113170,7 @@ sort: original
 运营	ywyg
 孕婴	ywyga
 云影	ywygv
+又臭又长	ywyj
 云翳	ywyk
 孕育	ywyl
 云雨	ywylv
@@ -114522,9 +114524,9 @@ sort: original
 自卑感	zbgu
 最广	zbgx
 最高	zbgz
+最不好	zbh
 最会	zbhb
 最后	zbhd
-最不好的	zbhdo
 最合	zbhe
 醉汉	zbhf
 最坏	zbhg
@@ -115254,7 +115256,6 @@ sort: original
 自治县	zfxu
 最重要	zfy
 暂由	zfyd
-最重要的	zfydo
 咱也	zfye
 最重要的事	zfyeo
 在这一点上	zfyev
@@ -115276,9 +115277,8 @@ sort: original
 簪子	zfzku
 暂作	zfzl
 租房子	zfzu
-字根表	zgb
-最根本的	zgbd
-最根本	zgbo
+最根本	zgb
+字根表	zgbo
 怎敢不低头	zgbt
 自顾不暇	zgbx
 最高层	zgc
@@ -115300,9 +115300,7 @@ sort: original
 总感觉	zgj
 坐公交	zgj
 子宫颈	zgja
-最关键的	zgjd
 总工程师	zgje
-最关键的是	zgjeo
 最高境界	zgjj
 子宫肌瘤	zgjl
 最高纪录	zgjlo
@@ -115595,6 +115593,7 @@ sort: original
 载着	zhqeu
 再战	zhqf
 灾情	zhqg
+再青	zhqgv
 在驻	zhqj
 仔猪	zhqji
 自毁前程	zhqju
@@ -115681,6 +115680,7 @@ sort: original
 再现	zhxm
 再险	zhxmv
 在先	zhxmvu
+再秀	zhxq
 在下	zhxs
 栽下	zhxsu
 在啊	zhxsv
@@ -115734,7 +115734,6 @@ sort: original
 再造	zhzz
 最基本	zjb
 组别	zjbd
-最基本的	zjbdo
 组成部分	zjbf
 组办	zjbfa
 足部	zjbj
@@ -115747,9 +115746,9 @@ sort: original
 组词	zjck
 租仓	zjcp
 总觉得	zjd
+最简单	zjd
 组队	zjdb
 组雕	zjdc
-最简单的	zjdd
 俎豆	zjddi
 族的	zjde
 自己动手	zjdeu
@@ -115762,8 +115761,7 @@ sort: original
 租地	zjdk
 足底	zjdko
 租佃	zjdm
-最简单	zjdo
-尊敬的	zjdoi
+尊敬的	zjdo
 阻挡	zjdp
 阻断	zjdt
 走极端	zjdv
@@ -116081,9 +116079,10 @@ sort: original
 姊夫	zkfja
 自负	zkfju
 自付	zkfjui
-资质	zkfk
-自制	zkfku
-自治	zkfkua
+自知	zkfk
+自制	zkfk
+资质	zkfko
+自治	zkfku
 自酌	zkfl
 自焚	zkfn
 资方	zkfp
@@ -116684,7 +116683,6 @@ sort: original
 左图	zltjv
 做题	zltk
 做妥	zltl
-昨天	zltm
 坐堂	zltp
 做通	zlty
 作痛	zltyi
@@ -116806,8 +116804,8 @@ sort: original
 怎么着	zmq
 自贸区	zmqu
 奏鸣曲	zmqv
-在默认	zmr
-最磨人的	zmrd
+最磨人	zmr
+在默认	zmrv
 怎么忍心	zmrx
 怎么算	zms
 自媒体	zmt
@@ -116972,7 +116970,6 @@ sort: original
 在这里	zqlvo
 增长率	zqlvu
 最起码	zqm
-最起码的	zqmd
 自取灭亡	zqmw
 自去年	zqn
 走着瞧	zqq
@@ -116992,7 +116989,6 @@ sort: original
 卒章显志	zqxf
 自主性	zqxu
 最主要	zqy
-最主要的	zqyd
 在这一点上	zqye
 自主研发	zqyf
 在这样的情况下	zqyx
@@ -117362,8 +117358,9 @@ sort: original
 钻尖	ztjm
 钻成	ztjr
 钻架	ztjs
-总体看	ztk
+最痛苦	ztk
 在他看来	ztkl
+总体看	ztko
 自讨苦吃	ztkw
 钻孔	ztky
 增添了	ztl
@@ -117491,7 +117488,7 @@ sort: original
 贼啦	zwls
 贼亮	zwlx
 尊老	zwlz
-最完美的	zwmd
+最完美	zwm
 贼慢	zwmf
 祖传秘方	zwmfo
 遵命	zwmg
@@ -117612,8 +117609,8 @@ sort: original
 做学问	zxwi
 子虚乌有	zxwy
 自信心	zxx
-最心爱的	zxxd
 自下而上	zxxe
+最心爱	zxxo
 脏兮兮	zxxu
 醉醺醺	zxxv
 仔细想想	zxxx
