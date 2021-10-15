@@ -4324,8 +4324,6 @@ sort: original
 包赔	bzpw
 班组长	bzq
 薄亲	bzqb
-抱着	bzqe
-包着	bzqeu
 报站	bzqf
 报请	bzqg
 堡寨	bzqh
@@ -6417,6 +6415,7 @@ sort: original
 蹭蹬	crdr
 曾达	crds
 脆弱的	crdu
+残忍的	crdv
 曾到	crdz
 蹭到	crdzo
 此人是	cre
@@ -11049,8 +11048,8 @@ sort: original
 躲雨	dlyluv
 大老爷们	dlym
 多样	dlyp
-多元	dlyt
-多远	dlytu
+多远	dlyt
+多元	dlytu
 德鲁伊	dlyu
 大老远	dlyv
 多云	dlyw
@@ -16163,7 +16162,6 @@ sort: original
 始终有	efy
 山阴	efyb
 山友	efyd
-是这样的	efydo
 山野	efye
 少之又少	efyei
 擅演	efyf
@@ -18433,9 +18431,10 @@ sort: original
 双管	emgta
 什么关系	emgx
 双工	emgy
-书名号	emh
-水墨画	emha
-沙漠化	emhaa
+什么话	emh
+沙漠化	emh
+书名号	emha
+水墨画	emhai
 双汇	emhb
 山盟海誓	emhe
 双核	emhea
@@ -19687,7 +19686,6 @@ sort: original
 耍熊	eqxy
 水煮鱼	eqy
 耍阴	eqyb
-是这样的	eqyd
 首屈一指	eqyf
 刷牙	eqys
 身轻言微	eqyw
@@ -24666,7 +24664,7 @@ sort: original
 滞空	fkkya
 制控	fkkyu
 只靠	fkkz
-分开来	fkl
+分开了	fkl
 治疗	fklc
 知了	fklcu
 质料	fklcuo
@@ -24695,6 +24693,7 @@ sort: original
 之恋	fklmo
 直链	fklmu
 智联	fklmuv
+分开来	fklo
 滞留	fklq
 之流	fklqo
 只留	fklqou
@@ -32445,7 +32444,7 @@ sort: original
 过重	glfy
 国中	glfyi
 过招	glfz
-龟苓膏	glg
+搞了个	glg
 锅垢	glgd
 国歌	glge
 灌篮高手	glgea
@@ -32457,6 +32456,7 @@ sort: original
 改来改去	glgq
 搞来搞去	glgqi
 过关	glgt
+龟苓膏	glgu
 格力高	glgv
 过给	glgw
 孤陋寡闻	glgwa
@@ -35335,8 +35335,7 @@ sort: original
 赶鸭子上架	gyzjv
 工资	gyzk
 公子	gyzku
-工作	gyzl
-顾影自怜	gyzlv
+顾影自怜	gyzl
 公杂	gyzs
 公贼	gyzw
 共总	gyzy
@@ -36021,8 +36020,7 @@ sort: original
 回程	hbjr
 汇成	hbjra
 回城	hbjri
-回家	hbjs
-汇价	hbjsa
+汇价	hbjs
 回卷	hbjt
 绘卷	hbjta
 后半句	hbju
@@ -38122,6 +38120,7 @@ sort: original
 扈从	hjcy
 何出此言	hjcyi
 会记得	hjd
+很简单	hjd
 互怼	hjdb
 蝴蝶	hjdd
 虎斗	hjddi
@@ -38138,7 +38137,7 @@ sort: original
 回肠荡气	hjdq
 湖大	hjds
 护短	hjdt
-很简单	hjdu
+很久的	hjdu
 护盾	hjdw
 互动	hjdy
 互道	hjdz
@@ -39202,7 +39201,6 @@ sort: original
 黄巢	hmwzv
 黄梅戏	hmx
 荒信	hmxb
-很明显的	hmxd
 磺胺	hmxf
 黄兴	hmxg
 黄埃	hmxh
@@ -42816,12 +42814,11 @@ sort: original
 金湾	jbwfi
 近万	jbwfu
 久别重逢	jbwfuo
-985工程	jbwj
+进屋	jbwj
+据不完全统计	jbwji
 金屋	jbwji
 金乌	jbwjiu
-据不完全统计	jbwjiv
 举步维艰	jbwjo
-进屋	jbwjv
 矜持	jbwk
 紧握	jbwl
 尽我	jbwla
@@ -43815,7 +43812,8 @@ sort: original
 戒律	jdll
 节律	jdlli
 接连	jdlm
-决定论	jdlo
+决定了	jdlo
+决定论	jdloo
 节流	jdlq
 截留	jdlqu
 截流	jdlqua
@@ -46047,11 +46045,12 @@ sort: original
 出厂价	jjj
 经济界	jjja
 出尽	jjjb
+除尽	jjjba
 触角	jjjc
-出借	jjjd
-出界	jjjda
+出界	jjjd
+初级阶段	jjjd
+出借	jjjda
 初阶	jjjdo
-初级阶段	jjjdoa
 出车	jjje
 经济建设	jjjea
 基础建设	jjjev
@@ -49187,7 +49186,6 @@ sort: original
 就对	jqdb
 九队	jqdbu
 夹枪带棒	jqdbv
-就都	jqdd
 竞争对手	jqde
 酒的	jqdea
 旧的	jqdei
@@ -54543,6 +54541,7 @@ sort: original
 康柏	kpbh
 糠秕	kpbk
 抗辩	kpbm
+看破不说破	kpbp
 抗暴	kpbz
 抗侧	kpce
 抗词	kpck
@@ -57304,8 +57303,6 @@ sort: original
 龙岗区	lgqv
 乐观主义	lgqy
 另找	lgqz
-两个人	lgr
-两个人的	lgrd
 泠然	lgrf
 凌辱	lgrj
 另日	lgrk
@@ -60998,10 +60995,8 @@ sort: original
 靓照	lxfz
 螺线管	lxg
 两规	lxgb
-两个	lxge
-亮哥	lxgeo
-亮铬	lxgeoi
-两格	lxgev
+两格	lxge
+亮铬	lxgeo
 晾干	lxgf
 狼心狗肺	lxgfu
 粮改	lxgh
@@ -61128,9 +61123,9 @@ sort: original
 两类	lxlw
 两轮	lxlwv
 两肋	lxlwvu
-凉凉	lxlx
+两辆	lxlx
+凉凉	lxlxo
 两两	lxlxv
-两辆	lxlxvv
 两龙	lxly
 梁老	lxlz
 老乡们	lxm
@@ -73799,7 +73794,6 @@ sort: original
 折损	qesw
 趋势图	qet
 潜水艇	qeta
-这条	qetc
 这头	qetd
 这台	qeth
 这天	qetm
@@ -81435,7 +81429,6 @@ sort: original
 日给	rkgw
 日光	rkgx
 日工	rkgy
-日后	rkhd
 日韩	rkhf
 日货	rkhl
 日航	rkhp
@@ -82407,6 +82400,7 @@ sort: original
 人性本恶	rxbxi
 人行道	rxd
 热线电话	rxdh
+热爱的	rxdi
 日心说	rxe
 任贤使能	rxen
 瑞雪兆丰年	rxfn
@@ -85993,7 +85987,8 @@ sort: original
 推走	tbzdi
 退租	tbzj
 同比增加	tbzji
-退字	tbzk
+推子	tbzk
+退字	tbzka
 天不作美	tbzm
 退赃	tbzp
 同比增长	tbzq
@@ -91114,7 +91109,6 @@ sort: original
 垂幔	wbmf
 垂暮	wbmj
 为避免	wbmo
-我不能	wbn
 垂念	wbnm
 吹牛	wbnq
 吃不胖	wbp
@@ -91869,8 +91863,7 @@ sort: original
 万世	wfekvv
 晚霜	wfem
 弯身	wfen
-晚上	wfep
-玩赏	wfepv
+玩赏	wfep
 玩耍	wfeq
 无招胜有招	wfeqv
 完胜	wfer
@@ -105255,8 +105248,8 @@ sort: original
 安享晚年	xxwno
 性行为	xxwo
 向往	xxwp
+相忘	xxwp
 相望	xxwpv
-相忘	xxwpvo
 想望	xxwpvo
 相差	xxws
 想岔	xxwsv
@@ -106503,7 +106496,6 @@ sort: original
 药材店	ycd
 阴曹地府	ycdf
 以词定字	ycdz
-因此是	yce
 因材施教	ycej
 隐藏着	ycf
 异彩纷呈	ycfj
@@ -115941,9 +115933,8 @@ sort: original
 租约	zjyh
 足月	zjyho
 早就已经	zjyj
-足以	zjyk
+族裔	zjyk
 足矣	zjyko
-族裔	zjykoo
 足浴	zjyl
 自成一派	zjyp
 组员	zjyt
@@ -116456,16 +116447,14 @@ sort: original
 自来水	zleu
 走路时	zlev
 租赁费	zlf
-作者	zlfe
-坐着	zlfei
-做着	zlfeio
-做饭	zlff
+坐着	zlfe
+做着	zlfe
+作者	zlfei
 作宅	zlfh
 作赋	zlfj
 佐夫	zlfji
 坐支	zlfk
 坐直	zlfki
-坐着	zlfl
 坐庄	zlfm
 作坊	zlfp
 左方	zlfpv
@@ -116602,9 +116591,6 @@ sort: original
 资料篇	zlpo
 作陪	zlpw
 做亲	zlqb
-作者	zlqe
-做着	zlqei
-坐着	zlqeio
 作战	zlqf
 左倾	zlqg
 作宅	zlqh
@@ -117933,7 +117919,6 @@ sort: original
 早说	zzel
 早霜	zzem
 造神	zzen
-早上	zzep
 噪声	zzer
 早生	zzero
 遭顺	zzew
