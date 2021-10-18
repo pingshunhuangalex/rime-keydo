@@ -23885,7 +23885,6 @@ sort: original
 服满	fjmf
 复明	fjmg
 复命	fjmgu
-父母	fjmj
 浮靡	fjmk
 抚摸	fjml
 抚摩	fjmli
@@ -28077,8 +28076,7 @@ sort: original
 飞键	fwjma
 飞剑	fwjmai
 飞尘	fwjn
-非常	fwjp
-肥肠	fwjpu
+肥肠	fwjp
 废旧	fwjq
 费城	fwjr
 飞架	fwjs
@@ -28797,8 +28795,8 @@ sort: original
 这样说	fye
 吱一声	fyeo
 重伤	fyep
-中上	fyep
-中伤	fyepi
+中伤	fyep
+中上	fyepi
 智勇双全	fyeq
 终生	fyer
 众生	fyeri
@@ -30948,6 +30946,7 @@ sort: original
 股份制	gff
 赶锥	gffb
 赣州	gffd
+干着	gffe
 赶着	gffe
 甘蔗	gffev
 干饭	gfff
@@ -34255,8 +34254,7 @@ sort: original
 管我	gtwl
 关窗	gtwm
 官文	gtwn
-官网	gtwp
-观望	gtwpa
+观望	gtwp
 官网	gtwpo
 管网	gtwpu
 观察	gtws
@@ -36065,10 +36063,10 @@ sort: original
 会聊	hblci
 会猎	hbld
 毁喽	hbldu
+会了	hble
 回了	hble
 汇了	hblea
-会了	hblei
-挥了	hbleia
+挥了	hblei
 悔了	hbleo
 毁了	hbleu
 灰了	hblev
@@ -36170,8 +36168,7 @@ sort: original
 很抱歉	hbqui
 回抢	hbqx
 毫不起眼	hbqy
-会找	hbqz
-怀璧其罪	hbqzo
+怀璧其罪	hbqz
 还不如	hbr
 会揉	hbrd
 回热	hbre
@@ -38829,7 +38826,6 @@ sort: original
 虎落平阳	hlpy
 火炮	hlpz
 呼啦圈	hlq
-活着	hlqe
 货栈	hlqf
 或轻	hlqg
 火情	hlqgo
@@ -51744,6 +51740,7 @@ sort: original
 教育部长	jybq
 教育部	jybu
 九一八	jybuv
+成与败	jybv
 出言不逊	jybx
 近义词	jyc
 金银财宝	jycb
@@ -53161,6 +53158,7 @@ sort: original
 看此	kfck
 看错	kfcl
 咖啡店	kfd
+口中的	kfd
 看对	kfdb
 砍掉	kfdc
 看跌	kfdd
@@ -54224,11 +54222,12 @@ sort: original
 苦乐不均	klbji
 扩编	klbm
 括糙	klcz
-开绿灯	kld
+考虑到	kld
+可聊的	kld
 括毒	kldj
 扩大	klds
 克林顿	kldu
-考虑到	kldui
+开绿灯	kldv
 克罗地亚	kldy
 快乐大本营	kldyo
 扩到	kldz
@@ -54757,6 +54756,7 @@ sort: original
 夸你	kqnk
 跨年	kqnm
 空气炮	kqp
+跨频	kqpb
 跨排	kqph
 挎着	kqqe
 跨期	kqqk
@@ -56882,7 +56882,8 @@ sort: original
 兰登	lfdr
 兰大	lfds
 蓝盾	lfdw
-蓝岛	lfdz
+懒到	lfdz
+蓝岛	lfdzi
 类风湿	lfe
 揽收	lfed
 滥收	lfeda
@@ -75361,6 +75362,7 @@ sort: original
 浅尝辄止	qjffa
 主犯	qjffo
 千钧重负	qjffu
+去翻	qjffv
 齐家治国	qjfg
 住宅	qjfh
 秦晋之好	qjfhv
@@ -91850,6 +91852,7 @@ sort: original
 弯刀	wfdzoa
 弯道	wfdzoo
 无非是	wfe
+未知数	wfe
 温州市	wfea
 晚睡	wfeb
 玩水	wfebv
@@ -91872,9 +91875,7 @@ sort: original
 完胜	wfer
 万升	wferv
 玩啥	wfes
-我只是	wfeu
 五指山	wfev
-未知数	wfevu
 婉顺	wfew
 晚霜	wfex
 无中生有	wfey
@@ -93966,8 +93967,7 @@ sort: original
 啜泣	wlqk
 握起	wlqki
 窝气	wlqko
-我去	wlql
-我区	wlqlu
+我区	wlql
 我真	wlqn
 无理取闹	wlqnv
 我正	wlqr
@@ -114358,10 +114358,10 @@ sort: original
 邀约	yzyhu
 一字一句	yzyj
 要以	yzyk
+摇椅	yzyk
 幺姨	yzyka
 妖异	yzykaa
-摇椅	yzyki
-摇尾	yzykia
+摇尾	yzyki
 徭役	yzyku
 要义	yzykv
 越走越宽	yzykvv
@@ -114855,8 +114855,6 @@ sort: original
 赚大钱	zdqa
 走禽	zdqb
 走俏	zdqc
-走着	zdqe
-奏折	zdqev
 奏请	zdqg
 坐地起价	zdqj
 走起	zdqk
