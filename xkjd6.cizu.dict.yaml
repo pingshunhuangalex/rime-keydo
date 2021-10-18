@@ -81,8 +81,8 @@ sort: original
 不敌	bjdk
 不低	bjdkv
 不多	bjdl
-不就得了	bjdlv
-不久的将来	bjdlvu
+不久的将来	bjdl
+不躲	bjdlv
 补点	bjdm
 不减当年	bjdn
 不当	bjdp
@@ -122,7 +122,8 @@ sort: original
 不舍	bjeev
 布设	bjeevo
 不善	bjef
-不擅	bjefv
+不擅	bjef
+不闪	bjefv
 不帅	bjeg
 不晒	bjeh
 北京市	bjei
@@ -620,7 +621,8 @@ sort: original
 不图	bjtj
 不提	bjtk
 不妥	bjtl
-补天	bjtm
+不甜	bjtm
+补天	bjtmo
 部堂	bjtp
 不疼	bjtr
 不见天日	bjtrv
@@ -2187,7 +2189,6 @@ sort: original
 不怒反笑	bnfxv
 笨重	bnfy
 笨着	bnfz
-不能够	bng
 百年孤独	bngd
 本格	bnge
 本该	bngh
@@ -2774,6 +2775,7 @@ sort: original
 不容许	brxvo
 甭想	brxx
 不容易	bry
+不如有	bry
 甭又	bryd
 泵业	brye
 不容有失	bryev
@@ -3526,8 +3528,8 @@ sort: original
 博闻强记	bwqju
 不完全统计	bwqjv
 背起	bwqk
-背弃	bwqki
-悲戚	bwqkiv
+背弃	bwqk
+悲戚	bwqki
 备齐	bwqku
 北区	bwql
 背屈	bwqli
@@ -7355,6 +7357,7 @@ sort: original
 对空	dbky
 对拷	dbkz
 大不了	dbl
+等比例	dbl
 队列	dbld
 大不列颠	dbldv
 大不了的	dbldvv
@@ -7367,10 +7370,9 @@ sort: original
 对联	dblm
 对流	dblq
 对啦	dbls
-等比例	dblu
+躲不了	dblu
 冬不拉	dbluv
 达标率	dblv
-碉堡了	dblvi
 对垒	dblw
 大步流星	dblx
 道不明	dbm
@@ -8087,6 +8089,7 @@ sort: original
 都拉	ddls
 道德沦丧	ddlso
 都乱	ddlt
+躲得了	ddlu
 大道理	ddlv
 都累	ddlw
 蝶类	ddlwi
@@ -8314,8 +8317,7 @@ sort: original
 督导组	ddz
 斗嘴	ddzb
 都走	ddzd
-都在	ddzh
-跌在	ddzho
+跌在	ddzh
 都租	ddzj
 电动自行车	ddzji
 跌足	ddzjo
@@ -8431,6 +8433,7 @@ sort: original
 电视剧	dej
 大数据	dej
 得劲	dejb
+的街	dejd
 的结	dejd
 的姐	dejdu
 的井	dejg
@@ -9835,8 +9838,8 @@ sort: original
 独得	djdeu
 到处都是	djdev
 独担	djdf
-笃定	djdg
-对酒当歌	djdga
+对酒当歌	djdg
+笃定	djdgu
 肚带	djdh
 当今的	djdi
 当家的	djdio
@@ -29873,6 +29876,7 @@ sort: original
 鬼话	gbhqu
 桂花	gbhqv
 归还	gbht
+告别后	gbhu
 鬼魂	gbhw
 鬼混	gbhwu
 归鸿	gbhy
@@ -35902,6 +35906,7 @@ sort: original
 灰质	hbfkv
 毫不费力	hbfl
 黑白分明	hbfm
+会装	hbfmi
 灰分	hbfn
 回放	hbfp
 回房	hbfpi
@@ -36749,7 +36754,8 @@ sort: original
 和村	hecw
 何从	hecy
 河槽	hecz
-华盛顿	hed
+会说的	hed
+黑手党	hed
 核对	hedb
 华盛顿邮报	hedbi
 喝掉	hedc
@@ -36759,7 +36765,7 @@ sort: original
 核定	hedg
 盒带	hedh
 华氏度	hedi
-黑手党	hedii
+华盛顿	hediv
 何独	hedj
 何地	hedk
 河底	hedk
@@ -37223,6 +37229,7 @@ sort: original
 菡萏	hfdfi
 寒带	hfdh
 汉代	hfdha
+会装的	hfdi
 旱地	hfdk
 汉典	hfdm
 韩等	hfdr
@@ -41869,7 +41876,8 @@ sort: original
 号舱	hzcp
 郝村	hzcw
 蒿草	hzcz
-活字典	hzd
+会做的	hzd
+活字典	hzda
 好刁	hzdc
 好斗	hzdd
 好逗	hzdda
@@ -42253,6 +42261,7 @@ sort: original
 耗用	hzyyv
 好咬	hzyz
 合作组	hzz
+好嘴	hzzb
 好走	hzzd
 豪族	hzzj
 耗资	hzzk
@@ -42347,11 +42356,12 @@ sort: original
 金盾	jbdw
 基本单位	jbdwv
 今冬	jbdy
-尽到	jbdz
 近到	jbdz
-劲道	jbdza
+近道	jbdz
+尽到	jbdza
+劲道	jbdzao
 金刀	jbdzi
-近道	jbdzu
+筋道	jbdzu
 进到	jbdzv
 基本上	jbe
 出版社	jbea
@@ -56445,8 +56455,8 @@ sort: original
 咧咧	ldldo
 猎猎	ldldu
 烈烈	ldldv
-裂了	ldle
-漏了	ldlea
+漏了	ldle
+裂了	ldlev
 楼兰	ldlf
 楼龄	ldlg
 劳动力	ldli
@@ -57885,7 +57895,8 @@ sort: original
 路况	ljkx
 陆空	ljky
 路考	ljkz
-了解了	ljl
+拉出来	ljl
+拎出来	ljl
 绿林	ljlb
 炉料	ljlc
 录了	ljle
@@ -57894,7 +57905,6 @@ sort: original
 掳掠	ljlh
 禄来	ljlho
 蓝精灵	ljli
-拎出来	ljlia
 露露	ljlj
 陆路	ljlja
 撸撸	ljlji
@@ -67818,9 +67828,10 @@ sort: original
 你强	nkqx
 泥沼	nkqz
 泥日	nkrk
-拟任	nkrn
+你若	nkrl
+拟人	nkrn
 泥人	nkrna
-拟人	nkrni
+拟任	nkrni
 你让	nkrp
 囊空如洗	nkrx
 尼克松	nks
@@ -68230,9 +68241,8 @@ sort: original
 你们家	nmji
 年初	nmjj
 念出	nmjji
-年纪	nmjk
+年级	nmjk
 念及	nmjki
-年级	nmjku
 粘聚	nmjl
 年间	nmjm
 年检	nmjmu
@@ -74271,7 +74281,8 @@ sort: original
 战讯	qfxw
 站相	qfxx
 这种现象	qfxxo
-其中有	qfy
+求知欲	qfy
+正中央	qfy
 占有	qfyd
 群众运动	qfyda
 占优	qfydi
@@ -74287,6 +74298,7 @@ sort: original
 展映	qfyg
 切中要害	qfyh
 睁着眼睛说瞎话	qfyhi
+睁着眼	qfyi
 睁着眼睛	qfyj
 战役	qfyk
 展翼	qfyka
@@ -74295,9 +74307,7 @@ sort: original
 瞻仰	qfyp
 占压	qfys
 掐指一算	qfysi
-求知欲	qfyv
-正中央	qfyvi
-取之于	qfyvo
+取之于	qfyv
 战云	qfyw
 占用	qfyy
 睁只眼闭只眼	qfyyi
@@ -75958,10 +75968,9 @@ sort: original
 起飞	qkfw
 岂非	qkfwi
 气壮	qkfx
-其中	qkfy
+期中	qkfy
 器重	qkfyo
 起重	qkfyv
-期中	qkfyvi
 奇招	qkfz
 主客观	qkg
 气柜	qkgb
@@ -78617,8 +78626,6 @@ sort: original
 强忍着	qrq
 正巧	qrqc
 正切	qrqd
-争着	qrqe
-睁着	qrqei
 真人真事	qrqeu
 征战	qrqf
 恰如其分	qrqfo
@@ -79565,8 +79572,6 @@ sort: original
 墙砖	qxft
 真爱粉	qxfu
 娶媳妇	qxfv
-强壮	qxfx
-强装	qxfxa
 强中	qxfy
 这些个	qxg
 抢购	qxgd
@@ -79733,8 +79738,7 @@ sort: original
 求贤若渴	qxrk
 强弱	qxrl
 强人	qxrn
-强忍	qxrna
-强韧	qxrnav
+强韧	qxrna
 抢人	qxrni
 这些日子	qxrz
 前些日子	qxrzo
@@ -80343,8 +80347,6 @@ sort: original
 著作人	qzr
 招惹	qzre
 昭然	qzrf
-找人	qzrn
-招人	qzrni
 穷则思变	qzsb
 昭苏	qzsj
 找死	qzsk
@@ -80951,7 +80953,6 @@ sort: original
 染丝	rfsk
 燃物	rfwj
 冉魏	rfww
-然而	rfxj
 任重而道远	rfxy
 热衷于	rfy
 燃油	rfyd
@@ -87472,7 +87473,8 @@ sort: original
 托管人	tgr
 挺热	tgre
 挺然	tgrf
-听任	tgrn
+听人	tgrn
+听任	tgrno
 他告诉	tgs
 她告诉	tgsa
 挺碎	tgsb
@@ -89543,9 +89545,12 @@ sort: original
 腾地	trdk
 腾达	trds
 天然呆	trdv
+听人说	tre
 腾闪	tref
+听人说过	treg
 投入生产	trej
 腾身	tren
+听人说起	treq
 腾升	trer
 投入使用	trey
 同人志	trf
@@ -91209,8 +91214,7 @@ sort: original
 稳操胜券	wceq
 川菜馆	wcg
 午餐会	wch
-我曾经	wcj
-万策尽	wcjv
+万策尽	wcj
 重操旧业	wcjy
 我错了	wcl
 我才能	wcn
@@ -91498,9 +91502,8 @@ sort: original
 无地自容	wdzr
 微电子	wdzu
 臭贼	wdzw
-超声波	web
-潮水般	weba
-卫生部	webau
+为啥不	web
+卫生部	weba
 五十步笑百步	webb
 车标	webc
 为数不多	webd
@@ -97956,7 +97959,8 @@ sort: original
 心外	xbwh
 小霸王	xbwi
 信物	xbwj
-心窝	xbwl
+信我	xbwl
+心窝	xbwlo
 下不为例	xbwlv
 新创	xbwm
 新闻	xbwn
@@ -101991,8 +101995,8 @@ sort: original
 希尔	xkxj
 西二	xkxjv
 洗洗	xkxk
-细细	xkxka
-嬉戏	xkxkaa
+细细	xkxk
+嬉戏	xkxka
 嘻嘻	xkxko
 恓恓	xkxkoo
 兮兮	xkxku
@@ -104580,8 +104584,7 @@ sort: original
 寻求	xwqq
 熏蒸	xwqr
 训犬	xwqt
-寻找	xwqz
-行为准则	xwqzu
+行为准则	xwqz
 行为人	xwr
 熏肉	xwrd
 熏染	xwrf
@@ -105733,7 +105736,6 @@ sort: original
 二字词	xzc
 敖仓	xzcp
 凹槽	xzcz
-现在的	xzd
 奥队	xzdb
 摁在地上摩擦	xzdc
 鏖斗	xzdd
@@ -108181,7 +108183,6 @@ sort: original
 延绵	yfmmu
 雁门	yfmn
 掩码	yfms
-有这么	yfmv
 烟煤	yfmw
 一直没有	yfmy
 颜貌	yfmz
@@ -109766,6 +109767,7 @@ sort: original
 一事	ykekv
 医师	ykekvi
 一室	ykekvo
+一试	ykekvo
 一十	ykekvu
 轶事	ykekvv
 一说	ykel
@@ -110071,8 +110073,8 @@ sort: original
 一开口	ykk
 一篑	ykkb
 一口	ykkd
-一刻	ykke
 一颗	ykke
+一刻	ykke
 已可	ykkea
 亦可	ykkeo
 一棵	ykkev
@@ -110301,13 +110303,13 @@ sort: original
 义诊	ykqno
 一针	ykqnv
 一振	ykqnvi
-一张	ykqp
+一章	ykqp
+倚仗	ykqp
 姨丈	ykqpa
 仪仗	ykqpi
 依仗	ykqpii
 议长	ykqpo
-一章	ykqpv
-一丈	ykqpvv
+一丈	ykqpv
 以求	ykqq
 议政	ykqr
 癔症	ykqro
@@ -111906,8 +111908,7 @@ sort: original
 有权利	yqlv
 有权力	yqlvv
 眼前利益	yqly
-有这么	yqm
-验证码	yqma
+验证码	yqm
 有这么大	yqmd
 元气满满	yqmm
 以权谋私	yqms
@@ -113997,8 +113998,8 @@ sort: original
 样子的	yzdv
 摇动	yzdy
 窑洞	yzdyo
-要道	yzdz
-要到	yzdzv
+要到	yzdz
+要道	yzdzv
 原则上	yze
 药水	yzeb
 舀水	yzebu
@@ -114635,6 +114636,7 @@ sort: original
 嘴损	zbsw
 嘴松	zbsy
 最骚	zbsz
+嘴不甜	zbt
 嘴头	zbtd
 凿壁偷光	zbtg
 醉态	zbth
