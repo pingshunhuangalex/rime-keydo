@@ -3,13 +3,14 @@ name: xkjd6.sphs_strokes
 version: "SPHS"
 sort: original
 ...
+水	a
 氵	a
 氺	a
-水	a
 ㇕	a
 乛	a
 乚	a
 𠃌	a
+水	aa
 巛	aaa
 毌	aaiv
 糸	aaoiuo
@@ -32,8 +33,8 @@ sort: original
 叚	avivva
 夬	avuo
 彐	avv
-亻	i
 人	i
+亻	i
 丨	i
 亅	i
 冂	ia
@@ -44,15 +45,16 @@ sort: original
 口	iav
 日	iavv
 曰	iavv
+人	ii
 艹	ii
 〢	ii
 刂	ii
-钅	io
 金	io
+钅	io
 ⺌	iou
 氺	iovuo
-扌	iu
 手	iu
+扌	iu
 龵	iu
 リ	iu
 佥	ivoou
@@ -67,6 +69,7 @@ sort: original
 冘	oaua
 日	oi
 曰	oi
+口	oo
 宀	ooa
 忄	ooi
 灬	oooo
@@ -99,6 +102,7 @@ sort: original
 爫	uoou
 𢦏	uovauo
 耂	uovu
+月	uu
 彡	uuu
 𠂉	uv
 牜	uviv
@@ -126,5 +130,6 @@ sort: original
 𠂇	vu
 丆	vu
 廾	vui
+木	vv
 龶	vviv
 𡗗	vvvuo
