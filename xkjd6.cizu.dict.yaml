@@ -1476,13 +1476,13 @@ sort: original
 碧蓝航线	blhx
 波鸿	blhy
 拨号	blhz
-不了解	blj
+不理解	blj
+被理解	blj
 铂金	bljb
 跛脚	bljc
 波节	bljd
 兵来将挡	bljdu
 泊车	blje
-本来就是	bljev
 薄产	bljf
 百炼成钢	bljg
 伯爵	bljh
@@ -1498,8 +1498,7 @@ sort: original
 波长	bljp
 伯加	bljs
 八路军	blju
-不理解	bljv
-碧螺春	bljvi
+碧螺春	bljv
 播讲	bljx
 兵临城下	bljxu
 本来就有	bljy
@@ -10729,6 +10728,7 @@ sort: original
 多栋	dldy
 多到	dldz
 躲到	dldzu
+道路上	dle
 大理石	dle
 多睡	dleb
 舵手	dled
@@ -10748,7 +10748,6 @@ sort: original
 多说	dlel
 多了少了	dlelu
 多深	dlen
-道路上	dleo
 多上	dlep
 多傻	dles
 锻炼身体	dlet
@@ -13914,10 +13913,7 @@ sort: original
 东有	dyyd
 盗亦有道	dyydo
 冬夜	dyye
-都有一种	dyyf
 东瀛	dyyg
-对于一个	dyyga
-都有一个	dyygu
 东营	dyygv
 东岳	dyyh
 冬月	dyyhu
@@ -13936,8 +13932,7 @@ sort: original
 都一样	dyyuv
 冬运	dyyw
 第一要务	dyywu
-对于一些	dyyx
-第一印象	dyyxu
+第一印象	dyyx
 动用	dyyy
 冬泳	dyyyu
 得意洋洋	dyyyuo
@@ -17674,8 +17669,8 @@ sort: original
 十楼	ekldu
 石楼	ekldv
 试了	ekle
+失了	ekle
 湿了	eklea
-是了	ekleo
 失乐	ekleu
 石栏	eklf
 失灵	eklg
@@ -25686,8 +25681,8 @@ sort: original
 壮行	fmxg
 状儿	fmxj
 装修	fmxq
-伐毛洗髓	fmxs
-装下	fmxso
+装下	fmxs
+伐毛洗髓	fmxsi
 父母心	fmxu
 装箱	fmxx
 装熊	fmxy
@@ -26852,7 +26847,8 @@ sort: original
 封开	frkh
 冯坤	frkw
 风控	frky
-发热量	frl
+反人类	frl
+发热量	frla
 峰林	frlb
 枫林	frlbv
 蜂疗	frlc
@@ -26871,7 +26867,6 @@ sort: original
 风冷	frlr
 蜂蜡	frls
 峰峦	frlt
-反人类	frlu
 风雷	frlw
 冯仑	frlwo
 风量	frlx
@@ -28587,10 +28582,8 @@ sort: original
 放下心	fxxo
 装修	fxxq
 拂袖而去	fxxqi
-装下	fxxs
-装箱	fxxx
+中小学校	fxxx
 芳心暗许	fxxxi
-中小学校	fxxxii
 装熊	fxxy
 负效应	fxy
 飞行员	fxya
@@ -28682,6 +28675,7 @@ sort: original
 中村	fycw
 种草	fycz
 重要的	fyd
+这一段	fyd
 发源地	fyda
 中队	fydb
 浮一大白	fydba
@@ -28713,7 +28707,6 @@ sort: original
 这一代	fydo
 着眼点	fydoi
 这丫的	fydoo
-这一段	fydov
 中档	fydp
 中原地区	fydq
 中等	fydr
@@ -28726,7 +28719,8 @@ sort: original
 中段	fydti
 中央电视台	fydtii
 中端	fydtio
-反应堆	fydu
+重一点	fydu
+反应堆	fyduo
 专业的	fydv
 转移到	fydvu
 重要地位	fydw
@@ -28773,7 +28767,8 @@ sort: original
 职业生涯	fyey
 中烧	fyez
 中少	fyezi
-志愿者	fyf
+这一份	fyf
+翻一番	fyf
 中缀	fyfb
 中轴	fyfd
 中庸之道	fyfdi
@@ -28812,8 +28807,8 @@ sort: original
 重罚	fyfsu
 中转	fyft
 中专	fyfti
-翻一番	fyfu
-复印纸	fyfuu
+复印纸	fyfu
+志愿者	fyfv
 中非	fyfw
 中装	fyfx
 知遇之恩	fyfxu
@@ -29100,8 +29095,7 @@ sort: original
 重拳	fyqt
 重权	fyqtu
 服役期	fyqu
-志愿者	fyqv
-副院长	fyqva
+副院长	fyqv
 专用章	fyqvu
 种群	fyqw
 中枪	fyqx
@@ -38657,6 +38651,7 @@ sort: original
 活过	hlgla
 火光	hlgm
 祸根	hlgn
+慌乱过	hlgo
 活剐	hlgq
 伙耕	hlgr
 火罐	hlgt
@@ -38909,9 +38904,9 @@ sort: original
 滑轮组	hlza
 获罪	hlzb
 或则	hlze
-火灾	hlzh
-活在	hlzha
-洪涝灾害	hlzhaa
+活在	hlzh
+洪涝灾害	hlzha
+火灾	hlzho
 或在	hlzhv
 活字	hlzk
 伙子	hlzki
@@ -39070,7 +39065,6 @@ sort: original
 晃朗	hmlp
 黄蜡	hmls
 哈姆雷特	hmlt
-慌乱	hmlto
 遑论	hmlw
 荒凉	hmlx
 皇粮	hmlxu
@@ -39404,6 +39398,7 @@ sort: original
 很轻	hnqg
 很窄	hnqh
 很浅	hnqm
+很真	hnqn
 很胀	hnqp
 很正	hnqr
 很全	hnqt
@@ -39875,6 +39870,7 @@ sort: original
 厚着脸皮	hqlpv
 花柳	hqlq
 哗啦	hqls
+还清了	hqlv
 花蕾	hqlw
 滑轮	hqlwa
 花梁	hqlx
@@ -42590,12 +42586,11 @@ sort: original
 仅靠	jbkz
 紧靠	jbkzi
 成不了	jbl
+击败了	jbl
 出不来	jbla
-储备粮	jbli
-几步路	jblu
-近邻	jblb
-紧邻	jblbi
-金鳞	jblbiu
+紧邻	jblb
+金鳞	jblbi
+近邻	jblbu
 进料	jblc
 禁猎	jbld
 进了	jble
@@ -42606,6 +42601,7 @@ sort: original
 金陵	jblgi
 进来	jblh
 近来	jblhu
+储备粮	jbli
 近路	jblj
 尽力	jblk
 锦鲤	jblki
@@ -42616,6 +42612,7 @@ sort: original
 进六	jblq
 禁脔	jblt
 秤不离砣	jbltu
+几步路	jblu
 成比例	jblv
 金轮	jblw
 锦纶	jblwi
@@ -44079,6 +44076,7 @@ sort: original
 杰作	jdzl
 承担责任	jdzr
 决定作用	jdzy
+就是把	jeb
 记事本	jeb
 潮水般	jeba
 陈水扁	jebaa
@@ -53122,6 +53120,8 @@ sort: original
 砍掉	kfdc
 看跌	kfdd
 康庄大道	kfddo
+看中的	kfdi
+看重的	kfdiu
 看得	kfde
 看淡	kfdf
 看定	kfdg
@@ -56136,8 +56136,7 @@ sort: original
 撂荒	lchx
 料号	lchz
 澜沧江	lcj
-了解	lcjd
-了结	lcjda
+了结	lcjd
 料车	lcje
 料及	lcjk
 料场	lcjp
@@ -66304,8 +66303,7 @@ sort: original
 毛多	mzdlu
 锚点	mzdm
 毛等	mzdr
-矛盾	mzdw
-茅盾	mzdwi
+茅盾	mzdw
 毛泽东思想	mzdx
 毛泽东主席	mzdxu
 面子上	mze
@@ -69388,7 +69386,7 @@ sort: original
 难于上青天	nyet
 浓霜	nyex
 难以适应	nyey
-年夜饭	nyf
+那一份	nyf
 弄皱	nyfd
 弄着	nyfe
 念一发而动全身	nyfei
@@ -69404,6 +69402,7 @@ sort: original
 农庄	nyfmo
 哪一种	nyfo
 弄法	nyfs
+年夜饭	nyfu
 农肥	nyfw
 浓妆	nyfx
 难以置信	nyfxa
@@ -79807,10 +79806,8 @@ sort: original
 穹顶	qydg
 歧异度	qydi
 前一段	qydo
-这丫的	qydoo
-这一代	qydov
-这一段	qydovu
 穷达	qyds
+轻一点	qydv
 企业单位	qydw
 穷冬	qydy
 琼岛	qydz
@@ -84602,8 +84599,7 @@ sort: original
 所闻	slwn
 所望	slwp
 所传	slwt
-所谓	slww
-所为	slwwu
+所为	slww
 所创	slwx
 森罗万象	slwxv
 斯洛文尼亚	slwy
@@ -88808,6 +88804,7 @@ sort: original
 天边	tmbm
 田边	tmbmi
 天霸	tmbs
+太明白	tmbv
 填报	tmbz
 舔包	tmbzu
 填饱	tmbzv
@@ -93659,7 +93656,6 @@ sort: original
 卧病	wlbg
 握柄	wlbgi
 吃力不讨好	wlbh
-我不	wlbj
 辍笔	wlbk
 握笔	wlbki
 我比	wlbku
@@ -99011,11 +99007,10 @@ sort: original
 呕心	xdxbo
 邪笑	xdxc
 些小	xdxci
-谢谢	xdxd
+写写	xdxd
+写些	xdxd
 斜斜	xdxdi
 歇歇	xdxdo
-写些	xdxdoi
-写写	xdxdoo
 蟹蟹	xdxdu
 邪恶	xdxe
 歇鞍	xdxf
@@ -104999,7 +104994,7 @@ sort: original
 像梦	xxmr
 想骂	xxms
 相貌	xxmz
-谢谢你	xxn
+谢谢您	xxn
 向您	xxnb
 想呢	xxne
 向南	xxnf
@@ -105015,7 +105010,6 @@ sort: original
 香嫩	xxnn
 心心念念	xxnno
 厄尔尼诺	xxnnv
-谢谢您	xxno
 香囊	xxnp
 像牛	xxnq
 相能	xxnr
@@ -105123,8 +105117,8 @@ sort: original
 相谈	xxtfv
 想听	xxtg
 向台	xxth
-乡土	xxtj
-想吐	xxtjv
+想吐	xxtj
+乡土	xxtja
 箱体	xxtk
 相托	xxtl
 香甜	xxtm
@@ -106813,8 +106807,8 @@ sort: original
 一定可以	ydkyv
 又考	ydkz
 有道理	ydl
-又到了	ydla
-异地恋	ydlav
+运动量	ydl
+异地恋	ydla
 友邻	ydlb
 油料	ydlc
 优劣	ydld
@@ -106854,7 +106848,7 @@ sort: original
 有冷	ydlr
 有啦	ydls
 又乱	ydlt
-运动量	ydlv
+一滴泪	ydlv
 一定量	ydlvo
 一段路	ydlvu
 游轮	ydlw
@@ -107085,6 +107079,7 @@ sort: original
 幼虫	ydwy
 远渡重洋	ydwyv
 油炒	ydwz
+一点儿	ydx
 有点像	ydx
 有心	ydxb
 忧心	ydxbo
@@ -107133,8 +107128,8 @@ sort: original
 右旋	ydxtv
 印第安	ydxu
 运动鞋	ydxv
+一滴血	ydxva
 压倒性	ydxvi
-一点儿	ydxviu
 运动学	ydxvv
 又讯	ydxw
 又想	ydxx
@@ -109569,12 +109564,12 @@ sort: original
 一读	ykdjv
 一睹	ykdjvi
 一堵	ykdjvv
+一地	ykdk
 异地	ykdk
 乙地	ykdka
 易地	ykdko
 义弟	ykdkoo
-一地	ykdkv
-一滴	ykdkva
+一滴	ykdkv
 一低	ykdkvi
 夷狄	ykdkvu
 一朵	ykdl
@@ -116335,6 +116330,7 @@ sort: original
 做啥	zles
 自来水	zleu
 走路时	zlev
+做谁	zlew
 租赁费	zlf
 坐着	zlfe
 做着	zlfe
