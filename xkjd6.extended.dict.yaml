@@ -26,7 +26,6 @@ import_tables:
 # ---------------------------------------
 # 扩展：词组
   - xkjd6.sphs_phrases
-  - xkjd6.cizu
 # ---------------------------------------
 # 扩展：一级简码
   - xkjd6.sphs_shorthand_lvl1
