@@ -2689,8 +2689,8 @@ sort: original
 不狂	bjkx
 北京科技大学	bjkxi
 不仅可以	bjky
-补考	bjkz
-不靠	bjkzv
+不靠	bjkz
+补考	bjkzo
 不经历	bjl
 不成立	bjl
 边角料	bjla
@@ -5602,6 +5602,7 @@ sort: original
 被刷	bweq
 被省	bwer
 被杀	bwes
+被谁	bwew
 被烧	bwez
 焙烧	bwezo
 保持着	bwf
@@ -12318,8 +12319,7 @@ sort: original
 到处可见	djkjv
 杜康	djkp
 读卡	djks
-大家可以	djky
-递交了	djl
+当成了	djl
 点击率	djl
 堵漏	djld
 当机立断	djldi
@@ -12335,7 +12335,8 @@ sort: original
 肚里	djlku
 镀铝	djll
 独怜	djlm
-道出了	djlo
+递交了	djlo
+道出了	djloa
 独狼	djlp
 毒瘤	djlq
 毒辣	djls
@@ -12407,7 +12408,6 @@ sort: original
 度日	djrk
 读若	djrl
 渡人	djrn
-大家认为	djrw
 大奖赛	djs
 堵塞	djse
 赌赛	djsh
@@ -14040,7 +14040,7 @@ sort: original
 当做	dpzli
 当总	dpzy
 当早	dpzz
-对照表	dqb
+但却被	dqb
 丢笔	dqbk
 刀枪不入	dqbr
 丢包	dqbz
@@ -19545,8 +19545,8 @@ sort: original
 书院	ejyta
 受教育	ejyu
 暑运	ejyw
-市场营销	ejyx
-时间有限	ejyxo
+时间有限	ejyx
+市场营销	ejyxo
 世界一流大学	ejyxv
 书用	ejyy
 实际应用	ejyyo
@@ -27141,11 +27141,10 @@ sort: original
 指日	fkrkio
 稚弱	fkrl
 至若	fkrlv
-之人	fkrn
-纸人	fkrna
-治人	fkrnai
-指认	fkrni
-置人	fkrnii
+指认	fkrn
+纸人	fkrn
+治人	fkrna
+置人	fkrni
 只认	fkrno
 知人	fkrnu
 致人	fkrnv
@@ -36579,6 +36578,7 @@ sort: original
 滚杯	gwbw
 狗尾草	gwc
 滚存	gwcw
+给我点	gwd
 格外得	gwd
 滚床单	gwda
 观察到	gwdao
@@ -36591,8 +36591,8 @@ sort: original
 高潮迭起	gwdq
 滚打	gwds
 给大	gwdsa
-鬼吹灯	gwdu
-公文袋	gwduo
+公文袋	gwdu
+鬼吹灯	gwduo
 格外的	gwdv
 滚动	gwdy
 滚到	gwdz
@@ -40501,17 +40501,16 @@ sort: original
 呼喊	hjhf
 湖海	hjhh
 护城河	hjhi
-呼呼	hjhj
+很久很久	hjhj
 好久好久	hjhja
 糊糊	hjhjo
-很久很久	hjhju
-乎乎	hjhjuu
+呼呼	hjhjoo
+乎乎	hjhju
 火急火燎	hjhl
 护航	hjhp
 沪杭	hjhpa
 胡话	hjhq
 护花	hjhqi
-很久很久以前	hjhqu
 好聚好散	hjhs
 呼唤	hjht
 互换	hjhtv
@@ -49830,6 +49829,7 @@ sort: original
 迦楼罗	jllav
 讵料	jllc
 剧烈	jlld
+拒了	jlle
 巨澜	jllf
 巨灵	jllg
 伽利略	jlli
@@ -57632,8 +57632,8 @@ sort: original
 空点	kydm
 裤腰带	kydo
 空当	kydp
+空档	kydp
 空荡	kydpo
-空档	kydpov
 宽以待人	kydr
 空打	kyds
 空段	kydt
@@ -65607,7 +65607,8 @@ sort: original
 木锉	mjcl
 木村	mjcw
 牧草	mjcz
-没觉得	mjd
+蛮紧的	mjd
+漫长的	mjd
 民进党	mjda
 木雕	mjdc
 没精打采	mjdca
@@ -65625,8 +65626,7 @@ sort: original
 牧笛	mjdku
 面朝大海，春暖花开	mjdkv
 木垫	mjdm
-蛮紧的	mjdo
-蛮简单	mjdou
+蛮简单	mjdo
 母党	mjdp
 木凳	mjdr
 木段	mjdt
@@ -77219,7 +77219,7 @@ sort: original
 真好啊	qhxu
 斋旬	qhxw
 却像	qhxx
-其含义	qhy
+正好也	qhy
 摘引	qhyb
 却因	qhybv
 奇花异草	qhyc
@@ -77238,6 +77238,7 @@ sort: original
 宅院	qhyt
 漆黑一团	qhyta
 缺员	qhytu
+其含义	qhyv
 摘要	qhyz
 却要	qhyzv
 却还在	qhz
@@ -86649,8 +86650,8 @@ sort: original
 所幸	slxg
 所行	slxgu
 所学	slxh
+所爱	slxh
 索爱	slxhu
-所爱	slxhuu
 索尔	slxj
 所系	slxk
 所需	slxl
@@ -91248,7 +91249,10 @@ sort: original
 躺到	tpdzu
 投票数	tpe
 糖水	tpeb
-汤水	tpeba
+汤水	tpeb
+淌水	tpeba
+蹚水	tpebo
+趟水	tpebv
 烫手	tped
 太平盛世	tpee
 唐山	tpef
@@ -93946,8 +93950,8 @@ sort: original
 万卡	wfks
 吃饭了	wfl
 顽劣	wfld
-玩了	wfle
 完了	wfle
+玩了	wfle
 晚了	wfleo
 玩乐	wflev
 玩烂	wflf
@@ -94951,6 +94955,7 @@ sort: original
 芜劣	wjldi
 未接来电	wjldv
 误了	wjle
+无了	wjlev
 五滥	wjlf
 掣襟露肘	wjlfu
 武陵	wjlg
@@ -99578,8 +99583,8 @@ sort: original
 信号	xbhz
 矮半截	xbj
 新晋	xbjb
+按部就班	xbjb
 薪金	xbjbi
-按部就班	xbjbio
 新近	xbjbo
 新进	xbjbov
 新教	xbjc
@@ -102340,9 +102345,9 @@ sort: original
 爱戴	xhdh
 叆叇	xhdhv
 信号灯	xhdi
-爱读	xhdj
-消耗殆尽	xhdja
+消耗殆尽	xhdj
 学都	xhdjo
+爱读	xhdju
 雪地	xhdk
 艾迪	xhdki
 学弟	xhdko
@@ -112473,6 +112478,7 @@ sort: original
 鱼鳖	ylbd
 玉版	ylbf
 语病	ylbg
+鱼白	ylbh
 余利宝	ylbi
 预补	ylbj
 一鳞半甲	ylbjv
@@ -114968,6 +114974,7 @@ sort: original
 鱼腥草	yxcu
 一小撮	yxcv
 影响到	yxd
+压箱底	yxd
 有线电视	yxde
 贻笑大方	yxdf
 一些地方	yxdfv
@@ -114976,10 +114983,10 @@ sort: original
 乙酰胆碱	yxdj
 掩耳盗铃	yxdl
 以耳代目	yxdm
-有限度	yxdv
-有线电	yxdva
+有限的	yxdv
+有线电	yxdv
+有限度	yxdva
 一小袋	yxdvi
-压箱底	yxdvu
 有些事	yxe
 也许是	yxea
 一息尚存	yxec
@@ -119253,7 +119260,6 @@ sort: original
 尊长	zwqp
 造物主	zwqu
 造物者	zwquu
-遵照	zwqz
 尊然	zwrf
 贼人	zwrn
 尊容	zwry
@@ -119368,6 +119374,7 @@ sort: original
 造型艺术	zxye
 总而言之	zxyf
 仔细一看	zxyk
+最幸运	zxyo
 走啊走	zxz
 作业本	zyb
 走一步看一步	zybb
