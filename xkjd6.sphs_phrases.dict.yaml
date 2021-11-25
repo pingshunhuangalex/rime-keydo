@@ -102,11 +102,14 @@ sort: original
 宾朋	bbpr
 百白破	bbpv
 # 首选
-憋不住	bbq
+不必去	bbq
 # 次选
-保不齐	bbq
+憋不住	bbq
 彪炳千古	bbqg
+# 首选
 北半球	bbqi
+# 次选
+保不齐	bbqi
 把不准	bbqiv
 宾主	bbqj
 摈弃	bbqk
@@ -5438,7 +5441,6 @@ sort: original
 八抬大轿	btdj
 不太对劲	btdjv
 白头到老	btdl
-不同的人	btdr
 不太对	btdv
 不同点	btdvi
 不太熟	bte
@@ -6726,8 +6728,8 @@ sort: original
 抱团	bztt
 报童	bzty
 不作为	bzw
-报仇	bzwd
-报酬	bzwdi
+报酬	bzwd
+报仇	bzwdi
 不足为道	bzwdv
 不足为外人道	bzwdvo
 包车	bzwe
@@ -10115,7 +10117,7 @@ sort: original
 都存	ddcw
 都从	ddcy
 都操	ddcz
-点点点	ddd
+打点滴	ddd
 淡淡的	ddda
 都对	dddb
 跌掉	dddc
@@ -10139,8 +10141,7 @@ sort: original
 蝶啶	dddgi
 豆丁	dddgv
 迭代	dddh
-打点滴	dddi
-点对点	dddia
+点对点	dddi
 都读	dddj
 滴滴打车	dddja
 兜底	dddk
@@ -16070,6 +16071,7 @@ sort: original
 栋梁	dylx
 动量	dylxv
 东龙	dyly
+第一名	dym
 大姨妈	dym
 懂么	dyme
 得意门生	dymeu
@@ -16088,7 +16090,6 @@ sort: original
 打羽毛球	dymqi
 东盟	dymr
 懂吗	dyms
-第一名	dymu
 大沿帽	dymv
 冬梅	dymw
 电影明星	dymx
@@ -26753,10 +26754,10 @@ sort: original
 之歌	fkge
 之隔	fkgeo
 制革	fkgeu
+只敢	fkgf
 质感	fkgf
-之感	fkgfo
-只敢	fkgfoa
-只干	fkgfov
+只干	fkgfo
+之感	fkgfov
 枝干	fkgfv
 只怪	fkgg
 职改	fkgh
@@ -28582,8 +28583,8 @@ sort: original
 芳龄	fplg
 方略	fplh
 放来	fplho
-防露	fplj
-风平浪静	fplju
+风平浪静	fplj
+防露	fplja
 房里	fplk
 放驴	fpll
 方脸	fplm
@@ -30198,6 +30199,7 @@ sort: original
 非此	fwcki
 非从	fwcy
 之外的	fwd
+服务端	fwd
 废掉	fwdc
 飞碟	fwdd
 飞的	fwde
@@ -30224,8 +30226,7 @@ sort: original
 非党	fwdp
 肥大	fwds
 非短	fwdt
-服务端	fwdu
-分位点	fwdui
+分位点	fwdu
 服务队	fwduu
 非得	fwdw
 风驰电掣	fwdwu
@@ -30234,6 +30235,7 @@ sort: original
 朝闻道，夕死可矣	fwdyuo
 飞到	fwdz
 飞刀	fwdza
+放车上	fwe
 服务生	fwe
 废水	fweb
 沸水	fweba
@@ -31549,6 +31551,7 @@ sort: original
 仲兄	fyxy
 中澳	fyxz
 着眼于	fyy
+众议院	fyy
 发源于	fyya
 终因	fyyb
 中音	fyyb
@@ -31570,9 +31573,8 @@ sort: original
 中央银行	fyyhi
 富营养化	fyyho
 这样也好	fyyhov
-众议院	fyyi
-中医药	fyyiv
-中医院	fyyiva
+中医药	fyyi
+中医院	fyyiv
 中医	fyyk
 中意	fyyki
 忠义	fyykio
@@ -45616,8 +45618,8 @@ sort: original
 交心	jcxb
 较新	jcxbv
 较小	jcxc
+出此下策	jcxc
 娇小	jcxca
-出此下策	jcxcai
 娇笑	jcxcau
 叫嚣	jcxco
 缴械	jcxd
@@ -46258,7 +46260,6 @@ sort: original
 节行	jdxg
 节哀	jdxh
 结穴	jdxha
-件东西	jdxi
 姐儿	jdxj
 解析	jdxk
 结息	jdxka
@@ -46561,6 +46562,7 @@ sort: original
 车况	jekx
 军事科学	jekxo
 减少了	jel
+结束了	jel
 出生率	jela
 降水量	jelaa
 承受力	jelau
@@ -66174,6 +66176,7 @@ sort: original
 末播	mlbl
 莫辨	mlbm
 摹本	mlbn
+煤老板	mlbo
 魔棒	mlbp
 莫把	mlbs
 漠北	mlbw
@@ -66190,8 +66193,7 @@ sort: original
 摩擦	mlcs
 磨擦	mlcso
 墨村	mlcw
-美丽的	mld
-没料到	mlda
+没料到	mld
 莫对	mldb
 抹掉	mldc
 魔豆	mldd
@@ -66208,6 +66210,7 @@ sort: original
 墨点	mldm
 抹点	mldmi
 马拉多纳	mldn
+美丽的	mldo
 摩登	mldr
 美丽动人	mldro
 莫大	mlds
@@ -66285,13 +66288,13 @@ sort: original
 磨光	mlgx
 磨工	mlgy
 莫高	mlgz
-茉莉花	mlh
+命令行	mlh
 抹灰	mlhb
 末后	mlhd
 磨合	mlhe
 墨盒	mlhei
 墨海	mlhh
-命令行	mlhi
+茉莉花	mlhi
 模糊	mlhj
 莫慌	mlhm
 墨痕	mlhn
@@ -66300,8 +66303,8 @@ sort: original
 魔幻	mlht
 木兰花	mlhv
 抹黑	mlhw
+茉莉花茶	mlhw
 摸黑	mlhwi
-茉莉花茶	mlhwii
 莫慌	mlhx
 名利场	mlj
 马六甲	mlja
@@ -69585,9 +69588,10 @@ sort: original
 南回归线	nhgx
 乃公	nhgy
 奶糕	nhgz
-你好坏	nhh
+你会很	nhh
 奈何	nhhe
 耐寒	nhhf
+你好坏	nhhi
 耐火	nhhl
 闹哄哄	nhho
 黏糊糊	nhhu
@@ -71760,7 +71764,6 @@ sort: original
 难以言喻	nyyya
 农药	nyyz
 那样做	nyz
-那样子	nyza
 弄嘴	nyzb
 难以自拔	nyzba
 弄走	nyzd
@@ -71992,6 +71995,7 @@ sort: original
 拼将	pbjx
 撇不开	pbk
 拼客	pbke
+铺不开	pbki
 贫苦	pbkj
 贫矿	pbkm
 频宽	pbkt
@@ -82104,7 +82108,6 @@ sort: original
 主要原因	qyyy
 睁一眼闭一眼	qyyyi
 琼瑶	qyyz
-这样做	qyz
 签字笔	qzb
 招标	qzbc
 七嘴八舌	qzbe
@@ -86023,6 +86026,7 @@ sort: original
 四肢	skfk
 丝织	skfka
 思之	skfki
+死执	skfkv
 死状	skfm
 丝状	skfma
 私分	skfn
@@ -88393,8 +88397,8 @@ sort: original
 头奖	tdjx
 铁匠	tdjxi
 偷渡客	tdk
-偷窥	tdkb
-头盔	tdkbo
+头盔	tdkb
+偷窥	tdkbi
 偷课	tdke
 偷看	tdkf
 偷快	tdkg
@@ -90093,6 +90097,7 @@ sort: original
 土链	tjlm
 听见了	tjlo
 逃出来	tjlu
+太卷了	tjlv
 图论	tjlw
 凸轮	tjlwi
 土类	tjlwv
@@ -93858,7 +93863,8 @@ sort: original
 晚归	wfgbo
 弯钩	wfgd
 玩够	wfgdv
-挽歌	wfge
+玩个	wfge
+挽歌	wfgei
 皖赣	wfgf
 顽固	wfgj
 腕骨	wfgju
@@ -106725,9 +106731,10 @@ sort: original
 厢房	xxfpv
 相逢	xxfr
 想法	xxfs
+想发	xxfsv
 儿媳妇	xxfu
 先行者	xxfuu
-想发	xxfsv
+想像中	xxfv
 想飞	xxfw
 相撞	xxfx
 谢谢分享	xxfxo
@@ -108598,9 +108605,9 @@ sort: original
 忧愤	ydfno
 有分	ydfnv
 羊癫疯	ydfo
+有房	ydfp
 右方	ydfp
 有方	ydfpv
-有房	ydfpvo
 云淡风轻	ydfq
 一对夫妻	ydfqv
 有风	ydfr
@@ -110181,7 +110188,7 @@ sort: original
 眼虫	yfwyi
 验钞	yfwz
 言者无罪	yfwzo
-一致性	yfx
+一直想	yfx
 严重性	yfx
 也发现	yfxa
 异质性	yfxau
@@ -110224,6 +110231,7 @@ sort: original
 言宣	yfxt
 一封信	yfxv
 运费险	yfxva
+一致性	yfxvv
 烟熏	yfxw
 优中选优	yfxy
 以至于	yfy
@@ -110281,12 +110289,12 @@ sort: original
 一转眼	yfyv
 一眨眼	yfyvi
 有志于	yfyvv
-烟云	yfyw
+一直以为	yfyw
+原汁原味	yfyw
 阳奉阴违	yfywa
-言之有物	yfywo
+烟云	yfywo
+言之有物	yfywoo
 燕云	yfywv
-原汁原味	yfywva
-一直以为	yfywvu
 一朝一夕	yfyx
 严重影响	yfyxv
 沿用	yfyy
@@ -114988,11 +114996,7 @@ sort: original
 银杏树	yxei
 因循守旧	yxej
 一线生机	yxejv
-一些时间	yxejvi
 印象深刻	yxek
-有些什么	yxem
-有些事情	yxeq
-一些事情	yxeqv
 一些事	yxev
 一小时	yxevi
 医学生	yxevo
@@ -115016,8 +115020,6 @@ sort: original
 也许只有	yxfy
 言下之意	yxfyo
 优先股	yxg
-一些国家	yxgj
-有些国家	yxgjv
 因循苟且	yxgq
 有限公司	yxgs
 游戏规则	yxgz
@@ -115086,7 +115088,7 @@ sort: original
 一雪前耻	yxqwv
 一厢情愿	yxqy
 英雄主义	yxqyi
-一些人	yxr
+有心人	yxr
 幼驯染	yxra
 一向如此	yxrc
 一些人的	yxrd
@@ -115095,7 +115097,6 @@ sort: original
 意下如何	yxrh
 饮血茹毛	yxrm
 鱼香肉丝	yxrs
-有心人	yxrv
 英雄人物	yxrw
 以小人之心	yxrx
 有心思	yxs
@@ -116927,7 +116928,8 @@ sort: original
 自知之明	zffm
 在这方面	zffmv
 攒够	zfgd
-赞歌	zfge
+攒个	zfge
+赞歌	zfgeu
 咱敢	zfgf
 暂告	zfgz
 总指挥	zfh
