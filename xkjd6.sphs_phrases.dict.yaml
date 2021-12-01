@@ -5656,6 +5656,7 @@ sort: original
 被罩	bwfzo
 博物馆	bwg
 百尺竿头更进一步	bwgb
+被狗	bwgd
 悲歌	bwge
 倍感	bwgf
 被拐	bwgg
@@ -5812,7 +5813,8 @@ sort: original
 背盟	bwmr
 被骂	bwms
 北美	bwmw
-被毛	bwmz
+被猫	bwmz
+被毛	bwmzo
 不为难	bwn
 被难	bwnf
 北南	bwnfi
@@ -6410,6 +6412,7 @@ sort: original
 报导	bzdzia
 宝岛	bzdzo
 宝刀	bzdzoa
+不再是	bze
 不早说	bze
 报税	bzeb
 保税	bzebi
@@ -6435,8 +6438,7 @@ sort: original
 宝声	bzer
 薄纱	bzes
 白噪声	bzeu
-不再是	bzev
-不作声	bzevi
+不作声	bzev
 不尊重	bzf
 煲粥	bzfd
 抱着	bzfe
@@ -13842,7 +13844,8 @@ sort: original
 荡波	dpbl
 颠扑不破	dpbp
 当把	dpbs
-党报	dpbz
+当宝	dpbz
+党报	dpbzi
 大棚菜	dpc
 当菜	dpch
 档次	dpck
@@ -27767,6 +27770,7 @@ sort: original
 这么大	fmd
 这么多	fmd
 装得	fmde
+装的	fmdeo
 壮胆	fmdf
 装弹	fmdfo
 装订	fmdg
@@ -30622,11 +30626,7 @@ sort: original
 庄村	fxcw
 富二代	fxd
 发祥地	fxda
-装得	fxde
-执行董事	fxdei
-壮胆	fxdf
-这些地方	fxdfo
-装弹	fxdfoa
+执行董事	fxde
 装订	fxdg
 壮丁	fxdgo
 翻箱倒柜	fxdgu
@@ -30638,7 +30638,6 @@ sort: original
 专项斗争	fxdq
 壮大	fxds
 撞断	fxdt
-这些东西	fxdx
 装懂	fxdy
 撞到	fxdz
 撞倒	fxdzi
@@ -32482,8 +32481,9 @@ sort: original
 狗吠	gdfw
 钩状	gdfx
 沟中	gdfy
+孤独感	gdg
 高低杠	gdg
-孤独感	gdga
+滚的滚	gdga
 够贵	gdgb
 狗狗	gdgd
 勾勾	gdgdu
@@ -40645,7 +40645,6 @@ sort: original
 混进去	hjqa
 胡琴	hjqb
 胡敲	hjqc
-护着	hjqe
 护青	hjqg
 胡青	hjqgu
 获奖者	hjqi
@@ -46324,6 +46323,7 @@ sort: original
 节育	jdyli
 节余	jdylii
 解郁	jdylu
+记得要	jdyo
 就读于	jdyo
 决定于	jdyoo
 揭阳	jdyp
@@ -53704,10 +53704,10 @@ sort: original
 吉尔吉斯斯坦	jxjt
 将军	jxjw
 讲讲	jxjx
-将信将疑	jxjy
-渐行渐远	jxjya
-继续教育	jxjyaa
-诚心诚意	jxjyo
+渐行渐远	jxjy
+诚心诚意	jxjy
+继续教育	jxjya
+将信将疑	jxjyo
 将朝	jxjz
 见效快	jxk
 讲课	jxke
@@ -58659,6 +58659,7 @@ sort: original
 露脸	ldlm
 列联	ldlmv
 漏啦	ldls
+留的留	ldlu
 猎雷	ldlw
 露苗	ldmc
 拉丁美洲	ldmf
@@ -68981,7 +68982,6 @@ sort: original
 涅米	ndmk
 年代末期	ndmq
 你的名字	ndmz
-难道你	ndn
 捏捏	ndnd
 男盗女娼	ndnj
 捏泥	ndnk
@@ -73951,9 +73951,9 @@ sort: original
 胖了	pple
 旁路	pplj
 旁立	pplk
-旁落	ppll
+破破烂烂	ppll
 漂漂亮亮	pplla
-破破烂烂	ppllv
+旁落	ppllo
 胖脸	pplm
 庞龙	pply
 品牌名	ppm
@@ -78247,9 +78247,9 @@ sort: original
 奇缺	qkqh
 砌筑	qkqj
 齐齐	qkqk
+其妻	qkqk
 漆器	qkqka
-其妻	qkqkv
-戚戚	qkqkvv
+戚戚	qkqkv
 崎岖	qkql
 七千	qkqm
 奇珍	qkqn
@@ -79724,11 +79724,11 @@ sort: original
 倩女幽魂	qnyh
 真意	qnyk
 阵雨	qnyl
+臻于	qnyl
 振宇	qnyli
 镇宇	qnylio
 畛域	qnyliv
 震宇	qnylv
-臻于	qnylvv
 弃你于	qnyo
 真羊	qnyp
 迁怒于人	qnyr
@@ -81507,7 +81507,6 @@ sort: original
 强的	qxde
 庆幸的是	qxdeo
 枪弹	qxdf
-这些地方	qxdfo
 取而代之	qxdfv
 强度	qxdj
 强敌	qxdk
@@ -81525,7 +81524,6 @@ sort: original
 抢断	qxdt
 真心的	qxdu
 栖息地	qxdv
-这些东西	qxdx
 强盗	qxdz
 抢到	qxdzi
 呛到	qxdzo
@@ -83056,8 +83054,8 @@ sort: original
 入水	rjebu
 入手	rjed
 入射	rjee
-如山	rjef
-入山	rjefu
+入山	rjef
+如山	rjefa
 人间失格	rjeg
 日常生活	rjeh
 如数	rjej
@@ -95969,7 +95967,7 @@ sort: original
 涡旋	wlxta
 物理系	wlxu
 我想	wlxx
-五粮液	wly
+无论有	wly
 我因	wlyb
 啜饮	wlybo
 握有	wlyd
@@ -95987,6 +95985,7 @@ sort: original
 我愿	wlyt
 我院	wlytu
 外来语	wlyu
+五粮液	wlyv
 我晕	wlyw
 闻了一闻	wlywo
 网络游戏	wlyx
@@ -102840,9 +102839,10 @@ sort: original
 血型	xhxgu
 血性	xhxguo
 学学	xhxh
+爱爱	xhxh
+哀哀	xhxho
 皑皑	xhxhu
 血癌	xhxhuo
-爱爱	xhxhuu
 俄亥俄	xhxi
 小孩儿	xhxia
 小户型	xhxio
@@ -107006,10 +107006,10 @@ sort: original
 肖像权	xxqi
 相助	xxqj
 想起	xxqk
-响起	xxqko
-详细情况	xxqkoa
-象棋	xxqku
-香气	xxqkuu
+响起	xxqk
+详细情况	xxqko
+香气	xxqku
+象棋	xxqkuv
 想去	xxql
 相去	xxqlv
 向前	xxqm
@@ -107022,6 +107022,7 @@ sort: original
 乡长	xxqp
 香樟	xxqpu
 相求	xxqq
+哀哀戚戚	xxqqo
 象征	xxqr
 相争	xxqrv
 相劝	xxqt
@@ -115650,9 +115651,8 @@ sort: original
 永续	yyxl
 涌现	yyxm
 语言学	yyxo
-用修	yyxq
-一跃而起	yyxqv
-有一些人	yyxr
+一跃而起	yyxq
+用修	yyxqu
 涌霞	yyxs
 用一下	yyxu
 有影响	yyxv
@@ -115660,8 +115660,9 @@ sort: original
 牙牙学语	yyxy
 音乐学院	yyxyo
 有样学样	yyxyv
+也一样	yyy
 有意义	yyy
-也一样	yyya
+也愿意	yyya
 溢于言表	yyyb
 一摇一摆	yyybv
 用油	yyyd
@@ -115855,6 +115856,7 @@ sort: original
 妖股	yzgja
 腰鼓	yzgju
 要过	yzgl
+咬过	yzglo
 腰果	yzglu
 要跟	yzgn
 要挂	yzgq
@@ -116035,7 +116037,6 @@ sort: original
 要准	yzqwv
 要强	yzqx
 要穷	yzqy
-要找	yzqz
 有责任	yzr
 要热	yzre
 杳然	yzrf
@@ -116554,8 +116555,8 @@ sort: original
 最短的	zddo
 最淡的	zddoa
 走丢	zddq
-最大的问题	zddt
 自动挡	zddu
+再大的	zddv
 走动	zddy
 走到	zddz
 走道	zddzv
@@ -116721,6 +116722,7 @@ sort: original
 走在	zdzh
 走卒	zdzj
 走子	zdzk
+走的走	zdzv
 自导自演	zdzy
 座上宾	zeb
 坐视不管	zebg
@@ -119263,7 +119265,7 @@ sort: original
 贼相	zwxxa
 尊像	zwxxo
 座无虚席	zwxxov
-作为一	zwy
+早晚要	zwy
 自我意识	zwye
 尊严	zwyf
 贼眼	zwyfa
@@ -119441,8 +119443,8 @@ sort: original
 总格	zyge
 纵隔	zygea
 总该	zygh
-载誉归来	zygl
-资源管理	zyglo
+资源管理	zygl
+载誉归来	zyglu
 总纲	zygp
 宗嘎	zygs
 纵观	zygt
