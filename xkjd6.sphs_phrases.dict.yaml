@@ -11908,7 +11908,8 @@ sort: original
 贷款	dhkt
 带宽	dhktv
 代考	dhkz
-电话铃	dhl
+到后来	dhl
+但后来	dhl
 导航栏	dhla
 待料	dhlc
 带了	dhle
@@ -11921,7 +11922,7 @@ sort: original
 代领	dhlgi
 带来	dhlh
 打呼噜	dhli
-但后来	dhliu
+电话铃	dhlio
 带路	dhlj
 灯火阑珊处	dhljo
 代理	dhlk
@@ -11935,7 +11936,6 @@ sort: original
 大祸临头	dhlt
 德黑兰	dhlu
 大灰狼	dhlv
-到后来	dhlvu
 带泪	dhlw
 代劳	dhlz
 定淮门	dhm
@@ -12206,10 +12206,10 @@ sort: original
 都市	djek
 独身	djen
 赌神	djena
-赌上	djep
+堵上	djep
+赌上	djepa
 担惊受怕	djepi
 独上	djepu
-堵上	djepv
 独生	djer
 毒杀	djes
 大惊失色	djesv
@@ -20099,9 +20099,8 @@ sort: original
 仕女	eknli
 十年	eknm
 时年	eknmo
-是能	eknr
-势能	eknri
-使能	eknria
+势能	eknr
+使能	eknri
 失能	eknru
 室内	eknw
 市内	eknwo
@@ -20232,6 +20231,7 @@ sort: original
 石笋	eksw
 试送	eksy
 收款台	ekt
+是条	ektc
 失调	ektc
 十条	ektcu
 石头	ektd
@@ -22770,6 +22770,7 @@ sort: original
 生态环境	ethj
 伤天害理	ethl
 山体滑坡	ethp
+是条汉子	ethz
 上台阶	etj
 闩紧	etjb
 手推车	etji
@@ -24149,7 +24150,8 @@ sort: original
 周会	fdhb
 法定货币	fdhba
 周后	fdhd
-直捣黄龙	fdhl
+直到后来	fdhl
+直捣黄龙	fdhlu
 皱痕	fdhn
 这段话	fdho
 追悼会	fdhu
@@ -24434,6 +24436,7 @@ sort: original
 这倒	fedz
 这道	fedzo
 只是说	fee
+这世上	fee
 防晒霜	feea
 着水	feeb
 这首	feed
@@ -32000,19 +32003,14 @@ sort: original
 贵宾	gbbb
 贵表	gbbc
 龟鳖	gbbd
-根本不是	gbbe
 归并	gbbg
 跪拜	gbbh
-根本不会	gbbhv
 规避	gbbk
 诡辩	gbbm
-根本不能	gbbn
-根本不可能	gbbnv
 贵邦	gbbp
 乖宝宝	gbbu
 龟背	gbbw
 瑰宝	gbbz
-根本不存在	gbbzv
 嘎嘣脆	gbc
 鬼才	gbch
 诡辞	gbck
@@ -32141,7 +32139,6 @@ sort: original
 归结	gbjd
 鬼节	gbjdu
 鬼扯	gbje
-根本就是	gbjev
 鬼缠	gbjf
 归敬	gbjg
 归经	gbjgi
@@ -32218,7 +32215,6 @@ sort: original
 鬼马	gbms
 贵吗	gbmsi
 鬼魅	gbmw
-根本没有	gbmy
 更不能	gbn
 归鸟	gbnc
 圭臬	gbnd
@@ -32294,7 +32290,6 @@ sort: original
 癸丑	gbwd
 鬼扯	gbwe
 硅烷	gbwf
-根本无法	gbwfv
 鬼屋	gbwj
 功败垂成	gbwjv
 贵池	gbwk
@@ -32303,7 +32298,6 @@ sort: original
 龟文	gbwn
 官本位	gbwo
 硅网	gbwp
-根本问题	gbwt
 各部委	gbwu
 归位	gbww
 癸未	gbwwa
@@ -32395,7 +32389,6 @@ sort: original
 搞错了	gcl
 干脆面	gcm
 观测站	gcq
-光彩照人	gcqr
 改错题	gct
 刚才在	gcz
 高蛋白	gdb
@@ -32851,7 +32844,6 @@ sort: original
 公事公办	gegb
 各沟	gegd
 个够	gegdi
-各式各样的	gegdu
 哥哥	gege
 个个	gegei
 咯咯	gegeo
@@ -39823,9 +39815,9 @@ sort: original
 旱灾	hfzh
 含在	hfzhi
 汉族	hfzj
+汗渍	hfzk
 汉字	hfzk
 汉子	hfzka
-汗渍	hfzkaa
 旱作	hfzl
 汉藏	hfzp
 韩非子	hfzu
@@ -52740,8 +52732,8 @@ sort: original
 嘉恩	jsxnv
 家训	jsxw
 家乡	jsxx
-假象	jsxxi
-假想	jsxxiv
+假象	jsxx
+假想	jsxxi
 夹袄	jsxz
 金丝燕	jsy
 佳音	jsyb
@@ -53539,7 +53531,8 @@ sort: original
 姜葱	jxcy
 将从	jxcyo
 绛草	jxcz
-产销地	jxd
+集训队	jxd
+假想敌	jxd
 将对	jxdb
 降调	jxdc
 豇豆	jxdd
@@ -53552,12 +53545,12 @@ sort: original
 讲定	jxdg
 教学大纲	jxdgu
 姜戴	jxdh
-集训队	jxdi
-敬爱的	jxdiu
+敬爱的	jxdi
 江都	jxdj
 降低	jxdk
 江堤	jxdka
 嫉贤妒能	jxdn
+产销地	jxdo
 降档	jxdp
 惊心动魄	jxdpo
 降等	jxdr
@@ -74539,7 +74532,6 @@ sort: original
 陪跑	pwpz
 胚泡	pwpzu
 喷雾器	pwq
-陪着	pwqe
 赔情	pwqg
 胚珠	pwqj
 配齐	pwqk
@@ -81313,7 +81305,7 @@ sort: original
 群声	qwera
 群杀	qwes
 悄无声息	qwex
-期望值	qwf
+掌握着	qwf
 战五渣	qwfi
 前车之鉴	qwfj
 裙装	qwfm
@@ -81321,6 +81313,7 @@ sort: original
 群芳	qwfp
 群峰	qwfr
 群发	qwfs
+期望值	qwfv
 群匪	qwfw
 裙装	qwfx
 群众	qwfy
@@ -81481,9 +81474,9 @@ sort: original
 襁褓	qxbzo
 枪刺	qxck
 抢错	qxcl
-亲爱的	qxd
 清晰度	qxd
-清醒点	qxda
+清醒点	qxd
+清晰的	qxda
 强队	qxdb
 真相大白	qxdbu
 强调	qxdc
@@ -81500,7 +81493,7 @@ sort: original
 情绪低落	qxdlo
 抢点	qxdm
 强电	qxdma
-这儿的	qxdo
+亲爱的	qxdo
 亲兄弟	qxdoo
 牵线搭桥	qxdq
 强大	qxds
@@ -95825,7 +95818,6 @@ sort: original
 我呸	wlpwu
 屋漏偏逢连夜雨	wlpy
 乌龙球	wlq
-握着	wlqe
 我请	wlqg
 我却	wlqh
 握住	wlqj
@@ -97126,11 +97118,11 @@ sort: original
 挖好	wshzi
 查号	wshzv
 穿梭机	wsj
-差劲	wsjb
-插紧	wsjbi
-茶巾	wsjbii
+插进	wsjb
+插紧	wsjb
+茶巾	wsjbi
 插筋	wsjbiu
-插进	wsjbiv
+差劲	wsjbo
 查禁	wsjbv
 蛙叫	wsjc
 插角	wsjci
@@ -107855,8 +107847,8 @@ sort: original
 也并非	ybf
 也不知	ybfa
 以暴制暴	ybfb
-殷周	ybfd
-也不知道	ybfda
+也不知道	ybfd
+殷周	ybfdu
 印着	ybfe
 因犯	ybff
 阴宅	ybfh
@@ -108247,8 +108239,6 @@ sort: original
 隐隐	ybyb
 阴阴	ybyba
 殷殷	ybybu
-一步一步	ybybv
-一遍一遍	ybybvo
 也不一定	ybyd
 也不用对	ybyd
 引诱	ybyda
@@ -113748,10 +113738,11 @@ sort: original
 有情有义	yqyy
 野战医院	yqyyi
 越战越勇	yqyyv
+一阵子	yqz
 一清早	yqz
 一起走过	yqzg
 眼珠子	yqzi
-一阵子	yqzv
+一起醉	yqzv
 用人不当	yrbd
 遇人不淑	yrbe
 一日不见，如隔三秋	yrbq
@@ -116526,6 +116517,7 @@ sort: original
 走丢	zddq
 自动挡	zddu
 再大的	zddv
+再多的	zddvu
 走动	zddy
 走到	zddz
 走道	zddzv
@@ -116781,7 +116773,8 @@ sort: original
 责难	zenf
 最是那	zeno
 则能	zenr
-总水平	zep
+在身旁	zep
+总水平	zepo
 择配	zepw
 做事情	zeq
 笮桥	zeqc
@@ -118156,6 +118149,7 @@ sort: original
 左边	zlbm
 坐便	zlbmi
 作本	zlbn
+最了不起	zlbq
 作罢	zlbs
 坐背	zlbw
 坐立不安	zlbx
