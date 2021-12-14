@@ -789,6 +789,7 @@ sort: original
 白手起家	beqj
 半衰期	beqo
 变声期	beqov
+不失去	beqv
 冰释前嫌	beqx
 保守主义	beqy
 不少人	ber
@@ -2526,12 +2527,12 @@ sort: original
 不抓	bjfq
 不解风情	bjfqv
 不封	bjfr
+不发	bjfs
 不乏	bjfs
-步伐	bjfs
-步法	bjfsi
+步伐	bjfsi
+步法	bjfsia
 补发	bjfso
 不扎	bjfsv
-不发	bjfsva
 不转	bjft
 不专	bjftv
 不经之谈	bjftva
@@ -10535,8 +10536,9 @@ sort: original
 都算	ddst
 点点头	ddt
 都推	ddtb
-都听	ddtg
+都挺	ddtg
 跌停	ddtgo
+都听	ddtgu
 大大提高	ddtgv
 斗图	ddtj
 都吐	ddtju
@@ -13809,7 +13811,9 @@ sort: original
 对你来说	dnle
 大难临头	dnlt
 到那里	dnlv
-电脑迷	dnm
+对你们	dnm
+当你们	dnm
+电脑迷	dnmi
 党内民主	dnmq
 等你拿	dnn
 电脑屏	dnp
@@ -15371,6 +15375,12 @@ sort: original
 短论	dtlw
 断粮	dtlx
 断垄	dtly
+对他们	dtm
+当他们	dtm
+对她们	dtma
+对它们	dtmao
+当她们	dtmi
+当它们	dtmio
 断灭	dtmd
 短命	dtmg
 端木	dtmj
@@ -15606,10 +15616,10 @@ sort: original
 敦伦	dwlw
 达瓦里希	dwlx
 对我们	dwm
+当我们	dwm
 赌五毛	dwma
 蹲苗	dwmc
-对我们来说	dwme
-当我没说	dwmei
+当我没说	dwme
 趸卖	dwmh
 倒插门	dwmi
 第五名	dwmu
@@ -29532,8 +29542,6 @@ sort: original
 发给	fsgw
 法棍	fsgwa
 轧辊	fsgwv
-发光	fsgx
-轧光	fsgxv
 发功	fsgy
 发稿	fsgz
 发糕	fsgza
@@ -35931,6 +35939,7 @@ sort: original
 挂载	gqzhi
 瓜子	gqzk
 褂子	gqzko
+管住嘴，迈开腿	gqzt
 枸杞子	gqzv
 光荣榜	grb
 更别	grbd
@@ -40891,7 +40900,8 @@ sort: original
 活的	hldea
 货单	hldf
 葫芦岛	hldi
-火毒	hldj
+还来得及	hldj
+火毒	hldjo
 画龙点睛	hldjv
 霍地	hldk
 或多	hldl
@@ -42434,7 +42444,6 @@ sort: original
 恒丰	hrfr
 横飞	hrfw
 害人之心不可有，防人之心不可无	hrfwo
-忽然发现	hrfx
 害人之心不可有	hrfy
 横沟	hrgd
 恍如隔世	hrge
@@ -43796,8 +43805,8 @@ sort: original
 红裳	hyep
 红绳	hyer
 红胜	hyera
-红纱	hyes
-轰杀	hyesv
+轰杀	hyes
+红纱	hyesa
 还有啥	hyev
 海洋生物	hyew
 红烧	hyez
@@ -44250,11 +44259,11 @@ sort: original
 画自己	hzj
 耗尽	hzjb
 好叫	hzjc
-号角	hzjc
+嚎叫	hzjc
 好交	hzjca
 好觉	hzjcao
 好教	hzjcau
-嚎叫	hzjco
+号角	hzjco
 豪杰	hzjd
 浩劫	hzjda
 耗竭	hzjdv
@@ -64611,7 +64620,8 @@ sort: original
 灭口	mdkd
 目瞪口呆	mdkdi
 没道理	mdl
-马德里	mdla
+买多了	mdla
+马德里	mdlau
 灭了	mdle
 谋略	mdlh
 牟利	mdlk
@@ -64721,6 +64731,7 @@ sort: original
 没事了	mel
 没谁了	mel
 马上来	mela
+买少了	melai
 没商量	melao
 玛莎拉蒂	meld
 麻省理工	melg
@@ -65400,6 +65411,7 @@ sort: original
 迈等	mhdr
 迈达	mhds
 买断	mhdt
+模糊的	mhdv
 脉动	mhdy
 麦冬	mhdyv
 迈动	mhdyvv
@@ -80000,6 +80012,7 @@ sort: original
 张扬	qpyp
 长牙	qpys
 张元	qpyt
+真便宜	qpyu
 张勇	qpyy
 长腰	qpyz
 张嘴	qpzb
@@ -85458,6 +85471,7 @@ sort: original
 散佚	sfykvi
 三语	sfyl
 散养	sfyp
+三样	sfypv
 三亚	sfys
 三元	sfyt
 三要	sfyz
@@ -85664,6 +85678,7 @@ sort: original
 苏打	sjds
 苏大	sjdsi
 素端	sjdt
+所朝的	sjdu
 三季度	sjdv
 酸碱度	sjdvv
 速冻	sjdy
@@ -86358,6 +86373,7 @@ sort: original
 私语	skyluo
 死鱼	skylv
 饲养	skyp
+四样	skypi
 死样	skypv
 嘶哑	skys
 寺院	skyt
@@ -86814,6 +86830,7 @@ sort: original
 送秋波	sqb
 死乞白赖	sqbl
 死猪不怕开水烫	sqbt
+所站的	sqd
 三权分立	sqfl
 丝竹管弦	sqgx
 死去活来	sqhl
@@ -89216,7 +89233,6 @@ sort: original
 听书	tgej
 停驶	tgek
 停尸	tgeki
-挺爽	tgem
 挺身	tgen
 庭审	tgeno
 庭上	tgep
@@ -89440,7 +89456,8 @@ sort: original
 挺爱	tgxhi
 停息	tgxk
 提高效率	tgxl
-汀线	tgxm
+挺闲	tgxm
+汀线	tgxma
 挺秀	tgxq
 弹冠相庆	tgxqa
 停下	tgxs
@@ -89502,7 +89519,6 @@ sort: original
 天寒地冻	thddv
 太顶	thdg
 太呆	thdh
-挺好的	thdi
 态度	thdj
 台独	thdja
 太低	thdk
@@ -93047,7 +93063,7 @@ sort: original
 吹拍	wbph
 吹破	wbpl
 吹捧	wbpr
-玩不起	wbq
+吃不起	wbq
 握不住	wbq
 吹着	wbqe
 垂青	wbqg
@@ -93058,6 +93074,7 @@ sort: original
 吹去	wbql
 吹求	wbqq
 我保证	wbqu
+玩不起	wbqv
 吹腔	wbqx
 创办人	wbr
 我不入地狱谁入地狱	wbry
@@ -102344,7 +102361,8 @@ sort: original
 挨到	xhdzi
 穴道	xhdzo
 爱到	xhdzu
-喜欢上	xhe
+西红柿	xhe
+新华社	xhe
 消火栓	xhea
 血水	xheb
 爱睡	xhebu
@@ -102376,8 +102394,7 @@ sort: original
 学神	xheno
 矮身	xhenu
 雪深	xhenv
-新华社	xheo
-安徽省	xheou
+安徽省	xheo
 爱上	xhep
 小鹤双拼	xhepi
 哀伤	xhepo
@@ -102386,7 +102403,6 @@ sort: original
 学生	xher
 爱杀	xhes
 血栓	xhet
-西红柿	xhev
 血海深仇	xhew
 先后顺序	xhex
 爱好者	xhf
@@ -110026,6 +110042,7 @@ sort: original
 掩面	yfmmi
 延绵	yfmmu
 雁门	yfmn
+养父母	yfmo
 掩码	yfms
 岳父母	yfmu
 烟煤	yfmw
@@ -111533,6 +111550,7 @@ sort: original
 移到	ykdzu
 胰岛	ykdzuu
 一刀	ykdzv
+要开始	yke
 一口水	yke
 易水	ykeb
 一首	yked
@@ -113778,8 +113796,6 @@ sort: original
 予取予求	yqyq
 以战养战	yqyqa
 又争又抢	yqyqau
-一切一切	yqyqv
-一阵一阵	yqyqva
 有朝一日	yqyr
 有求于人	yqyrv
 要注意	yqyv
@@ -117813,6 +117829,7 @@ sort: original
 子弟	zkdk
 字典	zkdm
 紫癜	zkdmi
+最快的	zkdo
 自当	zkdp
 自大	zkds
 自打	zkdsu
@@ -118540,7 +118557,8 @@ sort: original
 总目标	zmbo
 总没错	zmc
 走马灯	zmd
-最美的	zmdo
+最美的	zmd
+最慢的	zmdo
 自民党	zmdu
 自鸣得意	zmdy
 怎么说	zme
@@ -119563,7 +119581,6 @@ sort: original
 自由贸易	zymyu
 鬃毛	zymz
 自由鸟	zyn
-总有那么	zynm
 总能	zynr
 自由派	zyp
 资源配置	zypf
