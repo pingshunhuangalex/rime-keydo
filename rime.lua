@@ -37,6 +37,8 @@ time_translator = require("time")
 -- 详见 `lua/single_char.lua`
 -- single_char_filter = require("single_char")
 
+-- sphs_filter: 特殊简码，二级简码编码提示
+sphs_filter = require("sphs_filter")
 
 -- xkjd6_filter: 单字模式 & 630 即 ss 词组提示
 --- 修改自 @懒散 TsFreddie https://github.com/TsFreddie/jdc_lambda/blob/master/rime/lua/xkjdc_sbb_hint.lua

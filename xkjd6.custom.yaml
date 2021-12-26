@@ -1,13 +1,5 @@
 # encoding: utf-8
 patch:
-  repeat_history:
-    input: ;;
-    size: 2
-  danzi_lookup/comment_format:
-    - xform/~[a-z;]+//
-  key_binder/bindings:
-    - { when: has_menu, accept: F1, toggle: emoji_cn}
-    - { when: has_menu, accept: F2, toggle: jffh }
   menu/page_size: 2
   switches:
     - { name: ascii_mode, reset: 0, states: [ "中文", "英文" ] }
@@ -17,3 +9,19 @@ patch:
     - { name: emoji_cn, reset: 0, states: [ "关表情", "开表情" ] }
     - { name: EN2en, reset: 1 }
     - { name: bmms, reset: 1 }
+  engine/filters:
+    - uniquifier
+    - simplifier@emoji_cn
+    - simplifier@jffh
+    - simplifier@bmms
+    - simplifier@EN2en
+    - lua_filter@sphs_filter
+    - reverse_lookup_filter@danzi_lookup
+  repeat_history:
+    input: ;;
+    size: 2
+  danzi_lookup/comment_format:
+    - xform/~[a-z;]+//
+  key_binder/bindings:
+    - { when: has_menu, accept: F1, toggle: emoji_cn}
+    - { when: has_menu, accept: F2, toggle: jffh }

@@ -29,7 +29,7 @@ local function hint(cand, input, env)
         end
 
         if short and not startswith(short, input) then
-            cand:get_genuine().comment = cand.comment .. " [" .. short .. "❖" .. "]"
+            cand:get_genuine().comment = cand.comment .. " [" .. short .. "⛔️" .. "]"
             return 2
         end
     end
@@ -39,7 +39,7 @@ end
 
 local function commit_hint(cand)
     -- 顶功提示
-    cand:get_genuine().comment = '❖' .. cand.comment
+    cand:get_genuine().comment = '⛔️' .. cand.comment
 end
 
 local function is_danzi(cand)
