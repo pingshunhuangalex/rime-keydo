@@ -3,9 +3,7 @@ name: xkjd6.sphs_symbols
 version: "SPHS"
 sort: original
 ...
-# 首选
 ；	;
-# 次选
 ：	;
 ……”	;a
 ‘	;b
@@ -14,22 +12,16 @@ sort: original
 、	;e
 ↑	;f
 ·	;g
-# 首选
 ⁈	;h
-# 次选
 ⁇	;h
 。”	;i
 ’	;j
-# 首选
 ⁉	;k
-# 次选
 ‼	;k
 “	;l
 ！”	;m
 ？”	;n
-# 首选
 °	;o
-# 次选
 〇	;o
 ↔	;p
 ：“	;q
@@ -38,9 +30,7 @@ sort: original
 →	;t
 ”	;u
 —	;v
-# 首选
 %	;w
-# 次选
 ‰	;w
 @	;x
 ____	;y

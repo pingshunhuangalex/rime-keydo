@@ -14,7 +14,7 @@
 
 ## 词库归类逻辑
 
-为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，新词库将更为细化的对字词进行归类，使长度更大且码长更小的字词优先得到映射（[查看词库结构](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.extended.dict.yaml)）。
+为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，新词库将更为细化的对字词进行归类，使长度更大且码长更小的字词优先得到映射（[查看词库结构](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.sphs.dict.yaml)）。
 
 ## 简码整理逻辑
 
