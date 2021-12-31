@@ -4865,6 +4865,7 @@ sort: original
 不期而至	bqxf
 不擒二毛	bqxm
 不期而然	bqxr
+不珍惜	bqxv
 不期而遇	bqxy
 不注意	bqy
 不起眼	bqy
@@ -9537,8 +9538,9 @@ sort: original
 对光	dbgx
 对公	dbgy
 对攻	dbgya
-代表会	dbh
+但不会	dbh
 堆焊	dbhf
+代表会	dbhi
 对火	dbhl
 对话	dbhq
 对华	dbhqa
@@ -10647,6 +10649,7 @@ sort: original
 单身贵族	degz
 到时候	deh
 德厚	dehd
+的汗	dehf
 刀山火海	dehh
 德海	dehhu
 董事会	dehi
@@ -16696,6 +16699,7 @@ sort: original
 是不是要	ebey
 水少	ebez
 睡少	ebezi
+殊不知	ebf
 睡不着	ebf
 书报费	ebfa
 睡着	ebfe
@@ -16718,7 +16722,6 @@ sort: original
 水闸	ebfsao
 睡渣	ebfsi
 失败者	ebfu
-殊不知	ebfv
 水费	ebfw
 水肥	ebfwa
 税费	ebfwu
@@ -16918,7 +16921,6 @@ sort: original
 税政	ebqr
 税卡	ebqs
 水泉	ebqt
-失败者	ebqu
 输不起	ebqv
 示波器	ebqva
 水准	ebqw
@@ -20488,7 +20490,6 @@ sort: original
 说和	elhe
 生龙活虎	elhh
 说来话长	elhj
-说谎	elhm
 数理化	elho
 实例化	elhoi
 说谎	elhx
@@ -24052,6 +24053,8 @@ sort: original
 周时	fdek
 周身	fden
 周深	fdenu
+这点事	fdeo
+这点伤	fdeoi
 值得商榷	fdeq
 骤升	fder
 中低收入	fderi
@@ -29960,7 +29963,8 @@ sort: original
 转款	ftkt
 专款	ftktv
 专靠	ftkz
-状态栏	ftl
+这条路	ftl
+状态里	ftl
 专列	ftld
 转了	ftle
 赚了	ftlea
@@ -29971,7 +29975,7 @@ sort: original
 转炉	ftljv
 专利	ftlk
 转脸	ftlm
-这条路	ftlo
+状态栏	ftlo
 转流	ftlq
 转冷	ftlr
 反托拉斯	ftls
@@ -30789,7 +30793,6 @@ sort: original
 知恩图报	fxtb
 桩头	fxtd
 放下屠刀	fxtdo
-状态	fxth
 折线图	fxti
 伏尔泰	fxtiu
 装填	fxtm
@@ -43434,13 +43437,14 @@ sort: original
 惶窘	hxjy
 皇朝	hxjz
 黄巢	hxjzv
-化学课	hxk
+候选框	hxk
 黄口	hxkd
 黄客	hxke
 黄刊	hxkf
-候选框	hxki
+化学课	hxki
 呼吸困难	hxkn
 和蔼可亲	hxkq
+很辛苦	hxku
 黄昆	hxkw
 惶恐	hxky
 皇考	hxkz
@@ -48200,6 +48204,7 @@ sort: original
 初稿	jjgz
 经济工作	jjgza
 几句话	jjh
+基金会	jjh
 出车祸	jjha
 初回	jjhb
 经济活动	jjhd
@@ -48219,7 +48224,7 @@ sort: original
 长江后浪推前浪	jjhlu
 出航	jjhp
 刍豢	jjht
-基金会	jjhv
+超级好	jjhv
 初婚	jjhw
 春江花月夜	jjhy
 除号	jjhz
@@ -56065,7 +56070,7 @@ sort: original
 库存	kjcw
 抗拒从严	kjcy
 枯草	kjcz
-快车道	kjd
+空出的	kjd
 苦调	kjdc
 裤兜	kjdd
 哭得	kjde
@@ -57245,10 +57250,10 @@ sort: original
 困吧	kwbs
 困惫	kwbw
 开胃菜	kwc
-考察队	kwd
+快车道	kwd
 昆迪	kwdk
 坤奠	kwdm
-快车道	kwdo
+考察队	kwdu
 困顿	kwdw
 可谓是	kwe
 困守	kwed
@@ -57619,7 +57624,6 @@ sort: original
 可以说	kye
 空手	kyed
 空射	kyee
-可以说是	kyeev
 空山	kyef
 空数	kyej
 课余时间	kyejo
@@ -57770,8 +57774,8 @@ sort: original
 可以请	kyqv
 空群	kyqw
 空腔	kyqx
-空惹	kyre
-可以忍受	kyrev
+可以忍受	kyre
+空惹	kyreo
 空日	kyrk
 空忍	kyrn
 恐仍	kyrr
@@ -59620,7 +59624,7 @@ sort: original
 灵活多样	lhdya
 梨花带雨	lhdyu
 赖到	lhdz
-老和尚	lhe
+两回事	lhe
 涞水	lheb
 来收	lhed
 略熟	lhedi
@@ -59637,7 +59641,7 @@ sort: original
 赖上	lhep
 来生	lher
 掠杀	lhes
-两回事	lhev
+老和尚	lheu
 略少	lhez
 蓝孩纸	lhf
 莱州	lhfd
@@ -66569,6 +66573,7 @@ sort: original
 面吧	mmbs
 棉被	mmbw
 面包	mmbz
+慢慢从	mmc
 磨磨蹭蹭	mmcc
 面层	mmcr
 免从	mmcy
@@ -75596,8 +75601,7 @@ sort: original
 这代	qedh
 折抵	qedk
 这多	qedl
-这点	qedm
-欺世盗名	qedmv
+欺世盗名	qedm
 掌上电脑	qedn
 遮挡	qedp
 这档	qedpo
@@ -81017,7 +81021,6 @@ sort: original
 全款	qtkt
 全况	qtkx
 全靠	qtkz
-这条路	qtl
 泉林	qtlb
 全聊	qtlc
 全裂	qtld
@@ -94617,6 +94620,7 @@ sort: original
 武断	wjdtv
 无端	wjdtvo
 我决定	wjdu
+无尽的	wjdv
 赤诚的	wjdv
 无间道	wjdvo
 问卷调查	wjdw
@@ -99099,7 +99103,6 @@ sort: original
 创造机会	wzjhi
 创造出	wzji
 超出	wzjj
-超级	wzjk
 超距	wzjl
 潮剧	wzjla
 创造出来	wzjli
@@ -99977,8 +99980,8 @@ sort: original
 小树	xceji
 小叔	xcejii
 小暑	xcejio
-小时	xcek
 消失	xcek
+小时	xcek
 消逝	xceka
 小事	xceki
 小诗	xcekio
@@ -109227,6 +109230,7 @@ sort: original
 野生动物	yedwi
 也到	yedz
 硬生生	yee
+一双双	yee
 野兽	yeed
 以身试毒	yeeda
 以少胜多	yeedai
@@ -109249,7 +109253,7 @@ sort: original
 野上	yeep
 野生	yeer
 一双手	yeev
-一双双	yeeva
+一身伤	yeevu
 一生中	yef
 眼神中	yef
 也是种	yefa
@@ -109654,7 +109658,7 @@ sort: original
 艺术作品	yezpi
 影视作品	yezpo
 以身作则	yezz
-亚洲杯	yfb
+一直把	yfb
 宴宾	yfbb
 言表	yfbc
 以防不测	yfbca
@@ -109683,6 +109687,7 @@ sort: original
 岩崩	yfbr
 盐巴	yfbs
 与众不同	yfbt
+亚洲杯	yfbv
 雁北	yfbw
 依法办案	yfbx
 有法必依	yfby
