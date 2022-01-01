@@ -12447,7 +12447,7 @@
 专有名词	fymcv
 重要目标	fymbu
 专业领域	fylyv
-幅员辽阔	fylkio
+幅员辽阔	fylki
 敷衍了事	fylev
 风雨雷电	fyldu
 中央领导	fyldii
@@ -26701,12 +26701,13 @@
 回娘家	hnj_
 华南虎	hnh_
 很难过	hng_
-后脑勺	hneuu
-很难说	hneu
+很难受	hneu
 海南省	hneau
 海宁市	hneao
-湖南省	hnea
-河南省	hne_
+湖南省	hnea'
+河南省	hnea
+后脑勺	hne'
+很难说	hne_
 很难的	hndu
 海南岛	hnda
 很难得	hnd_
@@ -98229,7 +98230,7 @@
 重浪	fylp
 中联	fylm
 中旅	fyll
-中立	fylki
+中立	fylk'
 重力	fylk
 中路	fylj
 中略	fylhi
