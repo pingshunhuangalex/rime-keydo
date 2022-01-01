@@ -1,6 +1,6 @@
 # 键道·我流
 
-[![星空键道](https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2021.12.19%20--%20da33652-orange)](https://gitee.com/xkinput/Rime_JD/commits/master)
+[![星空键道](https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2021.12.19%20--%20da33652-orange)](https://github.com/xkinput/Rime_JD/commits/master)
 
 `键道·我流`是一款脱胎于[星空键道](https://github.com/xkinput/Rime_JD)的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局](https://colemakmods.github.io/mod-dh/keyboards.html#matrix-keyboards)并通过[Rime开源输入平台](https://github.com/rime)得以实现。
 
@@ -10,7 +10,7 @@
 
 - 移除[自定义扩展设置](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.custom.yaml)后仍可使用[星空键道](https://github.com/xkinput/Rime_JD)
 
-- 重新定向git远程仓库路径后仍可无冲突地更新[星空键道](https://github.com/xkinput/Rime_JD)
+- 重新定向`git`远程仓库路径后仍可无冲突地更新[星空键道](https://github.com/xkinput/Rime_JD)
 
 ---
 
