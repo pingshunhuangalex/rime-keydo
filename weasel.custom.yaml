@@ -36,9 +36,9 @@ patch:
       hilite_padding: 10
       hilite_spacing: 4
       margin_x: 12
-      margin_y: 12
+      margin_y: -12
       min_height: 0
       min_width: 0
       round_corner: 0
       spacing: 10
-    preedit_type: composition
+    preedit_type: preview
