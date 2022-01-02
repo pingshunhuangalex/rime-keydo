@@ -7,8 +7,6 @@ patch:
     - { name: jffh, reset: 0 }
     - { name: sbb_hint, reset: 0 }
     - { name: emoji_cn, reset: 0 }
-    - { name: EN2en, reset: 1 }
-    - { name: bmms, reset: 1 }
   punctuator:
     full_shape:
       ' ' : { commit: '　' }
@@ -81,8 +79,6 @@ patch:
     - uniquifier
     - simplifier@emoji_cn
     - simplifier@jffh
-    - simplifier@bmms
-    - simplifier@EN2en
     - lua_filter@sphs_filter
     - reverse_lookup_filter@danzi_lookup
   translator:
