@@ -17,7 +17,6 @@ patch:
   menu/page_size: 6
   schema_list:
     - { schema: xkjd6 }
-    - { schema: luna_pinyin }
   switcher:
     caption: "「切换方案」"
     hotkeys: [ "Shift+space" ]
