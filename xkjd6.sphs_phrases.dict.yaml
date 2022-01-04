@@ -3969,10 +3969,11 @@ sort: original
 编队	bmdb
 变调	bmdc
 扁豆	bmdd
+变得	bmde
 编得	bmde
-变的	bmde
 编的	bmdea
-扁的	bmdeo
+变的	bmdeo
+扁的	bmdeou
 扁担	bmdf
 变淡	bmdfo
 本末倒置	bmdfv
@@ -4820,14 +4821,12 @@ sort: original
 屏住呼吸	bqhx
 变着花样	bqhy
 不清楚	bqj
+标准间	bqj
 保证金	bqji
 别着急	bqjo
 白切鸡	bqju
 不正经	bqjv
-不着急	bqjvo
-标准件	bqjvoi
-标准间	bqjvoo
-不正常	bqjvv
+标准件	bqjvo
 补助款	bqk
 比起来	bql
 不准了	bql
@@ -35658,7 +35657,9 @@ sort: original
 挂掉	gqdc
 挂斗	gqdd
 瓜瓞	gqddu
+挂得	gqde
 刮得	gqde
+挂的	gqdei
 刮的	gqdeu
 寡淡	gqdf
 瓜代	gqdh
@@ -64964,7 +64965,7 @@ sort: original
 满窗	mfwx
 螨虫	mfwy
 满潮	mfwz
-密封性	mfx
+没方向	mfx
 没法儿	mfxa
 满心	mfxb
 慢些	mfxd
@@ -64973,6 +64974,7 @@ sort: original
 满血	mfxh
 蔓儿	mfxj
 慢线	mfxm
+密封性	mfxo
 蛮像	mfxx
 没反应	mfy
 漫游	mfyd
@@ -93582,6 +93584,7 @@ sort: original
 扯破	wepl
 车棚	wepr
 超水平	wepv
+冲上去	weq
 扯着	weqe
 万水千山	weqev
 车站	weqf
@@ -110727,8 +110730,8 @@ sort: original
 映像	ygxxoi
 迎向	ygxxu
 英雄	ygxy
+应该要	ygy
 一共有	ygy
-一个样	ygy
 影音	ygyb
 影印	ygybo
 应有	ygyd
@@ -110765,6 +110768,7 @@ sort: original
 应援	ygyto
 鱼肝油	ygyu
 一个月	ygyv
+一个样	ygyvi
 有感于	ygyvv
 营运	ygyw
 莺歌燕舞	ygywi
@@ -116763,6 +116767,7 @@ sort: original
 最深层	zec
 则才	zech
 则从	zecy
+暂时的	zed
 最少的	zed
 则对	zedb
 则得	zede
@@ -117496,8 +117501,8 @@ sort: original
 再远	zhyt
 怎会有	zhyu
 再晕	zhyw
-再用	zhyy
-在用	zhyyv
+在用	zhyy
+再用	zhyyv
 再要	zhyz
 总会在	zhz
 在最	zhzb
