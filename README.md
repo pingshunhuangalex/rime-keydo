@@ -2,19 +2,19 @@
 
 [![星空键道](https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2021.12.19%20--%20da33652-orange)](https://github.com/xkinput/Rime_JD/commits/master)
 
-`键道·我流`是一款脱胎于[星空键道](https://github.com/xkinput/Rime_JD)的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局](https://colemakmods.github.io/mod-dh/keyboards.html#matrix-keyboards)并通过[Rime开源输入平台](https://github.com/rime)得以实现。
+`键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
 
 ![Colemak-DH Matrix Layout](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/preview/colemak_dh_matrix_layout_sphs.png)
 
-本仓库所有配置均为自定义扩展，可无缝兼容[星空键道](https://github.com/xkinput/Rime_JD)。
+本仓库所有配置均为自定义扩展，可无缝兼容[星空键道]。
 
-- 移除[自定义扩展设置](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.custom.yaml)后仍可使用[星空键道](https://github.com/xkinput/Rime_JD)
+- 移除[自定义扩展设置]后仍可使用[星空键道]
 
-- 重新定向`git`远程仓库路径后仍可无冲突地更新[星空键道](https://github.com/xkinput/Rime_JD)
+- 重新定向`git`远程仓库路径后仍可无冲突地更新[星空键道]
+
+想要进一步了解这款优雅的中文输入方案？来看看我自制的[Rime键道输入法文档]吧!
 
 ---
-
-想要进一步了解这款优雅的中文输入方案？来看看我自制的[Rime键道输入法文档](https://pingshunhuangalex.gitbook.io/rime-xkjd/)吧!
 
 ## 回归初心
 
@@ -22,9 +22,15 @@
 
 由于目前词库的删改逻辑与我的预想相去甚远，极低的更新频率更是使其雪上加霜。思前想后，我决定摒弃官方词库，另起炉灶，打造属于我自己的键道词库。
 
-## 词库归类逻辑
+## 以词为魂，以库为核
 
-为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，新词库将更为细化的对字词进行归类，使长度更大且码长更小的字词优先得到映射（[查看词库结构](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.sphs.dict.yaml)）。
+如果说[星空键道]的灵魂在于对字词编码的有理化（即在不增加心智负担的前提下，以高效的方式将字词罗马化），那么`键道·我流`便是在这基础上对字词的解码进行有理化（即在不增加心智负担的前提下，以高效的方式将编码与字词产生联系）。
+
+为达成这一目标，`键道·我流`力求对词库编码规则进行量化，以此来构建一个标准化的词库，从而使用户能通过记忆少量规则来自然反应出字词所需的编码。如词库设计得当，盲打应是`键道·我流`最有效的运用方式（`键道·我流`的[默认主题]为所见即所得模式且已隐藏候选框）。
+
+另外为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，`键道·我流`的[词库结构]对字词进行更为细化的归类，使长度更大且码长更小的字词优先得到映射。
+
+---
 
 ## 简码整理逻辑
 
@@ -36,9 +42,9 @@
 
 - 尽可能利用所有简码与其次选的编码空间
 
-- 在码长缩短的情况下（含上屏用空格或次码编码），尽可能将完全由一级简码单字组成的词组编入简码空间（不包括特殊简码）
+- 在码长缩短的情况下（含上屏用空格或次码编码），尽可能将完全由一级简码单字组成的二字与三字词组编入简码空间（不包括特殊简码）
 
-- 移除完全由三字词组（不包括完全由一级简码单字组成的词组）与任意简码组成的多字词组（无论码长是否增加）
+- 在多字词组本身不是成语或专有名词的情况下，移除完全由三字词组与任意简码组成的多字词组（无论码长是否增加）
 
 - 移除完全由特殊简码词组组成的多字词组（无论码长是否增加）
 
@@ -86,6 +92,9 @@
   - 太（`th`）
   - 最（`zb`）
 
+- 如名词由二字名词与特定前后缀组成时，尽可能将其分配在首个形码的编码位置
+  - 者（`fe`）
+
 - 尽可能使相同结构的词拥有相同的编码长度（优先对应并分配在首个形码的编码位置）
   - 词组如能同时与`得`、`地`与`的`搭配，则确保相应词组顺序为`得`，`地`，最后才是`的`
   - 词组如能同时与`好`与`很`搭配，则确保相应词组顺序为`好`，然后才是`很`
@@ -124,9 +133,11 @@
 
 - 测试编码的实际使用情况，确保编码无误且输入效率与可读性没有降低
 
+---
+
 ## 极速跟打器
 
-以新构建的词库为蓝本，本仓库将会同步更新「极速跟打器」所使用的[编码文件](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/%E6%9E%81%E9%80%9F%E8%B7%9F%E6%89%93%E5%99%A8/%E7%BC%96%E7%A0%81%E6%96%87%E4%BB%B6/%E9%94%AE%E9%81%93%C2%B7%E6%88%91%E6%B5%81.txt)以保证词库在实际应用中的有效性。编码生成的步骤为：
+以新构建的词库为蓝本，本仓库将会同步更新「极速跟打器」所使用的[编码文件]以保证词库在实际应用中的有效性。编码生成的步骤为：
 
 - 将所需字词及其编码（不包含生僻单字、偏旁部首、符号等非必要词库）按词库优先级顺序进行集中
 
@@ -144,3 +155,12 @@
 - 在词组字数相同的情况下，对该组词组按编码进行倒序排列，使词组映射组合更加准确（不包含简码词组）
 
 - 测试编码的实际使用情况，确保字词映射无误且理论码长结果理想
+
+[星空键道]: https://github.com/xkinput/Rime_JD
+[Colemak-DH Matrix布局]: https://colemakmods.github.io/mod-dh/keyboards.html#matrix-keyboards
+[Rime开源输入平台]: https://github.com/rime
+[Rime键道输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
+[自定义扩展设置]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.custom.yaml
+[默认主题]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/weasel.custom.yaml
+[词库结构]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.sphs.dict.yaml
+[编码文件]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/%E6%9E%81%E9%80%9F%E8%B7%9F%E6%89%93%E5%99%A8/%E7%BC%96%E7%A0%81%E6%96%87%E4%BB%B6/%E9%94%AE%E9%81%93%C2%B7%E6%88%91%E6%B5%81.txt
