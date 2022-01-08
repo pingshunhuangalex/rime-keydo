@@ -17626,6 +17626,7 @@
 呀咩咯	ymlo
 阴谋论	yml_
 牙买加	ymjv
+移民局	ymju
 阴谋家	ymja
 衣帽间	ymj_
 雅马哈	ymhv
@@ -31721,8 +31722,9 @@
 不起眼	bqy'
 不注意	bqy_
 不珍惜	bqxv
+白求恩	bqxu
 编者按	bqxa
-白求恩	bqx_
+标注下	bqx_
 标准差	bqw_
 不折腾	bqtv
 拜占庭	bqti
@@ -33147,10 +33149,10 @@
 昨天	zt_
 仔细	zx_
 早早	zzzz
-早做	zzzlo
-造作	zzzl
-造字	zzzku
-枣子	zzzk
+造作	zzzlu
+早做	zzzl
+枣子	zzzkv
+造字	zzzk
 早在	zzzh
 遭罪	zzzb
 造谣	zzyz
@@ -40378,10 +40380,10 @@
 幽怨	ydytiu
 优源	ydytia
 悠远	ydyti
-又远	ydytav
 幼圆	ydytai
 油院	ydytaa
 游园	ydyta
+又远	ydyt'
 有缘	ydyt
 幽雅	ydysi
 油压	ydysa
@@ -63800,7 +63802,6 @@
 却走	qhzdv
 摘走	qhzd
 缺嘴	qhzb
-摘要	qhyzi
 却要	qhyz
 缺员	qhytu
 宅院	qhyt
@@ -120070,9 +120071,9 @@
 半年	bfnm
 伴你	bfnk
 伴您	bfnb
-斑猫	bfmzv
-半毛	bfmzo
-斑蝥	bfmz
+斑蝥	bfmzv
+斑猫	bfmz'
+半毛	bfmz
 搬煤	bfmw
 半马	bfmso
 斑马	bfms
