@@ -3,7 +3,6 @@ name: xkjd6.sphs_phrases
 version: "SPHS"
 sort: original
 ...
-######################词库整理进度######################
 并不比	bbb
 并不表示	bbbe
 宾白	bbbh
@@ -22,8 +21,8 @@ sort: original
 搬不动	bbd
 巴不得	bbda
 并不代表	bbdb
-斑斑点点	bbdd
-版本迭代	bbddu
+版本迭代	bbdd
+斑斑点点	bbddv
 薄薄的	bbdi
 并不多见	bbdj
 百般刁难	bbdn
@@ -45,16 +44,16 @@ sort: original
 不必说	bbev
 百八十	bbevu
 鬓霜	bbex
-八宝粥	bbf
+半部分	bbf
 并不知道	bbfd
 滨州	bbfda
 不败之地	bbfdv
 八拜之交	bbfj
 缤纷	bbfn
-半部分	bbfo
 鬓发	bbfs
-不白之冤	bbfy
-并不重要	bbfyo
+八宝粥	bbfu
+并不重要	bbfy
+不白之冤	bbfyv
 比不过	bbg
 步步高升	bbge
 宾格	bbgeo
@@ -77,11 +76,10 @@ sort: original
 殡车	bbjev
 本报记者	bbjf
 标本兼治	bbjfv
-摈除	bbjj
-并不仅仅	bbjjo
+并不仅仅	bbjj
+摈除	bbjji
 变本加厉	bbjl
 半杯酒	bbjo
-本报记者	bbjq
 滨江	bbjx
 不包括	bbk
 避不开	bbka
@@ -159,13 +157,13 @@ sort: original
 傧相	bbxx
 并不需要	bbxy
 宝贝儿子	bbxz
-北冰洋	bby
+不必要	bby
 并不一定	bbyd
 兵不厌诈	bbyf
+北冰洋	bbyi
 殡仪	bbyk
 彬彬有礼	bbyl
 宾语	bbylo
-不必要	bbyv
 并不意味	bbyw
 并不影响	bbyx
 半辈子	bbz
@@ -175,6 +173,7 @@ sort: original
 本本族	bbzv
 并不在于	bbzy
 不必在意	bbzyv
+######################词库整理进度######################
 彼此彼此	bcbc
 标版	bcbf
 标兵	bcbg
@@ -439,7 +438,7 @@ sort: original
 别装	bdfx
 别种	bdfy
 别照	bdfz
-白大褂	bdg
+变得更	bdg
 别归	bdgb
 别个	bdge
 别干	bdgf
@@ -449,9 +448,11 @@ sort: original
 别跟	bdgn
 别挂	bdgq
 别管	bdgt
+白大褂	bdgu
 别给	bdgw
 别搞	bdgz
-本地化	bdh
+必定会	bdh
+不大好	bdh
 别后	bdhd
 别和	bdhe
 不当回事	bdhev
@@ -462,11 +463,10 @@ sort: original
 别火	bdhl
 别慌	bdhm
 别恨	bdhn
-必定会	bdho
 别画	bdhq
 不得好死	bdhs
 不到黄河心不死	bdhsv
-不大好	bdhv
+本地化	bdhv
 别慌	bdhx
 别红	bdhy
 别号	bdhz
@@ -90401,8 +90401,8 @@ sort: original
 特靠谱	tkp
 踢平	tkpg
 体魄	tkpl
-太可怕了	tkplv
 嚏喷	tkpn
+太可怕	tkpv
 踢跑	tkpz
 叹口气	tkq
 提琴	tkqb
