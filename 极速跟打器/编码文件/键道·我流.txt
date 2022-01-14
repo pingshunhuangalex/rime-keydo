@@ -8001,6 +8001,7 @@
 扭亏为盈	nkwyi
 囊括四海	nksh
 囊空如洗	nkrx
+能开就开	nkjk
 南开大学	nkdx
 难及万一	njwy
 年纪轻轻	njqq
@@ -12309,6 +12310,7 @@
 公办学校	gbxxu
 各不相同	gbxt
 各不相让	gbxr
+干不下去	gbxq
 甘拜下风	gbxfv
 改变现状	gbxfa
 个半小时	gbxei
@@ -15396,6 +15398,7 @@
 寸草不留	ccbl
 寸草不生	ccbe
 措辞不当	ccbd
+踩不下去	cbxq
 苍白无力	cbwl
 慈悲为怀	cbwh
 慈悲如月	cbry
@@ -15508,8 +15511,6 @@
 不阴不阳	byby'
 不怨不艾	byby
 不依不饶	bybr
-补药碧莲	byblo
-不摇碧莲	bybl
 百依百顺	bybev
 暴饮暴食	bybe
 不肖子孙	bxzs
@@ -23138,9 +23139,10 @@
 那几年	njn_
 南京路	njluo
 年产量	njlu
+农家乐	njloo
 凝聚力	njlo
-农家乐	njl'
-拿出来	njl_
+拿出来	njl'
+弄出来	njl_
 能解开	njk_
 牛角尖	njju
 那几句	njja
@@ -31510,8 +31512,9 @@
 本益比	bybvo
 毕业班	bybv
 半月板	bybo
-薄一波	bybi
-搏一搏	byb_
+薄一波	bybiv
+搏一搏	bybi
+不要把	byb_
 不想做	bxzv
 保安族	bxzi
 表现在	bxz_
@@ -45869,7 +45872,8 @@
 案发	xffs
 暗讽	xffr
 暗抓	xffq
-暗访	xffpo
+暗房	xffpo
+暗访	xffp'
 安放	xffp
 安分	xffn
 暗桩	xffmo
@@ -53807,6 +53811,7 @@
 脱岗	tlgpu
 脱肛	tlgp
 脱光	tlgm
+拖过	tlgl
 托孤	tlgj
 脱钩	tlgd
 脱轨	tlgb
@@ -69464,7 +69469,7 @@
 霓裳	nkjp
 泥尘	nkjn
 拟建	nkjm
-匿迹	nkjk
+匿迹	nkjkv
 你处	nkjj
 你绝	nkjh
 逆境	nkjg
@@ -97588,7 +97593,7 @@
 规训	gbxw
 贵啊	gbxsi
 跪下	gbxs
-闺秀	gbxq
+闺秀	gbxqo
 归西	gbxk
 柜儿	gbxj
 归型	gbxgi
