@@ -16393,7 +16393,6 @@
 博采众长	bcfju
 彼此之间	bcfj
 抱残守缺	bceq
-彼此彼此	bcbc
 不必在意	bbzyv
 并不在于	bbzy
 并不怎么	bbzm
@@ -32404,8 +32403,8 @@
 别错过	bcg_
 保存着	bcf_
 不从事	bce_
-别藏得	bcdo
-彼此的	bcd_
+彼此的	bcdu
+别藏得	bcd_
 本本族	bbzv
 拜把子	bbzi
 半辈子	bbz_
@@ -99137,6 +99136,7 @@
 专政	ftqr
 转账	ftqp
 转诊	ftqn
+转钱	ftqmv
 赚钱	ftqm
 专区	ftqlv
 赚取	ftql
