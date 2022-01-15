@@ -42,7 +42,7 @@ local function filter(input, env)
 end
 
 local function init(env)
-    env.reverse = ReverseDb("build/xkjd6.sphs.reverse.bin")
+    env.reverse = ReverseDb("build/sphs.reverse.bin")
 end
 
 return { init = init, func = filter }

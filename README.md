@@ -6,9 +6,9 @@
 
 ![Colemak-DH Matrix Layout](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/preview/colemak_dh_matrix_layout_sphs.png)
 
-本仓库所有配置均为自定义扩展，可无缝兼容[星空键道]。
+本仓库将`键道·我流`配置为一款独立的输入方案，并可无缝兼容[星空键道]。
 
-- 移除[自定义扩展设置]后仍可使用[星空键道]
+- 在[Rime自定义设置]中将`schema`更改为`xkjd6`后仍可使用[星空键道]
 
 - 重新定向`git`远程仓库路径后仍可无冲突地更新[星空键道]
 
@@ -26,7 +26,7 @@
 
 如果说[星空键道]的灵魂在于对字词编码的有理化（即在不增加心智负担的前提下，以高效的方式将字词罗马化），那么`键道·我流`便是在这基础上对字词的解码进行有理化（即在不增加心智负担的前提下，以高效的方式将编码与字词产生联系）。
 
-为达成这一目标，`键道·我流`力求对词库编码规则进行量化，以此来构建一个标准化的词库，从而使用户能通过记忆少量规则来自然反应出字词所需的编码。如词库设计得当，盲打应是`键道·我流`最有效的运用方式（`键道·我流`的[默认主题]为所见即所得模式且已隐藏候选框）。
+为达成这一目标，`键道·我流`力求对词库编码规则进行量化，以此来构建一个标准化的词库，从而使用户能通过记忆少量规则来自然反应出字词所需的编码。如词库设计得当，盲打应是`键道·我流`最有效的运用方式（`键道·我流`的[自定义主题]为所见即所得模式且已隐藏候选框）。
 
 另外为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，`键道·我流`的[词库结构]对字词进行更为细化的归类，使长度更大且码长更小的字词优先得到映射。
 
@@ -169,7 +169,7 @@
 [Colemak-DH Matrix布局]: https://colemakmods.github.io/mod-dh/keyboards.html#matrix-keyboards
 [Rime开源输入平台]: https://github.com/rime
 [Rime键道输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
-[自定义扩展设置]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.custom.yaml
-[默认主题]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/weasel.custom.yaml
-[词库结构]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/xkjd6.sphs.dict.yaml
+[Rime自定义设置]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/default.custom.yaml
+[自定义主题]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/weasel.custom.yaml
+[词库结构]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/sphs.dict.yaml
 [编码文件]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/%E6%9E%81%E9%80%9F%E8%B7%9F%E6%89%93%E5%99%A8/%E7%BC%96%E7%A0%81%E6%96%87%E4%BB%B6/%E9%94%AE%E9%81%93%C2%B7%E6%88%91%E6%B5%81.txt

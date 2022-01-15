@@ -75,34 +75,10 @@ patch:
       ']' : { commit: '”' }
       '{' : { commit: '‘' }
       '}' : { commit: '’' }
-  engine/filters:
-    - uniquifier
-    - simplifier@emoji_cn
-    - simplifier@jffh
-    - lua_filter@sphs_filter
-    - reverse_lookup_filter@danzi_lookup
-  translator:
-    dictionary: xkjd6.sphs
-    enable_charset_filter: false
-    enable_completion: true
-    enable_encoder: true
-    enable_sentence: false
-    enable_user_dict: false
-    encode_commit_history: true
-    max_phrase_length: 6
   repeat_history:
     input: ;;
     size: 2
   danzi_lookup:
-    dictionary: xkjd6.sphs
-    tags: [ danzi_lookup ]
-    overwrite_comment: true
-    enable_charset_filter: false
-    enable_completion: true
-    enable_encoder: false
-    enable_sentence: false
-    enable_user_dict: false
-    encode_commit_history: false
     comment_format:
       - xform/~[a-z;]+//
   key_binder/bindings:

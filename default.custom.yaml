@@ -16,7 +16,7 @@ patch:
       Eisu_toggle: clear
   menu/page_size: 6
   schema_list:
-    - { schema: xkjd6 }
+    - { schema: sphs }
   switcher:
     caption: "「切换方案」"
     hotkeys: [ "Shift+space" ]

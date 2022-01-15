@@ -1,56 +1,54 @@
-# Rime dictionary
-# encoding: utf-8
-#
 # 键道·我流@SPHS扩展词库控制
----
-name: xkjd6.sphs
-version: "SPHS"
+# encoding: utf-8
+
+name: sphs
+version: "1.0"
 sort: original
 use_preset_vocabulary: false
 import_tables:
 # ---------------------------------------
 # 下列为键道·我流@SPHS专属的扩展词库：
-# 说明：专属词库在当前目录下均含有"sphs_"前缀
+# 说明：专属词库在当前目录下均含有"sphs"前缀
 # 若需要，请仅删除下列码表名前的“#”号，并重新部署
 # 示例码表状态：
-# #  - xkjd6.sphs_example #关闭（前面有一个#号）
-#    - xkjd6.sphs_example #开启（前面没有#号了）
+# #  - sphs.example #关闭（前面有一个#号）
+#    - sphs.example #开启（前面没有#号了）
 # =======================================
 # ---------------------------------------
 # 扩展：特殊简码
-  - xkjd6.sphs_shorthand
+  - sphs.shorthand_sp
 # ---------------------------------------
 # 扩展：二级简码
-  - xkjd6.sphs_shorthand_lvl2
+  - sphs.shorthand_l2
 # ---------------------------------------
 # 扩展：词组
-  - xkjd6.sphs_phrases
+  - sphs.phrases
 # ---------------------------------------
 # 扩展：自定义词组
-  - xkjd6.sphs_special
+  - sphs.user
 # ---------------------------------------
 # 扩展：一级简码
-  - xkjd6.sphs_shorthand_lvl1
+  - sphs.shorthand_l1
 # ---------------------------------------
 # 扩展：单字
-  - xkjd6.sphs_chars
+  - sphs.chars
 # ---------------------------------------
 # 扩展：字根、偏旁部首
-  - xkjd6.sphs_strokes
+  - sphs.strokes
 # ---------------------------------------
 # 扩展：生僻单字
-  - xkjd6.sphs_chars_extra
+  - sphs.chars_extra
 # ---------------------------------------
 # 扩展：符号
-  - xkjd6.sphs_symbols
+  - sphs.symbols
 # ---------------------------------------
 # 扩展：代名词、简称
-  - xkjd6.sphs_synonyms
+  - sphs.synonyms
 # ---------------------------------------
 # 扩展：外语混合词组、外语缩写
-  - xkjd6.sphs_lang_mix
+  - sphs.lang_mix
 # ---------------------------------------
 # 扩展：链接
-  - xkjd6.sphs_links
+  - sphs.links
 # ---------------------------------------
 # =======================================
