@@ -19515,7 +19515,6 @@
 问一问	wyw'
 误以为	wyw_
 五月天	wyt_
-超音速	wys_
 持有人	wyr_
 朝阳区	wyqu
 委员长	wyq_
@@ -23878,7 +23877,8 @@
 没说话	meha
 没睡好	meh_
 美术馆	mego
-没生过	meg_
+没生过	mega
+没上过	meg_
 魔术师	mee_
 陌生的	med_
 木栓层	mec_
@@ -25256,6 +25256,7 @@
 贾跃亭	jytv
 教育厅	jytu
 绝缘体	jyt_
+基因锁	jysv
 解压缩	jysu
 交易所	jyso
 超音速	jys_
@@ -27667,8 +27668,9 @@
 工程量	gjlvu
 攻击力	gjlv
 供给量	gjli
+滚出来	gjla
 构成了	gjl'
-滚出来	gjl_
+搞出来	gjl_
 公交卡	gjk_
 工程处	gjjvu
 过家家	gjjvoo
@@ -31603,6 +31605,7 @@
 鲍威尔	bwxu
 不玩儿	bwx_
 布娃娃	bww_
+不冲突	bwt_
 不吃肉	bwr_
 不完整	bwqv
 包围圈	bwqu
@@ -92724,11 +92727,11 @@
 后院	hdyt
 后仰	hdyp
 厚谊	hdykv
-后一	hdykuv
-后移	hdykuu
 后遗	hdykui
-后羿	hdyku
-后裔	hdyk
+后羿	hdykua
+后一	hdyku
+后裔	hdyk'
+后移	hdyk
 后赢	hdyg
 厚颜	hdyfv
 后燕	hdyf
