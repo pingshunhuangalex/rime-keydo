@@ -78,9 +78,8 @@ patch:
   repeat_history:
     input: ;;
     size: 2
-  danzi_lookup:
-    comment_format:
-      - xform/~[a-z;]+//
+  danzi_lookup/comment_format:
+    - xform/~[a-z;]+//
   key_binder/bindings:
     - { when: has_menu, accept: F1, toggle: emoji_cn}
     - { when: has_menu, accept: F2, toggle: jffh }
