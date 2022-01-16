@@ -74,11 +74,11 @@ engine:
     - lua_translator@time_translator
     - lua_translator@number_translator
   filters:
-    - uniquifier
-    - simplifier@emoji_cn
     - simplifier@jffh
-    - lua_filter@sphs_filter
+    - simplifier@emoji_cn
     - reverse_lookup_filter@danzi_lookup
+    - lua_filter@sphs_filter
+    - uniquifier
 
 
 speller:

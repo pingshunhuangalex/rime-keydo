@@ -18,7 +18,8 @@ local function has_cn_char(text)
         -- https://titanwolf.org/Network/Articles/Article?AID=038ec1a2-6ed1-49ac-9bf2-e1b00c376d43
         if (byte1 >= 228 and byte1 <= 233) and
            (byte2 >= 128 and byte2 <= 191) and
-           (byte3 >= 128 and byte3 <= 191) then
+           (byte3 >= 128 and byte3 <= 191)
+        then
             return true
         end
 
@@ -38,8 +39,10 @@ local function add_keycode_hint(cand, context, reverse)
     local keycode_hint = lookup:match(" (".. phonetics_keycode .. stroke_keycodes .. ") ") or
                          lookup:match(" (".. phonetics_keycode .. phonetics_keycode .. ") ")
 
-    if keycode_hint and #input > #keycode_hint and
-       not starts_with(keycode_hint, input) then
+    if keycode_hint and
+       #input > #keycode_hint and
+       not starts_with(keycode_hint, input)
+    then
         cand:get_genuine().comment = cand.comment .. " [" .. keycode_hint .. "]"
     end
 end
@@ -55,8 +58,10 @@ local function sphs_filter(cand_list, env)
     local is_repeat_on = starts_with(input, repeat_keycode)
 
     for cand in cand_list:iter() do
-        if cand.text == nil or cand.text == "" or
-           (is_repeat_on and not has_cn_char(cand.text)) then
+        if cand.text == nil or
+           cand.text == "" or
+           (is_repeat_on and not has_cn_char(cand.text))
+        then
             goto continue
         end
 
