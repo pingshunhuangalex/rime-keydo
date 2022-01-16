@@ -17907,7 +17907,8 @@
 阳光下	ygx_
 异构体	ygta
 硬骨头	ygt_
-英国人	ygr_
+英国人	ygri
+一个人	ygr_
 一个准	ygqv
 荧光漆	ygqi
 有感情	ygq_
@@ -19010,9 +19011,10 @@
 小剪刀	xjdi
 小家电	xjd'
 现阶段	xjd_
-下酒菜	xjcv
+下基层	xjcv
+衔接词	xjcu
 新举措	xjco
-下基层	xjc_
+下酒菜	xjc_
 瞎几把	xjbi
 巡检表	xjba
 性价比	xjb_
@@ -23718,6 +23720,7 @@
 模块化	mkh_
 门开关	mkg_
 麦克风	mkf_
+没看懂	mkda
 没看到	mkd_
 没看错	mkc_
 马克杯	mkb_
@@ -27721,7 +27724,8 @@
 刮胡子	ghz_
 各行业	ghy_
 过会儿	ghx_
-规划图	ght_
+规划图	ghtv
+搞糊涂	ght_
 搞黄色	ghs_
 光和热	ghr_
 关汉卿	ghq_
@@ -33112,6 +33116,7 @@
 聪明	cm_
 采取	cq_
 操心	cx_
+都是	de_
 电脑	dn_
 的人	dr_
 大小	dx_
@@ -33132,6 +33137,7 @@
 光明	gm_
 花草	hc_
 很快	hk_
+好了	hl_
 后面	hm_
 就能	jn_
 就有	jy_
@@ -33166,12 +33172,17 @@
 同学	tx_
 他在	tz_
 为此	wc_
+我是	we_
 外面	wm_
 完全	wq_
+有的	yd_
 因此	yc_
-有时	ye_
+又是	ye_
+有时	ye'
 有个	yg_
+一个	yg'
 以及	yj_
+有了	yl_
 郁闷	ym_
 一年	yn_
 要求	yq_
@@ -35051,6 +35062,7 @@
 再平	zhpg
 再拼	zhpb
 再闹	zhnz
+再弄	zhnyv
 在弄	zhny
 在内	zhnw
 在哪	zhns
@@ -82937,8 +82949,8 @@
 舅兄	jqxy
 就象	jqxxo
 酒香	jqxxa
-就想	jqxx'
-就像	jqxx
+就像	jqxx'
+就想	jqxx
 就选	jqxt
 救下	jqxsv
 就下	jqxs
@@ -85265,10 +85277,10 @@
 极尽	jkjbv
 几斤	jkjbuu
 几近	jkjbu
-挤进	jkjbiv
 集锦	jkjbi
 激进	jkjba
-基金	jkjb
+基金	jkjb'
+挤进	jkjb
 极好	jkhzv
 几号	jkhzu
 记号	jkhz
@@ -95954,7 +95966,8 @@
 国故	glgj
 锅盖	glgh
 果敢	glgf
-国歌	glge
+国歌	glgei
+过个	glge
 锅垢	glgd
 过招	glfz
 国中	glfyi
@@ -136410,8 +136423,8 @@
 槱	ydvvia
 耰	ydvvv
 耰	ydvvvu
-也	ye_
-液	yea
+也	yea
+液	yea'
 也	yeaiaa
 液	yeaovi
 业	yei
@@ -136615,7 +136628,6 @@
 琰	yfvvo
 琰	yfvvou
 艳	yfvvua
-应	yg_
 盈	yga
 缨	ygaa
 缨	ygaaao
@@ -136660,7 +136672,8 @@
 锳	ygioii
 撄	ygiu
 撄	ygiuao
-影	ygo
+应	ygo
+影	ygo'
 嘤	ygoa
 嘤	ygoaoa
 映	ygoi
