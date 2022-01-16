@@ -6,7 +6,12 @@ schema:
   name: 键道·我流
   version: "1.0"
   author:
-    - SPHS
+    - 奠基者 - 大牛（吅吅大山）
+    - 求道者 - SPHS
+  description: |
+    「键道·我流」是一款脱胎于「星空键道」的音形码顶功输入方案。
+
+    该方案基于Colemak-DH Matrix布局，并对简码及词库进行了大幅优化。
 
 
 layout:
@@ -31,6 +36,7 @@ layout:
 
 switches:
   - { name: ascii_mode, reset: 0 }
+  - { name: extended_charset, reset: 1 }
   - { name: full_shape, reset: 0 }
   - { name: sbb_hint, reset: 0 }
   - { name: jffh, reset: 0 }
@@ -96,8 +102,8 @@ translator:
 
 
 repeat_history:
-  input: ;;
-  size: 2
+  input: ;; # sync with repeat_keycode in lua/sphs_filter.lua
+  size: 6
   initial_quality: 10000
 
 
