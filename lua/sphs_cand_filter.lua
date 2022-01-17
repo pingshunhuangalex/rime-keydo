@@ -30,7 +30,7 @@ local function has_cn_char(text)
 end
 
 local function should_show_hint(shorthand, input)
-    return shorthand and #input > #shorthand and not starts_with(shorthand, input)
+    return shorthand and #input >= #shorthand and not starts_with(shorthand, input)
 end
 
 local function add_hints(cand, context, reverse)
@@ -43,18 +43,20 @@ local function add_hints(cand, context, reverse)
     local lookup = " " .. reverse:lookup(cand.text) .. " "
     local shorthand_sp = lookup:match(" (" .. phonetics_keycode .. stroke_keycodes .. ") ")
     local shorthand_l2 = lookup:match(" (" .. phonetics_keycodes .. ") ")
+    local shorthand_l3 = lookup:match(" (" .. phonetics_keycode .. phonetics_keycodes .. ") ")
+    local shorthand_l2_l3 = shorthand_l2 or shorthand_l3
 
-    if should_show_hint(shorthand_sp or shorthand_l2, input) then
+    if should_show_hint(shorthand_sp or shorthand_l2_l3, input) then
         local hints = ""
 
         if should_show_hint(shorthand_sp, input) then
             hints = hints .. shorthand_sp
 
-            if should_show_hint(shorthand_l2, input) then
-                hints = hints .. " " .. shorthand_l2
+            if should_show_hint(shorthand_l2_l3, input) then
+                hints = hints .. " " .. (shorthand_l2_l3)
             end
         else
-            hints = hints .. shorthand_l2
+            hints = hints .. (shorthand_l2_l3)
         end
 
         cand:get_genuine().comment = cand.comment .. " [" .. hints .. "]"
