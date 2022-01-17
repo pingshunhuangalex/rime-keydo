@@ -8,7 +8,7 @@ topup_processor = require("for_topup")
 -- 选择处理器：自动选择唯一候选项（忽略码长），将单引号（`'`）用作次选键等
 sphs_select_processor = require("sphs_select_processor")
 
--- 候选过滤器：历史记录非汉字过滤（由`/`引导），特殊简码、二级简码编码提示（`❖`）等
+-- 候选过滤器：历史记录非汉字过滤（由`/`引导）
 sphs_cand_filter = require("sphs_cand_filter")
 
 -- 数字转换器：将阿拉伯数字转换为对应汉字（由`=`引导）
