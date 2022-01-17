@@ -68,12 +68,12 @@ engine:
     - punct_translator
     - history_translator@repeat_history
     - table_translator@custom_phrase
-    - table_translator@danzi_lookup
+    - table_translator@char_lookup
     - lua_translator@date_translator
     - lua_translator@time_translator
     - lua_translator@number_translator
   filters:
-    - reverse_lookup_filter@danzi_lookup
+    - reverse_lookup_filter@char_lookup
     - lua_filter@sphs_cand_filter
     - uniquifier
     - simplifier@jffh
@@ -117,9 +117,9 @@ emoji_cn:
   tips: all
 
 
-danzi_lookup:
+char_lookup:
   dictionary: sphs
-  tags: [ danzi_lookup ]
+  tags: [ char_lookup ]
   overwrite_comment: true
   enable_charset_filter: false
   enable_completion: true
@@ -147,13 +147,13 @@ key_binder:
 
 recognizer:
   patterns:
-    danzi_lookup: "[a-z`]*`+[a-z`]*"
+    char_lookup: "[a-z`]*`+[a-z`]*"
     email: "^[a-z][-_.0-9a-z]*@.*$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
     pinyin: "(?<![`A-Z])`[a-z']*;?$"
     url: "^(www[.]|https?:|ftp:|mailto:).*$"
     english: "^'[A-Z|a-z]*'?$"
-    jsq: "^=[^;']+$"
+    calc: "^=[^;']+$"
 
 
 topup:
