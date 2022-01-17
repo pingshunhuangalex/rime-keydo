@@ -48,13 +48,15 @@ local function add_keycode_hint(cand, context, reverse)
 end
 
 local function sphs_cand_filter(cand_list, env)
-    local repeat_keycode = "/" -- sync with repeat_history/input in sphs.schema.yaml
-
-    local context = env.engine.context
+    local engine = env.engine
     local reverse = env.reverse
+
+    local context = engine.context
     local input = context.input
+    local config = engine.schema.config
 
     local is_sbb_hint_on = context:get_option("sbb_hint")
+    local repeat_keycode = config:get_string("repeat_history/input")
     local is_repeat_on = starts_with(input, repeat_keycode)
 
     for cand in cand_list:iter() do

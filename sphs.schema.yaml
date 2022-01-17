@@ -102,7 +102,7 @@ translator:
 
 
 repeat_history:
-  input: / # sync with repeat_keycode in lua/sphs_cand_filter.lua
+  input: /
   size: 6
   initial_quality: 10000
 
