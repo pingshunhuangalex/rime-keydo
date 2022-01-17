@@ -38,7 +38,6 @@ switches:
   - { name: ascii_mode, reset: 0 }
   - { name: extended_charset, reset: 1 }
   - { name: full_shape, reset: 0 }
-  - { name: sbb_hint, reset: 0 }
   - { name: jffh, reset: 0 }
   - { name: emoji_cn, reset: 0 }
 
