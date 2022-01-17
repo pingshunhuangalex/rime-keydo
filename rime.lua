@@ -5,11 +5,11 @@
 -- 顶功处理器
 topup_processor = require("for_topup")
 
--- 次选处理器：将单引号（`'`）用作次选键
-smart_2 = require("smart_2")
+-- 选择处理器：自动选择唯一候选项（忽略码长），将单引号（`'`）用作次选键等
+sphs_select_processor = require("sphs_select_processor")
 
 -- 候选过滤器：历史记录非汉字过滤（由`/`引导），特殊简码、二级简码编码提示（`❖`）等
-sphs_filter = require("sphs_filter")
+sphs_cand_filter = require("sphs_cand_filter")
 
 -- 数字转换器：将阿拉伯数字转换为对应汉字（由`=`引导）
 number_translator = require("xnumber")
@@ -23,6 +23,9 @@ time_translator = require("time")
 --------------------
 -- 其它方案逻辑块 --
 --------------------
+
+-- 用 ' 作为次选键
+smart_2 = require("smart_2")
 
 -- 单字模式 & 630 即 ss 词组提示
 xkjd6_filter = require("xkjd6_filter")

@@ -53,7 +53,7 @@ engine:
     - recognizer
     - key_binder
     - lua_processor@topup_processor
-    - lua_processor@smart_2
+    - lua_processor@sphs_select_processor
     - speller
     - punctuator
     - selector
@@ -75,7 +75,7 @@ engine:
     - lua_translator@number_translator
   filters:
     - reverse_lookup_filter@danzi_lookup
-    - lua_filter@sphs_filter
+    - lua_filter@sphs_cand_filter
     - uniquifier
     - simplifier@jffh
     - simplifier@emoji_cn
@@ -102,7 +102,7 @@ translator:
 
 
 repeat_history:
-  input: / # sync with repeat_keycode in lua/sphs_filter.lua
+  input: / # sync with repeat_keycode in lua/sphs_cand_filter.lua
   size: 6
   initial_quality: 10000
 

@@ -47,7 +47,7 @@ local function add_keycode_hint(cand, context, reverse)
     end
 end
 
-local function sphs_filter(cand_list, env)
+local function sphs_cand_filter(cand_list, env)
     local repeat_keycode = "/" -- sync with repeat_history/input in sphs.schema.yaml
 
     local context = env.engine.context
@@ -79,4 +79,4 @@ local function init(env)
     env.reverse = ReverseDb("build/sphs.reverse.bin")
 end
 
-return { init = init, func = sphs_filter }
+return { init = init, func = sphs_cand_filter }
