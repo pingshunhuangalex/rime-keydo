@@ -1,9 +1,9 @@
-local select_trigger_2nd = "apostrophe"
+local select2_keycode = "apostrophe"
 
 local function sphs_select_processor(key_event, env)
     local context = env.engine.context
 
-    if key_event:release() or key_event:repr() ~= select_trigger_2nd then
+    if key_event:release() or key_event:repr() ~= select2_keycode then
         return 2
     end
 

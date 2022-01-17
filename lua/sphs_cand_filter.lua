@@ -29,21 +29,35 @@ local function has_cn_char(text)
     return false
 end
 
-local function add_keycode_hint(cand, context, reverse)
+local function should_show_hint(shorthand, input)
+    return shorthand and #input > #shorthand and not starts_with(shorthand, input)
+end
+
+local function add_hints(cand, context, reverse)
     local phonetics_keycode = "[bcdefghjklmnpqrstwxyz]"
+    local phonetics_keycodes = phonetics_keycode .. phonetics_keycode
     local stroke_keycodes = "[aiouv]+"
 
     local input = context.input
 
     local lookup = " " .. reverse:lookup(cand.text) .. " "
-    local keycode_hint = lookup:match(" (".. phonetics_keycode .. stroke_keycodes .. ") ") or
-                         lookup:match(" (".. phonetics_keycode .. phonetics_keycode .. ") ")
+    local shorthand_sp = lookup:match(" (" .. phonetics_keycode .. stroke_keycodes .. ") ")
+    local shorthand_l2 = lookup:match(" (" .. phonetics_keycodes .. ") ")
 
-    if keycode_hint and
-       #input > #keycode_hint and
-       not starts_with(keycode_hint, input)
-    then
-        cand:get_genuine().comment = cand.comment .. " [" .. keycode_hint .. "]"
+    if should_show_hint(shorthand_sp or shorthand_l2, input) then
+        local hints = ""
+
+        if should_show_hint(shorthand_sp, input) then
+            hints = hints .. shorthand_sp
+
+            if should_show_hint(shorthand_l2, input) then
+                hints = hints .. " " .. shorthand_l2
+            end
+        else
+            hints = hints .. shorthand_l2
+        end
+
+        cand:get_genuine().comment = cand.comment .. " [" .. hints .. "]"
     end
 end
 
@@ -68,7 +82,7 @@ local function sphs_cand_filter(cand_list, env)
         end
 
         if is_sbb_hint_on and utf8.len(cand.text) > 1 then
-            add_keycode_hint(cand, context, reverse)
+            add_hints(cand, context, reverse)
         end
 
         yield(cand)
