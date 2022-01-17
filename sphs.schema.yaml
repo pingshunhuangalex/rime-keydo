@@ -74,11 +74,11 @@ engine:
     - lua_translator@time_translator
     - lua_translator@number_translator
   filters:
-    - simplifier@jffh
-    - simplifier@emoji_cn
     - reverse_lookup_filter@danzi_lookup
     - lua_filter@sphs_filter
     - uniquifier
+    - simplifier@jffh
+    - simplifier@emoji_cn
 
 
 speller:
@@ -102,7 +102,7 @@ translator:
 
 
 repeat_history:
-  input: ;; # sync with repeat_keycode in lua/sphs_filter.lua
+  input: / # sync with repeat_keycode in lua/sphs_filter.lua
   size: 6
   initial_quality: 10000
 
@@ -148,7 +148,6 @@ key_binder:
 
 recognizer:
   patterns:
-    punct: "^/([0-9]0?|[a-z]+)$"
     danzi_lookup: "[a-z`]*`+[a-z`]*"
     email: "^[a-z][-_.0-9a-z]*@.*$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"

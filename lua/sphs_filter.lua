@@ -48,7 +48,7 @@ local function add_keycode_hint(cand, context, reverse)
 end
 
 local function sphs_filter(cand_list, env)
-    local repeat_keycode = ";;" -- sync with repeat_history/input in sphs.schema.yaml
+    local repeat_keycode = "/" -- sync with repeat_history/input in sphs.schema.yaml
 
     local context = env.engine.context
     local reverse = env.reverse
