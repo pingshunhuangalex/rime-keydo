@@ -1,25 +1,32 @@
-local select2_keycode = "apostrophe"
+local function processor(key_event, env)
+    local RESULT_ACCEPTED = sphs_common.RESULT_ACCEPTED
+    local RESULT_NOOP = sphs_common.RESULT_NOOP
 
-local function sphs_select_processor(key_event, env)
+    local SELECT2_KEYCODE = "apostrophe"
+
     local context = env.engine.context
 
-    if key_event:release() or key_event:repr() ~= select2_keycode then
-        return 2
+    if key_event:release() then
+        return RESULT_NOOP
     end
 
-    if context:select(1) then
-        context:commit()
+    if key_event:repr() == SELECT2_KEYCODE then
+        if context:select(1) then
+            context:commit()
 
-        return 1
-    end
+            return RESULT_ACCEPTED
+        end
 
-    if not context:get_selected_candidate() then
-        context:clear()
+        if context:get_selected_candidate() then
+            context:commit()
+        else
+            context:clear()
+        end
+
+        return RESULT_ACCEPTED
     else
-        context:commit()
+        return RESULT_NOOP
     end
-
-    return 2
 end
 
-return { func = sphs_select_processor }
+return { func = processor }
