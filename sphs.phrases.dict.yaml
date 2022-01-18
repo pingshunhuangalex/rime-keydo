@@ -4022,7 +4022,7 @@ sort: original
 变傻	bmes
 变少	bmez
 鞭梢	bmezv
-北美洲	bmf
+百忙中	bmf
 编缀	bmfb
 扁舟	bmfd
 不毛之地	bmfdv
@@ -4031,6 +4031,7 @@ sort: original
 百忙之中	bmffv
 边寨	bmfh
 变窄	bmfho
+北美洲	bmfi
 蝙蝠	bmfj
 便服	bmfji
 变富	bmfjo
@@ -4042,6 +4043,7 @@ sort: original
 变质	bmfko
 便装	bmfm
 白马非马	bmfmu
+被冒犯	bmfo
 边防	bmfp
 边锋	bmfr
 变法	bmfs
@@ -4050,7 +4052,6 @@ sort: original
 编撰	bmft
 变砖	bmfto
 白魔法	bmfu
-百忙中	bmfv
 变肥	bmfw
 便装	bmfx
 变种	bmfy
@@ -4363,6 +4364,7 @@ sort: original
 不鸣则已	bmzy
 不满足于	bmzyv
 编造	bmzz
+不能比	bnb
 本表	bnbc
 本版	bnbf
 本兵	bnbg
@@ -14371,10 +14373,11 @@ sort: original
 大本	dsbn
 打榜	dsbp
 大棒	dsbpv
+打吧	dsbs
 大把	dsbs
 打靶	dsbsi
-大坝	dsbsv
-大巴	dsbsva
+大巴	dsbsv
+大坝	dsbsvv
 第三版	dsbu
 第三部	dsbuv
 大杯	dsbw
@@ -16963,8 +16966,9 @@ sort: original
 税所	ebsl
 士别三日	ebsr
 水松	ebsy
-书报摊	ebt
-双胞胎	ebta
+说不通	ebt
+双胞胎	ebt
+书报摊	ebta
 水头	ebtd
 水帖	ebtda
 水潭	ebtf
@@ -24475,7 +24479,7 @@ sort: original
 这招	fefz
 遮罩	fefzo
 知识分子	fefzu
-这首歌	feg
+这是个	feg
 发生过	fega
 折桂	fegb
 这够	fegd
@@ -24487,6 +24491,7 @@ sort: original
 遮光	fegm
 这根	fegn
 俯首甘为孺子牛	fegni
+这首歌	fego
 折嘎	fegs
 这给	fegw
 遮光	fegx
@@ -40489,8 +40494,8 @@ sort: original
 胡话	hjhq
 护花	hjhqi
 好聚好散	hjhs
-呼唤	hjht
-互换	hjhtv
+互换	hjht
+呼唤	hjhto
 核计划	hjhv
 狐假虎威	hjhw
 呼号	hjhz
@@ -46465,13 +46470,14 @@ sort: original
 车中	jefy
 即使这样	jefya
 车照	jefz
+解释过	jeg
 经受过	jeg
-铲屎官	jeg
 既视感	jega
 车钩	jegd
 车盖	jegh
 城市规划	jeghv
 搅屎棍	jegi
+铲屎官	jegia
 旧时光	jegio
 技术革命	jegm
 车岗	jegp
@@ -48217,7 +48223,8 @@ sort: original
 初衷	jjfyo
 出招	jjfz
 积极分子	jjfzu
-成就感	jjg
+出结果	jjg
+出成果	jjga
 出轨	jjgb
 出柜	jjgba
 出鬼	jjgbau
@@ -48244,6 +48251,7 @@ sort: original
 初更	jjgr
 出关	jjgt
 解甲归田	jjgtu
+成就感	jjgv
 出给	jjgw
 出工	jjgy
 出宫	jjgya
@@ -60256,6 +60264,7 @@ sort: original
 芦苇	ljww
 卤味	ljwwi
 炉床	ljwx
+理解下	ljx
 逻辑性	ljx
 绿箭侠	ljxa
 露信	ljxb
@@ -63519,9 +63528,9 @@ sort: original
 凉床	lxwx
 两重	lxwy
 两朝	lxwz
-连续性	lxx
+练习下	lxx
+流线型	lxx
 流行性	lxxa
-流线型	lxxaa
 良心	lxxb
 良宵	lxxc
 凉鞋	lxxd
@@ -63537,11 +63546,12 @@ sort: original
 两县	lxxm
 理想信念	lxxn
 两袖	lxxq
-两下	lxxs
-亮瞎	lxxso
+亮瞎	lxxs
+两下	lxxsv
+连续性	lxxv
 亮相	lxxx
-两项	lxxxv
-两厢	lxxxvv
+两项	lxxx
+两厢	lxxxv
 亮胸	lxxy
 怜香惜玉	lxxyo
 理学院	lxy
@@ -63549,8 +63559,8 @@ sort: original
 流行语	lxyau
 两引	lxyb
 粮油	lxyd
-良友	lxydo
-良莠	lxydoi
+良友	lxyd
+良莠	lxydo
 两页	lxye
 两眼	lxyf
 灵犀一指	lxyfa
@@ -71765,12 +71775,13 @@ sort: original
 农协	nyxd
 农安	nyxf
 弄醒	nyxg
-农学	nyxh
-脓血	nyxhu
+脓血	nyxh
+农学	nyxho
 弄儿	nyxj
 农隙	nyxk
 农畜	nyxl
 农闲	nyxm
+哪一项	nyxo
 难以形容	nyxr
 脑源性	nyxu
 浓香	nyxx
@@ -77406,7 +77417,6 @@ sort: original
 主审	qjen
 诸神	qjeno
 住上	qjep
-这件事情	qjeq
 朱砂	qjes
 诛杀	qjeso
 起居室	qjev
@@ -90378,6 +90388,7 @@ sort: original
 太酷了	tkl
 体疗	tklc
 踢了	tkle
+提了	tklei
 剃了	tkleo
 踢烂	tklf
 涕零	tklg
@@ -91067,8 +91078,9 @@ sort: original
 天起	tmqkv
 天启	tmqkvo
 天趣	tmql
+天前	tmqm
 天谴	tmqm
-天前	tmqmv
+天堑	tmqmv
 天真	tmqn
 天球	tmqq
 天正	tmqr
@@ -99026,7 +99038,8 @@ sort: original
 充盈	wyyg
 重影	wyygu
 重阅	wyyh
-网易云	wyyi
+常用语	wyyi
+网易云	wyyio
 我意已决	wyyj
 抽油烟机	wyyji
 重医	wyyk
@@ -101562,6 +101575,7 @@ sort: original
 消费者协会	xffha
 安抚	xffj
 二者之间	xffjv
+暗指	xffk
 安置	xffk
 案值	xffko
 安知	xffkou
@@ -101665,7 +101679,8 @@ sort: original
 新房客	xfko
 安康	xfkp
 按空	xfky
-消费量	xfl
+修复了	xfl
+消费量	xfla
 胺磷	xflb
 暗漏	xfld
 按了	xfle

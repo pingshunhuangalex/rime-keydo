@@ -3,7 +3,9 @@ name: sphs.shorthand_l2
 version: "1.0"
 sort: original
 ...
+不是	be
 表示	be
+不能	bn
 不去	bq
 并且	bq
 不同	bt
@@ -19,12 +21,15 @@ sort: original
 的人	dr
 大小	dx
 都有	dy
+都在	dz
 上次	ec
 是个	eg
 说明	em
 使人	er
 使用	ey
 服从	fc
+这是	fe
+这个	fg
 中国	fg
 符合	fh
 父母	fm
@@ -65,14 +70,18 @@ sort: original
 司马	sm
 索取	sq
 思想	sx
+他能	tn
 太难	tn
 提前	tq
 同学	tx
 他在	tz
 为此	wc
+我的	wd
+我都	wd
 我是	we
 外面	wm
 完全	wq
+我在	wz
 有的	yd
 因此	yc
 又是	ye
