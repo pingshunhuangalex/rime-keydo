@@ -4,13 +4,13 @@ local function filter(cand_list, env)
     local has_cn_char = sphs_common.has_cn_char
 
     local repeat_keycode = env.repeat_keycode
-    local context = env.engine.context
-
-    local input = context.input
-    local is_repeat_on = starts_with(input, repeat_keycode)
+    local input = env.engine.context.input
 
     for cand in cand_list:iter() do
-        if not is_valid(cand.text) or (is_repeat_on and not has_cn_char(cand.text)) then
+        local is_repeat_on = starts_with(input, repeat_keycode)
+        local is_repeat_cand_invalid = is_repeat_on and not has_cn_char(cand.text)
+
+        if not is_valid(cand.text) or is_repeat_cand_invalid then
             goto continue
         end
 

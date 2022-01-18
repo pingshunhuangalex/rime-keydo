@@ -2,7 +2,7 @@ local function processor(key_event, env)
     local RESULT_ACCEPTED = sphs_common.RESULT_ACCEPTED
     local RESULT_NOOP = sphs_common.RESULT_NOOP
 
-    local SELECT2_KEYCODE = "apostrophe"
+    local SELECT2_KEY = "apostrophe"
 
     local context = env.engine.context
 
@@ -10,7 +10,7 @@ local function processor(key_event, env)
         return RESULT_NOOP
     end
 
-    if key_event:repr() == SELECT2_KEYCODE then
+    if key_event:repr() == SELECT2_KEY then
         if context:select(1) then
             context:commit()
 

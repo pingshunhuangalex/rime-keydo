@@ -1,7 +1,8 @@
+-- Process result index
 -- https://github.com/rime/librime/blob/master/src/rime/processor.h
-local RESULT_REJECTED = 0 -- do the OS default processing
-local RESULT_ACCEPTED = 1 -- consume it
-local RESULT_NOOP = 2 -- leave it to other processors
+local RESULT_REJECTED = 0 -- Do the OS default processing
+local RESULT_ACCEPTED = 1 -- Consume it
+local RESULT_NOOP = 2 -- Leave it to other processors
 
 local function is_valid(target)
     return target and target ~= ""
