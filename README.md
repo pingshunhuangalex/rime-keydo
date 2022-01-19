@@ -6,13 +6,9 @@
 
 ![Colemak-DH Matrix Layout](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/preview/colemak_dh_matrix_layout_sphs.png)
 
-本仓库将`键道·我流`配置为一款独立的输入方案，并可无缝兼容[星空键道]。
+作为一款独立的输入方案，用户只需在[下载安装Rime]后将本仓库覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。
 
-- 在[Rime自定义设置]中将`schema`更改为`xkjd6`后仍可使用[星空键道]
-
-- 重新定向`git`远程仓库路径后仍可无冲突地更新[星空键道]
-
-想要进一步了解这款优雅的中文输入方案？来看看我自制的[Rime键道输入法文档]吧!
+想要进一步了解这款优雅的中文输入方案？先看看我自制的[Rime键道输入法文档]吧!
 
 ---
 
@@ -169,7 +165,7 @@
 [Colemak-DH Matrix布局]: https://colemakmods.github.io/mod-dh/keyboards.html#matrix-keyboards
 [Rime开源输入平台]: https://github.com/rime
 [Rime键道输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
-[Rime自定义设置]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/default.custom.yaml
+[下载安装Rime]: https://rime.im/download/
 [自定义主题]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/weasel.custom.yaml
 [词库结构]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/sphs.dict.yaml
 [编码文件]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/%E6%9E%81%E9%80%9F%E8%B7%9F%E6%89%93%E5%99%A8/%E7%BC%96%E7%A0%81%E6%96%87%E4%BB%B6/%E9%94%AE%E9%81%93%C2%B7%E6%88%91%E6%B5%81.txt

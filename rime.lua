@@ -21,23 +21,3 @@ date_translator = require("date")
 
 -- 时间转换器：将时间参数（`time`）转换为当前时间/星期（由`oej`/`oxq`引导）
 time_translator = require("time")
-
---------------------
--- 其它方案逻辑块 --
---------------------
-
--- 用 ' 作为次选键
-smart_2 = require("smart_2")
-
--- 单字模式 & 630 即 ss 词组提示
-xkjd6_filter = require("xkjd6_filter")
-
-----------------
--- 归档逻辑块 --
-----------------
-
--- 候选项重排序，使单字优先
--- single_char_filter = require("single_char")
-
--- 声笔笔简码提示 | 顶功提示 | 补全处理
--- hint_filter = require("for_hint")
