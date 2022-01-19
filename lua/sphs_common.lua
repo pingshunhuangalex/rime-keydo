@@ -39,11 +39,22 @@ local function has_cn_char(text)
     return false
 end
 
+local function is_pressed(key, key_event)
+    local is_modifier_pressed = key_event:alt() or
+                                key_event:ctrl() or
+                                key_event:shift() or
+                                key_event:super() or
+                                key_event:caps()
+
+    return not is_modifier_pressed and key_event:repr() == key
+end
+
 return {
     RESULT_REJECTED = RESULT_REJECTED,
     RESULT_ACCEPTED = RESULT_ACCEPTED,
     RESULT_NOOP = RESULT_NOOP,
     is_valid = is_valid,
     starts_with = starts_with,
-    has_cn_char = has_cn_char
+    has_cn_char = has_cn_char,
+    is_pressed = is_pressed
 }

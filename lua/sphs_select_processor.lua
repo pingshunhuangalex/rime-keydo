@@ -1,32 +1,28 @@
 local function processor(key_event, env)
+    local SELECT2_KEY = "apostrophe"
     local RESULT_ACCEPTED = sphs_common.RESULT_ACCEPTED
     local RESULT_NOOP = sphs_common.RESULT_NOOP
-
-    local SELECT2_KEY = "apostrophe"
+    local is_pressed = sphs_common.is_pressed
 
     local context = env.engine.context
 
-    if key_event:release() then
+    if key_event:release() or not is_pressed(SELECT2_KEY, key_event) then
         return RESULT_NOOP
     end
 
-    if key_event:repr() == SELECT2_KEY then
-        if context:select(1) then
-            context:commit()
-
-            return RESULT_ACCEPTED
-        end
-
-        if context:get_selected_candidate() then
-            context:commit()
-        else
-            context:clear()
-        end
+    if context:select(1) then
+        context:commit()
 
         return RESULT_ACCEPTED
-    else
-        return RESULT_NOOP
     end
+
+    if context:get_selected_candidate() then
+        context:commit()
+    else
+        context:clear()
+    end
+
+    return RESULT_ACCEPTED
 end
 
 return { func = processor }
