@@ -49,6 +49,15 @@ local function is_pressed(key, key_event)
     return not is_modifier_pressed and key_event:repr() == key
 end
 
+local function force_commit(text, env)
+    local engine = env.engine
+
+    local context = engine.context
+
+    context:clear()
+    engine:commit_text(text)
+end
+
 return {
     RESULT_REJECTED = RESULT_REJECTED,
     RESULT_ACCEPTED = RESULT_ACCEPTED,
@@ -56,5 +65,6 @@ return {
     is_valid = is_valid,
     starts_with = starts_with,
     has_cn_char = has_cn_char,
-    is_pressed = is_pressed
+    is_pressed = is_pressed,
+    force_commit = force_commit
 }

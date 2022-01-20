@@ -1,9 +1,10 @@
-local function processor(key_event, env)
-    local SELECT2_KEY = "apostrophe"
-    local RESULT_ACCEPTED = sphs_common.RESULT_ACCEPTED
-    local RESULT_NOOP = sphs_common.RESULT_NOOP
-    local is_pressed = sphs_common.is_pressed
+local RESULT_ACCEPTED = sphs_common.RESULT_ACCEPTED
+local RESULT_NOOP = sphs_common.RESULT_NOOP
+local is_pressed = sphs_common.is_pressed
 
+local SELECT2_KEY = "apostrophe"
+
+local function processor(key_event, env)
     local context = env.engine.context
 
     if key_event:release() or not is_pressed(SELECT2_KEY, key_event) then
