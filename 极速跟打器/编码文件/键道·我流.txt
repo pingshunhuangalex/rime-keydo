@@ -29056,7 +29056,8 @@
 重仓股	fcg_
 仲裁者	fcfi
 中村丰	fcf_
-翡翠石	fce_
+翡翠石	fcei
+这才是	fce_
 这次的	fcd_
 分层次	fcc_
 发慈悲	fcb_
