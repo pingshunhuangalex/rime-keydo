@@ -1,18 +1,21 @@
--- Process result index
+-- 处理器结果序号
 -- https://github.com/rime/librime/blob/master/src/rime/processor.h
 
-local RESULT_REJECTED = 0 -- Do the OS default processing
-local RESULT_ACCEPTED = 1 -- Consume it
-local RESULT_NOOP = 2 -- Leave it to other processors
+local RESULT_REJECTED = 0 -- 拒绝：Rime不执行任何操作 -> 直接由系统进行默认按键操作
+local RESULT_ACCEPTED = 1 -- 接受：Rime执行当前逻辑块操作 -> 消耗按键
+local RESULT_NOOP = 2 -- 忽略：Rime不执行当前逻辑块操作 -> 传递到下个逻辑块
 
-local function is_valid(target)
-    return target and target ~= ""
+-- 判断字符串是否有效 -> “无效”的定义为“不存在”（nil）或者“空项”（""）
+local function is_valid(text)
+    return text and text ~= ""
 end
 
-local function starts_with(str, start)
-    return str:sub(1, #start) == start
+-- 判断字符串是否含有固定前缀
+local function starts_with(text, prefix)
+    return text:sub(1, #prefix) == prefix
 end
 
+-- 判断字符串是否含有中文字符
 local function has_cn_char(text)
     for pos, code in utf8.codes(text) do
         local char = utf8.char(code)
@@ -24,8 +27,8 @@ local function has_cn_char(text)
             goto continue
         end
 
-        -- Chinese characters range from 0x4E00 to 0x9FA5 in Unicode, aka from [228, 184, 128] to [233, 190, 165] in UTF-8.
-        -- As a rule of thumb, any characters within [228-233, 128-191, 128-191] can be assumed as Chinese.
+        -- 中文字符在Unicode编码中的范围为[0x4E00, 0x9FA5]，其在UTF-8编码中所对应的范围为[(228, 184, 128), (233, 190, 165)]
+        -- 一般而言，任何处在([228, 233], [128, 191], [128, 191])范围内的字符都可以被当作中文字符
         -- https://titanwolf.org/Network/Articles/Article?AID=038ec1a2-6ed1-49ac-9bf2-e1b00c376d43
         if (byte1 >= 228 and byte1 <= 233) and
            (byte2 >= 128 and byte2 <= 191) and
@@ -40,16 +43,19 @@ local function has_cn_char(text)
     return false
 end
 
+-- 判断按键是否被按下 -> “按下”的定义为按键尚未弹起，不包含任何修饰键且未激活大写锁定
 local function is_pressed(key, key_event)
+    local is_released = key_event:release()
     local is_modifier_pressed = key_event:alt() or
                                 key_event:ctrl() or
                                 key_event:shift() or
                                 key_event:super() or
                                 key_event:caps()
 
-    return not is_modifier_pressed and key_event:repr() == key
+    return not is_released and not is_modifier_pressed and key_event:repr() == key
 end
 
+-- 强制上屏字符串（无视输入区与候选栏状态）
 local function force_commit(text, env)
     local engine = env.engine
 

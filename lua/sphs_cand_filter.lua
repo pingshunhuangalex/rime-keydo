@@ -11,6 +11,7 @@ local function filter(cand_list, env)
     local auto_commit_cand = nil
     local prev_cand_text = nil
     local is_history = starts_with(input, history_leader)
+    local should_handle_key = input:match("[a-z/]$")
 
     local function handle_auto_commit(cand)
         if auto_commit_cand then
@@ -46,7 +47,7 @@ local function filter(cand_list, env)
         ::continue::
     end
 
-    if should_auto_commit then
+    if should_handle_key and should_auto_commit then
         if auto_commit_cand then
             force_commit(auto_commit_cand.text, env)
         elseif is_history then

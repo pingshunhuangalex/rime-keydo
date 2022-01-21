@@ -7,7 +7,7 @@ local SELECT2_KEY = "apostrophe"
 local function processor(key_event, env)
     local context = env.engine.context
 
-    if key_event:release() or not is_pressed(SELECT2_KEY, key_event) then
+    if not is_pressed(SELECT2_KEY, key_event) then
         return RESULT_NOOP
     end
 

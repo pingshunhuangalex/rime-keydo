@@ -1,3 +1,4 @@
+-- 常用逻辑块
 sphs_common = require("sphs_common")
 
 --------------------------
