@@ -301,6 +301,7 @@
 近水楼台先得月	jelyu
 车到山前必有路	jdelv
 春蚕到死丝方尽	jcdjv
+久病床前无孝子	jbwz
 剪不断，理还乱	jbdl
 薅资本主义羊毛	hzbmi
 黑云压城城欲摧	hyyc
@@ -16990,7 +16991,9 @@
 租售比	zebu
 座上宾	zeb_
 走的走	zdzv
-嘴对嘴	zdz_
+嘴对嘴	zdzo
+走得早	zdz'
+做得早	zdz_
 总动员	zdyo
 自定义	zdy_
 脏东西	zdx_
@@ -25955,11 +25958,12 @@
 计划内	jhn_
 城隍庙	jhmv
 激活码	jhm_
-禁韩令	jhlv
+禁韩令	jhlvu
+成活率	jhlv
 近乎零	jhluu
 教会了	jhlu
-成活率	jhl'
-进化论	jhl_
+进化论	jhl'
+就好了	jhl_
 军火库	jhk_
 交换机	jhjo
 救护车	jhj_
@@ -27944,8 +27948,9 @@
 各部委	gbwu
 官本位	gbwo
 广播网	gbw_
-更别提	gbtv
-戈壁滩	gbt_
+戈壁滩	gbtv
+更别提	gbt'
+更不提	gbt_
 告别赛	gbs_
 个别人	gbr_
 各部长	gbqu
@@ -33169,6 +33174,7 @@
 后面	hm_
 好人	hr_
 就是	je_
+就好	jh_
 就能	jn_
 就有	jy_
 快餐	kc_
@@ -33195,6 +33201,7 @@
 平台	pt_
 平安	px_
 拼音	py_
+去了	ql_
 其他	qt_
 人才	rc_
 如此	rc'
@@ -33222,6 +33229,7 @@
 我都	wd'
 我是	we_
 外面	wm_
+我能	wm_
 完全	wq_
 我在	wz_
 有的	yd_
@@ -33233,11 +33241,13 @@
 以及	yj_
 有了	yl_
 郁闷	ym_
-一年	yn_
+又能	yn_
+一年	yn'
 要求	yq_
 有人	yr_
 以下	yx_
 因而	yx'
+又有	yy_
 字词	zc_
 做饭	zf_
 字根	zg_
@@ -64947,8 +64957,6 @@
 折拢	qely
 这俩	qelxo
 这辆	qelx
-这轮	qelwo
-这类	qelw
 这乱	qelt
 折柳	qelq
 遮脸	qelm
@@ -76802,6 +76810,7 @@
 立定	lkdg
 礼单	lkdf
 理的	lkdev
+立的	lkdeou
 离的	lkdeo
 离得	lkde'
 里的	lkde
@@ -88097,7 +88106,6 @@
 尽孝	jbxca
 今宵	jbxc
 尽心	jbxb
-晋朝	jbwz
 金创	jbwx
 进位	jbwwv
 近卫	jbwwu

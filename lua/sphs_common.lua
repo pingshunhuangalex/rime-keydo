@@ -1,5 +1,6 @@
 -- Process result index
 -- https://github.com/rime/librime/blob/master/src/rime/processor.h
+
 local RESULT_REJECTED = 0 -- Do the OS default processing
 local RESULT_ACCEPTED = 1 -- Consume it
 local RESULT_NOOP = 2 -- Leave it to other processors
