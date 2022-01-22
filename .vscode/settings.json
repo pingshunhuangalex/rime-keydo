@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "sphs_select_processor",
+        "sphs_common",
+        "sphs_cand_filter",
+        "yield",
+        "Candidate",
+        "ReverseDb"
+    ]
+}

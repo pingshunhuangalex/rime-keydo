@@ -1,11 +1,11 @@
--- 处理器结果序号
+-- 处理结果序号
 -- https://github.com/rime/librime/blob/master/src/rime/processor.h
 
 local RESULT_REJECTED = 0 -- 拒绝：Rime不执行任何操作 -> 直接由系统进行默认按键操作
 local RESULT_ACCEPTED = 1 -- 接受：Rime执行当前逻辑块操作 -> 消耗按键
-local RESULT_NOOP = 2 -- 忽略：Rime不执行当前逻辑块操作 -> 传递到下个逻辑块
+local RESULT_NOOP = 2 -- 忽略：Rime不执行当前逻辑块操作 -> 传递给下个逻辑块
 
--- 判断字符串是否有效 -> “无效”的定义为“不存在”（nil）或者“空项”（""）
+-- 判断字符串是否有效 -> “无效”的定义为“不存在”（`nil`）或者“空项”（`""`）
 local function is_valid(text)
     return text and text ~= ""
 end
@@ -17,12 +17,14 @@ end
 
 -- 判断字符串是否含有中文字符
 local function has_cn_char(text)
+    -- 遍历字符串中的每一个字符，并在识别到首个中文字符后终止
     for pos, code in utf8.codes(text) do
-        local char = utf8.char(code)
-        local byte1 = char:byte(1)
-        local byte2 = char:byte(2)
-        local byte3 = char:byte(3)
+        local char = utf8.char(code) -- 当前字符所对应的UTF-8编码
+        local byte1 = char:byte(1) -- UTF-8编码第一位
+        local byte2 = char:byte(2) -- UTF-8编码第二位
+        local byte3 = char:byte(3) -- UTF-8编码第三位
 
+        -- UTF-8编码获取失败则忽略当前字符
         if not byte1 or not byte2 or not byte3 then
             goto continue
         end
@@ -43,19 +45,21 @@ local function has_cn_char(text)
     return false
 end
 
--- 判断按键是否被按下 -> “按下”的定义为按键尚未弹起，不包含任何修饰键且未激活大写锁定
+-- 判断按键是否被按下 -> “按下”的定义为按键尚未弹起，不包含修饰键且未激活大写锁定
 local function is_pressed(key, key_event)
-    local is_released = key_event:release()
+    local is_released = key_event:release() -- 按键是否弹起
+    -- 按键是否包含修饰键，大写锁定是否激活
     local is_modifier_pressed = key_event:alt() or
                                 key_event:ctrl() or
                                 key_event:shift() or
                                 key_event:super() or
                                 key_event:caps()
+    local target_key = string.char(key_event.keycode) -- 当前按键对应字符
 
-    return not is_released and not is_modifier_pressed and key_event:repr() == key
+    return not is_released and not is_modifier_pressed and target_key == key
 end
 
--- 强制上屏字符串（无视输入区与候选栏状态）
+-- 强制上屏字符串（无视输入区与候选区状态）
 local function force_commit(text, env)
     local engine = env.engine
 
