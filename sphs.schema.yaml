@@ -14,6 +14,10 @@ schema:
     该方案基于Colemak-DH Matrix布局，并对简码及词库进行了大幅优化。
 
 
+menu:
+  page_size: 2
+
+
 layout:
   topup:
     topup_this: "bcdefghjklmnpqrstwxyz"
