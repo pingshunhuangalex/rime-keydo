@@ -1,21 +1,23 @@
 ﻿# 键道·我流@SPHS默认设置
 # encoding: utf-8
 
+# 输入方案概要
 schema:
-  schema_id: sphs
-  name: 键道·我流
-  version: "1.0"
-  author:
+  schema_id: sphs # 方案识别名称（用于代码引用）
+  name: 键道·我流 # 方案显示名称（用于方案切换菜单）
+  version: "1.0" # 版本号
+  author: # 方案作者（在Rime中勾选方案时会予以显示）
     - 奠基者 - 大牛（吅吅大山）
     - 求道者 - SPHS
-  description: |
+  description: | # 方案描述（在Rime中勾选方案时会予以显示）
     「键道·我流」是一款脱胎于「星空键道」的音形码顶功输入方案。
 
     该方案基于Colemak-DH Matrix布局，并对简码及词库进行了大幅优化。
 
 
+# 候选项菜单
 menu:
-  page_size: 2
+  page_size: 2 # 候选项显示个数
 
 
 layout:
@@ -38,18 +40,21 @@ layout:
     special: "^(?:;?[avuio])[a-z]{0,}"
 
 
+# 模式切换开关
 switches:
-  - { name: ascii_mode, reset: 0 }
-  - { name: extended_charset, reset: 1 }
-  - { name: full_shape, reset: 0 }
-  - { name: jffh, reset: 0 }
-  - { name: emoji_cn, reset: 0 }
+  - { name: ascii_mode, reset: 0 } # 中英文切换（默认中文）
+  - { name: extended_charset, reset: 1 } # CJK字符集切换（默认全字符集）
+  - { name: full_shape, reset: 0 } # 全角半角切换（默认半角）
+  - { name: jffh, reset: 0 } # 简繁切换（默认简体）
+  - { name: emoji_cn, reset: 0 } # 表情转换（默认不转换）
 
 
+# 标点符号
 punctuator:
-  import_preset: sphs.punct
+  import_preset: sphs.punct # 导入标点符号配置
 
 
+# 输入方案引擎
 engine:
   processors:
     - ascii_composer
