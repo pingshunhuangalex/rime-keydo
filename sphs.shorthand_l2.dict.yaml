@@ -4,7 +4,7 @@ version: "1.0"
 sort: original
 ...
 不是	be
-表示	be
+不上	be
 不好	bh
 不了	bl
 不能	bn
@@ -29,9 +29,12 @@ sort: original
 大小	dx
 都有	dy
 都在	dz
+是吧	eb
 上次	ec
+是的	ed
 是个	eg
 说明	em
+是去	eq
 使人	er
 使用	ey
 服从	fc
