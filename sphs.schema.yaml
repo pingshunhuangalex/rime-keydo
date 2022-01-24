@@ -20,26 +20,6 @@ menu:
   page_size: 2 # 候选项显示个数
 
 
-layout:
-  topup:
-    topup_this: "bcdefghjklmnpqrstwxyz"
-    topup_with: "avuio;"
-
-  algebra:
-    - derive/^[bcdefghjklmnpqrstwxyz;]([bcdefghjklmnpqrstwxyz;][avuio].*)$/`$1/
-    - derive/^([bcdefghjklmnpqrstwxyz;])[bcdefghjklmnpqrstwxyz;]([avuio].*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2})[avuio](.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]).(.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{2}).(.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{3}).(.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{4}).(.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{5}).$/$1`/
-    - derive/^[bcdefghjklmnpqrstwxyz;]{2}([avuio`]*)$/``$1/
-
-  patterns:
-    special: "^(?:;?[avuio])[a-z]{0,}"
-
-
 # 模式切换开关
 switches:
   - { name: ascii_mode, reset: 0 } # 中英文切换（默认中文）
@@ -56,24 +36,24 @@ punctuator:
 
 # 输入方案引擎
 engine:
-  processors:
-    - ascii_composer
-    - recognizer
-    - key_binder
-    - lua_processor@topup_processor
-    - lua_processor@sphs_select_processor
-    - speller
-    - punctuator
-    - selector
-    - navigator
-    - express_editor
-  segmentors:
+  processors: # 处理器 -> 响应按键并按照预设的规则依次进行编码处理
+    - ascii_composer # 与ascii_segmentor搭配，处理英文模式下的输入编码
+    - recognizer # 与matcher搭配，处理特定结构的编码（含引导键的编码、网址、反查等）
+    - key_binder # 绑定按键并赋予功能（或重新定义按键本身）
+    - lua_processor@topup_processor # 判断是否顶功与顶功的内容
+    - lua_processor@sphs_select_processor # 使特定按键可以选择特定候选项（单引号、斜杠等）
+    - speller # 根据输入编码编辑输入区
+    - punctuator # 与punct_segmentor搭配，将特定按键映射为标点符号（逗号、句号等）
+    - selector # 将特定按键映射为选择键（数字键、上/下方向键、PageUp/PageDown等）
+    - navigator # 使特定按键可以移动输入区中的光标（左/右方向键等）
+    - express_editor # 将特定按键映射为编辑键（空格、回车、回退键等）
+  segmentors: # 分段器 -> 将输入编码根据格式进行分段并逐一打上标签
     - ascii_segmentor
     - matcher
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
-  translators:
+  translators: # 转换器 -> 将划分好的编码段转换为对应候选项
     - punct_translator
     - history_translator@repeat_history
     - table_translator@custom_phrase
@@ -81,12 +61,57 @@ engine:
     - lua_translator@date_translator
     - lua_translator@time_translator
     - lua_translator@number_translator
-  filters:
+  filters: # 过滤器 -> 将转换好的候选项进行过滤（增删改查）
     - uniquifier
     - lua_filter@sphs_cand_filter
     - simplifier@jffh
     - simplifier@emoji_cn
     - reverse_lookup_filter@char_lookup
+
+
+recognizer:
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    char_lookup: "[a-z`]*`+[a-z`]*"
+    email: "^[a-z][-_.0-9a-z]*@.*$"
+    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
+    pinyin: "(?<![`A-Z])`[a-z']*;?$"
+    url: "^(www[.]|https?:|ftp:|mailto:).*$"
+    english: "^'[A-Z|a-z]*'?$"
+    jsq: "^=[^;']+$"
+
+
+key_binder:
+  bindings:
+    - { when: has_menu, accept: F1, toggle: emoji_cn}
+    - { when: has_menu, accept: F2, toggle: jffh }
+
+
+layout:
+  topup:
+    topup_this: "bcdefghjklmnpqrstwxyz"
+    topup_with: "avuio;"
+  algebra:
+    - derive/^[bcdefghjklmnpqrstwxyz;]([bcdefghjklmnpqrstwxyz;][avuio].*)$/`$1/
+    - derive/^([bcdefghjklmnpqrstwxyz;])[bcdefghjklmnpqrstwxyz;]([avuio].*)$/$1`$2/
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2})[avuio](.*)$/$1`$2/
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]).(.*)$/$1`$2/
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{2}).(.*)$/$1`$2/
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{3}).(.*)$/$1`$2/
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{4}).(.*)$/$1`$2/
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{5}).$/$1`/
+    - derive/^[bcdefghjklmnpqrstwxyz;]{2}([avuio`]*)$/``$1/
+  patterns:
+    special: "^(?:;?[avuio])[a-z]{0,}"
+
+
+topup:
+  __include: "layout/topup"
+  min_length: 4
+  max_length: 6
+  auto_clear: true
+  min_length_danzi: 2
+  topup_command: true
 
 
 speller:
@@ -115,15 +140,12 @@ repeat_history:
   initial_quality: 10000
 
 
-jffh:
-  opencc_config: s2tw.json
-  option_name: jffh
-
-
-emoji_cn:
-  opencc_config: emoji.json
-  option_name: emoji_cn
-  tips: all
+custom_phrase:
+  dictionary: ""
+  user_dict: user_dict
+  db_class: stabledb
+  enable_sentence: false
+  initial_quality: 0
 
 
 char_lookup:
@@ -140,35 +162,12 @@ char_lookup:
     - xform/~[a-z;]+//
 
 
-custom_phrase:
-  dictionary: ""
-  user_dict: user_dict
-  db_class: stabledb
-  enable_sentence: false
-  initial_quality: 0
+jffh:
+  opencc_config: s2tw.json
+  option_name: jffh
 
 
-key_binder:
-  bindings:
-    - { when: has_menu, accept: F1, toggle: emoji_cn}
-    - { when: has_menu, accept: F2, toggle: jffh }
-
-
-recognizer:
-  patterns:
-    char_lookup: "[a-z`]*`+[a-z`]*"
-    email: "^[a-z][-_.0-9a-z]*@.*$"
-    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
-    pinyin: "(?<![`A-Z])`[a-z']*;?$"
-    url: "^(www[.]|https?:|ftp:|mailto:).*$"
-    english: "^'[A-Z|a-z]*'?$"
-    calc: "^=[^;']+$"
-
-
-topup:
-  __include: "layout/topup"
-  min_length: 4
-  max_length: 6
-  auto_clear: true
-  min_length_danzi: 2
-  topup_command: true
+emoji_cn:
+  opencc_config: emoji.json
+  option_name: emoji_cn
+  tips: all
