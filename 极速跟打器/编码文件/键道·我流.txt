@@ -23161,7 +23161,8 @@
 南昌市	njeuo
 南京市	njeu
 能承受	njea
-那件事	nje_
+那件事	nje'
+那就是	nje_
 能见度	njda
 你记得	njd_
 那几次	njc_
@@ -26493,8 +26494,8 @@
 会议室	hye'
 还有谁	hye_
 还原度	hydv
-好样的	hyda
-活跃度	hyd'
+活跃度	hyda
+好样的	hyd'
 还有点	hyd_
 欢迎词	hyc_
 胡耀邦	hybui
@@ -30673,9 +30674,10 @@
 道出了	djloa
 递交了	djlo
 抖机灵	djliv
-打出来	djli
-点击率	djl'
-当成了	djl_
+点击率	djli'
+当成了	djli
+打出来	djl'
+多出来	djl_
 登机口	djk_
 豆浆机	djjvov
 大将军	djjvo
@@ -33138,6 +33140,7 @@
 不同	bt_
 不行	bx_
 不要	by_
+不在	bz_
 从此	cc_
 才是	ce_
 错过	cg_
@@ -33148,6 +33151,7 @@
 操心	cx_
 才有	cy_
 都是	de_
+都没	dm_
 都能	dn_
 电脑	dn'
 的人	dr_
@@ -33200,6 +33204,7 @@
 那是	ne'
 那个	ng_
 你好	nh_
+那就	nj_
 那你	nn_
 哪怕	np_
 那他	nt_
@@ -107188,6 +107193,7 @@
 赎买	ejmh
 数名	ejmgo
 署名	ejmgi
+属名	ejmga
 书名	ejmg
 数秒	ejmco
 树苗	ejmc
