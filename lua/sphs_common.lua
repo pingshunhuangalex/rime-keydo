@@ -45,7 +45,19 @@ local function has_cn_char(text)
     return false
 end
 
--- 判断按键是否被按下 -> “按下”的定义为按键尚未弹起，不包含修饰键且未激活大写锁定
+-- [处理器]判断按键是否为目标键位
+local function is_key(key, key_event)
+    local target_key = string.char(key_event.keycode) -- 当前按键对应字符
+
+    -- 若无目标键位，则交由其它函数进行判断
+    if not key then
+        return true
+    end
+
+    return target_key == key
+end
+
+-- [处理器]判断按键是否被按下 -> “按下”的定义为按键尚未弹起，不包含修饰键且未激活大写锁定
 local function is_pressed(key, key_event)
     local is_released = key_event:release() -- 按键是否弹起
     -- 按键是否包含修饰键，大写锁定是否激活
@@ -54,12 +66,35 @@ local function is_pressed(key, key_event)
                                 key_event:shift() or
                                 key_event:super() or
                                 key_event:caps()
-    local target_key = string.char(key_event.keycode) -- 当前按键对应字符
 
-    return not is_released and not is_modifier_pressed and target_key == key
+    return not is_released and not is_modifier_pressed and is_key(key, key_event)
 end
 
--- 强制上屏字符串（无视输入区与候选区状态）
+-- [处理器]强制选择候选项（无视输入区与候选区状态）
+local function force_select(select_index, result_success, result_failure, env)
+    local context = env.engine.context
+
+    -- 若指定候选项序号，则上屏待选项并消耗选择按键
+    if select_index and context:select(select_index) then
+        context:commit()
+
+        return RESULT_ACCEPTED
+    end
+
+    -- 若未指定候选项序号但候选区存在，则上屏当前处于高亮状态的候选项
+    if context:get_selected_candidate() then
+        context:commit()
+
+        return result_success
+    end
+
+    -- 若不存在合适候选项，则清空输入区
+    context:clear()
+
+    return result_failure
+end
+
+-- [过滤器]强制上屏字符串（无视输入区与候选区状态）
 local function force_commit(text, env)
     local engine = env.engine
 
@@ -76,6 +111,8 @@ return {
     is_valid = is_valid,
     starts_with = starts_with,
     has_cn_char = has_cn_char,
+    is_key = is_key,
     is_pressed = is_pressed,
+    force_select = force_select,
     force_commit = force_commit
 }

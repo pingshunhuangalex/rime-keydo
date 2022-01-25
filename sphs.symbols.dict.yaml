@@ -3,6 +3,7 @@ name: sphs.symbols
 version: "1.0"
 sort: original
 ...
+/	;;
 ……”	;a
 【	;b
 °	;c

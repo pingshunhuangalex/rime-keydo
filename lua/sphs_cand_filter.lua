@@ -3,7 +3,7 @@ local starts_with = sphs_common.starts_with
 local has_cn_char = sphs_common.has_cn_char
 local force_commit = sphs_common.force_commit
 
--- 候选过滤器：
+-- 候选过滤器
 -- - 历史模式候选项过滤（Rime历史模式允许记录所有输入字符，如标点、表情、英文字母等）
 -- - 历史模式候选项去重（Rime自带去重允许历史模式中相邻两项重复一次，即重复连续输入）
 -- - 候选项唯一时自动上屏（Rime自带自动上屏只在输入编码与词库编码吻合时才会触发）
@@ -16,7 +16,7 @@ local function filter(cand_list, env)
     local prev_cand_text = nil -- 上一个候选项字符串
     local is_history = starts_with(input, history_leader) -- 是否进入历史模式，即输入区是否由历史模式引导键引导
     local should_auto_commit = has_auto_select -- 是否优化自动上屏（若自动上屏未开启，则不考虑进一步优化）
-    local should_handle_key = input:match("[a-z" .. history_leader .. "]$") -- 是否为待处理按键（音码、形码、历史模式引导键）
+    local should_handle_key = input:match("[a-z]$") -- 是否为待处理按键（音码或形码）
 
     -- 判断是否应该自动上屏，即候选项是否唯一
     local function handle_auto_commit(cand)
@@ -57,13 +57,13 @@ local function filter(cand_list, env)
         ::continue::
     end
 
-    if should_handle_key and should_auto_commit then -- 确保当前按键为待处理按键且开启优化自动上屏
-        if auto_commit_cand then -- 若待自动上屏的候选项存在，则直接上屏
-            force_commit(auto_commit_cand.text, env)
-        elseif is_history then -- 若历史模式中不存在候选项，则上屏输入区字符串
-            force_commit(input, env)
-        end -- 若输入模式中按键不产生候选项，则传递给下个逻辑块（比如数字、标点等）
-    end -- 其它引导键将被传递给下个逻辑块（比如等号、分号等）
+    -- 优化自动上屏条件
+    -- - 当前按键为待处理按键
+    -- - 优化自动上屏已开启
+    -- - 待自动上屏的候选项存在
+    if should_handle_key and should_auto_commit and auto_commit_cand then
+        force_commit(auto_commit_cand.text, env)
+    end -- 若按键不产生候选项（数字、标点等）或按键为引导键（等号、分号等），则传递给下个逻辑块
 end
 
 -- 初始化

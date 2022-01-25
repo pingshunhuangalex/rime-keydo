@@ -2,4 +2,4 @@
 # encoding: utf-8
 
 # patch:
-  # style/layout/margin_y: 12 # 显示候选项菜单
+#   style/layout/margin_y: 12 # 显示候选项菜单

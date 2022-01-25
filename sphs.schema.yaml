@@ -71,7 +71,6 @@ engine:
 
 recognizer:
   patterns:
-    punct: "^/([0-9]0?|[a-z]+)$"
     char_lookup: "[a-z`]*`+[a-z`]*"
     email: "^[a-z][-_.0-9a-z]*@.*$"
     uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
