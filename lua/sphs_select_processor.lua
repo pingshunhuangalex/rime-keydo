@@ -25,12 +25,11 @@ local function processor(key_event, env)
     end
 
     -- 若按键为次选键
-    -- - 尝试上屏次选项
-    -- - 尝试上屏高亮选项
-    -- - 清空输入区
-    -- - 确保选择按键最终被消耗（应对边界情况，如次选键连按）
+    -- - 尝试上屏次选项（消耗按键）
+    -- - 尝试上屏高亮选项（消耗按键）
+    -- - 清空输入区（传递给下个逻辑块 -> 不消耗按键 -> 标点输入）
     if is_key(SELECT2_KEY, key_event) then
-        return force_select(1, RESULT_ACCEPTED, RESULT_ACCEPTED, env)
+        return force_select(1, RESULT_ACCEPTED, RESULT_NOOP, env)
     end
 
     -- 除次选键外，仅处理历史模式下的按键事件，其它模式下的按键事件将被传递给下个逻辑块
