@@ -415,7 +415,8 @@ sort: original
 不动声色	bdes
 别傻	bdeso
 不多说	bdev
-不定时	bdevo
+不定时	bdev
+不读书	bdevo
 不等式	bdevu
 表达式	bdevv
 贝多芬	bdf
@@ -747,11 +748,12 @@ sort: original
 备受关注	begq
 包身工	begu
 不是还	beh
+别说话	beh
 不识好歹	behd
 不是很大	behdv
 班师回朝	behj
 表示毫无压力	behl
-别说话	beho
+被伤害	beho
 博士后	behu
 不适合	behv
 班师回朝	behw
@@ -5945,13 +5947,12 @@ sort: original
 冰雪聪明	bxcm
 不虚此行	bxcx
 表现得	bxd
-必须得	bxd
+不晓得	bxd
 博学多才	bxdc
 博学多识	bxdeu
 彪形大汉	bxdh
 必需的	bxdo
 不安定因素	bxds
-不晓得	bxdv
 不小的	bxdv
 表兄弟	bxdvo
 不幸的	bxdvv
@@ -5967,8 +5968,7 @@ sort: original
 不相上下	bxex
 不相适应	bxey
 变戏法	bxf
-必须知道	bxfd
-不懈奋斗	bxfdv
+不懈奋斗	bxfd
 表现方式	bxfe
 不祥之兆	bxff
 保险费	bxfi
@@ -6077,8 +6077,7 @@ sort: original
 不屑一顾	bxyg
 保险业	bxyi
 不惜一切代价	bxyj
-必须有	bxyo
-必须要	bxyou
+必须要	bxyo
 不惜一切	bxyq
 不形于色	bxys
 不屑于	bxyv
@@ -9566,7 +9565,7 @@ sort: original
 东北虎	dbhv
 对号	dbhz
 等不及	dbj
-大堡礁	dbj
+达不成	dbj
 对襟	dbjb
 对劲	dbjba
 对焦	dbjc
@@ -9587,8 +9586,9 @@ sort: original
 对家	dbjs
 对价	dbjsa
 大背景	dbjv
-大保健	dbjv
-东北角	dbjvi
+大堡礁	dbjv
+大保健	dbjvi
+东北角	dbjviu
 兑奖	dbjx
 对讲	dbjxa
 对朝	dbjz
@@ -12057,8 +12057,7 @@ sort: original
 带走	dhzd
 待在	dhzh
 呆在	dhzho
-待在	dhzhu
-戴在	dhzhuv
+戴在	dhzhu
 带在	dhzhv
 傣族	dhzj
 带足	dhzjv
@@ -15890,7 +15889,6 @@ sort: original
 动辄	dyfe
 大禹治水	dyfev
 钓鱼执法	dyff
-对于这个	dyfg
 洞府	dyfj
 冬至	dyfk
 东芝	dyfkv
@@ -15910,7 +15908,6 @@ sort: original
 大洋洲	dyfv
 东非	dyfw
 冬装	dyfx
-对于这些	dyfxa
 动中	dyfy
 洞中	dyfya
 第一反应	dyfyu
@@ -16007,7 +16004,6 @@ sort: original
 洞开	dykh
 洞窟	dykj
 东扩	dykl
-都有可能	dykn
 大有可为	dykw
 洞孔	dyky
 等于零	dyl
@@ -16087,7 +16083,6 @@ sort: original
 东站	dyqf
 地缘政治	dyqfv
 动情	dyqg
-对于这个	dyqga
 董卿	dyqgi
 冬青	dyqgu
 低吟浅唱	dyqj
@@ -16104,7 +16099,6 @@ sort: original
 第一章	dyqu
 第一针	dyquv
 东墙	dyqx
-对于这些	dyqxa
 掉以轻心	dyqxi
 冻着	dyqz
 东赵	dyqzv
@@ -30106,11 +30100,11 @@ sort: original
 直通车	ftw
 肥田沃地	ftwd
 专车	ftwe
-这天晚上	ftweo
 转车	ftwev
 转弯	ftwf
 专务	ftwj
 转我	ftwl
+专戳	ftwlv
 撰文	ftwn
 专网	ftwp
 转网	ftwpv
@@ -36944,7 +36938,7 @@ sort: original
 光谱	gxpj
 光片	gxpm
 狗血喷头	gxpt
-感兴趣	gxq
+过下去	gxq
 滚雪球	gxqa
 光着	gxqe
 各行其是	gxqeu
@@ -36959,6 +36953,7 @@ sort: original
 高新区	gxqo
 广征	gxqr
 光圈	gxqt
+感兴趣	gxqv
 光强	gxqx
 甘心情愿	gxqy
 光照	gxqz
@@ -43055,8 +43050,8 @@ sort: original
 黑格	hwge
 混个	hwgea
 混改	hwgh
-浑古	hwgj
-毫无顾忌	hwgjo
+毫无顾忌	hwgj
+浑古	hwgja
 黑锅	hwgl
 黑岗	hwgp
 环卫工人	hwgr
@@ -63128,7 +63123,6 @@ sort: original
 论语	lwylo
 阑尾炎	lwyo
 耒阳	lwyp
-另外一个人	lwyr
 累呀	lwys
 列车员	lwyv
 另外一些	lwyx
@@ -69161,7 +69155,8 @@ sort: original
 你是有	ney
 你是有多	neyd
 年事已高	neyg
-你实在	nez
+你是在	nez
+你实在	nezi
 呢子	nezk
 你知不	nfb
 男宾	nfbb
@@ -69735,8 +69730,9 @@ sort: original
 奶头	nhtd
 奈特	nhte
 奶糖	nhtp
-您还未	nhw
+你和我	nhw
 你画我猜	nhwc
+您还未	nhwi
 虐我	nhwl
 奶我	nhwla
 奶疮	nhwm
@@ -81249,8 +81245,6 @@ sort: original
 拳套	qttzo
 前途未卜	qtwb
 全撤	qtwe
-前天晚上	qtweo
-这天晚上	qtweov
 圈外	qtwh
 全无	qtwj
 犬齿	qtwk
@@ -81261,7 +81255,6 @@ sort: original
 拳王	qtwp
 全网	qtwpi
 全传	qtwt
-其他问题	qtwtv
 权威	qtww
 劝慰	qtwwa
 千头万绪	qtwx
@@ -81307,8 +81300,7 @@ sort: original
 全院	qtyt
 全员	qtyti
 全运	qtyw
-其他一些	qtyx
-其它一些	qtyxv
+其它一些	qtyx
 全用	qtyy
 其他原因	qtyyv
 全要	qtyz
@@ -88905,9 +88897,10 @@ sort: original
 太师椅	teyvi
 天生尤物	teyw
 特邀	teyz
-唐师曾	tez
+他是在	tez
 特在	tezh
 特作	tezl
+唐师曾	tezo
 特种兵	tfb
 特种部队	tfbd
 探班	tfbf
@@ -93759,7 +93752,7 @@ sort: original
 为时已晚	weyw
 车用	weyy
 巫山云雨	weyyv
-往上走	wez
+我是在	wez
 撤走	wezd
 车载	wezh
 车组	wezj
@@ -93767,6 +93760,7 @@ sort: original
 撤资	wezki
 车座	wezl
 无师自通	wezt
+往上走	wezu
 无纺布	wfb
 文质彬彬	wfbb
 腕表	wfbc
@@ -94498,7 +94492,8 @@ sort: original
 外码	whms
 外貌	whmz
 外贸	whmzu
-茶花女	whn
+我和你	whn
+茶花女	whni
 崴泥	whnk
 歪扭	whnq
 外内	whnw
@@ -95904,6 +95899,7 @@ sort: original
 往里面	wlmu
 我呢	wlne
 倭奴	wlnj
+戳你	wlnk
 窝囊	wlnp
 蜗牛	wlnq
 卧内	wlnw
@@ -111068,6 +111064,7 @@ sort: original
 月卡	yhks
 月考	yhkz
 又好了	yhl
+也好了	yhla
 约了	yhle
 乐了	yhleu
 阅览	yhlf
@@ -112116,8 +112113,7 @@ sort: original
 溢美	ykmwao
 衣袂	ykmwo
 一毛	ykmz
-有可能	ykn
-也可能	ykna
+也可能	ykn
 益鸟	yknc
 遗尿	yknci
 一捏	yknd
@@ -115178,7 +115174,7 @@ sort: original
 印象派	yxp
 异性朋友	yxpy
 一想起	yxq
-有效期	yxq
+有兴趣	yxq
 英雄气短	yxqd
 英雄气概	yxqg
 贻笑千古	yxqga
@@ -115186,9 +115182,8 @@ sort: original
 一笑千金	yxqj
 一些情况	yxqk
 一泻千里	yxql
-影响着	yxqo
 用心去	yxqu
-有兴趣	yxqv
+有效期	yxqv
 有些情	yxqvi
 一星期	yxqvo
 压下去	yxqvv
@@ -116288,6 +116283,7 @@ sort: original
 遥远	yzyt
 要员	yzytv
 越走越	yzyv
+有尊严	yzyvo
 摇匀	yzyw
 意在言外	yzywo
 有滋有味	yzywv
@@ -117047,6 +117043,7 @@ sort: original
 拶指	zffk
 自知之明	zffm
 在这方面	zffmv
+在这个	zfg
 攒够	zfgd
 攒个	zfge
 赞歌	zfgeu
@@ -117097,8 +117094,7 @@ sort: original
 再分配	zfp
 造反派	zfpu
 赞佩	zfpw
-总方针	zfq
-组织者	zfqa
+走着瞧	zfq
 攒着	zfqe
 咱这	zfqeo
 暂缺	zfqh
@@ -117106,8 +117102,8 @@ sort: original
 暂住	zfqjv
 组织起来	zfql
 攒钱	zfqm
+总方针	zfqo
 自治区	zfqu
-走着瞧	zfqv
 咱群	zfqw
 尊夫人	zfr
 早知如此	zfrc
@@ -117409,7 +117405,8 @@ sort: original
 再亏	zhkb
 再扣	zhkd
 载客	zhke
-再看	zhkf
+在看	zhkf
+再看	zhkfv
 再快	zhkg
 再开	zhkh
 在库	zhkj

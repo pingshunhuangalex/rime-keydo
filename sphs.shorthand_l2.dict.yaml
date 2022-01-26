@@ -73,6 +73,7 @@ sort: original
 没有	my
 满意	my
 你的	nd
+你都	nd
 你是	ne
 那是	ne
 那个	ng
@@ -94,6 +95,7 @@ sort: original
 人才	rc
 如此	rc
 人的	rd
+人都	rd
 人工	rg
 如何	rh
 人们	rm
@@ -108,6 +110,7 @@ sort: original
 索取	sq
 思想	sx
 他的	td
+他都	td
 他能	tn
 太难	tn
 提前	tq
@@ -118,7 +121,7 @@ sort: original
 我都	wd
 我是	we
 外面	wm
-我能	wm
+我能	wn
 完全	wq
 我在	wz
 有的	yd
