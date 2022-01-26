@@ -22,7 +22,7 @@ menu:
 
 # 模式切换开关
 switches:
-  - { name: ascii_mode, reset: 0 } # 中英文切换（默认中文）
+  - { name: ascii_mode, reset: 1 } # 中英文切换（默认英文）
   - { name: extended_charset, reset: 1 } # CJK字符集切换（默认全字符集）
   - { name: full_shape, reset: 0 } # 全角半角切换（默认半角）
 
@@ -36,16 +36,16 @@ punctuator:
 engine:
   processors: # 处理器 -> 响应按键并按照预设的规则依次进行编码处理
     - ascii_composer # 与ascii_segmentor搭配，处理英文模式下的输入编码
-    - recognizer # 与matcher搭配，处理特定结构的编码（含引导键的编码、网址、反查等）
+    - recognizer # 与matcher搭配，处理特定结构的编码（计算器、编码反查等）
     - key_binder # 绑定按键并赋予功能（或重新定义按键本身）
     - lua_processor@topup_processor # 判断是否顶功与顶功的内容
     - lua_processor@sphs_select_processor # 使特定按键可以选择特定候选项（单引号、斜杠等）
-    - speller # 根据输入编码编辑输入区
+    - speller # 将输入编码根据拼写运算规则编辑输入区
     - punctuator # 与punct_segmentor搭配，将特定按键映射为标点符号（逗号、句号等）
     - selector # 将特定按键映射为选择键（数字键、上/下方向键、PageUp/PageDown等）
     - navigator # 使特定按键可以移动输入区中的光标（左/右方向键等）
     - express_editor # 将特定按键映射为编辑键（空格、回车、回退键等）
-  segmentors: # 分段器 -> 将输入编码根据格式进行分段并逐一打上标签
+  segmentors: # 分段器 -> 将输入编码根据结构进行段落划分与标记
     - ascii_segmentor
     - matcher
     - abc_segmentor
@@ -63,17 +63,6 @@ engine:
     - uniquifier
     - lua_filter@sphs_cand_filter
     - reverse_lookup_filter@char_lookup
-
-
-recognizer:
-  patterns:
-    char_lookup: "[a-z`]*`+[a-z`]*"
-    email: "^[a-z][-_.0-9a-z]*@.*$"
-    uppercase: "[A-Z][-_+.'0-9A-Za-z]*$"
-    pinyin: "(?<![`A-Z])`[a-z']*;?$"
-    url: "^(www[.]|https?:|ftp:|mailto:).*$"
-    english: "^'[A-Z|a-z]*'?$"
-    jsq: "^=[^;']+$"
 
 
 layout:
@@ -103,13 +92,21 @@ topup:
   topup_command: true
 
 
+# 截取特定结构的编码传递给下个逻辑块（避免某些按键直接上屏/清空输入区字符串）
+recognizer:
+  patterns: # 配合segmentor的prefix和suffix完成段落划分与标记
+    calculator: "^=[^;']+$" # 计算器
+    char_lookup: "[a-z`]*`+[a-z`]*" # 编码反查
+
+
+# 根据拼写运算规则编辑输入区
 speller:
-  algebra:
-    __include: "layout/algebra"
-  auto_select: true
-  auto_select_unique_candidate: true
-  alphabet: "zyxwvutsrqponmlkjihgfedcba;/=`"
-  initials: "abcdefghijklmnopqrstuvwxyz;/=`"
+  algebra: # 核心拼写运算规则（编译后会写入build文件夹中的prism文件）
+    __include: "layout/algebra" # 导入拼写运算规则
+  auto_select: true # 是否开启自动上屏
+  auto_select_unique_candidate: true # 是否开启无重码时自动上屏（仅在编码吻合时判断）
+  alphabet: "abcdefghijklmnopqrstuvwxyz;/=`" # 待监听的按键
+  initials: "abcdefghijklmnopqrstuvwxyz;/=`" # 待监听的首位按键（引导键）
 
 
 translator:
