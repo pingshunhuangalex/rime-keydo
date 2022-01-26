@@ -25,8 +25,6 @@ switches:
   - { name: ascii_mode, reset: 0 } # 中英文切换（默认中文）
   - { name: extended_charset, reset: 1 } # CJK字符集切换（默认全字符集）
   - { name: full_shape, reset: 0 } # 全角半角切换（默认半角）
-  - { name: jffh, reset: 0 } # 简繁切换（默认简体）
-  - { name: emoji_cn, reset: 0 } # 表情转换（默认不转换）
 
 
 # 标点符号
@@ -64,8 +62,6 @@ engine:
   filters: # 过滤器 -> 将转换好的候选项进行过滤（增删改查）
     - uniquifier
     - lua_filter@sphs_cand_filter
-    - simplifier@jffh
-    - simplifier@emoji_cn
     - reverse_lookup_filter@char_lookup
 
 
@@ -78,12 +74,6 @@ recognizer:
     url: "^(www[.]|https?:|ftp:|mailto:).*$"
     english: "^'[A-Z|a-z]*'?$"
     jsq: "^=[^;']+$"
-
-
-key_binder:
-  bindings:
-    - { when: has_menu, accept: F1, toggle: emoji_cn}
-    - { when: has_menu, accept: F2, toggle: jffh }
 
 
 layout:
@@ -159,14 +149,3 @@ char_lookup:
   encode_commit_history: false
   comment_format:
     - xform/~[a-z;]+//
-
-
-jffh:
-  opencc_config: s2tw.json
-  option_name: jffh
-
-
-emoji_cn:
-  opencc_config: emoji.json
-  option_name: emoji_cn
-  tips: all
