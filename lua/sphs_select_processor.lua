@@ -27,7 +27,7 @@ local function processor(key_event, env)
     -- 若按键为次选键
     -- - 尝试上屏次选项（消耗按键）
     -- - 尝试上屏高亮选项（消耗按键）
-    -- - 清空输入区（传递给下个逻辑块 -> 不消耗按键 -> 标点输入）
+    -- - 清空输入区（不消耗按键 -> 传递给下个逻辑块）
     if is_key(SELECT2_KEY, key_event) then
         return force_select(1, RESULT_ACCEPTED, RESULT_NOOP, env)
     end
@@ -38,16 +38,15 @@ local function processor(key_event, env)
     end
 
     -- 若在历史模式下按下历史模式引导键
-    -- - 尝试上屏高亮选项（保持历史模式开启 -> 不消耗按键 -> 将历史候选项顶上屏）
-    -- - 清空输入区（关闭历史模式 -> 消耗按键）
+    -- - 尝试上屏高亮选项（将历史候选项顶上屏 -> 不消耗按键 -> 再次开启历史模式）
+    -- - 清空输入区（消耗按键 -> 关闭历史模式）
     if is_key(history_leader, key_event) then
         return force_select(nil, RESULT_NOOP, RESULT_ACCEPTED, env)
     end
 
     -- 若在历史模式下按下其它按键
-    -- - 尝试上屏高亮选项
-    -- - 清空输入区
-    -- - 确保当前按键不被消耗（传递给下个逻辑块 -> 将历史候选项顶上屏）
+    -- - 尝试上屏高亮选项（将历史候选项顶上屏 -> 不消耗按键 -> 传递给下个逻辑块）
+    -- - 清空输入区（不消耗按键 -> 传递给下个逻辑块）
     return force_select(nil, RESULT_NOOP, RESULT_NOOP, env)
 end
 
