@@ -16601,6 +16601,7 @@
 最容易	zry_
 自然醒	zrxu
 责任心	zrx_
+纵容我	zrwa
 自认为	zrw_
 责任田	zrt_
 自然色	zrs_
@@ -19510,7 +19511,8 @@
 无压力	wylv
 扯远了	wyli
 差远了	wyl_
-外语课	wyk_
+外语课	wyku
+我一看	wyk_
 万叶集	wyjvo
 违约金	wyjv
 重阳节	wyju
@@ -19880,7 +19882,8 @@
 喘口气	wkq_
 超宽频	wkp_
 瓦卡奶	wknv
-我看难	wkn_
+我看难	wknu
+我看你	wkn_
 闯空门	wkm_
 乌克兰	wkl_
 我看看	wkku
@@ -20079,7 +20082,8 @@
 冲上去	weq_
 超水平	wepv
 往上爬	wep_
-外甥女	wen_
+外甥女	wenu
+我是能	wen_
 玩什么	wemv
 乌纱帽	wemu
 吃什么	wemo
@@ -21506,7 +21510,8 @@
 热加工	rjg_
 入场费	rjf_
 人教社	rjei
-人间事	rje_
+人间事	rje'
+人就是	rje_
 溶解度	rjda
 人家的	rjd_
 软件包	rjbv
@@ -27615,6 +27620,7 @@
 管理者	glfu
 管理费	glf_
 桂林市	gle_
+古老的	gldu
 该来的	gldo
 隔离带	glda
 高利贷	gld'
@@ -33158,6 +33164,7 @@
 是的	ed_
 是个	eg_
 说明	em_
+是能	en_
 是去	eq_
 使人	er_
 使用	ey_
@@ -33178,7 +33185,10 @@
 很快	hk_
 好了	hl_
 后面	hm_
+和你	hn_
 好人	hr_
+和他	ht_
+和我	hw_
 就是	je_
 就好	jh_
 就能	jn_
@@ -33188,6 +33198,8 @@
 可靠	kk_
 开门	km_
 可能	kn_
+了没	lm_
+了嘛	lm'
 两年	ln_
 没人	mr_
 明天	mt_
@@ -33200,7 +33212,8 @@
 那是	ne'
 那个	ng_
 你好	nh_
-那就	nj_
+你就	nj_
+那就	nj'
 那你	nn_
 哪怕	np_
 那他	nt_
@@ -33236,6 +33249,7 @@
 他能	tn_
 太难	tn'
 提前	tq_
+他人	tr_
 同学	tx_
 他在	tz_
 为此	wc_
@@ -96105,7 +96119,7 @@
 过冬	gldyv
 果冻	gldy
 过短	gldtv
-果断	gldt'
+果断	gldti
 过段	gldt
 国大	gldsi
 过大	glds
@@ -129318,7 +129332,6 @@
 硌	llvuua
 珞	llvv
 珞	llvvua
-连	lm_
 练	lma
 练	lmaava
 潋	lmai
@@ -129361,7 +129374,8 @@
 脸	lmuivo
 臁	lmuo
 臁	lmuovu
-联	lmv
+连	lmv
+联	lmv'
 连	lmvaoa
 联	lmviou
 殓	lmvu
@@ -130566,8 +130580,8 @@
 奈	nhvuvv
 柰	nhvv
 柰	nhvvvi
-怒	nj_
-奴	nja
+怒	nja
+奴	nja'
 努	njau
 弩	njaua
 驽	njauaa
