@@ -865,7 +865,6 @@
 先进工作者	xjgfu
 新技术革命	xjem
 先进生产力	xjelu
-新华社记者	xheqo
 新华社记者	xhefo
 心肝脾肺肾	xgpe
 习惯成自然	xgjra
@@ -1548,7 +1547,6 @@
 自由竞争	zyjqu
 昨夜今晨	zyjjo
 左右击键	zyjj
-作用就是	zyje
 左右互击	zyhj
 造谣惑众	zyhf
 自由活动	zyhdu
@@ -2052,7 +2050,7 @@
 遥遥领先	yylxu
 余音缭绕	yylr
 呦呦鹿鸣	yylmo
-阴雨连绵	yylma
+阴雨连绵	yylm
 庸庸碌碌	yyll
 严于律己	yyljvv
 严以律己	yyljv
@@ -3038,7 +3036,6 @@
 眼高手低	ygedio
 一个多月	ygdy
 有关单位	ygdwv
-一个道理	ygdlv
 一个顶俩	ygdl
 阳关大道	ygdda
 阳光灿烂	ygcl
@@ -5278,7 +5275,6 @@
 五福临门	wflmv
 武装力量	wfllvo
 威风凛凛	wfllv
-无法理解	wfljva
 违法乱纪	wfljv
 无法控制	wfkfv
 充分肯定	wfkdo
@@ -7542,6 +7538,7 @@
 寝食不安	qebxo
 七上八下	qebx
 前事不忘	qebwo
+诸事不遂	qebso
 其实不然	qebrv
 禽兽不如	qebr
 七手八脚	qebjv
@@ -7549,7 +7546,7 @@
 镇定自若	qdzr
 期待已久	qdyjv
 睁大眼睛	qdyj
-长大以后	qdyhu
+长大以后	qdyh
 真的爱你	qdxn
 千叮万嘱	qdwq
 千刀万剐	qdwg
@@ -7961,7 +7958,6 @@
 那么简单	nmjda
 那么回事	nmhea
 浓墨重彩	nmfc
-那没事了	nmel
 农贸市场	nmejo
 浓眉大眼	nmdy
 那么多年	nmdn
@@ -11116,6 +11112,7 @@
 花拳绣腿	hqxti
 寒气袭人	hqxr
 祸起萧墙	hqxq
+豪情万丈	hqwq
 化整为零	hqwl
 魂牵梦萦	hqmy
 黑漆抹乌	hqmwi
@@ -12266,6 +12263,7 @@
 更待何时	gdhev
 高度关注	gdgqo
 高低贵贱	gdgjo
+孤独终老	gdfl
 古代中国	gdfgu
 高度重视	gdfeo
 高度发达	gdfd
@@ -14423,6 +14421,7 @@
 得意洋洋	dyyyuo
 第一印象	dyyx
 第一要务	dyywu
+都有一个	dyyg
 盗亦有道	dyydo
 大有希望	dyxwv
 大音希声	dyxev
@@ -14707,6 +14706,7 @@
 东南大学	dndx
 大难不死	dnbs
 大逆不道	dnbd
+都没有了	dmyl
 动脉硬化	dmyhv
 道貌岸然	dmxr
 夺门而出	dmxjv
@@ -16478,7 +16478,8 @@
 作用力	zyl_
 资源库	zyk_
 最要紧	zyjo
-择一城	zyji
+择一城	zyjiv
+做一件	zyji
 早已经	zyj_
 最永恒	zyho
 自由化	zyh_
@@ -16641,7 +16642,6 @@
 坐起来	zqli
 增长了	zql'
 增强了	zql_
-在这块	zqk_
 最亲近	zqjo
 作曲家	zqji
 足球场	zqj_
@@ -16707,6 +16707,7 @@
 字码块	zmko
 怎么看	zmk_
 怎么讲	zmj_
+最美好	zmho
 怎么会	zmh_
 怎么说	zme_
 自民党	zmdu
@@ -16917,6 +16918,7 @@
 阻止你	zfn_
 祖父母	zfm_
 自制力	zfl_
+最疯狂	zfko
 在这块	zfk_
 造纸厂	zfju
 总支出	zfjo
@@ -17013,6 +17015,7 @@
 做促销	zcx_
 自测题	zct_
 柞蚕丝	zcs_
+最脆弱	zcr_
 暂存器	zcq_
 总裁判	zcp_
 自从你	zcn_
@@ -18242,6 +18245,7 @@
 赢不了	yblo
 也不赖	ybl_
 哑巴亏	ybko
+也不可	ybka
 又不肯	ybk_
 一杯酒	ybjvv
 远不及	ybjv
@@ -18991,7 +18995,8 @@
 二季度	xjdvu
 刑警队	xjdvi
 鹌鹑蛋	xjdv
-新阶段	xjdo
+新阶段	xjdoa
+安静的	xjdo
 小剪刀	xjdi
 小家电	xjd'
 现阶段	xjd_
@@ -19791,7 +19796,8 @@
 万能表	wnb_
 万美元	wmyv
 我们也	wmyu
-我们要	wmy_
+我们要	wmy'
+我没有	wmy_
 超媒体	wmtv
 我每天	wmtu
 伪命题	wmti
@@ -21597,7 +21603,8 @@
 认识到	red_
 人事部	reb_
 软刀子	rdz_
-热带鱼	rdy_
+热带鱼	rdyi
+人都有	rdy_
 热电偶	rdxi
 容得下	rdx_
 人盯人	rdr_
@@ -22365,8 +22372,8 @@
 正式版	qeb_
 正电子	qdz_
 秋刀鱼	qdyu
-全都要	qdyi
-猪队友	qdy_
+猪队友	qdy'
+全都要	qdy_
 长点心	qdxui
 长得像	qdxu
 主动性	qdxo
@@ -23366,6 +23373,7 @@
 毛泽东	mzd_
 牡羊座	myzu
 每一座	myz_
+埋怨于	myyv
 名演员	myyu
 慢悠悠	myyo
 没意义	myya
@@ -23395,9 +23403,10 @@
 摸一摸	mymi
 每一名	mym'
 每一秒	mym_
-满意率	mylao
-沐浴露	myla
-免疫力	myl_
+免疫力	mylu
+满意率	myla
+沐浴露	myl'
+没有了	myl_
 每一刻	myk_
 贸易界	myjuo
 每一处	myju
@@ -25456,7 +25465,8 @@
 巨无霸	jwb_
 简体字	jtz_
 金田一	jtyi
-出太阳	jty_
+出太阳	jtya
+寄托于	jty_
 警惕性	jtxi
 交通线	jtx_
 长筒袜	jtwuu
@@ -25514,8 +25524,9 @@
 教唆犯	jsf_
 就算是	jseo
 江苏省	jse_
-加速度	jsda
-集散地	jsd_
+集散地	jsdi
+沮丧的	jsda
+加速度	jsd_
 检索词	jsc_
 近日在	jrzu
 紧日子	jrz_
@@ -26545,8 +26556,9 @@
 荷尔蒙	hxm_
 核泄露	hxlv
 候选栏	hxli
+活下来	hxla
 黑暗里	hxl'
-活下来	hxl_
+划下了	hxl_
 很辛苦	hxku
 化学课	hxki
 候选框	hxk_
@@ -26628,6 +26640,7 @@
 回头路	htlio
 回头率	htli
 滑铁卢	htl_
+很痛苦	htku
 回头客	htki
 回头看	htk_
 黄庭坚	htjv
@@ -27907,9 +27920,8 @@
 滚的滚	gdga
 高低杠	gdg'
 孤独感	gdg_
-鬼地方	gdfuv
 各地方	gdfu
-个地方	gdf_
+鬼地方	gdf_
 古代史	gdeu
 广东省	gdeo
 高大上	gde'
@@ -29211,8 +29223,8 @@
 市盈率	eylo
 使用率	eyli
 双一流	eyla
-深夜里	eyl'
-收益率	eyl_
+收益率	eyl'
+深夜里	eyl_
 实验课	eyko
 上一课	eyk_
 商业街	eyjo
@@ -30059,14 +30071,15 @@
 睡不着	ebf'
 殊不知	ebf_
 爽不爽	ebev
-说不说	ebeov
-说不上	ebeo
+说不上	ebeov
+说不说	ebeo
 睡不睡	ebeiv
+上半生	ebeiou
 上半时	ebeio
-上半生	ebei'
-上半身	ebei
-手把手	ebe'
-时不时	ebe_
+上半身	ebei'
+手把手	ebei
+时不时	ebe'
+是不是	ebe_
 身边的	ebdu
 说不得	ebdo
 使不得	ebdiv
@@ -31578,10 +31591,11 @@
 保鲜膜	bxmi
 表形码	bxm_
 表现力	bxlv
-冰箱里	bxlo
+别嫌累	bxlo
 薄熙来	bxli
 办下来	bxla
-别嫌累	bxl_
+冰箱里	bxl'
+背下来	bxl_
 不辛苦	bxkv
 必修课	bxk_
 不相称	bxjvv
@@ -31729,6 +31743,7 @@
 本赛季	bsj_
 变速杆	bsg_
 伴随着	bsf_
+不算事	bsev
 不算数	bse_
 比萨饼	bsbv
 比算表	bsb_
@@ -33131,6 +33146,9 @@
 走来	zvo
 坐在	zvu
 走进	zvv
+那又 	aa_
+那有	av_
+又有	av'
 不是	be_
 不上	be'
 不好	bh_
@@ -33153,9 +33171,11 @@
 才有	cy_
 都是	de_
 都没	dm_
-都能	dn_
-电脑	dn'
+的你	dn_
+都能	dn'
 的人	dr_
+的他	dt_
+的我	dw_
 大小	dx_
 都有	dy_
 都在	dz_
@@ -33206,18 +33226,14 @@
 梦想	mx_
 没有	my_
 满意	my'
+没在	mz_
+你不	nb_
 你的	nd_
-你都	nd_
+你都	nd'
 你是	ne_
-那是	ne'
-那个	ng_
 你好	nh_
 你就	nj_
-那就	nj'
-那你	nn_
 哪怕	np_
-那他	nt_
-那我	nw_
 你在	nz_
 平时	pe_
 脾气	pq_
@@ -33244,6 +33260,7 @@
 司马	sm_
 索取	sq_
 思想	sx_
+他不	tb_
 他的	td_
 他都	td'
 他能	tn_
@@ -33252,6 +33269,7 @@
 他人	tr_
 同学	tx_
 他在	tz_
+我不	wb_
 为此	wc_
 我的	wd_
 我都	wd'
@@ -33262,20 +33280,14 @@
 我在	wz_
 有的	yd_
 因此	yc_
-又是	ye_
-有时	ye'
-有个	yg_
-一个	yg'
+有时	ye_
+一个	yg_
 以及	yj_
-有了	yl_
 郁闷	ym_
-又能	yn_
-一年	yn'
+一年	yn_
 要求	yq_
-有人	yr_
 以下	yx_
 因而	yx'
-又有	yy_
 字词	zc_
 做饭	zf_
 字根	zg_
@@ -36416,7 +36428,7 @@
 用龙	yyly
 用量	yylx
 涌浪	yylp
-泳联	yylm
+泳联	yylma
 用例	yylku
 拥立	yylki
 用力	yylk
@@ -60279,10 +60291,6 @@
 招待	qzdh
 赵鼎	qzdg
 赵弹	qzdf
-照得	qzdeo
-罩得	qzdei
-找得	qzde
-找对	qzdb
 找错	qzcl
 照此	qzck
 招财	qzch
@@ -64593,6 +64601,7 @@
 情势	qgeko
 清史	qgeka
 请示	qgek
+倾述	qgeji
 情书	qgej
 轻率	qgeg
 青衫	qgefv
@@ -65138,7 +65147,7 @@
 切圆	qdyt
 且与	qdyl
 惬意	qdyk
-且越	qdyh
+且越	qdyhi
 且又	qdydi
 且有	qdyd
 且因	qdyb
@@ -70592,8 +70601,7 @@
 梅子	mwzk
 魅族	mwzju
 每组	mwzj
-没再	mwzha
-没在	mwzh
+没再	mwzh
 没走	mwzd
 没醉	mwzb
 煤窑	mwyzo
@@ -80788,6 +80796,7 @@
 柯亨	kehr
 刻划	kehqo
 刻画	kehq
+刻痕	kehno
 可恨	kehn
 客货	kehlo
 可获	kehl
@@ -98202,7 +98211,8 @@
 赵鼎	fzdg
 赵弹	fzdf
 照得	fzdeo
-罩得	fzdei
+找的	fzdei
+罩得	fzde'
 找得	fzde
 找对	fzdb
 找错	fzcl
@@ -109229,7 +109239,7 @@
 冬月	dyyhu
 东岳	dyyh
 东营	dyygv
-东瀛	dyyg
+东瀛	dyyg'
 冬夜	dyye
 东有	dyyd
 动因	dyyb
@@ -110989,7 +110999,7 @@
 电源	dmyt
 电压	dmysi
 典雅	dmys
-殿宇	dmyl
+殿宇	dmyla
 点阅	dmyh
 点映	dmygi
 电影	dmyg
@@ -111091,6 +111101,7 @@
 电平	dmpgiv
 电瓶	dmpgi
 点评	dmpg
+电脑	dmnz
 佃农	dmny
 店内	dmnw
 电暖	dmnt
@@ -113193,8 +113204,8 @@
 单打	dfdso
 胆大	dfds
 蛋等	dfdr
-但当	dfdpi
-担当	dfdp
+担当	dfdpi
+但当	dfdp
 单点	dfdm
 单底	dfdk
 单独	dfdj
