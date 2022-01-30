@@ -19966,8 +19966,9 @@
 晚会儿	whxo
 危害性	whx_
 为何物	whw_
+万花筒	whtv
 文化厅	whto
-万花筒	wht_
+我和他	wht_
 茶褐色	whs_
 五花肉	whrv
 文化人	whr_
@@ -21679,8 +21680,9 @@
 却愿意	qyy'
 却永远	qyy_
 区域性	qyxv
+请允许	qyxo
 睁眼瞎	qyxi
-请允许	qyx_
+注意下	qyx_
 青玉案	qywv
 窃以为	qywo
 正因为	qyw_
@@ -24964,6 +24966,7 @@
 可卡因	kky_
 可靠性	kkx_
 开快车	kkw_
+开空调	kktv
 看看他	kkt_
 可扩展	kkq_
 看看你	kkn_
@@ -32567,11 +32570,11 @@
 苍老	cuo
 厕所	cuu
 村长	cuv
-存在	cv
+才有	cv
+存在	cv'
 参与	cva
 从事	cvi
 从来	cvo
-才有	cvu
 从未	cvv
 到了	da
 大约	daa
@@ -32597,7 +32600,8 @@
 大爷	duo
 等待	duu
 打算	duv
-东西	dv
+都有	dv
+东西	dv'
 得到	dva
 底下	dvi
 大哥	dvo
@@ -32748,7 +32752,8 @@
 进入	juo
 觉得	juu
 就算	juv
-今天	jv
+就有	jv
+今天	jv'
 见到	jva
 就要	jvi
 出来	jvo
@@ -33172,7 +33177,6 @@
 采取	cq_
 此人	cr_
 操心	cx_
-才有	cy_
 都是	de_
 都没	dm_
 的你	dn_
@@ -33181,7 +33185,6 @@
 的他	dt_
 的我	dw_
 大小	dx_
-都有	dy_
 都在	dz_
 是吧	eb_
 上次	ec_
@@ -33219,7 +33222,6 @@
 就是	je_
 就好	jh_
 就能	jn_
-就有	jy_
 快餐	kc_
 可是	ke_
 可靠	kk_
@@ -33231,8 +33233,7 @@
 没人	mr_
 明天	mt_
 梦想	mx_
-没有	my_
-满意	my'
+满意	my_
 没在	mz_
 你不	nb_
 你的	nd_
@@ -33285,7 +33286,6 @@
 我能	wn_
 完全	wq_
 我在	wz_
-有的	yd_
 因此	yc_
 有时	ye_
 一个	yg_
