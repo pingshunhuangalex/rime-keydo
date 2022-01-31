@@ -4074,7 +4074,7 @@
 心旷神怡	xkey
 小康水平	xkepi
 小康生活	xkehi
-小康社会	xkeh
+小康社会	xkeh'
 信口雌黄	xkchi
 线程阻塞	xjzs
 小家子气	xjzq
@@ -17880,12 +17880,13 @@
 洋鬼子	ygza
 月工资	ygz'
 已各自	ygz_
-有感于	ygyvv
+一共有	ygyvv
 一个样	ygyvi
+一个亿	ygyv'
 一个月	ygyv
 鱼肝油	ygyu
 摇滚乐	ygyi
-一共有	ygy'
+有感于	ygy'
 应该要	ygy_
 压根儿	ygxv
 粤港澳	ygxu
@@ -28525,7 +28526,8 @@
 专门化	fmhv
 芝麻糊	fmh_
 父母官	fmgu
-芝麻官	fmg_
+芝麻官	fmgi
+这么搞	fmg_
 殖民者	fmfv
 中美洲	fmfi
 发明者	fmfa
@@ -32355,7 +32357,8 @@
 不是还	beh_
 包身工	begu
 北上广	begi
-悲伤过	beg_
+悲伤过	beg'
+不是个	beg_
 标识符	befv
 白蛇传	befu
 不设防	bef_
@@ -37356,8 +37359,10 @@
 亚都	ysdj
 压带	ysdh
 鸭蛋	ysdf
+压的	ysdev
 丫的	ysdeo
-鸭的	ysde
+鸭的	ysdei
+压得	ysde
 芽豆	ysddi
 压碟	ysdd
 压掉	ysdc
@@ -41077,7 +41082,8 @@
 有段	yddt
 友达	yddsv
 犹大	yddsu
-又大	ydds
+又大	yddsa
+又打	ydds
 优等	yddri
 油灯	yddr
 又丢	yddq
@@ -44521,6 +44527,7 @@
 细述	xkejav
 细数	xkeja
 洗漱	xkej
+夕晒	xkeh
 蟋蟀	xkeg
 西山	xkef
 膝射	xkee
@@ -109930,6 +109937,7 @@
 大校	dsxcvv
 大笑	dsxcv
 打小	dsxci
+大小	dsxc'
 打消	dsxc
 打新	dsxb
 大钞	dswzvi
@@ -110358,8 +110366,8 @@
 打光	dsgm
 大锅	dsglvi
 大过	dsglv
-打过	dsgli
-大国	dsgl
+大国	dsgl'
+打过	dsgl
 大鼓	dsgjvv
 大姑	dsgjva
 大股	dsgjv
