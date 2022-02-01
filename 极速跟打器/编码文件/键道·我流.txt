@@ -70671,7 +70671,8 @@
 没行	mwxg
 美俄	mwxe
 美欧	mwxdo
-没谢	mwxd
+没谢	mwxda
+没写	mwxd
 媚笑	mwxc
 昧心	mwxbo
 没心	mwxba
