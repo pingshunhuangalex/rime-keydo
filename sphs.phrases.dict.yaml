@@ -9859,7 +9859,8 @@ sort: original
 调工	dcgy
 调回	dchb
 刁悍	dchf
-调活	dchl
+调货	dchl
+调活	dchlo
 雕花	dchq
 刁横	dchr
 调换	dcht
@@ -17411,8 +17412,8 @@ sort: original
 受控	edky
 手控	edkyi
 手铐	edkz
+收到了	edl
 受到了	edl
-收到了	edla
 势单力薄	edlb
 身单力薄	edlbu
 收料	edlc
@@ -35827,11 +35828,12 @@ sort: original
 刮破	gqpl
 瓜片	gqpm
 瓜棚	gqpr
-钢琴曲	gqq
+过桥签	gqq
 挂桥	gqqc
 挂着	gqqe
 寡情	gqqg
 挂缺	gqqh
+钢琴曲	gqqi
 挂住	gqqj
 挂起	gqqk
 刮起	gqqku
@@ -38482,6 +38484,7 @@ sort: original
 回抽	hbwd
 回车	hbwe
 会玩	hbwf
+回我	hbwl
 挥舞	hbwj
 会晤	hbwji
 回屋	hbwjia
@@ -117896,7 +117899,8 @@ sort: original
 足下	zjxso
 组选	zjxt
 祖训	zjxw
-组项	zjxx
+自己想想	zjxx
+组项	zjxxa
 族兄	zjxy
 宗教信仰	zjxyo
 早就有	zjy
@@ -118731,6 +118735,7 @@ sort: original
 子目录	zmla
 祖母绿	zmlo
 做买卖	zmm
+怎么弄	zmn
 姊妹篇	zmp
 奏鸣曲	zmq
 自贸区	zmqu

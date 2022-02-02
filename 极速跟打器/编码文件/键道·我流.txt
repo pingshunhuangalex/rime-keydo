@@ -1757,6 +1757,7 @@
 自成一格	zjyg
 罪加一等	zjydi
 宗教信仰	zjxyo
+自己想想	zjxx
 走街串巷	zjwx
 早出晚归	zjwg
 自成体系	zjtx
@@ -16701,6 +16702,7 @@
 自贸区	zmqu
 奏鸣曲	zmq_
 姊妹篇	zmp_
+怎么弄	zmn_
 做买卖	zmm_
 祖母绿	zmlo
 子目录	zmla
@@ -27502,7 +27504,8 @@
 共青团	gqt_
 更轻松	gqs_
 国庆日	gqr_
-钢琴曲	gqq_
+钢琴曲	gqqi
+过桥签	gqq_
 钢琴谱	gqp_
 歌曲名	gqm_
 公主岭	gql_
@@ -29976,8 +29979,8 @@
 刹帝利	edluo
 受得了	edlu
 帅呆了	edli
-收到了	edla
-受到了	edl_
+受到了	edl'
+收到了	edl_
 受打击	edju
 设定集	edjooi
 神道教	edjoo
@@ -34876,7 +34879,7 @@
 足有	zjyd
 足音	zjyb
 族兄	zjxy
-组项	zjxx
+组项	zjxxa
 祖训	zjxw
 组选	zjxt
 足下	zjxso
@@ -93197,6 +93200,7 @@
 回屋	hbwjia
 会晤	hbwji
 挥舞	hbwj
+回我	hbwl
 会玩	hbwf
 回车	hbwe
 回抽	hbwd
@@ -113968,7 +113972,8 @@
 调换	dcht
 刁横	dchr
 雕花	dchq
-调活	dchl
+调活	dchlo
+调货	dchl
 刁悍	dchf
 调回	dchb
 调工	dcgy
