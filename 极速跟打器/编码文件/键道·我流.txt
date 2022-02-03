@@ -17767,9 +17767,10 @@
 云计算	yjsv
 研究所	yjs_
 一家人	yjr_
-有奸情	yjqv
+有奸情	yjqva
+有激情	yjqv
 游击战	yjqa
-有激情	yjq_
+用出去	yjq_
 眼镜片	yjpi
 液晶屏	yjp_
 也就能	yjn_
@@ -33218,6 +33219,7 @@
 光明	gm_
 花草	hc_
 好的	hd_
+好好	hh_
 很快	hk_
 好了	hl_
 后面	hm_
