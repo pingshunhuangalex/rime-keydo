@@ -30911,11 +30911,11 @@
 董事长	deqi
 戴上去	deq'
 多少钱	deq_
-短视频	depuo
-多数派	depu
+多数派	depuo
+短视频	depu
 电视片	depio
-打水漂	depi
-低水平	dep_
+低水平	depi
+打水漂	dep_
 独生女	denu
 迪士尼	deni
 多少年	den_
@@ -33186,6 +33186,7 @@
 操心	cx_
 都是	de_
 都没	dm_
+的嘛	dm'
 的你	dn_
 都能	dn'
 的人	dr_
@@ -82293,6 +82294,7 @@
 捐点	jtdm
 卷第	jtdk
 倦怠	jtdh
+卷的	jtdeo
 卷层	jtcr
 卷次	jtck
 卷材	jtch
@@ -122594,7 +122596,6 @@
 垛	dlvoua
 埵	dlvouv
 夺	dlvuvi
-点	dm_
 殿	dma
 阽	dmai
 阽	dmaiiv
@@ -122603,7 +122604,8 @@
 滇	dmau
 滇	dmauoi
 殿	dmavua
-电	dmi
+点	dmi
+电	dmi'
 典	dmia
 巅	dmiau
 典	dmiauo
