@@ -3281,7 +3281,7 @@
 异端邪说	ydxea
 远渡重洋	ydwyv
 以德为先	ydwxa
-有点问题	ydwtv
+有点问题	ydwt
 移动通信	ydtx
 有待提高	ydtgv
 原地踏步	ydtbv
@@ -20076,8 +20076,9 @@
 未知数	wfe'
 无非是	wfe_
 充分的	wfd_
-武装部	wfbv
-无纺布	wfb_
+武装部	wfbvo
+无纺布	wfbv
+我这边	wfb_
 往上走	wezu
 我是在	wez_
 炊事员	weyo
@@ -20782,9 +20783,10 @@
 探照灯	tfdi
 通知单	tfd_
 太方便	tfbv
+特种兵	tfbu
 团支部	tfbiu
 挺方便	tfbi
-特种兵	tfb_
+他这边	tfb_
 唐师曾	tezo
 他是在	tez_
 太师椅	teyvi
@@ -23254,7 +23256,8 @@
 农转非	nff_
 那种事	nfe_
 南方的	nfd_
-你知不	nfb_
+你知不	nfbi
+你这边	nfb_
 你实在	nezi
 你是在	nez_
 你是有	ney_
@@ -30134,8 +30137,8 @@
 大字报	dzbvo
 大嘴巴	dzbv
 担责备	dzbiv
-电子版	dzbi
-电子表	dzb_
+电子表	dzbi
+电子版	dzb_
 多音字	dyz_
 得益于	dyyuo
 第一眼	dyyu
@@ -30270,6 +30273,7 @@
 第二针	dxquv
 第二章	dxqu
 打雪仗	dxqi
+打下去	dxq'
 待下去	dxq_
 第二批	dxpu
 邓小平	dxp_
@@ -40663,7 +40667,7 @@
 又未	ydwwav
 又为	ydwwa
 尤为	ydww
-游船	ydwt
+游船	ydwta
 油茶	ydwsa
 又查	ydws'
 有哇	ydws
@@ -67398,9 +67402,9 @@
 排布	phbj
 拍柄	phbgi
 派兵	phbg
-排班	phbfiv
-拍板	phbfi
-排版	phbf
+排版	phbfi
+排班	phbf'
+拍板	phbf
 派别	phbd
 排摈	phbb
 萍踪	pgzy
@@ -93894,6 +93898,7 @@
 高定	gzdgo
 搞定	gzdg
 高德	gzdeo
+搞的	gzdei
 搞得	gzde
 高调	gzdc
 高村	gzcw

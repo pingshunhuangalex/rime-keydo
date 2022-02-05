@@ -15741,6 +15741,7 @@ sort: original
 邓小平理论	dxpl
 第二批	dxpu
 待下去	dxq
+打下去	dxq
 大行其道	dxqd
 打雪仗	dxqi
 第二章	dxqu
@@ -16244,7 +16245,7 @@ sort: original
 洞子	dyzk
 大有作为	dyzw
 冬枣	dyzz
-电子表	dzb
+电子版	dzb
 导标	dzbc
 道标	dzbco
 道别	dzbd
@@ -16252,7 +16253,7 @@ sort: original
 刀柄	dzbg
 电子表格	dzbgi
 道白	dzbh
-电子版	dzbi
+电子表	dzbi
 担责备	dzbiv
 倒闭	dzbk
 倒逼	dzbki
@@ -37628,6 +37629,7 @@ sort: original
 高调	gzdc
 工作地点	gzdd
 搞得	gzde
+搞的	gzdei
 高德	gzdeo
 搞定	gzdg
 高定	gzdgo
@@ -69186,10 +69188,11 @@ sort: original
 你是在	nez
 你实在	nezi
 呢子	nezk
-你知不	nfb
+你这边	nfb
 男宾	nfbb
 难办	nfbf
 难分伯仲	nfbfa
+你知不	nfbi
 南部	nfbj
 南玻	nfbl
 南边	nfbm
@@ -72856,9 +72859,9 @@ sort: original
 排行榜	phb
 排摈	phbb
 派别	phbd
-排版	phbf
-拍板	phbfi
-排班	phbfiv
+拍板	phbf
+排班	phbf
+排版	phbfi
 派兵	phbg
 拍柄	phbgi
 排布	phbj
@@ -88929,7 +88932,7 @@ sort: original
 特在	tezh
 特作	tezl
 唐师曾	tezo
-特种兵	tfb
+他这边	tfb
 特种部队	tfbd
 探班	tfbf
 探病	tfbg
@@ -88944,6 +88947,7 @@ sort: original
 停滞不前	tfbq
 谈崩	tfbr
 贪吧	tfbs
+特种兵	tfbu
 太方便	tfbv
 贪杯	tfbw
 通风报信	tfbx
@@ -93790,7 +93794,7 @@ sort: original
 车座	wezl
 无师自通	wezt
 往上走	wezu
-无纺布	wfb
+我这边	wfb
 文质彬彬	wfbb
 腕表	wfbc
 武装部队	wfbd
@@ -93811,7 +93815,8 @@ sort: original
 为富不仁	wfbr
 茶饭不思	wfbs
 玩吧	wfbsv
-武装部	wfbv
+无纺布	wfbv
+武装部	wfbvo
 完备	wfbw
 晚辈	wfbwo
 玩呗	wfbwv
@@ -109139,8 +109144,8 @@ sort: original
 有哇	ydws
 又查	ydws
 油茶	ydwsa
-游船	ydwt
-有点问题	ydwtv
+有点问题	ydwt
+游船	ydwta
 有多差	ydwv
 尤为	ydww
 又为	ydwwa
