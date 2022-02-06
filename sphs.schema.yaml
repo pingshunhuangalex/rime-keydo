@@ -49,7 +49,6 @@ engine:
   translators: # 转换器 -> 将划分好的编码段转换为对应候选项
     - punct_translator # 句读转换器 -> 根据标点符号配置将特定按键映射为标点符号
     - history_translator@repeat_history # 历史转换器 -> 储存或调取历史输入候选项
-    - table_translator@custom_phrase # 自定义词组（自动造词）码表转换器
     - table_translator@char_lookup # 反查转换器 -> 用特定码表来反查编码方案
     - lua_translator@date_translator # 日期转换器 -> 获取当前日期
     - lua_translator@time_translator # 时间转换器 -> 获取当前时间
@@ -123,15 +122,6 @@ repeat_history:
   input: /
   size: 100
   initial_quality: 10000
-
-
-# 自定义词组（自动造词）码表转换器配置
-custom_phrase:
-  dictionary: "" # 指定转换器所使用的词库
-  user_dict: user_dict # 指定用户词库
-  db_class: tabledb # 设定用户词库类型 -> 可设文本词库（`tabledb`）或二进制词库（`userdb`）
-  enable_sentence: false
-  initial_quality: 0 # 设定该翻译器结果的优先级
 
 
 char_lookup:
