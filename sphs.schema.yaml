@@ -33,8 +33,8 @@ engine:
     - ascii_composer # 与`ascii_segmentor`搭配，处理英文模式下的输入编码
     - recognizer # 与matcher搭配，处理特定结构的编码（计算器、编码反查等）
     - key_binder # 绑定按键并赋予功能（或重新定义按键本身）
-    - lua_processor@topup_processor # 判断是否顶功与顶功的内容
-    - lua_processor@sphs_select_processor # 使特定按键可以选择特定候选项（单引号、斜杠等）
+    - lua_processor@topup_processor # 顶功处理器 -> 判断是否顶功与顶功的内容
+    - lua_processor@sphs_select_processor # 选择处理器 -> 使特定按键可以选择特定候选项（单引号、斜杠等）
     - speller # 将输入编码根据拼写运算规则编辑输入区
     - punctuator # 与`punct_segmentor`搭配，将特定按键映射为标点符号（逗号、句号等）
     - selector # 将特定按键映射为选择键（数字键、上/下方向键、`PageUp`/`PageDown`等）
@@ -49,14 +49,14 @@ engine:
   translators: # 转换器 -> 将划分好的编码段转换为对应候选项
     - punct_translator # 句读转换器 -> 根据标点符号配置将特定按键映射为标点符号
     - history_translator@repeat_history # 历史转换器 -> 储存或调取历史输入候选项
-    - table_translator@char_lookup # 反查转换器 -> 用特定码表来反查编码方案
+    - table_translator@char_lookup # 码表转换器 -> 通过编码查询词库（基于输入方案本身）
     - lua_translator@date_translator # 日期转换器 -> 获取当前日期
     - lua_translator@time_translator # 时间转换器 -> 获取当前时间
     - lua_translator@number_translator # 数字转换器 -> 将阿拉伯数字转换为对应汉字或进行运算
   filters: # 过滤器 -> 将转换好的候选项进行过滤（增删改查）
-    - uniquifier
-    - lua_filter@sphs_cand_filter
-    - reverse_lookup_filter@char_lookup
+    - uniquifier # 去重过滤器 -> 过滤重复的候选项（历史模式中相邻两项可重复一次，即重复连续输入）
+    - lua_filter@sphs_cand_filter # 优化唯一项自动上屏以及历史模式中的候选项过滤与去重
+    - reverse_lookup_filter@char_lookup # 反查过滤器 -> 用特定码表来反查词库中的编码
 
 
 layout:
@@ -110,7 +110,7 @@ punctuator:
 translator:
   dictionary: sphs # 指定转换器所使用的词库
   enable_charset_filter: false # 是否开启字符集过滤
-  enable_completion: true # 提前显示尚未输入完整编码的字
+  enable_completion: true # 是否提前显示尚未输入完整编码的字
   enable_encoder: true # 是否开启自动造词
   enable_sentence: false # 是否开启自动造句
   enable_user_dict: false # 是否开启用户词库（用于记录动态字词频）
@@ -118,21 +118,23 @@ translator:
   max_phrase_length: 6 # 最大自动成词词长
 
 
+# 储存或调取历史输入候选项
 repeat_history:
-  input: /
-  size: 100
-  initial_quality: 10000
+  input: / # 历史模式引导键
+  size: 100 # 历史输入候选项储存量
+  initial_quality: 10000 # 转换结果优先级
 
 
+# 通过编码查询词库（基于输入方案本身）
 char_lookup:
-  dictionary: sphs
-  tags: [ char_lookup ]
-  overwrite_comment: true
-  enable_charset_filter: false
-  enable_completion: true
-  enable_encoder: false
-  enable_sentence: false
-  enable_user_dict: false
-  encode_commit_history: false
-  comment_format:
-    - xform/~[a-z;]+//
+  dictionary: sphs # 指定编码查询所使用的词库
+  tags: [ char_lookup ] # 指定编码查询所对应的标识
+  overwrite_comment: true # 是否允许覆写提示码
+  enable_charset_filter: false # 是否开启字符集过滤
+  enable_completion: true # 是否提前显示尚未输入完整编码的字
+  enable_encoder: false # 是否开启自动造词
+  enable_sentence: false # 是否开启自动造句
+  enable_user_dict: false # 是否开启用户词库（用于记录动态字词频）
+  encode_commit_history: false # 是否对已上屛的词进行自动成词
+  comment_format: # 指定提示码格式
+    - xform/~[a-z;]+// # 移除以`~`为前缀的逐码提示
