@@ -27,38 +27,33 @@ switches:
   - { name: full_shape, reset: 0 } # 全角半角切换（默认半角）
 
 
-# 标点符号
-punctuator:
-  import_preset: sphs.punct # 导入标点符号配置
-
-
 # 输入方案引擎
 engine:
   processors: # 处理器 -> 响应按键并按照预设的规则依次进行编码处理
-    - ascii_composer # 与ascii_segmentor搭配，处理英文模式下的输入编码
+    - ascii_composer # 与`ascii_segmentor`搭配，处理英文模式下的输入编码
     - recognizer # 与matcher搭配，处理特定结构的编码（计算器、编码反查等）
     - key_binder # 绑定按键并赋予功能（或重新定义按键本身）
     - lua_processor@topup_processor # 判断是否顶功与顶功的内容
     - lua_processor@sphs_select_processor # 使特定按键可以选择特定候选项（单引号、斜杠等）
     - speller # 将输入编码根据拼写运算规则编辑输入区
-    - punctuator # 与punct_segmentor搭配，将特定按键映射为标点符号（逗号、句号等）
-    - selector # 将特定按键映射为选择键（数字键、上/下方向键、PageUp/PageDown等）
+    - punctuator # 与`punct_segmentor`搭配，将特定按键映射为标点符号（逗号、句号等）
+    - selector # 将特定按键映射为选择键（数字键、上/下方向键、`PageUp`/`PageDown`等）
     - navigator # 使特定按键可以移动输入区中的光标（左/右方向键等）
     - express_editor # 将特定按键映射为编辑键（空格、回车、回退键等）
   segmentors: # 分段器 -> 将输入编码根据结构进行段落划分与标记
-    - ascii_segmentor
-    - matcher
-    - abc_segmentor
-    - punct_segmentor
-    - fallback_segmentor
+    - ascii_segmentor # 标记英文段落，使字母在英文模式下直接上屛
+    - matcher # 与`recognizer`搭配，标记符合特定规则的段落（计算器、编码反查等）
+    - abc_segmentor # 标记常规的文字段落（默认标识为`abc`）
+    - punct_segmentor # 标记标点符号等句读段落（默认标识为`punct`）
+    - fallback_segmentor # 标记其他未识别段落
   translators: # 转换器 -> 将划分好的编码段转换为对应候选项
-    - punct_translator
-    - history_translator@repeat_history
-    - table_translator@custom_phrase
-    - table_translator@char_lookup
-    - lua_translator@date_translator
-    - lua_translator@time_translator
-    - lua_translator@number_translator
+    - punct_translator # 句读转换器 -> 根据标点符号配置将特定按键映射为标点符号
+    - history_translator@repeat_history # 历史转换器 -> 储存或调取历史输入候选项
+    - table_translator@custom_phrase # 自定义词组（自动造词）码表转换器
+    - table_translator@char_lookup # 反查转换器 -> 用特定码表来反查编码方案
+    - lua_translator@date_translator # 日期转换器 -> 获取当前日期
+    - lua_translator@time_translator # 时间转换器 -> 获取当前时间
+    - lua_translator@number_translator # 数字转换器 -> 将阿拉伯数字转换为对应汉字或进行运算
   filters: # 过滤器 -> 将转换好的候选项进行过滤（增删改查）
     - uniquifier
     - lua_filter@sphs_cand_filter
@@ -92,14 +87,14 @@ topup:
 
 # 截取特定结构的编码传递给下个逻辑块（避免某些按键直接上屏/清空输入区字符串）
 recognizer:
-  patterns: # 配合segmentor的prefix和suffix完成段落划分与标记
+  patterns: # 配合`segmentor`的`prefix`和`suffix`完成段落划分与标记
     calculator: "^=[^;']+$" # 计算器
     char_lookup: "[a-z`]*`+[a-z`]*" # 编码反查
 
 
 # 根据拼写运算规则编辑输入区
 speller:
-  algebra: # 核心拼写运算规则（编译后会写入build文件夹中的prism文件）
+  algebra: # 核心拼写运算规则（编译后会写入`build`文件夹中的`prism`文件）
     __include: "layout/algebra" # 导入拼写运算规则
   auto_select: true # 是否开启自动上屏
   auto_select_unique_candidate: true # 是否开启无重码时自动上屏（仅在编码吻合时判断）
@@ -107,15 +102,21 @@ speller:
   initials: "abcdefghijklmnopqrstuvwxyz;/=`" # 待监听的首位按键（引导键）
 
 
+# 将特定字符映射为标点符号或文字处理句读键、数字键
+punctuator:
+  import_preset: sphs.punct # 导入标点符号配置
+
+
+# 将划分好的编码段转换为对应候选项
 translator:
-  dictionary: sphs
-  enable_charset_filter: false
-  enable_completion: true
-  enable_encoder: true
-  enable_sentence: false
-  enable_user_dict: false
-  encode_commit_history: true
-  max_phrase_length: 6
+  dictionary: sphs # 指定转换器所使用的词库
+  enable_charset_filter: false # 是否开启字符集过滤
+  enable_completion: true # 提前显示尚未输入完整编码的字
+  enable_encoder: true # 是否开启自动造词
+  enable_sentence: false # 是否开启自动造句
+  enable_user_dict: false # 是否开启用户词库（用于记录动态字词频）
+  encode_commit_history: true # 是否对已上屛的词进行自动成词
+  max_phrase_length: 6 # 最大自动成词词长
 
 
 repeat_history:
@@ -124,12 +125,13 @@ repeat_history:
   initial_quality: 10000
 
 
+# 自定义词组（自动造词）码表转换器配置
 custom_phrase:
-  dictionary: ""
-  user_dict: user_dict
-  db_class: stabledb
+  dictionary: "" # 指定转换器所使用的词库
+  user_dict: user_dict # 指定用户词库
+  db_class: tabledb # 设定用户词库类型 -> 可设文本词库（`tabledb`）或二进制词库（`userdb`）
   enable_sentence: false
-  initial_quality: 0
+  initial_quality: 0 # 设定该翻译器结果的优先级
 
 
 char_lookup:
