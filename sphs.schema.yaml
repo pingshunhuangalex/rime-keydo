@@ -59,11 +59,12 @@ engine:
     - reverse_lookup_filter@char_lookup # 反查过滤器 -> 用特定码表来反查词库中的编码
 
 
+# 布局配置，方便其它配置进行调取
 layout:
-  topup:
-    topup_this: "bcdefghjklmnpqrstwxyz"
-    topup_with: "avuio;"
-  algebra:
+  topup: # 顶功规则
+    topup_this: "bcdefghjklmnpqrstwxyz" # 顶功对象编码集，通常为音码
+    topup_with: "avuio;" # 顶功触发编码集合，通常为形码
+  algebra: # 核心拼写运算规则
     - derive/^[bcdefghjklmnpqrstwxyz;]([bcdefghjklmnpqrstwxyz;][avuio].*)$/`$1/
     - derive/^([bcdefghjklmnpqrstwxyz;])[bcdefghjklmnpqrstwxyz;]([avuio].*)$/$1`$2/
     - derive/^([bcdefghjklmnpqrstwxyz;`]{2})[avuio](.*)$/$1`$2/
@@ -75,13 +76,13 @@ layout:
     - derive/^[bcdefghjklmnpqrstwxyz;]{2}([avuio`]*)$/``$1/
 
 
+# 判断是否顶功与顶功的内容
 topup:
-  __include: "layout/topup"
-  min_length: 4
-  max_length: 6
-  auto_clear: true
-  min_length_danzi: 2
-  topup_command: true
+  __include: "layout/topup" # 导入顶功规则
+  min_length: 4 # 编码自动上屏的最小长度（无顶功触发编码）
+  max_length: 6 # 编码自动上屏的最大长度（全码）
+  auto_clear: true # 顶功如遇空码时，是否清空输入区
+  topup_command: true # 首码为顶功触发编码时，是否禁用顶功逻辑
 
 
 # 截取特定结构的编码传递给下个逻辑块（避免某些按键直接上屏/清空输入区字符串）
