@@ -70915,7 +70915,8 @@
 美工	mwgy
 没光	mwgx
 没给	mwgw
-美观	mwgt
+美观	mwgto
+没关	mwgt
 每根	mwgnu
 没跟	mwgn
 没光	mwgm
@@ -90791,7 +90792,8 @@
 恨我	hnwl
 很迟	hnwk
 很晚	hnwf
-很丑	hnwd
+很丑	hnwdu
+很臭	hnwd
 很讨	hntz
 很痛	hnty
 恨他	hnts
