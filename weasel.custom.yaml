@@ -7,6 +7,8 @@ customization:
   generator: "Weasel::UIStyleSettings"
   modified_time: "Thu Feb 25 18:35:58 2021"
   rime_version: 1.5.3
+
+
 patch:
   preset_color_schemes/sphs:
     author: SPHS

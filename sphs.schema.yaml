@@ -65,15 +65,15 @@ layout:
     topup_this: "bcdefghjklmnpqrstwxyz" # 顶功对象编码集，通常为音码
     topup_with: "avuio;" # 顶功触发编码集合，通常为形码
   algebra: # 核心拼写运算规则
-    - derive/^[bcdefghjklmnpqrstwxyz;]([bcdefghjklmnpqrstwxyz;][avuio].*)$/`$1/
-    - derive/^([bcdefghjklmnpqrstwxyz;])[bcdefghjklmnpqrstwxyz;]([avuio].*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2})[avuio](.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]).(.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{2}).(.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{3}).(.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{4}).(.*)$/$1`$2/
-    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{5}).$/$1`/
-    - derive/^[bcdefghjklmnpqrstwxyz;]{2}([avuio`]*)$/``$1/
+    - derive/^[bcdefghjklmnpqrstwxyz;]([bcdefghjklmnpqrstwxyz;][avuio].*)$/`$1/ # ssb(...) -> `sb(...)
+    - derive/^([bcdefghjklmnpqrstwxyz;])[bcdefghjklmnpqrstwxyz;]([avuio].*)$/$1`$2/ # ssb(...) -> s`b(...)
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2})[avuio](.*)$/$1`$2/ # ssb(...) / `sb(...) / ``b(...) -> ss`(...) / `s`(...) / ```(...)
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]).(.*)$/$1`$2/ # ssb?(...) / `sb?(...) / ``b?(...) / ```?(...) -> ssb`(...) / `sb`(...) / ``b`(...) / ````(...)
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{2}).(.*)$/$1`$2/ # ssbb?(...) / `sbb?(...) / ``bb?(...) / ```b?(...) / ````?(...) -> ssbb`(...) / `sbb`(...) / ``bb`(...) / ```b`(...) / `````(...)
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{3}).(.*)$/$1`$2/ # ssbbb?(...) / `sbbb?(...) / ``bbb?(...) / ```bb?(...) / ````b?(...) / `````?(...) -> ssbbb`(...) / `sbbb`(...) / ``bbb`(...) / ```bb`(...) / ````b`(...) / ``````(...)
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{4}).(.*)$/$1`$2/ # ssbbbb?(...) / `sbbbb?(...) / ``bbbb?(...) / ```bbb?(...) / ````bb?(...) / `````b?(...) / ``````?(...) -> ssbbbb`(...) / `sbbbb`(...) / ``bbbb`(...) / ```bbb`(...) / ````bb`(...) / `````b`(...) / ```````(...)
+    - derive/^([bcdefghjklmnpqrstwxyz;`]{2}[avuio`]{5}).$/$1`/ # ssbbbbb? / `sbbbbb? / ``bbbbb? / ```bbbb? / ````bbb? / `````bb? / ``````b? / ```````? -> ssbbbbb` / `sbbbbb` / ``bbbbb` / ```bbbb` / ````bbb` / `````bb` / ``````b` / ````````
+    - derive/^[bcdefghjklmnpqrstwxyz;]{2}([avuio`]*)$/``$1/ # ss(b...) / ss(`...) -> ``(b...) / ``(`...)
 
 
 # 判断是否顶功与顶功的内容

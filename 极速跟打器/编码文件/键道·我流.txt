@@ -4836,6 +4836,7 @@
 微软拼音	wrpy
 无人能及	wrnj
 外柔内刚	wrng
+我人没了	wrml
 文人墨客	wrmk
 危如累卵	wrll
 稳如老狗	wrlg
@@ -33222,6 +33223,7 @@
 刚才	gc_
 赶快	gk_
 光明	gm_
+好吧	hb_
 花草	hc_
 好的	hd_
 好好	hh_
@@ -33243,6 +33245,7 @@
 了没	lm_
 了嘛	lm'
 两年	ln_
+没了	ml_
 没人	mr_
 明天	mt_
 梦想	mx_
@@ -33255,6 +33258,7 @@
 你好	nh_
 你就	nj_
 哪怕	np_
+你人	nr_
 你在	nz_
 平时	pe_
 脾气	pq_
@@ -33298,6 +33302,7 @@
 外面	wm_
 我能	wn_
 完全	wq_
+我人	wr_
 我在	wz_
 因此	yc_
 有时	ye_
@@ -116303,6 +116308,7 @@
 催缴	cbjci
 催交	cbjc
 崔颢	cbhz
+脆化	cbhqu
 翠花	cbhqa
 催化	cbhq
 淬火	cbhl
