@@ -19961,10 +19961,11 @@
 察觉到	wjd'
 我记得	wjd_
 午加餐	wjc_
-外交部	wjbu
+物价表	wjbu
 冲击波	wjbo
 温家宝	wjba
-物价表	wjb_
+外交部	wjb'
+我就不	wjb_
 往回走	whz_
 外行员	why_
 外环线	whxu
@@ -33299,6 +33300,7 @@
 我的	wd_
 我都	wd'
 我是	we_
+我就	wj_
 外面	wm_
 我能	wn_
 完全	wq_

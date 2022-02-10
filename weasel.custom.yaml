@@ -10,40 +10,40 @@ customization:
 
 
 patch:
-  preset_color_schemes/sphs:
-    author: SPHS
-    back_color: 0x212121
-    border_color: 0x373737
-    candidate_text_color: 0xeeffff
-    comment_text_color: 0x6bcbff
-    hilited_back_color: 0x212121
-    hilited_candidate_back_color: 0x373737
-    hilited_candidate_text_color: 0xea92c7
-    hilited_comment_text_color: 0x6bcbff
-    hilited_label_color: 0x6a8cf7
-    hilited_text_color: 0xea92c7
-    label_color: 0x797979
-    name: SPHS
-    text_color: 0xffaa82
-  style:
-    color_scheme: sphs
-    corner_radius: 4
-    display_tray_icon: false
-    font_face: "Sarasa Mono SC"
-    font_point: 14
-    fullscreen: false
-    horizontal: true
-    inline_preedit: true
-    label_format: "%s "
-    layout:
-      border: 2
-      candidate_spacing: 20
-      hilite_padding: 10
-      hilite_spacing: 4
-      margin_x: 12
-      margin_y: -12
-      min_height: 0
-      min_width: 0
-      round_corner: 0
-      spacing: 10
-    preedit_type: preview
+  preset_color_schemes/sphs: # 主题样式（`0xBBGGRR`）
+    author: SPHS # 主题作者
+    back_color: 0x212121 # 主题背景颜色
+    border_color: 0x373737 # 主题边框颜色
+    candidate_text_color: 0xeeffff # 候选项字体颜色
+    comment_text_color: 0x6bcbff # 候选项编码提示字体颜色
+    hilited_back_color: 0x212121 # 输入区高亮部分（编码）背景颜色
+    hilited_candidate_back_color: 0x373737 # 高亮候选项背景颜色
+    hilited_candidate_text_color: 0xea92c7 # 高亮候选项字体颜色
+    hilited_comment_text_color: 0x6bcbff # 高亮候选项编码提示字体颜色
+    hilited_label_color: 0x6a8cf7 # 高亮候选项序号字体颜色
+    hilited_text_color: 0xea92c7 # 输入区高亮部分（编码）字体颜色
+    label_color: 0x797979 # 候选项序号字体颜色
+    name: SPHS # 主题名称
+    text_color: 0xffaa82 # 输入区字体颜色
+  style: # 主题配置
+    color_scheme: sphs # 主题识别名称（用于代码引用）
+    corner_radius: 4 # 候选区圆角半径（不支持Windows）
+    display_tray_icon: false # 是否显示托盘图标（默认隐藏）
+    font_face: "Sarasa Mono SC" # 主题字体样式
+    font_point: 14 # 主题字体字号
+    fullscreen: false # 是否开启全屏模式（默认关闭）
+    horizontal: true # 候选项是否横排（默认横排）
+    inline_preedit: true # 是否开启输入区嵌入（默认开启）
+    label_format: "%s " # 候选项序号格式
+    layout: # 主题布局配置
+      border: 2 # 主题边框粗细
+      candidate_spacing: 20 # 候选项间距
+      hilite_padding: 10 # 高亮候选项填充空间
+      hilite_spacing: 4 # 高亮候选项间距
+      margin_x: 12 # 主题左右边距
+      margin_y: -12 # 主题上下边距（边距为负值时隐藏候选区）
+      min_height: 0 # 主题最小高度
+      min_width: 0 # 主题最小宽度
+      round_corner: 0 # 候选项圆角半径
+      spacing: 10 # 输入区与候选区间距
+    preedit_type: preview # 输入区嵌入模式（默认预览编码）

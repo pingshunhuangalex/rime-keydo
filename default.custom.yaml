@@ -7,19 +7,21 @@ customization:
   generator: "Rime::SwitcherSettings"
   modified_time: "Thu Feb 25 21:56:19 2021"
   rime_version: 1.5.3
+
+
 patch:
-  ascii_composer:
-    good_old_caps_lock: false
-    switch_key:
-      Shift_L: commit_text
-      Shift_R: commit_text
-      Control_L: commit_code
-      Control_R: commit_code
-      Caps_Lock: inline_ascii
-      Eisu_toggle: clear
-  menu/page_size: 6
-  schema_list:
-    - { schema: sphs }
-  switcher:
-    caption: "「切换方案」"
-    hotkeys: [ "Shift+space" ]
+  ascii_composer: # 英文模式配置
+    good_old_caps_lock: false # 用`Caps Lock`切换英文模式时，是否激活大写锁定（默认关闭）
+    switch_key: # 英文模式切换键配置
+      Shift_L: commit_text # 按下左`Shift`时（默认上屏候选项）
+      Shift_R: commit_text # 按下右`Shift`时（默认上屏候选项）
+      Control_L: commit_code # 按下左`Control`时（默认上屏编码）
+      Control_R: commit_code # 按下右`Control`时（默认上屏编码）
+      Caps_Lock: inline_ascii # 按下`Caps Lock`时（默认保留输入区）
+      Eisu_toggle: clear # 按下英数键（日文键盘）时（默认清空输入区）
+  menu/page_size: 6 # 候选项显示个数
+  schema_list: # 方案列表
+    - { schema: sphs } # 键道·我流@SPHS
+  switcher: # 方案切换开关
+    caption: "「切换方案」" # 方案切换标识（在输入区会予以显示）
+    hotkeys: [ "Shift+space" ] # 方案切换快捷键
