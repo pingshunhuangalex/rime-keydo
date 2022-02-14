@@ -33168,7 +33168,8 @@
 又有	av'
 不是	be_
 不上	be'
-不好	bh_
+不和	bh_
+不好	bh'
 不了	bl_
 不能	bn_
 不去	bq_
@@ -119362,12 +119363,11 @@
 不生	bjerv
 不胜	bjer
 不耍	bjeq
-补上	bjepo
-不上	bjep
-不甚	bjenvv
-不深	bjenv
+补上	bjep
+不甚	bjenv
 补肾	bjeno
-不慎	bjen
+不慎	bjen'
+不深	bjen
 不爽	bjem
 不说	bjel
 不世	bjekvv
