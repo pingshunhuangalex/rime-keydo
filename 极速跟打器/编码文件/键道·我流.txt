@@ -6375,6 +6375,7 @@
 人文素质	rwsf
 如痴如醉	rwrz
 人文主义	rwqy
+人文气息	rwqx
 若无其事	rwqe
 人文科学	rwkx
 忍无可忍	rwkr
@@ -6626,7 +6627,7 @@
 人生哲学	refx
 人生之路	refl
 容身之处	refjo
-如释重负	reff
+如释重负	reffa
 认识世界	reej
 惹是生非	reef
 人生道路	redl
@@ -17019,7 +17020,8 @@
 做错事	zce_
 子菜单	zcd_
 再猜猜	zcc_
-做不做	zbz_
+做不做	zbzi
+在不在	zbz_
 滋补药	zbya
 赞比亚	zby_
 坐标系	zbx_
@@ -20834,6 +20836,7 @@
 谈得上	tde_
 太多的	tddv
 听到的	tddo
+挺大的	tddi
 听得到	tdd'
 听得懂	tdd_
 头等舱	tdc_
@@ -27028,6 +27031,7 @@
 护发素	hfs_
 黑种人	hfri
 黄种人	hfr_
+花粉症	hfq_
 化妆品	hfp_
 黄蜂女	hfn_
 霍夫曼	hfmv
@@ -27126,9 +27130,10 @@
 划得来	hdlv
 合得来	hdli
 活到老	hdlav
-海底捞	hdla
-好点了	hdl'
-好多了	hdl_
+海底捞	hdlao
+好点了	hdla
+好多了	hdl'
+好的了	hdl_
 活动课	hdk_
 换档键	hdjiv
 蝴蝶结	hdji
@@ -27561,6 +27566,7 @@
 公牛版	gnb_
 各民族	gmzu
 高帽子	gmz_
+过敏原	gmyvu
 感冒药	gmyv
 更没有	gmy_
 革命性	gmxv
@@ -31110,8 +31116,9 @@
 大白鲨	dbev
 戴不上	dbeu
 代表说	dbeiv
-搭把手	dbei
-但不是	dbe'
+搭把手	dbeii
+但不是	dbei
+都不是	dbe'
 倒不是	dbe_
 大笨蛋	dbdvu
 大部队	dbdv
@@ -31494,6 +31501,7 @@
 不影响	byxv
 被允许	byxoa
 必要性	byxo
+办一下	byxa
 不用谢	byx'
 不要向	byx_
 百叶窗	bywvo
@@ -32835,6 +32843,7 @@
 美女	mau
 勉强	mav
 每个	mi
+没打	mi'
 默默	mia
 某个	mii
 目光	mio
@@ -33188,6 +33197,7 @@
 此人	cr_
 操心	cx_
 都是	de_
+的了	dl_
 都没	dm_
 的嘛	dm'
 的你	dn_
@@ -33235,17 +33245,22 @@
 就是	je_
 就好	jh_
 就能	jn_
+就在	jz_
 快餐	kc_
 可是	ke_
 可靠	kk_
 开门	km_
 可能	kn_
+了吧	lb_
 了没	lm_
 了嘛	lm'
 两年	ln_
 没了	ml_
+没你	mn_
 没人	mr_
-明天	mt_
+没我	mw_
+没他	mt_
+明天	mt'
 梦想	mx_
 满意	my_
 没在	mz_
@@ -33263,6 +33278,7 @@
 平台	pt_
 平安	px_
 拼音	py_
+去个	qg_
 去了	ql_
 其他	qt_
 人不	rb_
@@ -35355,9 +35371,9 @@
 再多	zhdl
 在地	zhdkv
 在第	zhdk
-再读	zhdjvo
-在读	zhdjv
-再度	zhdj
+再读	zhdjv
+再度	zhdj'
+在读	zhdj
 再呆	zhdh
 再订	zhdg
 在单	zhdf
@@ -59878,6 +59894,7 @@
 热风	refr
 热值	refk
 热敷	refj
+热饭	reff
 热身	reen
 惹事	reek
 惹到	redzi
@@ -71001,7 +71018,6 @@
 眉端	mwdtao
 没断	mwdta
 每段	mwdt
-没打	mwds
 没等	mwdr
 没丢	mwdq
 每当	mwdp
@@ -77925,7 +77941,6 @@
 了都	ledd
 乐调	ledc
 勒碑	lebw
-了吧	lebs
 勒逼	lebk
 乐埠	lebj
 勒兵	lebg
@@ -102571,10 +102586,10 @@
 负场	fjjp
 浮沉	fjjna
 浮尘	fjjn
-复件	fjjmu
+复件	fjjmui
+复健	fjjmu
 福建	fjjmo
-附件	fjjma
-复健	fjjm
+附件	fjjm
 副机	fjjkvv
 辅机	fjjkv
 复机	fjjkuv
@@ -116678,6 +116693,7 @@
 爆肝	bzgfo
 包干	bzgf
 饱嗝	bzgeu
+抱个	bzgei
 报个	bzge
 宝贵	bzgb
 爆照	bzfz

@@ -6225,6 +6225,7 @@ sort: original
 不以为意	bywy
 不要向	byx
 不用谢	byx
+办一下	byxa
 变异系数	byxe
 便宜行事	byxei
 不翼而飞	byxf
@@ -6400,6 +6401,7 @@ sort: original
 不责怪	bzg
 宝贵	bzgb
 报个	bzge
+抱个	bzgei
 饱嗝	bzgeu
 包干	bzgf
 爆肝	bzgfo
@@ -9498,12 +9500,13 @@ sort: original
 怼到	dbdza
 堆到	dbdzv
 倒不是	dbe
-但不是	dbe
+都不是	dbe
 对水	dbeb
 对手	dbed
 对社	dbee
 对不上号	dbeh
-搭把手	dbei
+但不是	dbei
+搭把手	dbeii
 代表说	dbeiv
 对数	dbej
 对视	dbek
@@ -26066,10 +26069,10 @@ sort: original
 复机	fjjkuv
 辅机	fjjkv
 副机	fjjkvv
-复健	fjjm
-附件	fjjma
+附件	fjjm
 福建	fjjmo
-复件	fjjmu
+复健	fjjmu
+复件	fjjmui
 浮尘	fjjn
 浮沉	fjjna
 装甲车	fjjo
@@ -35273,6 +35276,7 @@ sort: original
 光源	gmyt
 广元	gmyto
 感冒药	gmyv
+过敏原	gmyvu
 光晕	gmyw
 光耀	gmyz
 高帽子	gmz
@@ -38797,9 +38801,10 @@ sort: original
 后卡	hdks
 厚坤	hdkw
 后靠	hdkz
+好的了	hdl
 好多了	hdl
-好点了	hdl
-海底捞	hdla
+好点了	hdla
+海底捞	hdlao
 活到老	hdlav
 后楼	hdld
 厚了	hdle
@@ -39685,6 +39690,7 @@ sort: original
 旱坪	hfpg
 汉俳	hfph
 魂飞魄散	hfps
+花粉症	hfq
 寒峭	hfqc
 含着	hfqe
 喊着	hfqeo
@@ -58929,7 +58935,6 @@ sort: original
 历史背景	lebjv
 勒逼	lebk
 敛声屏气	lebq
-了吧	lebs
 勒碑	lebw
 老鼠仓	lec
 辣手摧花	lech
@@ -67986,7 +67991,6 @@ sort: original
 每当	mwdp
 没丢	mwdq
 没等	mwdr
-没打	mwds
 每段	mwdt
 没断	mwdta
 眉端	mwdtao
@@ -82749,7 +82753,8 @@ sort: original
 热身	reen
 认识上	reeo
 人生中	ref
-如释重负	reff
+热饭	reff
+如释重负	reffa
 热敷	refj
 容身之处	refjo
 热值	refk
@@ -84377,6 +84382,7 @@ sort: original
 闰年	rwnm
 日文站	rwq
 若无其事	rwqe
+人文气息	rwqx
 人文主义	rwqy
 热污染	rwr
 闰日	rwrk
@@ -88267,6 +88273,7 @@ sort: original
 铁钉	tddgii
 透顶	tddgu
 头戴	tddh
+挺大的	tddi
 偷渡	tddj
 投毒	tddji
 投递	tddk
@@ -116651,9 +116658,10 @@ sort: original
 最与	zbyl
 最远	zbyt
 最要	zbyz
-做不做	zbz
+在不在	zbz
 最最	zbzb
 罪责	zbze
+做不做	zbzi
 嘴子	zbzk
 最左	zbzl
 最脏	zbzp
@@ -117309,9 +117317,9 @@ sort: original
 再订	zhdg
 再呆	zhdh
 做好的	zhdi
+在读	zhdj
 再度	zhdj
-在读	zhdjv
-再读	zhdjvo
+再读	zhdjv
 在第	zhdk
 在地	zhdkv
 再多	zhdl
