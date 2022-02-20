@@ -6433,11 +6433,9 @@
 柔情蜜意	rqmy
 热胀冷缩	rqls
 人情冷暖	rqln
-热起来了	rqll
 人去楼空	rqlk
 仁者见仁	rqjr
 认真贯彻	rqgw
-认真贯彻	rqgj
 人穷志短	rqfd
 忍者神龟	rqega
 人情世故	rqeg
@@ -11879,6 +11877,7 @@
 高瓴资本	glzb
 过了一会	glyhv
 寡廉鲜耻	glxw
+干了些啥	glxe
 孤立无援	glwy
 顾虑重重	glwwv
 管理台账	gltq
@@ -19126,7 +19125,8 @@
 小肥牛	xfni
 爱着你	xfn_
 西直门	xfmv
-徐志摩	xfm_
+徐志摩	xfmu
+下周末	xfm_
 消费量	xfla
 修复了	xfl_
 新房客	xfko
@@ -20545,7 +20545,8 @@
 它能够	tng_
 团年饭	tnf_
 听你说	tne_
-他娘的	tndi
+他娘的	tndia
+挺难的	tndi
 听你的	tnd_
 糖尿病	tnb_
 同命运	tmy_
@@ -21428,7 +21429,8 @@
 热气球	rqqi
 人情债	rqq_
 容器内	rqn_
-容器里	rql_
+容器里	rqlo
+热起来	rql_
 燃气具	rqj_
 认真过	rqg_
 入侵者	rqfu
@@ -30082,13 +30084,13 @@
 世博会	ebh_
 数百个	ebgo
 上百个	ebg_
+殊不知	ebfv
 失败者	ebfu
 商标法	ebfov
 神不知	ebfo
 少部分	ebfi
 书报费	ebfa
-睡不着	ebf'
-殊不知	ebf_
+睡不着	ebf_
 爽不爽	ebev
 说不上	ebeov
 说不说	ebeo
@@ -41927,9 +41929,9 @@
 向西	xxxku
 详细	xxxk
 响儿	xxxj
-想学	xxxhv
+相爱	xxxhv
 向学	xxxhu
-相爱	xxxh
+想学	xxxh
 相性	xxxgv
 箱形	xxxguv
 象形	xxxg
