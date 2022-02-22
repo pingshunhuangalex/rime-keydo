@@ -2634,6 +2634,7 @@ sort: original
 捕猎	bjld
 补漏	bjldo
 不漏	bjldv
+补了	bjle
 不烂	bjlf
 不灵	bjlg
 不来	bjlh
@@ -2968,10 +2969,11 @@ sort: original
 布线	bjxmva
 不闲	bjxmvo
 不现	bjxmvv
-不朽	bjxq
+不修	bjxq
 补休	bjxqo
 补修	bjxqoi
-不休	bjxqv
+不朽	bjxqv
+不休	bjxqvi
 不羞	bjxqvo
 不教而诛	bjxqvu
 不下	bjxs
@@ -13573,6 +13575,7 @@ sort: original
 电鳗	dmmf
 点名	dmmg
 点明	dmmgi
+店名	dmmgo
 典卖	dmmh
 点目	dmmj
 电摩	dmml
@@ -31566,10 +31569,10 @@ sort: original
 这样也好	fyyhov
 中医药	fyyi
 中医院	fyyiv
+中意	fyyk
 中医	fyyk
-中意	fyyki
-忠义	fyykio
-钟意	fyykio
+钟意	fyyki
+忠义	fyyki
 众议	fyykio
 反咬一口	fyyku
 终于	fyyl
@@ -32629,6 +32632,7 @@ sort: original
 购入	gdrj
 狗日	gdrk
 勾人	gdrn
+广东人	gdro
 够软	gdrt
 古代人	gdru
 过段日子	gdrz
@@ -35067,6 +35071,7 @@ sort: original
 国民生产总值	gmefi
 光束	gmej
 光是	gmek
+广式	gmeko
 光说	gmel
 光身	gmen
 国民收入	gmer
@@ -36828,7 +36833,6 @@ sort: original
 个小时后	gxeh
 供销社	gxei
 光束	gxej
-光是	gxek
 光说	gxel
 光身	gxen
 关系式	gxeo
@@ -38503,7 +38507,8 @@ sort: original
 会务	hbwjiu
 会武	hbwjiv
 画饼充饥	hbwjv
-挥斥	hbwk
+会吃	hbwk
+挥斥	hbwki
 会问	hbwn
 回稳	hbwni
 回望	hbwp
@@ -44301,7 +44306,8 @@ sort: original
 好长	hzjp
 好久	hzjq
 好酒	hzjqa
-号称	hzjr
+好撑	hzjr
+号称	hzjro
 好假	hzjs
 好加	hzjs
 好价	hzjsa
@@ -76578,9 +76584,9 @@ sort: original
 这个声音	qgey
 青少	qgez
 真功夫	qgf
-青州	qgfd
-青轴	qgfdv
-轻舟	qgfdvu
+青轴	qgfd
+轻舟	qgfdv
+青州	qgfdvo
 轻者	qgfe
 请饭	qgff
 这个方法	qgffo
@@ -89271,6 +89277,7 @@ sort: original
 铤刺	tgck
 听错	tgcl
 听从	tgcy
+挺高的	tgd
 挺对	tgdb
 停兑	tgdbi
 停掉	tgdc
@@ -92209,9 +92216,10 @@ sort: original
 天选之子	txfz
 天邪鬼	txg
 推而广之	txgf
-同乡会	txh
+同学会	txh
 堂而皇之	txhf
-同学会	txhi
+挺喜欢	txhi
+同乡会	txhia
 铁血皇城	txhj
 太虚幻境	txhjv
 天鹅湖	txhv

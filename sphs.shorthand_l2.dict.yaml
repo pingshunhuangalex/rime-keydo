@@ -27,6 +27,7 @@ sort: original
 此人	cr
 操心	cx
 都不	db
+的吧	db
 都是	de
 的了	dl
 都没	dm
@@ -103,6 +104,7 @@ sort: original
 你是	ne
 你好	nh
 你就	nj
+你没	nm
 哪怕	np
 你去	nq
 你人	nr
@@ -136,6 +138,7 @@ sort: original
 他不	tb
 他的	td
 他都	td
+他没	tm
 他能	tn
 太难	tn
 他去	tq
@@ -149,8 +152,9 @@ sort: original
 我的	wd
 我都	wd
 我是	we
+我好	wh
 我就	wj
-外面	wm
+我没	wm
 我能	wn
 我去	wq
 完全	wq

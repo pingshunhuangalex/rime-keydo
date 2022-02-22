@@ -20361,8 +20361,9 @@
 退休金	txja
 通信处	txj_
 天鹅湖	txhv
-同学会	txhi
-同乡会	txh_
+同乡会	txhia
+挺喜欢	txhi
+同学会	txh_
 天邪鬼	txg_
 陶行知	txfa
 同行者	txf_
@@ -20744,6 +20745,7 @@
 头盖骨	tgg_
 太过分	tgf_
 提供商	tge_
+挺高的	tgd_
 泰国菜	tgc_
 团干部	tgb_
 土肥圆	tfyvu
@@ -27909,6 +27911,7 @@
 更动听	gdtv
 滚动条	gdt_
 古代人	gdru
+广东人	gdro
 更多人	gdr_
 过渡期	gdqv
 鬼打墙	gdqu
@@ -33207,6 +33210,7 @@
 此人	cr_
 操心	cx_
 都不	db_
+的吧	db'
 都是	de_
 的了	dl_
 都没	dm_
@@ -33283,6 +33287,7 @@
 你是	ne_
 你好	nh_
 你就	nj_
+你没	nm_
 哪怕	np_
 你去	nq_
 你人	nr_
@@ -33316,6 +33321,7 @@
 他不	tb_
 他的	td_
 他都	td'
+他没	tm_
 他能	tn_
 太难	tn'
 他去	tq_
@@ -33329,8 +33335,9 @@
 我的	wd_
 我都	wd'
 我是	we_
+我好	wh_
 我就	wj_
-外面	wm_
+我没	wm_
 我能	wn_
 我去	wq_
 完全	wq'
@@ -64639,9 +64646,9 @@
 轻抚	qgfj
 请饭	qgff
 轻者	qgfe
-轻舟	qgfdvu
-青轴	qgfdv
-青州	qgfd
+青州	qgfdvo
+轻舟	qgfdv
+青轴	qgfd
 青少	qgez
 清爽	qgex
 情杀	qgeso
@@ -88866,7 +88873,8 @@
 好价	hzjsa
 好加	hzjs'
 好假	hzjs
-号称	hzjr
+号称	hzjro
+好撑	hzjr
 好酒	hzjqa
 好久	hzjq
 好长	hzjp
@@ -93242,7 +93250,8 @@
 回望	hbwp
 回稳	hbwni
 会问	hbwn
-挥斥	hbwk
+挥斥	hbwki
+会吃	hbwk
 会武	hbwjiv
 会务	hbwjiu
 回屋	hbwjia
@@ -94532,7 +94541,6 @@
 广厦	gxes
 光身	gxen
 光说	gxel
-光是	gxek
 光束	gxej
 光栅	gxef
 广受	gxed
@@ -95853,6 +95861,7 @@
 广厦	gmes
 光身	gmen
 光说	gmel
+广式	gmeko
 光是	gmek
 光束	gmej
 光栅	gmef
@@ -98330,11 +98339,11 @@
 中雨	fyyliv
 忠于	fyyli
 终于	fyyl
-忠义	fyykio
-钟意	fyykio
 众议	fyykio
-中意	fyyki
-中医	fyyk
+忠义	fyyki'
+钟意	fyyki
+中医	fyyk'
+中意	fyyk
 重约	fyyh
 中英	fyyg
 重盐	fyyfu
@@ -111187,6 +111196,7 @@
 电摩	dmml
 点目	dmmj
 典卖	dmmh
+店名	dmmgo
 点明	dmmgi
 点名	dmmg
 电鳗	dmmf
@@ -118946,10 +118956,11 @@
 布下	bjxs'
 不下	bjxs
 不羞	bjxqvo
-不休	bjxqv
+不休	bjxqvi
+不朽	bjxqv
 补修	bjxqoi
 补休	bjxqo
-不朽	bjxq
+不修	bjxq
 不现	bjxmvv
 不闲	bjxmvo
 布线	bjxmva
@@ -119207,6 +119218,7 @@
 不来	bjlh
 不灵	bjlg
 不烂	bjlf
+补了	bjle
 不漏	bjldv
 补漏	bjldo
 捕猎	bjld
@@ -122138,8 +122150,8 @@
 𥕢	czvuvi
 槽	czvv
 槽	czvvia
-对	db_
-队	dba
+对	dba
+队	dba'
 队	dbaiii
 怼	dbao
 怼	dbaooa
