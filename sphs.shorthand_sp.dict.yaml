@@ -9,7 +9,8 @@ sort: original
 宝贝	bao
 不好	bau
 不敢	bav
-不但	bi
+不上	bi
+不打	bi
 不见	bia
 别人	bii
 不错	bio
@@ -21,6 +22,7 @@ sort: original
 表情	boo
 不断	bou
 毕竟	bov
+不得	bu
 必须	bu
 不用	bua
 别的	bui
@@ -298,6 +300,7 @@ sort: original
 厉害	loo
 两只	lou
 立刻	lov
+了得	lu
 了解	lu
 联系	lua
 来自	lui
@@ -330,6 +333,7 @@ sort: original
 慢慢	moo
 面前	mou
 母亲	mov
+没得	mu
 明白	mu
 门外	mua
 满脸	mui
@@ -569,7 +573,7 @@ sort: original
 相信	xio
 选择	xiu
 安全	xiv
-而是	xo
+# 而是	xo
 谢谢	xoa
 像是	xoi
 心情	xoo
