@@ -5947,8 +5947,8 @@
 同比增加	tbzji
 铁板一块	tbyki
 痛不欲生	tbye
-停不下来	tbxliv
-同病相怜	tbxli
+同病相怜	tbxl'
+停不下来	tbxl
 太不像话	tbxhv
 特别喜欢	tbxhu
 逃避现实	tbxe
@@ -10827,6 +10827,7 @@
 军备竞赛	jbjso
 精兵简政	jbjqo
 沉博绝丽	jbjla
+加不进来	jbjl
 讲不出口	jbjkov
 基本建设	jbjev
 疾病缠身	jbjeo
@@ -32071,11 +32072,12 @@
 不结盟	bjmva
 比较慢	bjmv
 比较忙	bjm_
+不成立	bjlvv
 不讲理	bjlv
 冰激凌	bjlo
 边角料	bjla
-不成立	bjl'
-不经历	bjl_
+不经历	bjl'
+不进来	bjl_
 不健康	bjkv
 补偿款	bjko
 不出口	bjk_
@@ -56195,7 +56197,7 @@
 退休	tbxq
 推恩	tbxn
 退闲	tbxm
-推许	tbxl
+推许	tbxli
 退席	tbxk
 退而	tbxj
 退学	tbxh
@@ -85999,7 +86001,8 @@
 出界	jjjd
 触角	jjjc
 除尽	jjjba
-出尽	jjjb
+出尽	jjjb'
+出金	jjjb
 初号	jjhzo
 除号	jjhz
 初婚	jjhw
@@ -88398,7 +88401,7 @@
 仅见	jbjm
 近距	jbjlu
 金句	jbjli
-晋剧	jbjl
+晋剧	jbjlv
 进击	jbjkvv
 禁忌	jbjkv
 谨记	jbjko
