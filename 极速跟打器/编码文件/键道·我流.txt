@@ -31162,7 +31162,8 @@
 策源地	cydu
 赐予的	cyda
 曾一度	cyd_
-餐饮部	cyb_
+餐饮部	cybi
+葱油饼	cyb_
 惨兮兮	cxxo
 次选项	cxx_
 粗纤维	cxw_
@@ -43164,7 +43165,8 @@
 下的	xsdev
 吓的	xsdeo
 阿德	xsdea
-吓得	xsde
+吓得	xsde'
+下得	xsde
 下都	xsddv
 阿爹	xsddau
 阿斗	xsdda
