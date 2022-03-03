@@ -63100,10 +63100,10 @@
 期限	qkxm
 气虚	qkxlu
 期许	qkxl
-奇袭	qkxkvv
-七夕	qkxkvu
-栖息	qkxkv
-气息	qkxk
+七夕	qkxkv
+气息	qkxku
+奇袭	qkxk'
+栖息	qkxk
 妻儿	qkxjv
 其二	qkxj
 凄哀	qkxho
