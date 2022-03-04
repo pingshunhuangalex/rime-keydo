@@ -1116,7 +1116,6 @@
 路遥知马力	lyfl
 另一方面是	lyfeo
 路有冻死骨	lydgo
-联系在一起	lxzq
 六味地黄丸	lwdwoo
 里外不是人	lwbr
 两条腿走路	lttl
@@ -3285,7 +3284,6 @@
 一刀两断	ydld
 一定程度	ydjd
 焉得虎子	ydhzv
-有的国家	ydgjv
 以毒攻毒	ydgda
 因地制宜	ydfyiv
 一定范围	ydfwvo
@@ -8845,7 +8843,6 @@
 龙盘虎踞	lphj
 力排众议	lpfya
 冷暖自知	lnzf
-拉你一把	lnyb
 罗纳尔多	lnxd
 老年痴呆	lnwd
 流年似水	lnse
@@ -20839,7 +20836,8 @@
 填词人	tcr_
 跳槽者	tcqo
 探测器	tcq_
-头层皮	tcp_
+头层皮	tcpo
+调词频	tcp_
 她曾能	tcn_
 太聪明	tcm_
 体操课	tck_
@@ -24005,8 +24003,9 @@
 路易斯	lys_
 聋哑人	lyr_
 连衣裙	lyqv
+路由器	lyqoi
 旅游区	lyqoa
-路由器	lyqo
+旅游签	lyqo
 零用钱	lyq_
 录音棚	lypa
 来一盘	lyp_
@@ -24045,9 +24044,11 @@
 另一次	lyc_
 琅琊榜	lybv
 老一辈	lybu
-另一边	lybo
+另一边	lybov
+另一半	lybo
 录音笔	lyba
-另一半	lyb_
+捞一把	lyb'
+拉一把	lyb_
 螺旋藻	lxzi
 两下子	lxz_
 流行语	lxyau
@@ -40688,7 +40689,8 @@
 右岸	ydxfv
 幽暗	ydxf
 右额	ydxe
-友协	ydxd
+友协	ydxdv
+有写	ydxd
 幼小	ydxca
 有效	ydxc
 忧心	ydxbo
@@ -40919,7 +40921,8 @@
 有漏	ydldv
 优劣	ydldi
 又漏	ydlda
-油料	ydlc
+油料	ydlca
+有料	ydlc
 友邻	ydlb
 又考	ydkz
 有空	ydky
@@ -71017,8 +71020,8 @@
 没睡	mweb
 每道	mwdzu
 美刀	mwdzo
-没到	mwdza
-每到	mwdz
+每到	mwdz'
+没到	mwdz
 每栋	mwdyu
 没洞	mwdya
 没动	mwdy'
@@ -73868,7 +73871,8 @@
 老翁	lzwr
 老王	lzwp
 老问	lzwn
-老挝	lzwl
+老挝	lzwlu
+捞我	lzwl
 老吃	lzwk
 老屋	lzwju
 劳务	lzwji
@@ -73880,6 +73884,7 @@
 老饕	lztzu
 老套	lztz
 老同	lzty
+捞他	lzts
 劳滕	lztr
 老汤	lztp
 老天	lztm
@@ -73934,7 +73939,8 @@
 老衲	lzns
 老牛	lznq
 老年	lznm
-老尼	lznk
+老尼	lznku
+捞你	lznk
 老奴	lznj
 老鸟	lznc
 老毛	lzmz
@@ -75165,7 +75171,8 @@
 拉车	lswei
 拉扯	lswe
 拉套	lstz
-邋遢	lsts
+邋遢	lstsa
+拉他	lsts
 拉图	lstj
 拉抬	lsth
 拉条	lstci
