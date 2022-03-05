@@ -26159,8 +26159,9 @@
 纯双拼	jep_
 几十年	jen_
 急什么	jemu
+叫什么	jemo
 纠删码	jema
-叫什么	jem_
+就是没	jem_
 积水了	jelu
 精神力	jeloo
 家属楼	jeloa
@@ -27136,6 +27137,7 @@
 活动室	hdea
 很多事	hde_
 黄赌毒	hddv
+很大的	hddu
 好端端	hdda
 好得多	hdd_
 很多次	hdcu
@@ -28708,14 +28710,15 @@
 副驾驶	fjeva
 副教授	fjev
 重金属	fjeu
+方程式	fjeou
 房产税	fjeoo
 福建省	fjeoa
-方程式	fjeo
+房产商	fjeo
 非金属	fjeii
 中间商	fjei
 浙江省	fjea
-房产商	fje'
-这件事	fje_
+这件事	fje'
+这就是	fje_
 风景党	fjduo
 分阶段	fjdua
 支撑点	fjdu
@@ -29968,8 +29971,8 @@
 说得准	edq'
 省点钱	edq_
 上等品	edp_
-十多年	ednu
-蜀道难	edn_
+蜀道难	edni
+十多年	edn_
 刹帝利	edluo
 受得了	edlu
 帅呆了	edli
@@ -70028,9 +70031,9 @@
 难行	nfxga
 男性	nfxg
 南岸	nfxf
+南欧	nfxdu
 男鞋	nfxdi
-难写	nfxda
-南欧	nfxd
+难写	nfxd
 难消	nfxc
 难信	nfxb
 南朝	nfwz
@@ -77447,6 +77450,7 @@
 领域	lgyl
 灵异	lgyka
 另一	lgyk
+领英	lgygi
 灵应	lgyg
 另眼	lgyfo
 灵验	lgyf
@@ -113408,6 +113412,7 @@
 得空	deky
 的款	dekt
 的卡	deks
+的坑	dekr
 得开	dekh
 得快	dekg
 的课	deke
@@ -115772,6 +115777,7 @@
 采矿	chkx
 财款	chkt
 彩卡	chks
+踩坑	chkr
 才扛	chkp
 才肯	chkn
 采矿	chkm
