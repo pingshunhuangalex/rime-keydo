@@ -3604,7 +3604,7 @@
 新鲜出炉	xxjlou
 显现出来	xxjlo
 信息处理	xxjli
-相形见绌	xxjjvv
+相形见绌	xxjjv
 循序渐进	xxjju
 学习成绩	xxjjoa
 安安静静	xxjjo
@@ -30219,7 +30219,8 @@
 多余的	dydui
 第一代	dydu'
 等一等	dydu
-钓鱼岛	dydi
+钓鱼岛	dydiu
+打一顿	dydi
 赌一赌	dyda
 低一点	dyd'
 多一点	dyd_
@@ -42172,7 +42173,7 @@
 像极	xxjki
 乡级	xxjka
 相机	xxjk
-相除	xxjjv
+相除	xxjjva
 相处	xxjj'
 想出	xxjj
 香精	xxjg
