@@ -18929,9 +18929,9 @@
 现金流	xjlv'
 想出来	xjlv
 徐静蕾	xjlu
+安静了	xjlov
 新纪录	xjloa
-写出来	xjlo'
-安静了	xjlo
+写出来	xjlo
 小精灵	xjli
 下降了	xjl'
 形成了	xjl_
@@ -20134,6 +20134,7 @@
 玩电脑	wdn_
 乌冬面	wdm_
 武大郎	wdlv
+完蛋了	wdlo
 迟到了	wdla
 我懂了	wdl_
 岔道口	wdku
@@ -20301,6 +20302,7 @@
 她也是	tyea
 他也是	tye_
 特异度	tydu
+同样的	tydi
 同样地	tyd_
 同义词	tyci
 头一次	tyc_
@@ -20594,7 +20596,8 @@
 特朗普	tlp_
 挺礼貌	tlmi
 塔里木	tlm_
-太老了	tllv
+太老了	tllvu
+太烂了	tllv
 天亮了	tll_
 铁路局	tlji
 拖拉机	tlj_
@@ -29170,8 +29173,8 @@
 水族馆	ezg_
 失足者	ezfu
 傻坐着	ezf_
-实在是	ezeo
-数字式	eze_
+数字式	ezeo
+实在是	eze_
 双字词	ezc_
 识字班	ezb_
 实验组	eyzo
@@ -62467,7 +62470,8 @@
 前妻	qmqko
 前期	qmqk
 牵住	qmqjv
-签注	qmqj
+签注	qmqju
+钳住	qmqj
 欠债	qmqhu
 欠缺	qmqh
 欠情	qmqgu
@@ -70961,8 +70965,8 @@
 每根	mwgnu
 没跟	mwgn
 没光	mwgm
-每过	mwglu
-美国	mwgl
+美国	mwglo
+每过	mwgl
 美股	mwgjo
 每股	mwgj
 没改	mwgh
@@ -94621,6 +94625,7 @@
 给年	gwnm
 给你	gwnk
 给您	gwnb
+给猫	gwmz
 给每	gwmw
 滚木	gwmja
 给买	gwmh
@@ -94645,7 +94650,8 @@
 滚杠	gwgp
 给过	gwgl
 给个	gwge
-滚钩	gwgd
+滚钩	gwgda
+给狗	gwgd
 给跪	gwgb
 滚肥	gwfw
 滚转	gwft
