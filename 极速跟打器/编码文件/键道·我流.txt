@@ -2816,7 +2816,6 @@
 研究内容	yjnr
 也就没有	yjmy
 夜长梦多	yjmd
-已经明白	yjmb
 研究领域	yjly
 腰肌劳损	yjls
 以假乱真	yjlqa
@@ -17104,6 +17103,7 @@
 有疑问	yywvu
 原以为	yywva
 有义务	yywv
+舀一碗	yywu
 应用文	yywo
 营养物	yywi
 引以为	yywaa
@@ -17177,6 +17177,7 @@
 有约束	yyeva
 于一身	yyev'
 有意识	yyev
+舀一勺	yyeuv
 饮用水	yyeu
 意义上	yyeoo
 永远是	yyeo
@@ -17742,6 +17743,7 @@
 有奸情	yjqva
 有激情	yjqv
 游击战	yjqa
+舀出去	yjq'
 用出去	yjq_
 眼镜片	yjpi
 液晶屏	yjp_
@@ -19584,12 +19586,13 @@
 微小说	wxeu
 文学史	wxe_
 王尔德	wxdvu
-无限大	wxdva
+无线电	wxdva
+无限大	wxdv'
 无限的	wxdv
 外耳道	wxduv
 我爱的	wxdu
-无线电	wxd'
-重新读	wxd_
+重新读	wxd'
+往下跌	wxd_
 卫星舱	wxc_
 韦小宝	wxbvi
 王小波	wxbv
@@ -20067,7 +20070,8 @@
 维生素	wes_
 无数人	werv
 创始人	wer_
-冲上去	weq_
+冲上去	weqo
+往上涨	weq_
 超水平	wepv
 往上爬	wep_
 外甥女	wenu
@@ -32223,7 +32227,8 @@
 不挂科	bgk_
 不干净	bgjv
 白骨精	bgju
-不构成	bgj_
+不构成	bgj'
+不敢进	bgj_
 报告会	bgh_
 不过关	bgg_
 不规范	bgfv
@@ -39023,7 +39028,8 @@
 一皱	ykfdv
 益州	ykfdo
 一周	ykfd
-一少	ykez
+一少	ykezv
+一勺	ykez
 遗孀	ykexi
 一双	ykex
 一瞬	ykew
@@ -42187,11 +42193,11 @@
 橡胶	xxjcv
 香蕉	xxjcu
 相交	xxjc
-想进	xxjbvv
+相近	xxjbvu
 想尽	xxjbv
-享尽	xxjboa
-详尽	xxjbo
-相近	xxjb
+详尽	xxjboa
+享尽	xxjbo
+想进	xxjb
 相好	xxhzv
 想好	xxhz
 镶黄	xxhx
@@ -114907,6 +114913,7 @@
 层叠	crdd
 曾对	crdb
 曾从	crcy
+蹭蹭	crcro
 层层	crcr
 层次	crck
 层报	crbz
