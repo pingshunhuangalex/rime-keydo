@@ -31935,6 +31935,7 @@
 不乐意	blyv
 不论有	bly'
 不利于	bly_
+布林线	blxvv
 布莱尔	blxvi
 玻璃心	blxv
 病理学	blxo
@@ -83180,8 +83181,8 @@
 久闻	jqwnu
 旧文	jqwni
 就问	jqwn
-救我	jqwlv
-酒窝	jqwl
+酒窝	jqwlao
+救我	jqwl
 九尺	jqwku
 就吃	jqwk
 九五	jqwju
