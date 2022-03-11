@@ -27073,11 +27073,11 @@
 很少人	heru
 话事人	hero
 红烧肉	her_
+很生气	hequ
 哈士奇	heqo
 护士长	heqi
 婚纱照	heqa
-回收站	heq'
-很生气	heq_
+回收站	heq_
 郝氏谱	hepv
 缓释片	hep_
 花生米	hem_
