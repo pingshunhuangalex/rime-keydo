@@ -23439,11 +23439,11 @@
 每一步	mybu
 慢一步	myb_
 慢性子	mxz_
-莫须有	mxy_
+莫须有	mxyi
+没下雨	mxy_
 木偶戏	mxxv
 马歇尔	mxxa
 马鞍形	mxx_
-没希望	mxw_
 马戏团	mxta
 马耳他	mxt_
 没心思	mxs_
@@ -27266,6 +27266,7 @@
 公益性	gyxu
 高压线	gyxov
 关一下	gyxo
+给一下	gyxav
 改一下	gyxa
 逛一下	gyx'
 搞一下	gyx_
@@ -51849,7 +51850,8 @@
 万代	wfdh
 万锭	wfdg
 完蛋	wfdf
-万的	wfdev
+万的	wfdevu
+玩的	wfdev
 玩得	wfde
 豌豆	wfddv
 碗碟	wfdd
