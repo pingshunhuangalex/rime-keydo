@@ -27102,8 +27102,9 @@
 划时代	hedv
 很少的	hedu
 华盛顿	hediv
-华氏度	hedi
-黑手党	hed'
+华氏度	hediu
+黑手党	hedii
+合适的	hedi
 会说的	hed_
 含水层	hec_
 护犊子	hdzi
@@ -38427,8 +38428,8 @@
 贻误	ykwjao
 已无	ykwja
 义务	ykwj
-以外	ykwha
-意外	ykwh
+意外	ykwho
+以外	ykwh
 一弯	ykwfvo
 一碗	ykwfv
 伊万	ykwfiv
@@ -70977,8 +70978,9 @@
 每根	mwgnu
 没跟	mwgn
 没光	mwgm
+每过	mwglu
 美国	mwglo
-每过	mwgl
+没过	mwgl
 美股	mwgjo
 每股	mwgj
 没改	mwgh
@@ -76815,8 +76817,9 @@
 痢疾	lkjko
 里脊	lkjk
 理出	lkjj
+历经	lkjgv
 离京	lkjgo
-历经	lkjg
+离境	lkjg
 立车	lkje
 历届	lkjdv
 礼节	lkjdo
