@@ -11547,6 +11547,7 @@
 工作目标	gzmbv
 该怎么办	gzmbo
 工作经验	gzjy
+故作矜持	gzjw
 故作坚强	gzjqu
 工作机会	gzjhvi
 工作计划	gzjhv
@@ -17658,8 +17659,8 @@
 养老金	ylj_
 有理化	ylhv
 一路货	ylh_
-一两个	ylgvv
-易拉罐	ylg_
+易拉罐	ylgo
+一两个	ylg_
 医疗费	ylfv
 养路费	ylfo
 一两周	ylf_
@@ -23720,11 +23721,11 @@
 模块化	mkh_
 门开关	mkg_
 麦克风	mkf_
-没看懂	mkda
-没看到	mkd_
+没看懂	mkd_
 没看错	mkc_
 马克杯	mkb_
-摩羯座	mjz_
+摩羯座	mjzo
+慢节奏	mjz_
 密集型	mjxo
 没出息	mjx_
 面积为	mjw_
@@ -23823,7 +23824,8 @@
 密封性	mfxo
 没法儿	mfxa
 没方向	mfx_
-马蜂窝	mfw_
+马蜂窝	mfwa
+没放准	mfw_
 毛中特	mftu
 蛮法天	mfto
 莫扎特	mft_
@@ -26644,7 +26646,8 @@
 回头客	htki
 回头看	htk_
 黄庭坚	htjv
-航天局	htju
+航天局	htjuv
+很坦诚	htju
 回趟家	htji
 火腿肠	htj_
 合同号	hthi
@@ -26969,7 +26972,8 @@
 挥挥手	hhe_
 霍华德	hhdvi
 厚厚的	hhdv
-狠狠地	hhdu
+狠狠地	hhduu
+很好的	hhdu
 糊糊的	hhdo
 缓缓地	hhda
 好好地	hhd_
@@ -28554,8 +28558,9 @@
 这么办	fmb_
 负离子	flz_
 致力于	flyv
+福利院	flyo
 傅立叶	flyi
-福利院	fly_
+找理由	fly_
 非理性	flxi
 法兰西	flxa
 法律系	flx'
@@ -31439,7 +31444,8 @@
 慈悲心	cbx_
 才不吃	cbw_
 猜不透	cbt_
-擦边球	cbq_
+擦边球	cbqi
+藏不住	cbq_
 从北面	cbm_
 侧边栏	cbli
 错不了	cbl_
@@ -32236,6 +32242,7 @@
 不构成	bgj'
 不敢进	bgj_
 报告会	bgh_
+不够格	bgg'
 不过关	bgg_
 不规范	bgfv
 被辜负	bgfo
@@ -60997,8 +61004,8 @@
 全家	qtjs
 泉城	qtjru
 全城	qtjriv
-全程	qtjri
-全称	qtjr
+全称	qtjri
+全程	qtjr
 劝酒	qtjq
 全厂	qtjpiv
 全长	qtjpi
@@ -67765,6 +67772,7 @@
 盘路	pflj
 盼来	pflh
 判令	pflg
+判了	pfle
 盘库	pfkj
 盘口	pfkd
 盘亏	pfkb
@@ -93821,7 +93829,7 @@
 高科	gzke
 高超	gzjzo
 高潮	gzjz
-高纯	gzjw
+高纯	gzjwo
 高架	gzjso
 高价	gzjs
 高城	gzjrov
@@ -100480,6 +100488,7 @@
 放热	fpre
 仿照	fpqz
 放枪	fpqx
+放准	fpqw
 放权	fpqt
 方正	fpqr
 放球	fpqq
@@ -112602,7 +112611,8 @@
 代称	dhjr
 待久	dhjq
 代偿	dhjp
-待见	dhjm
+待见	dhjmu
+带件	dhjm
 待机	dhjk
 带出	dhjj
 待决	dhjh

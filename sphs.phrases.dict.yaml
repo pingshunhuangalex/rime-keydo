@@ -1441,6 +1441,7 @@ sort: original
 并找	bgfz
 冰罩	bgfzo
 不过关	bgg
+不够格	bgg
 冰柜	bggb
 并轨	bggbo
 并购	bggd
@@ -6876,13 +6877,14 @@ sort: original
 脆皮	cbpk
 催迫	cbpl
 崔鹏	cbpr
-擦边球	cbq
+藏不住	cbq
 慈不掌兵	cbqb
 摧折	cbqe
 催青	cbqg
 催情	cbqgi
 慈不掌兵，仁不行贾	cbqgo
 催债	cbqh
+擦边球	cbqi
 翠竹	cbqj
 催起	cbqk
 萃取	cbql
@@ -11845,7 +11847,8 @@ sort: original
 带出	dhjj
 待机	dhjk
 灯红酒绿	dhjl
-待见	dhjm
+带件	dhjm
+待见	dhjmu
 代偿	dhjp
 待久	dhjq
 代称	dhjr
@@ -27735,7 +27738,7 @@ sort: original
 着想	flxx
 佛像	flxxi
 扶老携幼	flxy
-福利院	fly
+找理由	fly
 浊音	flyb
 佛印	flybi
 弗洛伊德	flyd
@@ -27755,6 +27758,7 @@ sort: original
 着意	flyko
 佛语	flyl
 捉鱼	flyli
+福利院	flyo
 转了一圈	flyq
 法律援助	flyqa
 卓娅	flys
@@ -28674,6 +28678,7 @@ sort: original
 方正	fpqr
 放权	fpqt
 肥胖症	fpqu
+放准	fpqw
 放枪	fpqx
 仿照	fpqz
 制片人	fpr
@@ -37818,7 +37823,8 @@ sort: original
 高价	gzjs
 高架	gzjso
 工作处	gzjv
-高纯	gzjw
+故作矜持	gzjw
+高纯	gzjwo
 工作经验	gzjy
 高潮	gzjz
 高超	gzjzo
@@ -40048,7 +40054,8 @@ sort: original
 还丢	hhdq
 还等	hhdr
 还大	hhds
-狠狠地	hhdu
+很好的	hhdu
+狠狠地	hhduu
 厚厚的	hhdv
 霍华德	hhdvi
 还得	hhdw
@@ -42802,7 +42809,8 @@ sort: original
 还价	htjs
 缓颊	htjsa
 换家	htjsi
-航天局	htju
+很坦诚	htju
+航天局	htjuv
 黄庭坚	htjv
 缓降	htjx
 换钞	htjz
@@ -65071,7 +65079,8 @@ sort: original
 毛中特	mftu
 慢吞	mftw
 民法通则	mftz
-马蜂窝	mfw
+没放准	mfw
+马蜂窝	mfwa
 免费午餐	mfwc
 慢车	mfwe
 墨汁未干	mfwg
@@ -66024,12 +66033,13 @@ sort: original
 墓园	mjyt
 木俑	mjyy
 马基雅维利主义	mjyya
-摩羯座	mjz
+慢节奏	mjz
 沐足	mjzj
 母子	mjzk
 募资	mjzki
 模子	mjzkv
 木作	mjzl
+摩羯座	mjzo
 墓葬	mjzp
 木钻	mjzt
 铭记在心	mjzx
@@ -66054,8 +66064,7 @@ sort: original
 幂次	mkck
 迷藏	mkcp
 密从	mkcy
-没看到	mkd
-没看懂	mkda
+没看懂	mkd
 米的	mkde
 嘧啶	mkdg
 米袋	mkdh
@@ -72547,6 +72556,7 @@ sort: original
 盘亏	pfkb
 盘口	pfkd
 盘库	pfkj
+判了	pfle
 判令	pflg
 盼来	pflh
 盘路	pflj
@@ -81137,8 +81147,8 @@ sort: original
 全长	qtjpi
 全厂	qtjpiv
 劝酒	qtjq
-全称	qtjr
-全程	qtjri
+全程	qtjr
+全称	qtjri
 全城	qtjriv
 泉城	qtjru
 全家	qtjs
@@ -112802,7 +112812,7 @@ sort: original
 狱中	ylfyu
 鱼种	ylfyuu
 预兆	ylfz
-易拉罐	ylg
+一两个	ylg
 预购	ylgd
 鱼钩	ylgdu
 余个	ylge
@@ -112818,11 +112828,11 @@ sort: original
 雨果	ylglvi
 用力过猛	ylgm
 余光	ylgmi
+易拉罐	ylgo
 浴缸	ylgp
 渔港	ylgpa
 鱼缸	ylgpu
 鱼贯	ylgt
-一两个	ylgvv
 与狼共舞	ylgw
 余光	ylgx
 与共	ylgy
