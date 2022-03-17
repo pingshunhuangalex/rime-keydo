@@ -16787,12 +16787,13 @@
 造就的	zjduo
 造成的	zjdu
 最急的	zjdou
+最初的	zjdoo
 尊敬的	zjdoi
-最初的	zjdo
+最简单	zjdo'
+最近的	zjdo
 做决定	zjdio
 作出的	zjdia
 做出的	zjdi
-最简单	zjd'
 总觉得	zjd_
 最纯粹	zjc_
 最基本	zjb_
@@ -28349,9 +28350,10 @@
 专题片	ftpv
 反突破	ftpu
 附图片	ftp_
-状态栏	ftlo
+状态栏	ftlov
+这条路	ftlo
 状态里	ftl'
-这条路	ftl_
+反弹了	ftl_
 反坦克	ftk_
 反突击	ftju
 伏特加	ftji
@@ -70563,7 +70565,8 @@
 毛囊	mznp
 茂年	mznm
 猫女	mznl
-毛呢	mznk
+毛呢	mznku
+猫腻	mznk
 猫奴	mznj
 毛宁	mzng
 猫毛	mzmzuu
@@ -99410,7 +99413,6 @@
 转口	ftkd
 转抄	ftjz
 专讲	ftjx
-砖家	ftjsvo
 转嫁	ftjsv
 专家	ftjs
 转成	ftjrv
