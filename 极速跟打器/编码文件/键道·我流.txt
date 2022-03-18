@@ -5144,7 +5144,7 @@
 文化建设	whje
 文化程度	whjdo
 外汇储备	whjb
-我很高兴	whgxu
+吃好喝好	whhh
 文化革命	whgm
 文化氛围	whfw
 吹灰之力	whfl
@@ -20136,8 +20136,9 @@
 超短裙	wdq_
 无党派	wdpv
 炒地皮	wdp_
+玩电脑	wdnv
 微电脑	wdnu
-玩电脑	wdn_
+我都能	wdn_
 乌冬面	wdm_
 武大郎	wdlv
 完蛋了	wdlo
@@ -33264,7 +33265,8 @@
 好吧	hb_
 花草	hc_
 好的	hd_
-好好	hh_
+和好	hh_
+好好	hh'
 很快	hk_
 好了	hl_
 后面	hm_
@@ -51491,7 +51493,7 @@
 外皇	whhm
 外货	whhl
 外呼	whhj
-外海	whhh
+外海	whhhu
 外踝	whhg
 外合	whhe
 外汇	whhb
@@ -92781,7 +92783,7 @@
 核交	hejc
 合卺	hejbi
 合金	hejb
-和好	hehz
+喝好	hehz
 和黄	hehx
 合婚	hehw
 合欢	hehti
