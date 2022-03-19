@@ -17355,6 +17355,7 @@
 一摊子	ytz_
 一条鱼	ytyv
 也同样	yty_
+一摊血	ytxv
 英特尔	ytxi
 一条心	ytx_
 一淘网	ytwv
@@ -17381,8 +17382,9 @@
 一体化	yth_
 要通过	ytg_
 言谈中	ytf_
-一体式	ytev
-一坨屎	yte_
+一摊水	ytevi
+一坨屎	ytev
+一体式	yte_
 一听到	ytdv
 咏叹调	ytd_
 云同步	ytbv
