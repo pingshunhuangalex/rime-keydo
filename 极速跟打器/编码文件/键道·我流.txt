@@ -13910,7 +13910,7 @@
 市场机制	ejjf
 生产建设	ejjeu
 时机成熟	ejjeo
-生产厂商 	ejje
+生产厂商	ejje
 舒筋活血	ejhxi
 数九寒天	ejhto
 市场行情	ejhqo
@@ -18094,12 +18094,12 @@
 源代码	ydm_
 一段路	ydlvu
 一定量	ydlvo
-一滴泪	ydlv
+一滴泪	ydlva
+运动量	ydlv
 意大利	ydlov
 赢得了	ydlo
 遇到了	ydli
 异地恋	ydla
-运动量	ydl'
 有道理	ydl_
 一大口	ydkv
 一大块	ydk_
@@ -33201,7 +33201,7 @@
 走来	zvo
 坐在	zvu
 走进	zvv
-那又 	aa_
+那又	aa_
 那有	av_
 又有	av'
 不都	bd_
