@@ -58,13 +58,7 @@ local function getUpDate()
 end
 
 local function translator(input, seg)
-   if (input == "o") then
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), ""))
-   end
-   if (input == "or") then
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), ""))
-   end
-   if (input == "orq") then
+   if (input == ";xd") then
       --[[ 用 `yield` 产生一个候选项
            候选项的构造函数是 `Candidate`，它有五个参数：
             - type: 字符串，表示候选项的类型
@@ -74,7 +68,6 @@ local function translator(input, seg)
             - comment: 候选项的注释
        --]]
       yield(Candidate("date", seg.start, seg._end, os.date("%Y年%m月%d日"), ""))
-      yield(Candidate("date", seg.start, seg._end, os.date("%Y-%m-%d"), ""))
       yield(Candidate("date", seg.start, seg._end, getUpDate(), ""))
    end
 end

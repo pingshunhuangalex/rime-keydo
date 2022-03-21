@@ -1,5 +1,5 @@
 ﻿---
-name: sphs.symbols
+name: sphs.shortcuts
 version: "1.0"
 sort: original
 ...
@@ -7,6 +7,8 @@ sort: original
 ……”	;a
 【	;b
 °	;c
+℃	;cc
+℉	;cf
 ⁈	;d
 ↓	;e
 「	;f
@@ -28,22 +30,20 @@ sort: original
 ⁉	;v
 ‰	;w
 ©	;x
+⑧	;xbs
+⑩	;xek
+√	;xgd
+⑨	;xjq
+⓪	;xlg
+⑥	;xlq
+♂	;xnf
+♀	;xnl
+⑦	;xqk
+③	;xsf
+④	;xsk
+⑤	;xwj
+×	;xws
+②	;xxj
+①	;xyk
 ____	;y
 …	;z
-⑧	obs
-℃	oee
-⑩	oek
-√	ogd
-℉	ohe
-⑨	ojq
-⓪	olg
-⑥	olq
-♂	onf
-♀	onl
-⑦	oqk
-③	osf
-④	osk
-⑤	owj
-×	ows
-②	oxj
-①	oyk
