@@ -611,7 +611,7 @@
 光天化日之下	gthx
 敢怒而不敢言	gnxy
 国内生产总值	gnef
-国民生产总值	gmefi
+国民生产总值	gmef
 国际先进水平	gjxp
 高级人民法院	gjry
 各级人民政府	gjrfu
@@ -11666,9 +11666,9 @@
 高尔夫球	gxfq
 恭喜发财	gxfc
 各显神通	gxetu
+个小时前	gxeq
 个小时后	gxeh
 共享单车	gxdw
-共享单车	gxdjv
 勾心斗角	gxdju
 感恩戴德	gxddv
 公安部门	gxbmu
@@ -25715,6 +25715,7 @@
 佳木斯	jmsi
 金霉素	jms_
 长毛绒	jmr_
+筋膜枪	jmqu
 居民区	jmq_
 触摸屏	jmp_
 姐妹们	jmma
@@ -88377,6 +88378,7 @@
 金芒	jbmp
 金门	jbmni
 进门	jbmn
+筋膜	jbmlu
 浸没	jbml
 紧密	jbmk
 禁牧	jbmj
@@ -94572,7 +94574,6 @@
 光身	gxen
 光说	gxel
 光束	gxej
-光栅	gxef
 广受	gxed
 广水	gxeb
 广岛	gxdz
@@ -95896,7 +95897,7 @@
 广式	gmeko
 光是	gmek
 光束	gmej
-光栅	gmef
+光栅	gmefi
 广受	gmed
 广水	gmeb
 广岛	gmdz
