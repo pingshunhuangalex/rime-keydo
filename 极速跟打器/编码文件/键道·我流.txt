@@ -17420,6 +17420,7 @@
 有所得	ysd_
 压缩比	ysbv
 压缩包	ysb_
+有人做	yrz_
 一日游	yryv
 越容易	yry_
 有人爱	yrx_
@@ -17978,7 +17979,8 @@
 艺术字	yez_
 运输业	yeyv
 饮食业	yeyu
-远胜于	yey_
+远胜于	yey'
+有啥用	yey_
 运输线	yexv
 艺术性	yexi
 已上线	yexa
@@ -19237,13 +19239,14 @@
 新时尚	xeeo
 销售商	xeei
 形式上	xee_
-下水道	xedv
+下水道	xedva
+二手的	xedv
 新时代	xedoo
 新生代	xedo
 小时代	xedio
-销售点	xedi
+销售点	xedii
+小数点	xedi
 消逝的	xeda
-小数点	xed'
 享受到	xed_
 象声词	xecu
 而是从	xec_
@@ -23778,10 +23781,11 @@
 明后天	mht_
 米黄色	mhs_
 孟浩然	mhr_
+灭火器	mhqv
 闵行区	mhqou
 迷魂阵	mhqo
 没好气	mhqa
-灭火器	mhq_
+买回去	mhq_
 马后炮	mhp_
 梅花鹿	mhlv
 闷葫芦	mhl_
@@ -26492,6 +26496,7 @@
 黑眼睛	hyj_
 狠一狠	hyhuv
 后援会	hyhui
+很友好	hyhu'
 很遗憾	hyhu
 换一换	hyhi
 好与坏	hyhav
@@ -28012,7 +28017,8 @@
 管不管	gbguv
 够不够	gbgu
 高不高	gbgo
-国宾馆	gbgi
+国宾馆	gbgio
+贵不贵	gbgi
 改变过	gbgao
 给不给	gbga
 该不该	gbg'
@@ -29967,7 +29973,8 @@
 数十个	eeg_
 手术费	eef_
 硕士生	eeev
-谁身上	eeeo
+谁身上	eeeou
+试试水	eeeo
 手术室	eeei
 事实是	eee'
 事实上	eee_
@@ -67880,8 +67887,8 @@
 剖明	pdmg
 苤蓝	pdlf
 瞥了	pdle
-撇开	pdkhi
-剖开	pdkh
+剖开	pdkho
+撇开	pdkh
 瞥见	pdjm
 裒辑	pdjk
 剖解	pdjd
@@ -72199,7 +72206,8 @@
 陌路	mllja
 末路	mllj
 莫莱	mllh
-魔灵	mllg
+魔灵	mllgo
+抹零	mllg
 末栏	mllf
 抹了	mlle
 磨料	mllco
@@ -92136,7 +92144,8 @@
 海狮	hhek
 还属	hhej
 海山	hhef
-还受	hhed
+还受	hhedv
+还收	hhed
 海水	hheb
 海岛	hhdza
 海盗	hhdz
