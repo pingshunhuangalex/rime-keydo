@@ -2669,6 +2669,7 @@
 缘来缘去	ylyqav
 妖里妖气	ylyqa
 游来游去	ylyq
+越来越难	ylyn
 一帘幽梦	ylym
 越来越快	ylykvv
 有棱有角	ylyjvv
@@ -4620,7 +4621,6 @@
 文学作品	wxzp
 文献资料	wxzlo
 无形资产	wxzj
-我现在是	wxzeu
 莞尔一笑	wxyx
 五险一金	wxyj
 文学艺术	wxyeo
@@ -7586,6 +7586,7 @@
 准备就绪	qbjxo
 情报机构	qbjgo
 泣不成声	qbjea
+整不会了	qbhl
 取保候审	qbhev
 岂不怪哉	qbgz
 照搬照套	qbfto
@@ -17421,8 +17422,8 @@
 压缩比	ysbv
 压缩包	ysb_
 有人做	yrz_
-一日游	yryv
-越容易	yry_
+越容易	yryv
+一日游	yry_
 有人爱	yrx_
 羊肉串	yrwo
 又让我	yrw_
@@ -17910,6 +17911,7 @@
 荧光棒	ygbi
 荧光笔	ygb'
 一个半	ygb_
+越复杂	yfzv
 一份子	yfz_
 有志于	yfyvv
 一眨眼	yfyvi
@@ -18278,7 +18280,8 @@
 喜滋滋	xzz_
 想怎样	xzyv
 写作业	xzyo
-而在于	xzy_
+而在于	xzy'
+现在也	xzy_
 新泽西	xzxo
 选择性	xzx_
 奥组委	xzw_
@@ -22024,8 +22027,6 @@
 青年人	qnr_
 真年轻	qnqu
 取暖器	qnq_
-这尼玛	qnmo
-去你妈	qnm_
 正能量	qnl_
 真难看	qnk_
 七年级	qnj_
@@ -24924,6 +24925,7 @@
 靠你了	knl_
 困难户	knhi
 可能会	knh_
+可能是	kne_
 肯尼迪	kndi
 扣帽子	kmz_
 凯美瑞	kmr_
@@ -28505,10 +28507,10 @@
 指南针	fnq_
 纸尿片	fnp_
 分男女	fnn_
-这尼玛	fnm_
 负能量	fnl_
 智能卡	fnku
-纸尿裤	fnk_
+纸尿裤	fnka
+只能看	fnk_
 滞纳金	fnja
 妇女节	fnj_
 中南海	fnhi
@@ -30927,9 +30929,10 @@
 动手做	dezv
 独生子	dez_
 大少爷	deyv
-对数云	deya
-淡水鱼	dey'
-都是以	dey_
+对数云	deyao
+淡水鱼	deya
+都是以	dey'
+都是要	dey_
 对手戏	dexa
 大师兄	dex_
 倒时差	dewi
@@ -31143,7 +31146,8 @@
 大部分	dbf_
 大别山	dbevo
 大白鲨	dbev
-戴不上	dbeu
+戴不上	dbeuv
+多半是	dbeu
 代表说	dbeiv
 搭把手	dbeii
 但不是	dbei
@@ -32193,6 +32197,7 @@
 保护膜	bhm_
 不合理	bhlv
 变化率	bhlo
+不回了	bhl'
 不回来	bhl_
 不好看	bhk_
 百花奖	bhjv
@@ -65675,7 +65680,7 @@
 侵华	qbhq
 琴行	qbhp
 秦皇	qbhm
-擒获	qbhl
+擒获	qbhli
 侵害	qbhh
 秦淮	qbhg
 秦汉	qbhf
