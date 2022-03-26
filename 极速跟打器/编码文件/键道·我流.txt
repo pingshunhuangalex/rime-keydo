@@ -21264,10 +21264,10 @@
 算是吧	sebu
 四十八	sebi
 三十八	seb_
-速递易	sdyv
-所对应	sdyu
+速递易	sdyvo
+酸掉牙	sdyv
 四大洋	sdyi
-酸掉牙	sdy_
+所对应	sdy_
 私底下	sdx_
 死对头	sdt_
 三代人	sdr_
@@ -112584,6 +112584,7 @@
 歹念	dhnm
 待你	dhnku
 呆腻	dhnko
+代你	dhnki
 带你	dhnk
 埭南	dhnf
 呆鸟	dhnc
@@ -118179,8 +118180,8 @@
 边郡	bmjw
 变价	bmjs
 便乘	bmjri
-编成	bmjra
-编程	bmjr'
+编程	bmjra
+编成	bmjr'
 便成	bmjr
 变旧	bmjq
 边长	bmjpa
