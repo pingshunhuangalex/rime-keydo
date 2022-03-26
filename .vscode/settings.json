@@ -1,10 +1,13 @@
 {
     "Lua.diagnostics.globals": [
-        "sphs_select_processor",
-        "sphs_common",
-        "sphs_cand_filter",
-        "yield",
+        "ReverseDb",
         "Candidate",
-        "ReverseDb"
+        "yield",
+        "sphs_constants",
+        "sphs_modules",
+        "sphs_utils",
+        "sphs_select_processor",
+        "sphs_date_time_translator",
+        "sphs_cand_filter"
     ]
 }

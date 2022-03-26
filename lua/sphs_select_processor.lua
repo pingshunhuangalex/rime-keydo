@@ -1,9 +1,11 @@
-local RESULT_ACCEPTED = sphs_common.RESULT_ACCEPTED
-local RESULT_NOOP = sphs_common.RESULT_NOOP
-local starts_with = sphs_common.starts_with
-local is_key = sphs_common.is_key
-local is_pressed = sphs_common.is_pressed
-local force_select = sphs_common.force_select
+local RESULT_ACCEPTED = sphs_constants.RESULT_ACCEPTED
+local RESULT_NOOP = sphs_constants.RESULT_NOOP
+
+local starts_with = sphs_modules.starts_with
+
+local is_key = sphs_utils.is_key
+local is_pressed = sphs_utils.is_pressed
+local force_select = sphs_utils.force_select
 
 local SELECT1_KEY = " " -- 首选键字符串
 local SELECT2_KEY = "'" -- 次选键字符串

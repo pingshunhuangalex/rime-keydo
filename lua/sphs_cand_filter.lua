@@ -1,7 +1,8 @@
-local is_valid = sphs_common.is_valid
-local starts_with = sphs_common.starts_with
-local has_cn_char = sphs_common.has_cn_char
-local force_commit = sphs_common.force_commit
+local is_valid = sphs_modules.is_valid
+local starts_with = sphs_modules.starts_with
+local has_cn_char = sphs_modules.has_cn_char
+
+local force_commit = sphs_utils.force_commit
 
 -- 候选过滤器
 -- - 历史模式候选项过滤（Rime历史模式允许记录所有输入字符，如标点、表情、英文字母等）
@@ -32,7 +33,7 @@ local function filter(cand_list, env)
     end
 
     -- 待遍历的候选项为vector类型，能否将所有过滤器逻辑压缩在用于生成候选项的一次遍历中对渲染速度至关重要
-    -- https://github.com/rime/librime/blob/master/src/rime/filter.h
+    -- https://github.com/rime/librime/blob/master/src/rime/candidate.h#L56
     for cand in cand_list:iter() do
         -- 如候选项为无效字符串，则跳过（不生成）该候选项
         if not is_valid(cand.text) then
