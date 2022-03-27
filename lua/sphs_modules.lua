@@ -2,14 +2,14 @@
 local function switch(case_id, case_table)
     local case = case_table[case_id] -- 获取识别名称所对应的函数
 
-    -- 若函数存在则运行该函数
+    -- 若函数存在，则运行该函数
     if case then
         return case()
     end
 
     local default_case = case_table['default'] -- 获取默认函数
 
-    -- 若默认函数存在则运行默认函数，否则不进行任何处理
+    -- 若默认函数存在，则运行默认函数，否则不进行任何处理
     if default_case then
         return default_case()
     else
@@ -36,7 +36,7 @@ local function has_cn_char(text)
         local byte2 = char:byte(2) -- UTF-8编码第二位
         local byte3 = char:byte(3) -- UTF-8编码第三位
 
-        -- UTF-8编码获取失败则忽略当前字符
+        -- 若UTF-8编码获取失败，则忽略当前字符
         if not byte1 or not byte2 or not byte3 then
             goto continue
         end
