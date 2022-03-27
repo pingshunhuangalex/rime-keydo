@@ -2924,6 +2924,7 @@ sort: original
 不韪	bjwwvo
 补充	bjwy
 不超	bjwz
+不进行	bjx
 不承想	bjx
 不信	bjxb
 不小	bjxc
@@ -23811,7 +23812,6 @@ sort: original
 稍早	ezzz
 皱巴巴	fbb
 治标不治本	fbbb
-这并不是	fbbe
 追兵	fbbg
 范冰冰	fbbi
 追捕	fbbj
@@ -41793,12 +41793,10 @@ sort: original
 很悬	hnxt
 很逊	hnxw
 很想	hnxx
-很响	hnxxo
-很像	hnxxu
-很难想象	hnxxua
-很香	hnxxuu
+很像	hnxx
+很香	hnxxu
+很响	hnxxu
 很凶	hnxy
-和男友	hny
 痕印	hnyb
 很有	hnyd
 很野	hnye
@@ -75048,7 +75046,6 @@ sort: original
 泡枣	pzzza
 情报部	qbb
 驻波比	qbba
-这并不是	qbbe
 亲办	qbbf
 亲兵	qbbg
 秦柏	qbbh
@@ -75056,18 +75053,19 @@ sort: original
 亲伯	qbbl
 亲本	qbbn
 朝不保夕	qbbx
-真不错	qbc
+却不曾	qbc
 亲测	qbce
 芹菜	qbch
 钦赐	qbck
-却不曾	qbcv
-全部的	qbd
+真不错	qbcu
+起不到	qbd
+撬不动	qbd
 琴调	qbdc
 亲爹	qbdd
 禽蛋	qbdf
 钦定	qbdg
 秦代	qbdh
-撬不动	qbdi
+全部的	qbdi
 亲读	qbdj
 擒敌	qbdk
 侵夺	qbdl
@@ -75077,7 +75075,6 @@ sort: original
 芹等	qbdr
 琴断	qbdt
 长不大	qbdu
-起不到	qbdv
 穷兵黩武	qbdw
 揿动	qbdy
 亲到	qbdz
@@ -96332,7 +96329,6 @@ sort: original
 充满信心	wmxxo
 我们学校	wmxxu
 无名小卒	wmxzv
-我没有	wmy
 我们要	wmy
 创优	wmyd
 创业	wmye
@@ -96341,7 +96337,8 @@ sort: original
 创意	wmyk
 疮痍	wmyko
 疮疡	wmyp
-窗园	wmyt
+我命由我不由天	wmyt
+窗园	wmyto
 我们也	wmyu
 万美元	wmyv
 我们以为	wmyw
@@ -96992,10 +96989,7 @@ sort: original
 汪藻	wpzz
 完整版	wqb
 委屈巴巴	wqbb
-完全不同的	wqbd
-完全不知道	wqbdo
-完全不是	wqbe
-无巧不成书	wqbev
+无巧不成书	wqbe
 万仟佰拾元角分	wqbf
 万千百十元角分	wqbf
 文情并茂	wqbm
@@ -98752,7 +98746,6 @@ sort: original
 疮痍	wxyko
 文学院	wxyo
 疮疡	wxyp
-窗园	wxyt
 朝鲜语	wxyu
 莞尔一笑	wxyx
 朝鲜族	wxz
@@ -104227,7 +104220,6 @@ sort: original
 虚功	xlgy
 虚高	xlgz
 心里话	xlh
-序列号	xlh
 徐汇	xlhb
 先礼后兵	xlhbu
 心理活动	xlhd
@@ -104244,7 +104236,8 @@ sort: original
 喔嚯	xlhlo
 稀里哗啦	xlhlu
 虚晃	xlhm
-安理会	xlho
+序列号	xlho
+安理会	xlhov
 续航	xlhp
 虚化	xlhq
 叙话	xlhqi
@@ -105240,7 +105233,8 @@ sort: original
 携起手来	xqel
 休说	xqeli
 修身	xqen
-新战士	xqeo
+星期数	xqeo
+新战士	xqeoi
 兴趣使然	xqer
 修省	xqeri
 香樟树	xqeu

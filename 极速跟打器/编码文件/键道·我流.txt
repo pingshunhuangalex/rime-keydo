@@ -210,8 +210,9 @@
 吃一堑，长一智	wyqfo
 五一国际劳动节	wygj
 为他人作嫁衣裳	wtreo
+万千百十元角分	wqbf'
 万仟佰拾元角分	wqbf
-万千百十元角分	wqbf
+我命由我不由天	wmyt
 屋漏偏逢连夜雨	wlpy
 万里长征第一步	wljbv
 无可奈何花落去	wknq
@@ -909,9 +910,7 @@
 为人民服务	wrmw
 吃软不吃硬	wrby
 无政府主义	wqfy
-无巧不成书	wqbev
-完全不知道	wqbdo
-完全不同的	wqbd
+无巧不成书	wqbe
 无论怎么样	wlzyvo
 温良恭俭让	wlgra
 无立锥之地	wlfd
@@ -4885,7 +4884,6 @@
 为期不远	wqbyo
 无奇不有	wqby
 文情并茂	wqbm
-完全不是	wqbe
 委屈巴巴	wqbb
 无凭无据	wpwjv
 王婆卖瓜	wpmgva
@@ -7594,7 +7592,6 @@
 针砭时弊	qbeb
 穷兵黩武	qbdw
 朝不保夕	qbbx
-这并不是	qbbe
 抛在脑后	pznh
 迫在眉睫	pzmj
 疲于应付	pyyf
@@ -11134,7 +11131,6 @@
 黄皮瓜瘦	hpgev
 和平发展	hpfq
 患难与共	hnygi
-很难想象	hnxxua
 湖南卫视	hnwe
 汗牛充栋	hnwda
 何年马月	hnmyi
@@ -13357,7 +13353,6 @@
 风必摧之	fbcf
 朝不保夕	fbbx
 止步不前	fbbq
-这并不是	fbbe
 始作俑者	ezyq
 始作俑者	ezyfa
 数字信号	ezxh
@@ -18704,7 +18699,8 @@
 学区房	xqf'
 爱情中	xqf_
 香樟树	xqeu
-新战士	xqeo
+新战士	xqeoi
+星期数	xqeo
 小助手	xqei
 咸猪手	xqe_
 需求点	xqdv
@@ -18851,9 +18847,9 @@
 训练场	xlj_
 西兰花	xlhv
 系列化	xlhu
-安理会	xlho
+安理会	xlhov
+序列号	xlho
 小狼毫	xlhi
-序列号	xlh'
 心里话	xlh_
 效率高	xlgo
 俄勒冈	xlgi
@@ -19789,8 +19785,7 @@
 万能表	wnb_
 万美元	wmyv
 我们也	wmyu
-我们要	wmy'
-我没有	wmy_
+我们要	wmy_
 超媒体	wmtv
 我每天	wmtu
 伪命题	wmti
@@ -22487,12 +22482,12 @@
 这本书	qbeo
 且不说	qbei
 岂不是	qbe_
-起不到	qbdv
 长不大	qbdu
-撬不动	qbdi
-全部的	qbd_
-却不曾	qbcv
-真不错	qbc_
+全部的	qbdi
+撬不动	qbd'
+起不到	qbd_
+真不错	qbcu
+却不曾	qbc_
 驻波比	qbba
 情报部	qbb_
 批作业	pzy_
@@ -26754,7 +26749,6 @@
 很普遍	hpbu
 横排版	hpb_
 哈尼族	hnz_
-和男友	hny_
 汉诺威	hnwa
 海内外	hnw_
 回南天	hnti
@@ -32088,7 +32082,8 @@
 北极星	bjxiv
 背景下	bjxio
 悲剧性	bjxi
-不承想	bjx_
+不承想	bjx'
+不进行	bjx_
 比较差	bjwvv
 不坚持	bjwvi
 不成文	bjwv
@@ -48254,7 +48249,6 @@
 创作	wxzl
 窗子	wxzk
 床箦	wxze
-窗园	wxyt
 疮疡	wxyp
 疮痍	wxyko
 创意	wxyk
@@ -50117,7 +50111,7 @@
 创作	wmzl
 窗子	wmzk
 床箦	wmze
-窗园	wmyt
+窗园	wmyto
 疮疡	wmyp
 疮痍	wmyko
 创意	wmyk
@@ -90865,9 +90859,9 @@
 很有	hnyd
 痕印	hnyb
 很凶	hnxy
-很香	hnxxuu
-很像	hnxxu
-很响	hnxxo
+很响	hnxxu'
+很香	hnxxu
+很像	hnxx'
 很想	hnxx
 很逊	hnxw
 很悬	hnxt
