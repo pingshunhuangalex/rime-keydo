@@ -6,7 +6,7 @@
 -- - 根据路径获取编译后的词库
 -- - https://github.com/rime/librime/blob/master/src/rime/dict/reverse_lookup_dictionary.h#L41
 
--- `Candidate = (type: string, start: string, end: string, text: string, comment: string, preedit?: string) => Candidate`
+-- `Candidate = (type: string, start: string, end: string, text: string, comment: string) => Candidate`
 -- - 构建一个候选项
 -- - https://github.com/rime/librime/blob/master/src/rime/candidate.h#L63
 

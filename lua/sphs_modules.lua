@@ -1,13 +1,15 @@
--- 在特定的选项池中，根据选项识别名称快速切换对应选项
+-- 在特定的函数池中，根据函数识别名称运行对应函数
 local function switch(case_id, case_table)
-    local case = case_table[case_id]
+    local case = case_table[case_id] -- 获取识别名称所对应的函数
 
+    -- 若函数存在则运行该函数
     if case then
         return case()
     end
 
-    local default_case = case_table['default']
+    local default_case = case_table['default'] -- 获取默认函数
 
+    -- 若默认函数存在则运行默认函数，否则不进行任何处理
     if default_case then
         return default_case()
     else

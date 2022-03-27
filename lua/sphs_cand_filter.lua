@@ -35,7 +35,7 @@ local function filter(cand_list, env)
     -- 待遍历的候选项为vector类型，能否将所有过滤器逻辑压缩在用于生成候选项的一次遍历中对渲染速度至关重要
     -- https://github.com/rime/librime/blob/master/src/rime/candidate.h#L56
     for cand in cand_list:iter() do
-        -- 如候选项为无效字符串，则跳过（不生成）该候选项
+        -- 若候选项为无效字符串，则跳过（不生成）该候选项
         if not is_valid(cand.text) then
             goto continue
         end
