@@ -7979,7 +7979,6 @@
 男欢女爱	nhnxi
 男婚女嫁	nhnj
 男孩女孩	nhnhi
-你好吗？	nhmi
 南回归线	nhgx
 浓厚氛围	nhfw
 怒火中烧	nhfea
@@ -7994,12 +7993,8 @@
 南国风光	ngfg
 能歌善舞	ngew
 牛鬼蛇神	ngee
-那个东西	ngdx
 那该多好	ngdh
-那个地方	ngdf
 年高德劭	ngdeu
-能够得到	ngdd
-那个不是	ngbe
 年过半百	ngbb
 年复一年	nfyn
 浓妆艳抹	nfym
@@ -20736,8 +20731,9 @@
 他告诉	tgs_
 托管人	tgr_
 弹钢琴	tgq_
-提高了	tgli
-提供了	tgl_
+提高了	tgli'
+提供了	tgli
+提过了	tgl_
 同甘苦	tgk_
 退格键	tgja
 铁公鸡	tgj_
@@ -20986,8 +20982,8 @@
 孙悟饭	swf_
 散文诗	swevo
 三位数	swev
-算我输	sweu
-四川省	swe_
+四川省	swei
+算我输	swe_
 送我到	swd_
 四川菜	swc_
 速查表	swb_
@@ -25696,8 +25692,7 @@
 几年间	jnj_
 几年后	jnhu
 嘉年华	jnh_
-纪念馆	jnga
-就能够	jng_
+纪念馆	jng_
 九年制	jnf_
 济南市	jne_
 节能灯	jndi
@@ -55084,9 +55079,9 @@
 停产	tgjf
 停车	tgje
 听教	tgjc
-听进	tgjbo
-挺进	tgjbi
-挺近	tgjb
+挺进	tgjbiv
+挺近	tgjbi
+听进	tgjb
 听好	tghzo
 挺好	tghz
 挺黑	tghw
