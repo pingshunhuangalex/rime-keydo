@@ -1456,6 +1456,7 @@
 不确定因素	bqds
 不平等条约	bpdy
 饱暖思淫欲	bnsy
+巴纳姆效应	bnmy
 病来如山倒	blrd
 巴黎圣母院	bley
 不可信其无	bkxw
@@ -16989,6 +16990,7 @@
 最聪明	zcm_
 组策略	zcla
 做错了	zcl_
+做参考	zck_
 总裁兼	zcj_
 早餐后	zch_
 在参观	zcg_
@@ -20212,7 +20214,8 @@
 未标明	wbm_
 无保留	wblv
 微波炉	wblu
-忘不了	wblo
+忘不了	wblo'
+差不了	wblo
 玩不来	wbl'
 吃饱了	wbl_
 吃不开	wbko
@@ -27723,7 +27726,7 @@
 工程处	gjjvu
 过家家	gjjvoo
 歌唱家	gjjvo
-工程车	gjjv
+更接近	gjjv
 古巨基	gjjuv
 公积金	gjjuu
 公交车	gjju
@@ -28064,10 +28067,10 @@
 制作人	fzrui
 负责任	fzru
 负责人	fzr_
+副组长	fzqv
 负增长	fzquv
-重灾区	fzquo
 制作者	fzqu
-副组长	fzq_
+重灾区	fzq_
 肥皂泡	fzp_
 夫子庙	fzm_
 副总理	fzlv
@@ -30916,6 +30919,7 @@
 豆腐渣	dff_
 电风扇	dfe_
 东方的	dfdv
+典中典	dfdii
 当中的	dfdi
 对蹠点	dfdao
 对方的	dfda
@@ -31365,6 +31369,7 @@
 存储器	cjq_
 从今年	cjn_
 参加吗	cjm_
+测出来	cjla
 猜出来	cjl_
 苍井空	cjki
 存储卡	cjk_
@@ -31919,11 +31924,11 @@
 白内障	bnqu
 不能去	bnq_
 半年内	bnn_
-把你们	bnmi
-巴拿马	bnm_
-班尼路	bnlv
-百年来	bnl'
-不努力	bnl_
+巴拿马	bnma
+把你们	bnm_
+班尼路	bnlva
+不努力	bnlv
+百年来	bnl_
 八年级	bnj_
 比你还	bnh_
 不难找	bnfv
@@ -91567,6 +91572,7 @@
 霍地	hldk
 火毒	hldjo
 货单	hldf
+火的	hldeo
 活的	hldea
 活得	hlde
 火斗	hldd
