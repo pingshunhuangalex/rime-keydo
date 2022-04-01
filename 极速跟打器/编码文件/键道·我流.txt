@@ -2847,9 +2847,9 @@
 夜静更深	yjge
 一家之言	yjfy
 研究方向	yjfxv
-已经发现	yjfxa
 研究中心	yjfx
-一己之私	yjfs
+一己之私	yjfsv
+言出法随	yjfs
 月经周期	yjfqu
 一见钟情	yjfq
 一己之力	yjfl
@@ -14818,7 +14818,7 @@
 大海捞针	dhlq
 大汗淋漓	dhll
 灯火阑珊	dhleoo
-调虎离山	dhle'
+调虎离山	dhleoi
 电话铃声	dhlei
 打黑除恶	dhjxi
 灯红酒绿	dhjl
@@ -24105,10 +24105,11 @@
 李先念	lxn_
 老乡们	lxm_
 李小龙	lxlv
-留下了	lxlu
+留下来	lxlu
 离心力	lxlo
-流下来	lxl'
-留下来	lxl_
+流下来	lxla
+流下了	lxl'
+留下了	lxl_
 历险记	lxjv
 老学究	lxju
 旅行车	lxjou
@@ -112663,6 +112664,7 @@
 带领	dhlg
 戴了	dhleu
 呆了	dhleo
+待了	dhle'
 带了	dhle
 待料	dhlc
 代考	dhkz
