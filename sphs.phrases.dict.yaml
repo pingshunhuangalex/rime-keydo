@@ -1276,7 +1276,7 @@ sort: original
 扮相	bfxx
 北风啸啸	bfxxi
 不重要	bfy
-别这样	bfy
+不至于	bfy
 伴音	bfyb
 不止一次	bfyc
 不止于此	bfycv
@@ -1293,7 +1293,8 @@ sort: original
 闭着眼睛	bfyj
 不知有汉，何论魏晋	bfyjv
 搬移	bfyk
-闭着眼	bfyo
+别这样	bfyo
+闭着眼	bfyoo
 暴风雨	bfyou
 版样	bfyp
 本质要求	bfyq
@@ -1302,8 +1303,7 @@ sort: original
 板牙	bfysv
 半圆	bfyt
 不值一提	bfytv
-不至于	bfyv
-本专业	bfyvv
+本专业	bfyv
 搬运	bfyw
 拌匀	bfywi
 不值一文	bfywv
@@ -25911,12 +25911,12 @@ sort: original
 中间商	fjei
 非金属	fjeii
 复述	fjej
-负数	fjej
+服输	fjej
 附属	fjeja
 抓紧时间	fjeji
 伏暑	fjejio
 富庶	fjejo
-服输	fjeju
+负数	fjeju
 复数	fjejuo
 腐蚀	fjek
 俯视	fjek
@@ -45045,9 +45045,9 @@ sort: original
 金佩	jbpw
 捷报频传	jbpwi
 浸泡	jbpz
-记不清	jbq
-经不起	jbq
-出不去	jbqa
+出不去	jbq
+出不起	jbq
+经不起	jbqa
 经不住	jbqa
 绝不去	jbqav
 近亲	jbqb
@@ -45085,6 +45085,7 @@ sort: original
 金枕	jbqni
 进镇	jbqnv
 进针	jbqnvi
+记不清	jbqo
 记不住	jbqo
 记不起	jbqov
 紧张	jbqp
@@ -57990,7 +57991,7 @@ sort: original
 空位	kyww
 空床	kywx
 空巢	kywz
-抗药性	kyx
+可以向	kyx
 空心	kyxb
 恐胁	kyxd
 空额	kyxe
@@ -57999,10 +58000,11 @@ sort: original
 空穴	kyxh
 控艾	kyxhi
 看一下	kyxi
+抗药性	kyxii
 快一些	kyxo
-空儿	kyxj
+可以想见	kyxj
 空耳	kyxjo
-可以想见	kyxjv
+空儿	kyxjou
 空隙	kyxk
 孔隙	kyxka
 空袭	kyxko
@@ -58013,7 +58015,6 @@ sort: original
 科研项目	kyxmu
 可遇而不可求	kyxq
 空下	kyxs
-可以向	kyxv
 快意恩仇	kyxw
 空想	kyxx
 可以想象	kyxxv
@@ -75676,6 +75677,7 @@ sort: original
 睁大了	qdli
 战斗力	qdlio
 切利	qdlk
+敲到了	qdlo
 长大了	qdlu
 去得了	qdlv
 真的吗	qdm
@@ -81217,7 +81219,8 @@ sort: original
 全聊	qtlc
 全裂	qtld
 全楼	qtldi
-全了	qtle
+劝了	qtle
+全了	qtlei
 圈揽	qtlf
 全零	qtlg
 权略	qtlh
@@ -101309,6 +101312,7 @@ sort: original
 而是说	xeev
 新生事物	xeew
 恶少	xeez
+享受着	xef
 现实中	xef
 鄂州	xefd
 安身之地	xefdo
@@ -101323,13 +101327,12 @@ sort: original
 恶浊	xefl
 安史之乱	xeflo
 小试锋芒	xefm
-享受着	xefo
 俄方	xefp
 讹诈	xefs
 恶法	xefsv
 牺牲者	xefu
-夏商周	xefv
-二手房	xefvi
+二手房	xefv
+夏商周	xefvo
 刑事犯	xefvv
 俄中	xefy
 刑事犯罪	xefz
@@ -101482,7 +101485,7 @@ sort: original
 现实情况	xeqkv
 恶取	xeql
 额前	xeqm
-享受着	xeqo
+学生签	xeqo
 新时期	xeqoo
 学生证	xeqou
 新石器	xeqov
@@ -112628,9 +112631,9 @@ sort: original
 一言	ykyfv
 亦应	ykyg
 一月	ykyh
+一跃	ykyh
 已阅	ykyha
-一跃	ykyhv
-越快越好	ykyhvo
+越快越好	ykyhv
 意义	ykyk
 异议	ykyka
 翼翼	ykykaa
@@ -112672,6 +112675,7 @@ sort: original
 义勇	ykyyo
 医用	ykyyv
 医药	ykyz
+一口咬死	ykyzv
 一嘴	ykzb
 移走	ykzd
 一走	ykzdv
@@ -113936,7 +113940,7 @@ sort: original
 远征军	yqjvu
 一针见血	yqjx
 邮政储蓄	yqjxi
-有情况	yqk
+一整块	yqk
 勇气可嘉	yqkj
 有章可循	yqkx
 用起来	yql
