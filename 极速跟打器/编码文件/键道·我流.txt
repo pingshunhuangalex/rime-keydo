@@ -12260,8 +12260,8 @@
 固步自封	gbzf
 根本原因	gbyy
 供不应求	gbyq
-更不要说	gbyev
-更不用说	gbye
+更不用说	gbyev
+更不要说	gbye
 公办学校	gbxxu
 各不相同	gbxt
 各不相让	gbxr
@@ -31618,10 +31618,10 @@
 抱怨者	byfi
 抱怨着	byf'
 不一致	byf_
-不用说	byevu
-不要说	byev
+毕业生	byevi
+不用说	byev
 必要时	byeo
-毕业生	bye_
+不要说	bye_
 比亚迪	bydv
 白洋淀	bydu
 必要的	bydo
