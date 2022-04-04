@@ -2653,7 +2653,8 @@ sort: original
 不练	bjlm
 冰激凌	bjlo
 布朗	bjlp
-不留	bjlq
+不流	bjlq
+不留	bjlqv
 不冷	bjlr
 不辣	bjls
 不拉	bjlsv
@@ -3773,6 +3774,7 @@ sort: original
 拨款	blkt
 播控	blky
 不聊了	bll
+不流了	bll
 柏林	bllb
 波列	blld
 伯乐	blle
@@ -3790,6 +3792,7 @@ sort: original
 剥落	bllla
 播绿	bllli
 筚路蓝缕	blllu
+别来了	bllo
 波浪	bllp
 波流	bllq
 拨楞	bllr
@@ -5409,12 +5412,13 @@ sort: original
 不太可能	btkn
 变态狂	btko
 不太冷	btl
-标题栏	btl
 遍体鳞伤	btle
 拜托了	btli
 别提了	btlo
 变态辣	btlov
-比特率	btlv
+不疼了	btlv
+标题栏	btlvo
+比特率	btlvu
 半透明	btm
 不太明白	btmb
 悲天悯人	btmr
@@ -10757,9 +10761,7 @@ sort: original
 得空	deky
 得靠	dekz
 断舍离	del
-得了	delc
-的料	delcu
-得了	dele
+的料	delc
 得令	delg
 得来	delh
 的路	delj
@@ -31312,6 +31314,7 @@ sort: original
 风雨雷电	fyldu
 种了	fyle
 中了	fylei
+重了	fyleu
 敷衍了事	fylev
 中栏	fylf
 钟灵	fylg
@@ -33396,7 +33399,8 @@ sort: original
 跟着你	gfn
 甘南	gfnf
 赣南	gfnfo
-赶你	gfnk
+干你	gfnk
+赶你	gfnkv
 感念	gfnm
 干娘	gfnx
 功夫片	gfp
@@ -45332,6 +45336,7 @@ sort: original
 交大	jcdso
 脚打	jcdsu
 较短	jcdt
+检测点	jcdv
 较钝	jcdw
 搅动	jcdy
 胶东	jcdyu
@@ -56093,6 +56098,7 @@ sort: original
 凯丽	khlki
 开罗	khll
 开练	khlm
+快好了	khlo
 开朗	khlp
 开溜	khlq
 开滦	khlt
@@ -68040,8 +68046,9 @@ sort: original
 没被	mwbw
 每包	mwbz
 美餐	mwcf
-梅菜	mwch
+没睬	mwch
 没踩	mwcha
+梅菜	mwchv
 每次	mwck
 没错	mwcl
 没藏	mwcp
@@ -68253,8 +68260,8 @@ sort: original
 美菱	mwlg
 没来	mwlh
 煤炉	mwlj
-美丽	mwlk
-没理	mwlka
+没理	mwlk
+美丽	mwlko
 魅力	mwlku
 没脸	mwlm
 没留	mwlq
@@ -70583,6 +70590,7 @@ sort: original
 农民家庭	nmjt
 年均	nmjw
 年春	nmjwu
+那么快	nmk
 年刊	nmkf
 年卡	nmks
 你们俩	nml
@@ -93452,7 +93460,8 @@ sort: original
 我懂了	wdl
 迟到了	wdla
 丑陋	wdld
-臭了	wdle
+抽了	wdle
+臭了	wdleu
 筹略	wdlh
 抽离	wdlk
 抽滤	wdll

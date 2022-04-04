@@ -23077,6 +23077,7 @@
 那么难	nmn_
 农牧民	nmm_
 你们俩	nml_
+那么快	nmk_
 你们家	nmji
 那么长	nmja
 那么久	nmj_
@@ -25046,6 +25047,7 @@
 科幻片	khp_
 括号内	khn_
 开后门	khm_
+快好了	khlo
 卡喉咙	khli
 看好了	khl_
 夸海口	khk_
@@ -26363,6 +26365,7 @@
 决策者	jcf_
 储藏室	jcei
 纯粹是	jce_
+检测点	jcdv
 精彩的	jcdo
 纯粹的	jcda
 检测到	jcd_
@@ -31778,11 +31781,12 @@
 不太能	btn_
 不透明	btmv
 半透明	btm_
-比特率	btlv
+比特率	btlvu
+标题栏	btlvo
+不疼了	btlv
 变态辣	btlov
 别提了	btlo
 拜托了	btli
-标题栏	btl'
 不太冷	btl_
 变态狂	btko
 不太看	btk_
@@ -32032,6 +32036,8 @@
 爆冷门	blmo
 波罗蜜	blma
 菠萝蜜	blm_
+别来了	bllo
+不流了	bll'
 不聊了	bll_
 巴拉克	blka
 不离开	blk_
@@ -33398,6 +33404,7 @@
 他不	tb_
 他的	td_
 他都	td'
+他是	te_
 他没	tm_
 他能	tn_
 太难	tn'
@@ -52224,7 +52231,8 @@
 抽滤	wdll
 抽离	wdlk
 筹略	wdlh
-臭了	wdle
+臭了	wdleu
+抽了	wdle
 丑陋	wdld
 抽考	wdkz
 抽空	wdky
@@ -70958,8 +70966,8 @@
 没留	mwlq
 没脸	mwlm
 魅力	mwlku
-没理	mwlka
-美丽	mwlk
+美丽	mwlko
+没理	mwlk
 煤炉	mwlj
 没来	mwlh
 美菱	mwlg
@@ -71159,8 +71167,9 @@
 没藏	mwcp
 没错	mwcl
 每次	mwck
+梅菜	mwchv
 没踩	mwcha
-梅菜	mwch
+没睬	mwch
 美餐	mwcf
 每包	mwbz
 没被	mwbw
@@ -97127,7 +97136,8 @@
 干品	gfpb
 干娘	gfnx
 感念	gfnm
-赶你	gfnk
+赶你	gfnkv
+干你	gfnk
 赣南	gfnfo
 甘南	gfnf
 敢冒	gfmza
@@ -98644,6 +98654,7 @@
 中来	fylh
 钟灵	fylg
 中栏	fylf
+重了	fyleu
 中了	fylei
 种了	fyle
 钟楼	fyldiv
@@ -113514,9 +113525,7 @@
 的路	delj
 得来	delh
 得令	delg
-得了	dele
-的料	delcu
-得了	delc
+的料	delc
 得靠	dekz
 得空	deky
 的款	dekt
@@ -119310,7 +119319,8 @@
 不拉	bjlsv
 不辣	bjls
 不冷	bjlr
-不留	bjlq
+不留	bjlqv
+不流	bjlq
 布朗	bjlp
 不练	bjlm
 步履	bjlli
