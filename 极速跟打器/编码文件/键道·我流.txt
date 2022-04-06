@@ -402,7 +402,7 @@
 不为五斗米折腰	bwwyv
 不看僧面看佛面	bksm
 不见棺材不落泪	bjglv
-北京大学出版社	bjde
+北京大学出版社	bjdei
 饱汉不知饿汉饥	bhbj
 不敢越雷池一步	bgybv
 不管三七二十一	bgsy
@@ -13744,6 +13744,7 @@
 生命科学	emkx
 数码科技	emkj
 数码产品	emjp
+说没就没	emjmo
 手忙脚乱	emjl
 水漫金山	emje
 什么程度	emjd
@@ -28129,9 +28130,10 @@
 重要性	fyxu
 冯玉祥	fyxo
 扎伊尔	fyxi
-防御性	fyxa
-泛用性	fyx'
-装一下	fyx_
+防御性	fyxau
+泛用性	fyxa
+装一下	fyx'
+放一下	fyx_
 敷衍我	fywv
 只因为	fywo
 中英文	fyw_
@@ -33305,6 +33307,7 @@
 上次	ec_
 是的	ed_
 是个	eg_
+是和	eh_
 说明	em_
 是你	en_
 是能	en'
@@ -33343,6 +33346,7 @@
 就都	jd_
 就是	je_
 就好	jh_
+就没	jm_
 就能	jn_
 就在	jz_
 快餐	kc_
@@ -35431,6 +35435,7 @@
 载重	zhfy
 再发	zhfs
 再封	zhfr
+再放	zhfpv
 在访	zhfp
 在分	zhfn
 再装	zhfm
@@ -62493,6 +62498,7 @@
 前窗	qmwm
 欠我	qmwl
 钱物	qmwj
+签完	qmwfu
 前晚	qmwfo
 千万	qmwf
 前车	qmweo
@@ -88953,6 +88959,7 @@
 好来	hzlh
 号令	hzlg
 好兰	hzlf
+薅了	hzle
 豪烈	hzldo
 好咧	hzlda
 号楼	hzld
@@ -116012,11 +116019,11 @@
 踩水	chebo
 财税	cheba
 才睡	cheb
-才道	chdzvo
-才到	chdzv
+才道	chdzv
 猜到	chdzu
 踩到	chdzo
-菜刀	chdz
+菜刀	chdzi
+才到	chdz
 才动	chdy
 踩断	chdt
 财大	chdsa
@@ -119593,6 +119600,8 @@
 不淡	bjdfv
 不单	bjdf'
 不但	bjdf
+补的	bjdeo
+补得	bjde
 不跌	bjdd
 步调	bjdci
 不掉	bjdc
