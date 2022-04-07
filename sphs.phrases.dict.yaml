@@ -1356,7 +1356,7 @@ sort: original
 并从	bgcy
 兵操	bgcz
 不够多	bgd
-不搞定	bgd
+不够大	bgd
 巴格达	bgda
 并对	bgdb
 冰雕	bgdc
@@ -1374,7 +1374,8 @@ sort: original
 宝贵的	bgdo
 冰灯	bgdr
 不共戴天	bgdt
-不敢当	bgdv
+不搞定	bgdv
+不敢当	bgdva
 冰盾	bgdw
 冰冻	bgdy
 半个多月	bgdyo
@@ -6103,6 +6104,7 @@ sort: original
 不信邪	bxxvi
 白雪皑皑	bxxx
 不想要	bxy
+不下雨	bxy
 不屑一顾	bxyg
 保险业	bxyi
 不惜一切代价	bxyj
@@ -20669,7 +20671,7 @@ sort: original
 说文	elwn
 朔望	elwp
 说穿	elwt
-生理学	elx
+试了下	elx
 说笑	elxc
 说些	elxd
 硕学	elxh
@@ -20680,6 +20682,7 @@ sort: original
 说下	elxs
 说啊	elxso
 适龄儿童	elxt
+生理学	elxu
 说项	elxx
 顺流而下	elxxu
 生理需要	elxy
@@ -110717,7 +110720,7 @@ sort: original
 英魂	yghw
 以观后效	yghx
 英豪	yghz
-一根筋	ygj
+一共就	ygj
 应尽	ygjb
 一个箭步	ygjbv
 应缴	ygjc
@@ -110748,7 +110751,8 @@ sort: original
 应承	ygjro
 硬撑	ygjrv
 赢家	ygjs
-一个劲	ygjv
+一根筋	ygjv
+一个劲	ygjvi
 英俊	ygjw
 英军	ygjwi
 迎春	ygjwu
@@ -110767,10 +110771,8 @@ sort: original
 影咖	ygkso
 亿格科威	ygkw
 硬空	ygky
-应该可以	ygkyo
 应考	ygkz
 又给了	ygl
-因果律	ygl
 营林	yglb
 一个礼拜	yglbv
 荧燎	yglc
@@ -110783,7 +110785,8 @@ sort: original
 一国两制	yglf
 英灵	yglg
 迎来	yglh
-英格兰	ygli
+因果律	ygli
+英格兰	ygliv
 盈利	yglk
 营利	yglk
 英里	yglki
@@ -115862,9 +115865,9 @@ sort: original
 越狱兔	yytvu
 有一套	yytvv
 也要为	yyw
-游泳池	yyw
-油烟味	yywa
+游泳池	yywa
 引以为	yywaa
+油烟味	yywao
 一言为定	yywd
 用车	yywe
 医药卫生	yywev
