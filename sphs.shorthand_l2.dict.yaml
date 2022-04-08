@@ -78,6 +78,7 @@ sort: original
 好了	hl
 后面	hm
 和你	hn
+和能	hn
 好人	hr
 和他	ht
 和我	hw
@@ -86,6 +87,7 @@ sort: original
 就好	jh
 就没	jm
 就能	jn
+就去	jq
 就在	jz
 快餐	kc
 可是	ke
@@ -109,7 +111,9 @@ sort: original
 你的	nd
 你都	nd
 你是	ne
+你这	nf
 你好	nh
+能好	nh
 你就	nj
 你没	nm
 哪怕	np
@@ -147,6 +151,7 @@ sort: original
 他的	td
 他都	td
 他是	te
+他这	tf
 他没	tm
 他能	tn
 太难	tn
@@ -161,6 +166,7 @@ sort: original
 我的	wd
 我都	wd
 我是	we
+我这	wf
 我好	wh
 我就	wj
 我了	wl
