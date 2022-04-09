@@ -19998,6 +19998,7 @@
 茶花女	whni
 我和你	whn_
 完好率	whl_
+查户口	whkv
 文化课	whko
 往后看	whk_
 文化局	whjoi
@@ -32101,6 +32102,7 @@
 爆冷门	blmo
 波罗蜜	blma
 菠萝蜜	blm_
+不亮了	bllv
 别来了	bllo
 不流了	bll'
 不聊了	bll_
@@ -47346,6 +47348,7 @@
 小洞	xcdy
 小段	xcdt
 小打	xcds
+小灯	xcdr
 小党	xcdp
 笑点	xcdmu
 小点	xcdmi
@@ -110737,8 +110740,8 @@
 鞑靼	dsdsvv
 大打	dsdsv
 嗲嗲	dsdso
-打打	dsdsi
 大大	dsds
+大灯	dsdr
 搭档	dsdp
 大殿	dsdmva
 大典	dsdmv
