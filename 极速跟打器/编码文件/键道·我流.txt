@@ -6,6 +6,7 @@
 身后有余忘缩手，眼前无路想回头	ehyt
 书中自有黄金屋，书中自有颜如玉	efzy
 中国共产主义青年团中央委员会	fgghi
+穷则独善其身，达则兼济天下	qzdx
 你拨打的电话暂时无人接听	nbdt
 鼠牛虎兔龙蛇马羊猴鸡狗猪	enhqu
 造谣一张嘴，辟谣跑断腿	zyytu
@@ -29,6 +30,7 @@
 获得性免疫缺陷综合征	hdxq
 中国特色社会主义道路	fgtli
 中国人民政治协商会议	fgry
+打碎了牙齿往肚子里咽	dslyi
 做一天和尚撞一天钟	zytfi
 子非鱼，焉知鱼之乐	zfyla
 用人不疑，疑人不用	yrby
@@ -521,6 +523,7 @@
 千叮咛万嘱咐	qdnf
 气不打一处来	qbdlu
 盼星星盼月亮	pxxli
+屁股决定脑袋	pgjda
 男子汉大丈夫	nzhf
 牛头不对马嘴	ntbz
 南无阿弥陀佛	nmxf
@@ -959,6 +962,7 @@
 通常情况下	tjqxa
 铁杵磨成针	tjmq
 塔吉克斯坦	tjkt
+天高任鸟飞	tgrf
 天高皇帝远	tghy
 躺着也中枪	tfyq
 弹指一挥间	tfyj
@@ -2212,7 +2216,6 @@
 用心良苦	yxlk
 一笑了之	yxlf
 意兴阑珊	yxle
-一系列的	yxld
 也许可以	yxky
 有案可查	yxkw
 有隙可乘	yxkj
@@ -8684,6 +8687,7 @@
 流血漂橹	lxpl
 老而弥坚	lxmju
 六小龄童	lxlt
+劳心劳力	lxll
 离心离德	lxld
 厉行节约	lxjy
 联想集团	lxjt
@@ -9455,6 +9459,7 @@
 狂风骤雨	kffyu
 夸父追日	kffrv
 开闸放水	kffev
+开放世界	kfejvo
 康庄大道	kfddo
 枯枝败叶	kfbyv
 狂风暴雨	kfby
@@ -13810,6 +13815,7 @@
 十里八乡	elbx
 生老病死	elbsu
 始料不及	elbja
+说了白说	elbe
 水可载舟	ekzf
 深刻印象	ekyx
 适可而止	ekxfu
@@ -14232,7 +14238,8 @@
 顺顺当当	eeddu
 神神叨叨	eeddo
 束手待毙	eedbv
-莎士比亚	eeby
+莎士比亚	eebyi
+实属不易	eeby
 生生不息	eebx
 授受不亲	eebq
 事实表明	eebmv
@@ -15040,7 +15047,6 @@
 跌跌撞撞	ddff
 颠倒众生	ddfeu
 地动山摇	ddey
-大多数人	dder
 道德水平	ddepou
 当代社会	ddeh
 到底是个	ddeg
@@ -15098,7 +15104,6 @@
 淡泊名利	dbml
 淡泊明志	dbmfa
 大步流星	dblx
-大不了的	dbldvv
 大不列颠	dbldv
 得不偿失	dbjeu
 大变活人	dbhr
@@ -17260,7 +17265,8 @@
 印象里	yxlu
 影响力	yxloo
 影响了	yxlo
-异性恋	yxla
+异性恋	yxlao
+游戏里	yxla
 一系列	yxl_
 医学家	yxjvoo
 元宵节	yxjvo
@@ -18912,7 +18918,8 @@
 想看看	xkk_
 新科技	xkj_
 小括号	xkh_
-新课改	xkg_
+新课改	xkgo
+欣快感	xkg_
 许可法	xkf_
 新快报	xkb_
 阿昌族	xjz_
@@ -19933,7 +19940,7 @@
 我承认	wjr_
 我朝着	wjqu
 持久战	wjqi
-无产者	wjq_
+望出去	wjq_
 违禁品	wjp_
 未成年	wjn_
 无记名	wjmv
@@ -19957,9 +19964,9 @@
 文抄公	wjgoi
 文件柜	wjgo
 外交官	wjg_
-我朝着	wjfuu
+无产者	wjfv
 微积分	wjfu
-无产者	wjf_
+我朝着	wjf_
 问件事	wjeo
 传教士	wjei
 我就是	wje_
@@ -20173,7 +20180,8 @@
 玩电脑	wdnv
 微电脑	wdnu
 我都能	wdn_
-乌冬面	wdm_
+乌冬面	wdmu
+我都没	wdm_
 武大郎	wdlv
 完蛋了	wdlo
 迟到了	wdla
@@ -20396,11 +20404,9 @@
 天邪鬼	txg_
 陶行知	txfa
 同行者	txf_
-天下事	txev
-它想说	txeo
-她想说	txea
-通讯社	txe'
-他想说	txe_
+通讯社	txea
+天下事	txe_
+挺像的	txdi
 贴心的	txda
 剃须刀	txd_
 体细胞	txbi
@@ -20453,7 +20459,8 @@
 榻榻米	ttm_
 桃太郎	ttlv
 吞吐量	ttl_
-天天看	ttk_
+天天看	ttkv
+听听看	ttk_
 推土机	ttjiv
 凸透镜	ttji
 土特产	ttj_
@@ -20479,7 +20486,8 @@
 太思念	tsn_
 碳酸镁	tsmv
 塔斯曼	tsm_
-特斯拉	tsl_
+特斯拉	tslu
+探索类	tsl_
 铁三角	tsj_
 他死后	tsh_
 碳酸钙	tsgv
@@ -20557,6 +20565,7 @@
 太平门	tpm_
 太拼了	tpl_
 突破口	tpk_
+太偏激	tpjv
 太平间	tpj_
 谈判桌	tpfo
 通配符	tpf_
@@ -20644,7 +20653,8 @@
 太老了	tllvu
 太烂了	tllv
 天亮了	tll_
-铁路局	tlji
+铁路局	tljio
+挺理解	tlji
 拖拉机	tlj_
 体力活	tlhi
 讨论会	tlh_
@@ -20731,10 +20741,11 @@
 挺精彩	tjc_
 统计表	tjb_
 偷汉子	thz_
-桃花运	thyvi
-桃花源	thyv
+桃花源	thyvi
+桃花运	thyv
 同行业	thy_
-同呼吸	thx_
+同呼吸	thxi
+躺会儿	thx_
 桃花坞	thw_
 拖后腿	tht_
 褪黑素	thso
@@ -20785,7 +20796,7 @@
 团干部	tgb_
 土肥圆	tfyvu
 太重要	tfyv
-他终于	tfyi
+挺重要	tfyi
 团中央	tfy_
 同轴线	tfxi
 突发性	tfx_
@@ -20948,8 +20959,9 @@
 孙燕姿	syza
 随意在	syz_
 死鱼眼	syyv
-所拥有	syyu
-饲养员	syy_
+所拥有	syyui
+饲养员	syyu
+所以也	syy_
 随意性	syxa
 虽有些	syx_
 私以为	sywu
@@ -25759,6 +25771,7 @@
 九年制	jnf_
 济南市	jne_
 节能灯	jndi
+艰难的	jnda
 加拿大	jnd_
 纪念册	jnc_
 纪念币	jnbai
@@ -26642,9 +26655,10 @@
 华尔街	hxji
 狠心肠	hxj_
 很喜欢	hxh_
-互相关	hxgv
+互相关	hxgvv
+坏习惯	hxgv
 好习惯	hxga
-坏习惯	hxg_
+幻想过	hxg_
 很幸福	hxfu
 黑暗中	hxf_
 浣溪沙	hxeaa
@@ -27132,6 +27146,7 @@
 合肥市	hfeiu
 化妆师	hfeio
 何止是	hfei
+好丰盛	hfea
 或者说	hfe_
 会装的	hfdi
 活着的	hfda
@@ -27170,6 +27185,7 @@
 花时间	hej_
 很适合	hehu
 黑社会	hehi
+很少会	heh'
 还是会	heh_
 很舒服	hefu
 护身符	hefi
@@ -27234,6 +27250,7 @@
 很多次	hdcu
 好多次	hdca
 喝倒彩	hdc_
+很单薄	hdbu
 合订本	hdb_
 还存在	hcz_
 何曾想	hcx_
@@ -27295,6 +27312,7 @@
 好帮手	hbea
 红宝石	hbe'
 还不是	hbe_
+很棒的	hbdu
 宏病毒	hbdoo
 恨不得	hbdo
 荷包蛋	hbdi
@@ -28120,10 +28138,10 @@
 嘎嘣脆	gbc_
 乖宝宝	gbbu
 干巴巴	gbb_
-赵紫阳	fzyv
-反作用	fzyui
-制造业	fzyu
-副作用	fzy'
+赵紫阳	fzyvi
+副作用	fzyv
+制造业	fzyuu
+反作用	fzyu
 只在于	fzy_
 折子戏	fzxia
 中子星	fzxi
@@ -28632,6 +28650,7 @@
 发明者	fmfa
 找麻烦	fmf_
 致命伤	fmev
+这么爽	fmeo
 这么说	fme_
 殖民地	fmdva
 专卖店	fmdv
@@ -29433,6 +29452,7 @@
 山西省	exei
 陕西省	exea
 首先是	exe_
+熟悉的	exdo
 少先队	exdi
 师兄弟	exd_
 烧仙草	exc_
@@ -32186,6 +32206,7 @@
 不经意	bjyva
 比较远	bjyv
 白居易	bjyu
+别介意	bjyo
 不仅有	bjy'
 不仅要	bjy_
 不成想	bjxvv
@@ -33363,7 +33384,9 @@
 操心	cx_
 都不	db_
 的吧	db'
-都是	de_
+的是	de_
+都是	de'
+的好	dh_
 的了	dl_
 都没	dm_
 的嘛	dm'
@@ -33380,7 +33403,8 @@
 是的	ed_
 是个	eg_
 是和	eh_
-说明	em_
+是没	em_
+说明	em'
 是你	en_
 是能	en'
 是去	eq_
@@ -33418,6 +33442,7 @@
 和我	hw_
 就都	jd_
 就是	je_
+就这	jf_
 就好	jh_
 就没	jm_
 就能	jn_
@@ -39165,7 +39190,8 @@
 一枝	ykfkvv
 一支	ykfkvu
 一指	ykfkvi
-医治	ykfkv
+医治	ykfkva
+一致	ykfkv
 移植	ykfku
 益智	ykfkou
 义肢	ykfkou
@@ -39181,7 +39207,6 @@
 异质	ykfkau
 以之	ykfkao
 以致	ykfka
-一致	ykfk'
 一只	ykfk
 一幅	ykfjv
 义父	ykfjo
@@ -47616,6 +47641,7 @@
 心乱	xblt
 辛辣	xbls
 心冷	xblr
+心流	xblq
 新郎	xblpo
 新浪	xblp
 心率	xblloo
@@ -47826,8 +47852,8 @@
 新丁	xbdg'
 心定	xbdg
 心胆	xbdf
-心的	xbdeo
-新的	xbde'
+心的	xbdeou
+新的	xbdeo
 心得	xbde
 心都	xbdd
 新调	xbdc
@@ -50723,7 +50749,8 @@
 吃奶	wknh
 痴男	wknf
 魑魅	wkmw
-尺码	wkms
+尺码	wkmsa
+吃嘛	wkms
 痴梦	wkmr
 赤门	wkmn
 池面	wkmma
@@ -55139,7 +55166,7 @@
 挺碎	tgsb
 听任	tgrno
 听人	tgrn
-挺然	tgrf
+挺然	tgrfi
 挺热	tgre
 挺强	tgqx
 挺准	tgqw
@@ -64544,6 +64571,7 @@
 情仇	qgwd
 情同	qgtyo
 青铜	qgty
+青团	qgtt
 请她	qgtso
 请他	qgts
 请腾	qgtr
@@ -65139,9 +65167,9 @@
 占得	qfdei
 站得	qfde
 战斗	qfdd
-站队	qfdbo
-占堆	qfdbi
-战队	qfdb
+占堆	qfdbiv
+战队	qfdbi
+站队	qfdb
 斩草	qfcz
 斩仓	qfcp
 战报	qfbzi
@@ -70934,8 +70962,9 @@
 没吃	mwwk
 没误	mwwj
 媚外	mwwh
+每晚	mwwfu
 没完	mwwfa
-每晚	mwwf
+没玩	mwwf
 没车	mwwe
 美丑	mwwd
 每套	mwtz
@@ -74651,7 +74680,7 @@
 两轮	lxlwv
 两类	lxlw
 两联	lxlm
-亮绿	lxll
+亮绿	lxllo
 两粒	lxlkv
 量力	lxlkoa
 亮丽	lxlko
@@ -86813,8 +86842,8 @@
 敬礼	jglki
 劲力	jglkaa
 经理	jglka
-精力	jglk'
-经历	jglk
+经历	jglk'
+精力	jglk
 精灵	jglg
 井栏	jglf
 惊了	jgle
@@ -91663,7 +91692,8 @@
 活泛	hlff
 活着	hlfe
 火洲	hlfd
-火烧	hlez
+火烧	hlezo
+或少	hlez
 获胜	hler
 火上	hlep
 火神	hlen
@@ -92228,8 +92258,8 @@
 海基	hhjka
 害己	hhjk
 害处	hhjj
-海景	hhjga
-海警	hhjg
+海警	hhjga
+海景	hhjg
 海产	hhjf
 海椒	hhjcav
 海角	hhjca
@@ -94705,12 +94735,8 @@
 广厚	gxhd
 光辉	gxhb
 广工	gxgy
-光光	gxgxi
-逛逛	gxgx
 光棍	gxgw
 光管	gxgt
-逛逛	gxgmu
-光光	gxgmi
 光顾	gxgj
 光怪	gxgg
 光杆	gxgfi
@@ -96026,8 +96052,6 @@
 光辉	gmhb
 广告	gmgz
 广工	gmgyo
-光光	gmgxi
-逛逛	gmgx
 光棍	gmgw
 光管	gmgt
 光光	gmgmi
@@ -96311,7 +96335,8 @@
 国脚	gljc
 过紧	gljbv
 裹紧	gljb
-国号	glhz
+国号	glhzi
+过好	glhz
 国魂	glhw
 国画	glhq
 国行	glhpi
@@ -112525,8 +112550,8 @@
 赌债	djfh
 毒贩	djff
 堵着	djfev
-读着	djfeo
-读者	djfe
+读者	djfeo
+读着	djfe
 赌咒	djfd
 毒杀	djes
 独生	djer
@@ -114010,7 +114035,7 @@
 跌杀	ddeso
 豆沙	ddes
 叠声	ddera
-都生	dderu
+都生	dder
 逗耍	ddeq
 跌伤	ddepo
 都上	ddep
@@ -114402,6 +114427,7 @@
 对立	dblk
 对路	dblj
 对另	dblg
+怼了	dblea
 对了	dble
 队列	dbld
 对拷	dbkz
@@ -122484,12 +122510,12 @@
 碟	ddvuvi
 楪	ddvv
 楪	ddvvii
-得	de_
 锝	dei
 锝	deiooi
 嘚	deo
 嘚	deouui
-德	deu
+得	deu
+德	deu'
 的	deuiua
 得	deuuoi
 德	deuuuo
@@ -123636,8 +123662,8 @@
 槊	elouvv
 硕	elv
 硕	elvuvu
-双	em_
-孀	ema
+双	ema
+孀	ema'
 骦	emaa
 骦	emaavi
 双	emaoao
