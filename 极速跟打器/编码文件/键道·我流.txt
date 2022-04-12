@@ -24543,9 +24543,9 @@
 狸花猫	lhmu
 癞蛤蟆	lhm_
 理还乱	lhlv
-脸红了	lhlua
-老黄历	lhlu
-厉害了	lhl_
+老黄历	lhluv
+脸红了	lhlu
+拉回来	lhl_
 陆海空	lhka
 老河口	lhk_
 老红军	lhjua
@@ -97065,6 +97065,7 @@
 改度	ghdj
 改定	ghdg
 改单	ghdf
+改的	ghdea
 改得	ghde
 改掉	ghdc
 该村	ghcw
@@ -97079,8 +97080,8 @@
 该被	ghbw
 丐帮	ghbp
 改编	ghbm
-概不	ghbjv
-该部	ghbj
+该部	ghbjo
+概不	ghbj
 该病	ghbg
 改办	ghbfa
 改版	ghbf
