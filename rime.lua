@@ -47,9 +47,6 @@ sphs_select_processor = require("sphs_select_processor")
 -- 日期与时间转换器
 sphs_date_time_translator = require("sphs_date_time_translator")
 
--- 日期转换器：将日期参数（`date`）转换为当前日期（由`orq`引导）
-date_translator = require("date")
-
 -- 数字转换器：将阿拉伯数字转换为对应汉字（由`=`引导）
 number_translator = require("xnumber")
 

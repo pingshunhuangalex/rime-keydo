@@ -1,4 +1,8 @@
 -- 在特定的函数池中，根据函数识别名称运行对应函数
+--- @generic K, V
+--- @param case_id string
+--- @param case_table table<K, V>
+--- @return V
 local function switch(case_id, case_table)
     local case = case_table[case_id] -- 获取识别名称所对应的函数
 
@@ -18,16 +22,28 @@ local function switch(case_id, case_table)
 end
 
 -- 判断字符串是否有效 -> “无效”的定义为“不存在”（`nil`）或者“空项”（`""`）
+--- @param text string | nil
+--- @return boolean
 local function is_valid(text)
-    return text and text ~= ""
+    -- 若字符串存在，则进一步判断其是否为“空项”（`""`），否则就视为无效
+    if text then
+        return text ~= ""
+    end
+
+    return false
 end
 
 -- 判断字符串是否含有固定前缀
+--- @param text string
+--- @param prefix string
+--- @return boolean
 local function starts_with(text, prefix)
     return text:sub(1, #prefix) == prefix
 end
 
 -- 判断字符串是否含有中文字符
+--- @param text string
+--- @return boolean
 local function has_cn_char(text)
     -- 遍历字符串中的每一个字符，并在识别到首个中文字符后终止
     for pos, code in utf8.codes(text) do
@@ -57,9 +73,22 @@ local function has_cn_char(text)
     return false
 end
 
+-- 在特定的变换池中，根据映射规则将罗马数字替换为中文字符
+--- @param text string
+--- @param digits table
+--- @return string
+local function to_cn_digits(text, digits)
+    -- 全局逐一获取并替换罗马数字为中文字符
+    return text:gsub(".", function(char)
+        -- 若对应中文字符不存在，则不进行替换
+        return digits[tonumber(char)] or char
+    end)
+end
+
 return {
     switch = switch,
     is_valid = is_valid,
     starts_with = starts_with,
-    has_cn_char = has_cn_char
+    has_cn_char = has_cn_char,
+    to_cn_digits = to_cn_digits
 }

@@ -1,6 +1,9 @@
-local RESULT_ACCEPTED = sphs_constants.RESULT_ACCEPTED
+local results = sphs_constants.results
 
 -- [处理器]判断按键是否为目标键位
+--- @param key string | nil
+--- @param key_event unknown
+--- @return boolean
 local function is_key(key, key_event)
     local target_key = string.char(key_event.keycode) -- 当前按键对应字符
 
@@ -13,6 +16,9 @@ local function is_key(key, key_event)
 end
 
 -- [处理器]判断按键是否被按下 -> “按下”的定义为按键尚未弹起，不包含修饰键且未激活大写锁定
+--- @param key string | nil
+--- @param key_event unknown
+--- @return boolean
 local function is_pressed(key, key_event)
     local is_released = key_event:release() -- 按键是否弹起
     -- 按键是否包含修饰键，大写锁定是否激活
@@ -26,6 +32,11 @@ local function is_pressed(key, key_event)
 end
 
 -- [处理器]强制选择候选项（无视输入区与候选区状态）
+--- @param select_index integer | nil
+--- @param result_success integer
+--- @param result_failure integer
+--- @param env unknown
+--- @return integer
 local function force_select(select_index, result_success, result_failure, env)
     local context = env.engine.context
 
@@ -33,7 +44,7 @@ local function force_select(select_index, result_success, result_failure, env)
     if select_index and context:select(select_index) then
         context:commit()
 
-        return RESULT_ACCEPTED
+        return results.accepted
     end
 
     -- 若未指定候选项序号但候选区存在，则上屏当前处于高亮状态的候选项
@@ -50,6 +61,9 @@ local function force_select(select_index, result_success, result_failure, env)
 end
 
 -- [过滤器]强制上屏字符串（无视输入区与候选区状态）
+--- @param text string
+--- @param env unknown
+--- @return nil
 local function force_commit(text, env)
     local engine = env.engine
 

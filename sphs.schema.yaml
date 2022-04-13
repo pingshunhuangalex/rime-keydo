@@ -51,7 +51,6 @@ engine:
     - history_translator@repeat_history # 历史转换器 -> 储存或调取历史输入候选项
     - table_translator@char_lookup # 码表转换器 -> 通过编码查询词库（基于输入方案本身）
     - lua_translator@sphs_date_time_translator # 日期与时间转换器 -> 获取当前日期与时间
-    - lua_translator@date_translator # 日期转换器 -> 获取当前日期
     - lua_translator@number_translator # 数字转换器 -> 将阿拉伯数字转换为对应汉字或进行运算
   filters: # 过滤器 -> 将转换好的候选项进行过滤（增删改查）
     - uniquifier # 去重过滤器 -> 过滤重复的候选项（历史模式中相邻两项可重复一次，即重复连续输入）

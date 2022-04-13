@@ -1,5 +1,4 @@
-local RESULT_ACCEPTED = sphs_constants.RESULT_ACCEPTED
-local RESULT_NOOP = sphs_constants.RESULT_NOOP
+local results = sphs_constants.results
 
 local starts_with = sphs_modules.starts_with
 
@@ -23,7 +22,7 @@ local function processor(key_event, env)
     -- - 仅处理“按下”事件
     -- - 忽略首选键 -> 空格键作为可以输出字符的选择键应由express_editor控制
     if not is_pressed(nil, key_event) or is_key(SELECT1_KEY, key_event) then
-        return RESULT_NOOP
+        return results.noop
     end
 
     -- 若按键为次选键
@@ -31,25 +30,25 @@ local function processor(key_event, env)
     -- - 尝试上屏高亮选项（消耗按键）
     -- - 清空输入区（不消耗按键 -> 传递给下个逻辑块）
     if is_key(SELECT2_KEY, key_event) then
-        return force_select(1, RESULT_ACCEPTED, RESULT_NOOP, env)
+        return force_select(1, results.accepted, results.noop, env)
     end
 
     -- 除次选键外，仅处理历史模式下的按键事件，其它模式下的按键事件将被传递给下个逻辑块
     if not is_history then
-        return RESULT_NOOP
+        return results.noop
     end
 
     -- 若在历史模式下按下历史模式引导键
     -- - 尝试上屏高亮选项（将历史候选项顶上屏 -> 不消耗按键 -> 再次开启历史模式）
     -- - 清空输入区（消耗按键 -> 关闭历史模式）
     if is_key(history_leader, key_event) then
-        return force_select(nil, RESULT_NOOP, RESULT_ACCEPTED, env)
+        return force_select(nil, results.noop, results.accepted, env)
     end
 
     -- 若在历史模式下按下其它按键
     -- - 尝试上屏高亮选项（将历史候选项顶上屏 -> 不消耗按键 -> 传递给下个逻辑块）
     -- - 清空输入区（不消耗按键 -> 传递给下个逻辑块）
-    return force_select(nil, RESULT_NOOP, RESULT_NOOP, env)
+    return force_select(nil, results.noop, results.noop, env)
 end
 
 -- 初始化
