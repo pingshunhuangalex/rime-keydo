@@ -20167,6 +20167,7 @@ sort: original
 识谱	ekpjo
 实批	ekpk
 识破	ekpl
+删库跑路	ekplu
 诗篇	ekpm
 是胖	ekpp
 是怕	ekps
@@ -25481,7 +25482,6 @@ sort: original
 中国石油	fgey
 中国社科院	fgeyi
 中国社会科学院	fgeyii
-这个声音	fgeyo
 非官方	fgf
 知根知底	fgfd
 拽着	fgfe
@@ -53864,9 +53864,9 @@ sort: original
 降号	jxhzao
 长安街	jxj
 陈小春	jxja
-奖金	jxjb
 将近	jxjb
-将尽	jxjbo
+将尽	jxjb
+奖金	jxjbo
 城乡结合部	jxjbv
 降焦	jxjc
 讲解	jxjd
@@ -54160,10 +54160,9 @@ sort: original
 江总	jxzy
 降噪	jxzz
 进一步	jyb
-教育部	jyb
+加一笔	jyba
 迥别	jybd
 甲乙丙丁	jybdi
-进一步的	jybdv
 进一步说	jybe
 经营不善	jybea
 彻夜不归	jybg
@@ -54171,7 +54170,8 @@ sort: original
 教育部门	jybm
 产业部	jybo
 教育部长	jybq
-九一八	jybu
+教育部	jybu
+九一八	jybuv
 成与败	jybv
 出言不逊	jybx
 近义词	jyc
@@ -68062,11 +68062,10 @@ sort: original
 米田共	mtgoi
 满堂红	mth
 摩托化	mtho
-名特产	mtj
-没听见	mtja
+明天见	mtj
 茅台酒	mtji
 摩托车	mtjo
-明天见	mtjov
+名特产	mtju
 媒体库	mtk
 埋头苦干	mtkg
 蒙特卡洛	mtkl
@@ -76746,7 +76745,6 @@ sort: original
 轻纱	qges
 情杀	qgeso
 清爽	qgex
-这个声音	qgey
 青少	qgez
 真功夫	qgf
 青轴	qgfd
@@ -76791,6 +76789,7 @@ sort: original
 青壮	qgfxv
 轻重	qgfy
 请找	qgfz
+群公告	qgg
 轻轨	qggb
 请购	qggd
 全国各地	qggdi
@@ -90289,7 +90288,6 @@ sort: original
 图框	tjkx
 塔吉克族	tjkz
 提出了	tjl
-投简历	tjl
 通缉令	tjla
 涂料	tjlc
 图列	tjld
@@ -90299,6 +90297,7 @@ sort: original
 图铃	tjlgi
 图赖	tjlh
 掏出来	tjli
+投简历	tjliu
 吐露	tjlj
 屠戮	tjlja
 土路	tjljv
@@ -90307,9 +90306,9 @@ sort: original
 土里	tjlkv
 秃驴	tjll
 土链	tjlm
-听见了	tjlo
 逃出来	tjlu
-太卷了	tjlv
+太长了	tjlv
+太卷了	tjlvo
 图论	tjlw
 凸轮	tjlwi
 土类	tjlwv
@@ -91763,6 +91762,7 @@ sort: original
 腾龙	trly
 坦然面对	trmd
 藤蔓	trmf
+挺热闹	trn
 腾挪	trnl
 藤牌	trph
 天然气	trq
@@ -92639,8 +92639,8 @@ sort: original
 通婚	tyhw
 同婚	tyhwi
 同好	tyhz
+提一句	tyj
 套一件	tyj
-提意见	tyj
 同进	tyjb
 痛脚	tyjc
 添油加醋	tyjca
@@ -92657,7 +92657,8 @@ sort: original
 痛觉	tyjh
 同侪	tyjhi
 土洋结合	tyjhv
-体育场	tyji
+提意见	tyji
+体育场	tyjio
 痛楚	tyjj
 同出	tyjji
 痛处	tyjjo
@@ -93378,7 +93379,7 @@ sort: original
 垂杨	wbyp
 垂云	wbyw
 我不愿意	wbyy
-筹备组	wbz
+我不在	wbz
 吹奏	wbzd
 吹走	wbzdo
 微不足道	wbzdu
@@ -93386,6 +93387,7 @@ sort: original
 无病自灸	wbzjv
 锤子	wbzk
 稳步增长	wbzq
+筹备组	wbzu
 卧病在床	wbzw
 五笔字型	wbzx
 冲刺班	wcb
@@ -114734,8 +114736,6 @@ sort: original
 原嫁	ytjsva
 一套接一套	ytjt
 犹太教	ytju
-一听见	ytjv
-有条件	ytjvu
 援军	ytjw
 原浆	ytjx
 元朝	ytjz
@@ -118651,7 +118651,8 @@ sort: original
 作歹	zldh
 坐地	zldk
 做多	zldl
-坐垫	zldm
+做点	zldm
+坐垫	zldmi
 坐等	zldr
 作答	zlds
 做大	zldsi

@@ -7325,7 +7325,6 @@
 窃钩者诛	qgfq
 窃国者侯	qgfh
 这个方法	qgffo
-这个声音	qgey
 这个时期	qgeq
 震古烁今	qgejv
 情感世界	qgejo
@@ -9649,7 +9648,6 @@
 彻夜不归	jybg
 经营不善	jybea
 进一步说	jybe
-进一步的	jybdv
 甲乙丙丁	jybdi
 骄傲自满	jxzm
 骄傲自大	jxzd
@@ -13033,7 +13031,6 @@
 中规中矩	fgfj
 这个方法	fgff
 知根知底	fgfd
-这个声音	fgeyo
 中国石油	fgey
 转过身去	fgeqv
 这个时期	fgeq
@@ -13818,6 +13815,7 @@
 深刻印象	ekyx
 适可而止	ekxfu
 守口如瓶	ekrpo
+删库跑路	ekplu
 数控机床	ekjw
 矢口否认	ekfru
 受苦受累	ekel
@@ -17384,8 +17382,6 @@
 因陀罗	ytli
 一条龙	ytl_
 易通卡	ytk_
-有条件	ytjvu
-一听见	ytjv
 犹太教	ytju
 一条街	ytj_
 亚投行	ythvi
@@ -20233,7 +20229,8 @@
 我猜猜	wcc_
 车次表	wcbv
 冲刺班	wcb_
-筹备组	wbz_
+筹备组	wbzu
+我不在	wbz_
 五笔型	wbxv
 超薄型	wbx'
 吃不消	wbx_
@@ -20337,9 +20334,10 @@
 体育课	tyk_
 太阳镜	tyjv
 头一家	tyjo
-体育场	tyji
-提意见	tyj'
-套一件	tyj_
+体育场	tyjio
+提意见	tyji
+套一件	tyj'
+提一句	tyj_
 头一回	tyho
 头一昏	tyh_
 太阳光	tygv
@@ -20509,6 +20507,7 @@
 太认真	trqv
 体弱者	trqi
 天然气	trq_
+挺热闹	trn_
 突然看	trk_
 唐人街	trjo
 突然间	trj_
@@ -20709,12 +20708,12 @@
 停机坪	tjp_
 停车难	tjn_
 堂姐妹	tjm_
-太卷了	tjlv
+太卷了	tjlvo
+太长了	tjlv
 逃出来	tjlu
-听见了	tjlo
+投简历	tjliu
 掏出来	tjli
 通缉令	tjla
-投简历	tjl'
 提出了	tjl_
 停车库	tjki
 塔吉克	tjk_
@@ -22327,6 +22326,7 @@
 全过程	qgji
 请个假	qgj_
 正规化	qgh_
+群公告	qgg_
 真功夫	qgf_
 招股书	qgei
 泣鬼神	qgea
@@ -23588,11 +23588,10 @@
 曼陀罗	mtlo
 马蹄莲	mtl_
 媒体库	mtk_
-明天见	mtjov
+名特产	mtju
 摩托车	mtjo
 茅台酒	mtji
-没听见	mtja
-名特产	mtj_
+明天见	mtj_
 摩托化	mtho
 满堂红	mth_
 米田共	mtgoi
@@ -25413,9 +25412,10 @@
 据预测	jyci
 近义词	jyc_
 成与败	jybv
-九一八	jybu
+九一八	jybuv
+教育部	jybu
 产业部	jybo
-教育部	jyb'
+加一笔	jyba
 进一步	jyb_
 巨蟹座	jxzv
 朝鲜族	jxzu
@@ -34704,7 +34704,8 @@
 做大	zldsi
 作答	zlds
 坐等	zldr
-坐垫	zldm
+坐垫	zldmi
+做点	zldm
 做多	zldl
 坐地	zldk
 作歹	zldh
@@ -82009,9 +82010,9 @@
 降解	jxjda
 讲解	jxjd
 降焦	jxjc
-将尽	jxjbo
-将近	jxjb'
-奖金	jxjb
+奖金	jxjbo
+将尽	jxjb'
+将近	jxjb
 降号	jxhzao
 降耗	jxhz
 绛红	jxhy
