@@ -9746,7 +9746,6 @@
 成为现实	jwxe
 唇亡齿寒	jwwh
 惊为天人	jwtr
-出问题了	jwtla
 精卫填海	jwth
 救亡图存	jwtcv
 尽我所能	jwsn
@@ -11987,7 +11986,6 @@
 国际会议	gjhyi
 国际环境	gjhj
 关键还是	gjhe
-国际化的	gjhdi
 改朝换代	gjhd
 国际货币	gjhbi
 国家公园	gjgyi
@@ -19486,6 +19484,7 @@
 创造出	wzji
 为自己	wzj_
 为祖国	wzg_
+问责制	wzfo
 外祖父	wzf_
 外在的	wzd_
 吃早餐	wzc_
@@ -23827,12 +23826,12 @@
 没机会	mjh_
 毛巾杆	mjgu
 忙成狗	mjgo
-没几个	mjga
 没见过	mjg_
 目击者	mjf_
 某件事	mjev
+每件事	mjeu
 没精神	mjea
-每件事	mje_
+没出事	mje_
 蛮简单	mjdo
 民进党	mjda
 漫长的	mjd'
@@ -23922,6 +23921,7 @@
 满负荷	mfh_
 满洲国	mfg_
 每分钟	mff_
+模范生	mfev
 魔法师	mfe_
 冒犯到	mfdi
 明知道	mfd_
@@ -24742,6 +24742,7 @@
 两点水	lde_
 罗德岛	lddi
 劳动党	ldd_
+路道粗	ldco
 领导层	ldc_
 刘慈欣	lcx_
 另存为	lcw_
@@ -25233,6 +25234,7 @@
 刻度盘	kdp_
 肯定能	kdn_
 肯定吗	kdm_
+快到了	kdl_
 看得开	kdki
 开裆裤	kdk_
 客单价	kdjo
@@ -25509,7 +25511,8 @@
 颤巍巍	jww_
 检查团	jwtvv
 成问题	jwtv
-陈伟庭	jwtaio
+键位图	jwti
+陈伟庭	jwta
 出问题	jwt_
 肌萎缩	jws_
 就宛如	jwro
@@ -26259,6 +26262,7 @@
 件事情	jeqi
 加湿器	jeqaa
 驾驶证	jeqa
+出事前	jeq'
 就是去	jeq_
 超水平	jepv
 纯双拼	jep_
@@ -26270,12 +26274,13 @@
 积水了	jelu
 精神力	jeloo
 家属楼	jeloa
-产生了	jelo
+产生了	jelo'
+减少了	jelo
 承受力	jelau
 降水量	jelaa
 出生率	jela
 结束了	jel'
-减少了	jel_
+出事了	jel_
 紧身裤	jek_
 九十九	jejuu
 教师节	jeju
@@ -27842,8 +27847,8 @@
 国际间	gjjia
 国家级	gjji
 干几件	gjj_
-国际化	gjhi
-国产化	gjh_
+国产化	gjhi
+国际化	gjh_
 哥几个	gjgv
 该成果	gjgo
 国际歌	gjg_
@@ -29298,7 +29303,8 @@
 这本书	fbeov
 这本身	fbeo
 值班室	fbei
-分别是	fbe_
+分别是	fbe'
+这不是	fbe_
 转不到	fbdv
 扶不动	fbdi
 防波堤	fbda
@@ -30368,8 +30374,9 @@
 都要跟	dyg_
 大洋洲	dyfv
 独一份	dyfuv
-德意志	dyfu'
+德意志	dyfuo
 第一份	dyfu
+得益者	dyfu
 第一周	dyf'
 第一种	dyf_
 大约是	dyev
@@ -30711,6 +30718,7 @@
 电脑迷	dnmi
 当你们	dnm'
 对你们	dnm_
+到哪里	dnlvo
 到那里	dnlv
 多年来	dnl_
 电脑课	dnk_
@@ -31162,7 +31170,8 @@
 东道国	ddgv
 捣蛋鬼	ddgi
 道德观	ddg_
-大都是	ddevu
+大都市	ddevu
+大都是	ddev'
 到底是	ddev
 多的是	ddeu
 单单是	ddeoo
@@ -32312,14 +32321,15 @@
 比较烦	bjf_
 不成熟	bjevv
 不解释	bjevu
+不接受	bjevi
 比较少	bjev'
-不接受	bjev
+不仅是	bjev
 白衬衫	bjeu
 宝鸡市	bjeo
 北京市	bjei
 绊脚石	bjea
 本就是	bje'
-不仅是	bje_
+不就是	bje_
 比较大	bjdvv'
 比较多	bjdvv
 本季度	bjdvu
@@ -32541,7 +32551,8 @@
 不熟悉	bex_
 不省心	bex'
 不失为	bew_
-板刷头	betv
+板刷头	betva
+不舒坦	betv
 白手套	betu
 白砂糖	bet_
 半兽人	bero
@@ -32889,7 +32900,8 @@
 中考	fuo
 之后	fuu
 这种	fuv
-这样	fv
+这有	fv
+这样	fv'
 找到	fva
 只要	fvi
 发起	fvo
@@ -43718,8 +43730,9 @@
 先做	xmzlu
 闲坐	xmzl
 仙子	xmzk
+先祖	xmzju
 险阻	xmzja
-先祖	xmzj
+先租	xmzj
 陷在	xmzh
 先走	xmzd
 纤腰	xmyza
@@ -61332,7 +61345,8 @@
 全粗	qtcj
 全才	qtch
 拳参	qtcf
-全保	qtbz
+全保	qtbzi
+全包	qtbz
 全被	qtbw
 圈吧	qtbs
 拳棒	qtbp
@@ -81278,7 +81292,6 @@
 口若	kdrl
 口如	kdrj
 扣肉	kdrd
-口罩	kdqz
 口腔	kdqx
 寇准	kdqw
 口泉	kdqt
@@ -83494,6 +83507,7 @@
 就跑	jqpz
 久陪	jqpw
 就怕	jqps
+就捧	jqpr
 纠偏	jqpm
 酒癖	jqpk
 酒铺	jqpj
@@ -83511,7 +83525,8 @@
 救你	jqnk
 就难	jqnf
 旧貌	jqmz
-舅妈	jqms
+舅妈	jqmsu
+就骂	jqms
 旧梦	jqmr
 鸠摩	jqml
 啾咪	jqmko
@@ -92356,7 +92371,8 @@
 海得	hhdwau
 海顿	hhdwa
 还得	hhdw
-还大	hhds
+还大	hhdsv
+还打	hhds
 还等	hhdr
 还丢	hhdq
 海淀	hhdm
@@ -111824,9 +111840,10 @@
 多处	dljj
 多产	dljf
 多解	dljd
-多角	dljcu
+多角	dljcuu
+剁椒	dljcu
 跺脚	dljco
-剁椒	dljc
+多交	dljc
 躲进	dljbu
 夺金	dljb
 多好	dlhz
@@ -112364,7 +112381,8 @@
 堵在	djzh
 督责	djze
 独奏	djzd
-嘟嘴	djzb
+嘟嘴	djzbo
+堵嘴	djzb
 毒药	djyz
 独用	djyy
 渡鸦	djysa
