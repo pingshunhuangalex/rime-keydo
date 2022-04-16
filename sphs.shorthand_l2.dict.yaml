@@ -63,6 +63,7 @@ sort: original
 这是	fe
 这个	fg
 中国	fg
+这和	fh
 符合	fh
 这就	fj
 父母	fm
@@ -105,6 +106,7 @@ sort: original
 两年	ln
 没了	ml
 没你	mn
+没能	mn
 没他	mt
 明天	mt
 没人	mr
@@ -125,7 +127,9 @@ sort: original
 哪怕	np
 你去	nq
 你人	nr
+你我	nw
 你在	nz
+能在	nz
 平时	pe
 脾气	pq
 平台	pt

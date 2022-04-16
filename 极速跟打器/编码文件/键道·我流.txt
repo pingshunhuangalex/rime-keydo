@@ -1522,7 +1522,7 @@
 罪有应得	zyydi
 左拥右抱	zyyb
 资源消耗	zyxho
-恣意妄为	zyww
+恣意妄为	zywwo
 左右为难	zywn
 再也无法	zywf
 自以为是	zywe
@@ -5041,7 +5041,7 @@
 我见犹怜	wjylui
 无济于事	wjyev
 危机意识	wjyeu
-无疾而终	wjxfv
+无疾而终	wjxf
 万箭穿心	wjwx
 无拘无束	wjwe
 问长问短	wjwd
@@ -7206,7 +7206,7 @@
 证据确凿	qjqzo
 浅尝辄止	qjqfa
 这几年来	qjnl
-青春年华	qjnhv
+青春年华	qjnh
 真假难辨	qjnbu
 强奸民意	qjmy
 千斤买笑	qjmx
@@ -14349,6 +14349,7 @@
 事半功倍	ebgbv
 恕不奉陪	ebfpa
 生不逢时	ebfeu
+胜败输赢	ebeyu
 是不是要	ebey
 实报实销	ebex
 说不上来	ebel
@@ -14816,7 +14817,8 @@
 对号入座	dhrz
 党和人民	dhrm
 多喝热水	dhre
-党和政府	dhqf'
+大好青春	dhqjv
+党和政府	dhqfi
 大获全胜	dhqe
 大祸临头	dhlt
 大海捞针	dhlq
@@ -17206,7 +17208,8 @@
 偃月刀	yydiu
 优雅的	yydi'
 优雅地	yydi
-预言帝	yyda
+预言帝	yydao
+隐隐的	yyda
 有一段	yyd'
 有一点	yyd_
 亚运村	yyc_
@@ -18223,6 +18226,7 @@
 也不同	ybt_
 银白色	ybsi
 淹不死	ybs_
+一辈人	ybrvi
 远不如	ybrv
 又比如	ybra
 要不然	ybr_
@@ -23324,6 +23328,7 @@
 你是在	nez_
 你是有	ney_
 拿手戏	nex_
+你是我	new_
 脑上体	net_
 鸟兽散	nes_
 年收入	neru
@@ -24780,10 +24785,10 @@
 老不死	lbsu
 礼拜三	lbs_
 礼拜日	lbr_
-篮板球	lbquv
-留不住	lbqu
-滤波器	lbqa
-了不起	lbq_
+篮板球	lbqu
+滤波器	lbqaa
+了不起	lbqa
+留不住	lbq_
 罗布泊	lbp_
 黎巴嫩	lbnu
 老板娘	lbn_
@@ -29369,9 +29374,9 @@
 涮羊肉	eyra
 生意人	eyr_
 石油气	eyqv
-适应症	eyquoo
 顺义区	eyquo
-受益者	eyqu
+适应症	eyqu'
+失语症	eyqu
 商业圈	eyqoi
 试验区	eyqoav
 实验区	eyqoa
@@ -29711,6 +29716,7 @@
 杀马特	emt_
 史密斯	ems_
 睡美人	emr_
+生闷气	emq_
 树莓派	emp_
 师妹们	emm_
 生命里	emlu
@@ -30973,7 +30979,8 @@
 大观园	dgyva
 大工业	dgyv
 地沟油	dgy_
-电工学	dgx_
+电工学	dgxi
+独个儿	dgx_
 点歌台	dgti
 掉过头	dgt_
 大公司	dgsv
@@ -33469,7 +33476,8 @@
 这是	fe_
 这个	fg_
 中国	fg'
-符合	fh_
+这和	fh_
+符合	fh'
 这就	fj_
 父母	fm_
 这我	fw_
@@ -33511,6 +33519,7 @@
 两年	ln_
 没了	ml_
 没你	mn_
+没能	mn'
 没人	mr_
 没我	mw_
 没他	mt_
@@ -33531,7 +33540,9 @@
 哪怕	np_
 你去	nq_
 你人	nr_
+你我	nw_
 你在	nz_
+能在	nz'
 平时	pe_
 脾气	pq_
 平台	pt_
@@ -33837,6 +33848,7 @@
 总校	zyxc
 宗信	zyxb
 棕床	zywx
+总为	zyww
 总温	zywno
 棕床	zywm
 总务	zywj
@@ -39027,11 +39039,11 @@
 已加	ykjsa
 一架	ykjs'
 一家	ykjs
+一程	ykjrvu
 一城	ykjrv'
-一程	ykjrv
+一成	ykjrv
 译成	ykjro
 已成	ykjra
-一成	ykjr'
 议程	ykjr
 一九	ykjqvu
 一久	ykjqv
@@ -51083,7 +51095,7 @@
 物性	wjxgu
 悟性	wjxgo
 无形	wjxg
-午安	wjxf
+午安	wjxfu
 无偶	wjxdv
 舞鞋	wjxdu
 无邪	wjxd
@@ -64016,7 +64028,7 @@
 助你	qjnki
 祝你	qjnk
 主奴	qjnj
-助虐	qjnh
+助虐	qjnhi
 朱鸟	qjnc
 祝您	qjnb
 猪毛	qjmz
@@ -68346,7 +68358,8 @@
 拼管	pbgti
 贫国	pbgl
 品改	pbgh
-品格	pbge
+品格	pbgeo
+拼个	pbge
 聘召	pbfz
 品种	pbfy
 拼装	pbfx
@@ -69161,8 +69174,8 @@
 那部	nsbj
 哪般	nsbfo
 那般	nsbf
+那别	nsbd
 能做	nrzl
-能在	nrzh
 能走	nrzd
 能用	nryy
 能源	nryt
@@ -71090,7 +71103,6 @@
 没弄	mwny
 没娘	mwnx
 没拿	mwns
-没能	mwnr
 梅牛	mwnq
 每年	mwnm
 没怒	mwnj
@@ -75495,9 +75507,8 @@
 拉列	lsld
 蜡疗	lslc
 拉框	lskx
-拉框	lskm
+拉胯	lskq
 拉开	lskh
-拉胯	lskg
 拉客	lske
 辣酱	lsjx
 拉架	lsjs
@@ -93472,8 +93483,8 @@
 毁于	hbyl
 悔意	hbyko
 会意	hbykio
-回忆	hbyki'
-会议	hbyki
+会议	hbyki'
+回忆	hbyki
 回以	hbyk'
 会以	hbyk
 毁约	hbyh
@@ -101687,10 +101698,10 @@
 致远	fkytvv
 职员	fkytvo
 志愿	fkytv
+支援	fkytu
 之远	fkytov
 之源	fkyto
-只愿	fkyt'
-支援	fkyt
+只愿	fkyt
 枝桠	fkysv
 指压	fkysi
 植牙	fkys'
@@ -106957,8 +106968,8 @@
 失联	eklm
 失落	ekll
 事理	eklkvv
-事例	eklkvi
-示例	eklkv
+示例	eklkv'
+事例	eklkv
 失礼	eklkuo
 十里	eklkui
 失利	eklku
@@ -107335,9 +107346,9 @@
 世代	ekdhv
 时代	ekdh
 实弹	ekdf
-实德	ekdeo
+实德	ekdeou
+时的	ekdeo
 师德	ekdei
-时的	ekde'
 使得	ekde
 市斗	ekdd
 失掉	ekdcu
@@ -112797,7 +112808,7 @@
 呆住	dhqjo
 逮住	dhqj
 怠情	dhqg
-代战	dhqfi
+代战	dhqfii
 呆站	dhqf
 带挈	dhqd
 待敲	dhqc
@@ -119739,9 +119750,8 @@
 补洞	bjdyo
 不懂	bjdy
 不端	bjdt
-不搭	bjdsvi
-不打	bjdsv
-不大	bjds
+不大	bjdsv
+不搭	bjds
 补登	bjdro
 不等	bjdr
 不丢	bjdq
@@ -130579,12 +130589,12 @@
 勔	mmvuau
 棉	mmvuia
 面	mmvuia
-们	mn_
 懑	mna
 懑	mnaioa
 汶	mnao
 汶	mnaovu
-扪	mni
+们	mni
+扪	mni'
 钔	mnio
 们	mnioia
 钔	mniooi
@@ -131180,7 +131190,6 @@
 秾	nyuv
 秾	nyuvoa
 弄	nyvvvu
-闹	nz_
 淖	nza
 淖	nzaivi
 挠	nzi
@@ -131189,7 +131198,8 @@
 铙	nzio
 铙	nziova
 挠	nziuva
-恼	nzo
+闹	nzo
+恼	nzo'
 呶	nzoa
 呶	nzoauv
 闹	nzoiov
