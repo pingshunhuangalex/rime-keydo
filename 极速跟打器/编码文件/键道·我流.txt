@@ -64,6 +64,7 @@
 蝉翼为重，千钧为轻	jywqi
 具有特别重要的意义	jyty
 乘兴而来，败兴而归	jxxgu
+兼听则明，偏信则暗	jtzx
 家庭联产承包责任制	jtlf
 己所不欲，勿施于人	jsbra
 城门失火，殃及池鱼	jmey
@@ -9785,8 +9786,6 @@
 既往不咎	jwbja
 家庭作业	jtzyo
 兼听则明	jtzm
-今天早晨	jtzj
-今天早上	jtze
 家庭影院	jtyyo
 具体要求	jtyq
 金童玉女	jtyn
@@ -9797,7 +9796,6 @@
 交通运输	jtye
 街谈巷议	jtxy
 精挑细选	jtxx
-今天下午	jtxwi
 街头巷尾	jtxw
 交通安全	jtxqo
 畅通无阻	jtwz
@@ -9807,7 +9805,6 @@
 进退无门	jtwm
 卷土重来	jtwl
 进退维谷	jtwg
-今天晚上	jtwe
 经天纬地	jtwda
 具体体现	jttx
 集体所有	jtsy
@@ -9844,15 +9841,13 @@
 交通工具	jtgjo
 尘土飞扬	jtfy
 具体分析	jtfx
-简体中文	jtfwu
-今天中午	jtfwi
+简体中文	jtfw
 出头之日	jtfr
 家庭妇女	jtfno
 家庭状况	jtfko
 几天之后	jtfhu
 借题发挥	jtfh
 交通方便	jtfb
-今天上午	jtew
 家庭收入	jtero
 交通枢纽	jten
 具体说来	jtel
@@ -13270,7 +13265,7 @@
 房地产税	fdjeov
 房地产商	fdjeo
 指点江山	fdjei
-值得称道	fdjdi
+值得称道	fdjd
 直捣黄龙	fdhlu
 直到后来	fdhl
 法定货币	fdhba
@@ -19316,8 +19311,7 @@
 兄弟们	xdmo
 斜对面	xdmi
 想得美	xdm_
-相对论	xdlva
-想多了	xdlv
+相对论	xdlv
 奥地利	xdluv
 爱抖露	xdlui
 鹅蛋脸	xdlua
@@ -19326,9 +19320,10 @@
 安德烈	xdlouv'
 辛德勒	xdlouv
 新德里	xdlou
-心动了	xdlo
-暗地里	xdl'
-按道理	xdl_
+暗地里	xdlo
+按道理	xdli
+心动了	xdl'
+想多了	xdl_
 想得开	xdk_
 相抵触	xdjvi
 二等奖	xdjv
@@ -82607,7 +82602,7 @@
 捐给	jtgw
 眷顾	jtgj
 卷柜	jtgb
-圈肥	jtfw
+圈肥	jtfwi
 卷发	jtfs
 绢纺	jtfp
 卷分	jtfn
@@ -104007,7 +104002,7 @@
 周觉	fdjhu
 否决	fdjh
 舟车	fdje
-周杰	fdjd
+周杰	fdjdi
 周角	fdjc
 皱紧	fdjbu
 酎金	fdjb
