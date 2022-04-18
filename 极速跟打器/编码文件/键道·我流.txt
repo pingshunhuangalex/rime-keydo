@@ -20397,6 +20397,7 @@
 退休金	txja
 通信处	txj_
 天鹅湖	txhv
+图形化	txhiv
 同乡会	txhia
 挺喜欢	txhi
 同学会	txh_
@@ -32758,6 +32759,9 @@
 并不曾	bbc_
 白板笔	bbbu
 并不比	bbb_
+那又	aa
+那有	av
+又有	av'
 不能	ba
 班级	baa
 不了	bai
@@ -33411,9 +33415,6 @@
 走来	zvo
 坐在	zvu
 走进	zvv
-那又	aa_
-那有	av_
-又有	av'
 不都	bd_
 不是	be_
 不上	be'
