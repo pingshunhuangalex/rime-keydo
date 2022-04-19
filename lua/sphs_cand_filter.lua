@@ -1,6 +1,6 @@
 local is_valid = sphs_modules.is_valid
 local starts_with = sphs_modules.starts_with
-local has_cn_char = sphs_modules.has_cn_char
+local has_cn_chars = sphs_modules.has_cn_chars
 
 local force_commit = sphs_utils.force_commit
 
@@ -42,7 +42,7 @@ local function filter(cand_list, env)
 
         if is_history then -- 历史模式
             -- 确保历史模式中的候选项不是重复项且含有中文字符，否则跳过（不生成）该候选项
-            if cand.text ~= prev_cand_text and has_cn_char(cand.text) then
+            if cand.text ~= prev_cand_text and has_cn_chars(cand.text) then
                 handle_auto_commit(cand)
 
                 prev_cand_text = cand.text

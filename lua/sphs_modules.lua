@@ -44,7 +44,7 @@ end
 -- 判断字符串是否含有中文字符
 --- @param text string
 --- @return boolean
-local function has_cn_char(text)
+local function has_cn_chars(text)
     -- 遍历字符串中的每一个字符，并在识别到首个中文字符后终止
     for pos, code in utf8.codes(text) do
         local char = utf8.char(code) -- 当前字符所对应的UTF-8编码
@@ -89,6 +89,6 @@ return {
     switch = switch,
     is_valid = is_valid,
     starts_with = starts_with,
-    has_cn_char = has_cn_char,
+    has_cn_chars = has_cn_chars,
     to_cn_digits = to_cn_digits
 }
