@@ -44157,12 +44157,12 @@
 显式	xmekov
 闲适	xmekou
 闲时	xmekoo
-闲事	xmeko
+闲事	xmeko'
+显示	xmeko
 仙石	xmekiv
 县市	xmekio
 仙逝	xmeki
 限时	xmeka
-显示	xmek'
 先是	xmek
 贤淑	xmeji
 仙术	xmej'
@@ -82775,8 +82775,8 @@
 家人	jsrn
 假若	jsrl
 假日	jsrk
-嫁入	jsrja
-加入	jsrj'
+嫁入	jsrjau
+加入	jsrja
 假如	jsrj
 戛然	jsrf
 加热	jsre
