@@ -41,6 +41,14 @@ local function starts_with(text, prefix)
     return text:sub(1, #prefix) == prefix
 end
 
+-- 判断编码字符串是否由特定编码结尾
+--- @param code string
+--- @param code_set string
+--- @return boolean
+local function ends_with_code(code, code_set)
+    return is_valid(code:match("[" .. code_set .. "]$"))
+end
+
 -- 判断字符串是否含有中文字符
 --- @param text string
 --- @return boolean
@@ -73,6 +81,14 @@ local function has_cn_chars(text)
     return false
 end
 
+-- 获取字符串中序号位置的字符
+--- @param text string
+--- @param index number
+--- @return string
+local function get_char(text, index)
+    return text:sub(index, index)
+end
+
 -- 在特定的变换池中，根据映射规则将罗马数字替换为中文字符
 --- @param text string
 --- @param digits table
@@ -89,6 +105,8 @@ return {
     switch = switch,
     is_valid = is_valid,
     starts_with = starts_with,
+    ends_with_code = ends_with_code,
     has_cn_chars = has_cn_chars,
+    get_char = get_char,
     to_cn_digits = to_cn_digits
 }

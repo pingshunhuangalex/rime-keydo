@@ -1,6 +1,8 @@
 local is_valid = sphs_modules.is_valid
 local starts_with = sphs_modules.starts_with
+local ends_with_code = sphs_modules.ends_with_code
 local has_cn_chars = sphs_modules.has_cn_chars
+local get_char = sphs_modules.get_char
 
 local force_commit = sphs_utils.force_commit
 
@@ -10,14 +12,17 @@ local force_commit = sphs_utils.force_commit
 -- - 候选项唯一时自动上屏（Rime自带自动上屏只在输入编码与词库编码吻合时才会触发）
 local function filter(cand_list, env)
     local input = env.engine.context.input -- 输入区字符串
+    local reverse_dict = env.reverse_dict -- 反查词库
     local has_auto_select = env.has_auto_select -- 是否开启自动上屏
     local history_leader = env.history_leader -- 历史模式引导键
+    local phonetics_code = env.phonetics_code -- 音码集合
+    local stroke_code = env.stroke_code -- 形码集合
 
     local auto_commit_cand = nil -- 待自动上屏的候选项
     local prev_cand_text = nil -- 上一个候选项字符串
     local is_history = starts_with(input, history_leader) -- 是否进入历史模式，即输入区是否由历史模式引导键引导
     local should_auto_commit = has_auto_select -- 是否优化自动上屏（若自动上屏未开启，则不考虑进一步优化）
-    local should_handle_key = input:match("[a-z]$") -- 是否为待处理按键（音码或形码）
+    local should_handle_key = ends_with_code(input, phonetics_code .. stroke_code) -- 是否为待处理按键（音码或形码）
 
     -- 判断是否应该自动上屏，即候选项是否唯一
     local function handle_auto_commit(cand)
@@ -30,6 +35,13 @@ local function filter(cand_list, env)
         end
 
         auto_commit_cand = cand
+
+        local code = reverse_dict:lookup(auto_commit_cand.text) or "" -- 待自动上屏的候选项编码
+
+        -- 若字词音码未完整输入（即下一位待输入编码仍为音码），则取消自动上屏
+        if ends_with_code(get_char(code, #input + 1), phonetics_code) then
+            should_auto_commit = false
+        end
     end
 
     -- 待遍历的候选项为vector类型，能否将所有过滤器逻辑压缩在用于生成候选项的一次遍历中对渲染速度至关重要
@@ -71,10 +83,14 @@ end
 local function init(env)
     local config = env.engine.schema.config
 
+    env.reverse_dict = ReverseDb("build/sphs.reverse.bin") -- 从编译文件中获取反查词库
+
     -- 从设置中读取自动上屏设置
     env.has_auto_select = (config:get_bool("speller/auto_select") and
-                          config:get_bool("speller/auto_select_unique_candidate")) or false
+        config:get_bool("speller/auto_select_unique_candidate")) or false
     env.history_leader = config:get_string("repeat_history/input") -- 从设置中读取历史模式引导键
+    env.phonetics_code = config:get_string("topup/phonetics_code") -- 从设置中读取音码集合
+    env.stroke_code = config:get_string("topup/stroke_code") -- 从设置中读取形码集合
 end
 
 return { init = init, func = filter }
