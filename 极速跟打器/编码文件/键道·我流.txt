@@ -5905,8 +5905,8 @@
 特殊情况	teqk
 贪生怕死	teps
 太上老君	teljv
-天生丽质	telfv
-偷税漏税	telei
+天生丽质	telf
+偷税漏税	tele
 唾手可得	tekd
 特殊教育	tejy
 投鼠忌器	tejq
@@ -9005,6 +9005,7 @@
 联合起来	lhqlvi
 联合政府	lhqfvi
 落花流水	lhlei
+量化宽松	lhks
 炉火纯青	lhjqo
 灵魂出窍	lhjqa
 灵活机动	lhjda
@@ -11179,7 +11180,7 @@
 活灵活现	hlhx
 糊里糊涂	hlhto
 忽冷忽热	hlhr
-呼来喝去	hlhqo'
+呼来喝去	hlhqov
 晃来晃去	hlhqo
 换来换去	hlhqi
 挥了挥手	hlhei
@@ -15953,6 +15954,7 @@
 不尽相同	bjxtv
 不教而诛	bjxqvu
 比肩而立	bjxlvo
+不就行了	bjxl
 不拘小节	bjxjvi
 比较喜欢	bjxhvv
 别出心裁	bjxco
@@ -16457,9 +16459,10 @@
 做一个	zygi
 总有个	zyg_
 左右手	zye_
-在野党	zydv
+在野党	zydvi
+走一段	zydv
 自由度	zydu
-走一段	zyd'
+做一单	zydi
 早一点	zyd_
 再一次	zyc_
 走一遍	zybv
@@ -18754,7 +18757,6 @@
 橡皮筋	xpj_
 小屁孩	xphi
 小破孩	xph_
-阿房宫	xpg_
 耳旁风	xpf_
 安排上	xpe_
 橡皮擦	xpc_
@@ -19169,6 +19171,7 @@
 阿富汗	xfh_
 幸福感	xfgv
 新中国	xfgo
+阿房宫	xfgao
 消费观	xfga
 洗发膏	xfg_
 二分钟	xffv
@@ -19478,7 +19481,6 @@
 文字狱	wzy_
 晚自习	wzxo
 创造性	wzx_
-味噌汤	wzto
 蚊子腿	wzti
 武则天	wzt_
 温子仁	wzra
@@ -19576,7 +19578,8 @@
 臭氧层	wycu
 吃一次	wyc_
 万用表	wybv
-文艺报	wybo
+文艺报	wyboi
+冲一波	wybo
 创业板	wybi
 我也不	wyb_
 臭小子	wxzu
@@ -19677,6 +19680,7 @@
 文抄公	wwg_
 吃晚饭	wwfo
 吃完饭	wwf_
+吹吹水	wweo
 往往是	wwe_
 无谓的	wwdv
 微微地	wwdu
@@ -19966,7 +19970,7 @@
 文教界	wjjo
 挖掘机	wjji
 文件夹	wjj_
-我几乎	wjh_
+我就和	wjh_
 危机感	wjgu
 文抄公	wjgoi
 文件柜	wjgo
@@ -20562,8 +20566,7 @@
 挑战者	tqf_
 太真实	tqev
 特长生	tqe_
-跆拳道	tqdo
-探照灯	tqd_
+跆拳道	tqd_
 土政策	tqc_
 挑战杯	tqb_
 汤婆子	tpz_
@@ -20836,9 +20839,10 @@
 统治者	tff_
 团支书	tfei
 通知书	tfe_
-天知道	tfdv
-探照灯	tfdi
-通知单	tfd_
+探照灯	tfdio
+挺废的	tfdi
+通知单	tfda
+天知道	tfd_
 太方便	tfbv
 特种兵	tfbu
 团支部	tfbiu
@@ -20860,6 +20864,7 @@
 听上去	teq_
 台上盆	tep_
 同事们	tem_
+太爽了	telv
 太少了	tel_
 投石机	teji
 停尸间	tej'
@@ -21753,11 +21758,11 @@
 占有欲	qyyi
 却愿意	qyy'
 却永远	qyy_
+青玉案	qyxvv
 区域性	qyxv
 请允许	qyxo
 睁眼瞎	qyxi
 注意下	qyx_
-青玉案	qywvv
 正因为	qywv
 窃以为	qywo
 前一晚	qyw_
@@ -24825,12 +24830,11 @@
 两部分	lbf_
 蓝宝石	lbei
 连不上	lbe_
-轮不到	lbdv
+冷板凳	lbdov
 冷不丁	lbdo
-洛必达	lbdao
-了不得	lbda
-冷板凳	lbd'
-聊不到	lbd_
+洛必达	lbda
+聊不到	lbd'
+轮不到	lbd_
 凉拌菜	lbc_
 李冰冰	lbbv
 拉粑粑	lbbi
@@ -25120,7 +25124,8 @@
 看见过	kjg_
 会计法	kjf_
 会计师	kje_
-空出的	kjd_
+空出的	kjdo
+看出点	kjd_
 课间操	kjc_
 开场白	kjbv
 科技部	kjbu
@@ -31943,11 +31948,12 @@
 半透明	btm_
 比特率	btlvu
 标题栏	btlvo
-不疼了	btlv
+不太冷	btlv
 变态辣	btlov
 别提了	btlo
 拜托了	btli
-不太冷	btl_
+不疼了	btl'
+不提了	btl_
 变态狂	btko
 不太看	btk_
 不提倡	btjvi
@@ -33532,7 +33538,8 @@
 就都	jd_
 就是	je_
 就这	jf_
-就好	jh_
+就和	jh_
+就好	jh'
 就没	jm_
 就能	jn_
 就去	jq_
@@ -38138,7 +38145,6 @@
 语态	ylth
 雨停	yltg
 鱼头	yltdu
-熨帖	yltda
 芋头	yltd
 余条	yltc
 鱼松	ylsy
@@ -44726,6 +44732,7 @@
 溪卡	xkks
 西康	xkkp
 锡矿	xkkm
+洗库	xkkja
 西裤	xkkj
 细看	xkkf
 稀客	xkke
@@ -45806,8 +45813,7 @@
 雪白	xhbh
 爱兵	xhbgu
 雪饼	xhbg
-血斑	xhbfu
-呆板	xhbf
+血斑	xhbf
 行灶	xgzz
 行踪	xgzy
 姓曾	xgzr
@@ -48616,7 +48622,6 @@
 伪造	wwzz
 未总	wwzy
 为尊	wwzw
-味噌	wwzro
 为增	wwzr
 胃脏	wwzp
 未做	wwzlvi
@@ -52824,8 +52829,8 @@
 逃遁	tzdw
 套打	tzdsv
 讨打	tzds
-掏底	tzdka
-陶笛	tzdk
+陶笛	tzdka
+掏底	tzdk
 逃顶	tzdg
 套得	tzde
 陶都	tzdda
@@ -54273,8 +54278,9 @@
 脱坑	tlkr
 拖垮	tlkq
 驮筐	tlkm
-脱裤	tlkju
-脱苦	tlkj
+脱苦	tlkju
+拖库	tlkji
+脱裤	tlkj
 脱开	tlkh
 脱壳	tlke
 脱口	tlkd
@@ -55138,7 +55144,6 @@
 台上	thep
 太甚	thenv
 太深	then
-太爽	them
 太师	thekvi
 态势	thekv
 台式	thek
@@ -55768,8 +55773,8 @@
 特例	telk
 特录	telj
 特来	telh
-特滥	telf
-特勒	tele
+特滥	telfu
+特勒	teleu
 特露	teld
 特困	tekw
 特夸	tekq
@@ -57003,6 +57008,7 @@
 孙老	swlz
 孙亮	swlx
 孙俪	swlk
+损了	swle
 孙军	swjw
 笋尖	swjm
 笋鸡	swjk
@@ -58350,8 +58356,7 @@
 三塘	sftp
 三脱	sftl
 三体	sftkv
-三提	sftki
-三体	sftk
+三提	sftk
 散图	sftjv
 三涂	sftj
 三台	sfth
@@ -60661,7 +60666,6 @@
 找吧	qzbs
 找遍	qzbm
 兆波	qzbl
-找补	qzbjv
 招兵	qzbg
 照搬	qzbfo
 罩板	qzbfiv
@@ -63075,7 +63079,6 @@
 去吵	qlwz
 去重	qlwyv
 驱虫	qlwy
-凄怆	qlwxo
 去闯	qlwx
 区委	qlwwvu
 区位	qlwwv
@@ -75132,7 +75135,7 @@
 泪花	lwhq
 泪痕	lwhn
 累活	lwhl
-类乎	lwhja
+类乎	lwhjo
 雷害	lwhh
 累坏	lwhg
 泪河	lwhe
@@ -77392,7 +77395,8 @@
 掳掠	ljlh
 庐陵	ljlg
 露了	ljlev
-录了	ljle
+录了	ljlea
+撸了	ljle
 炉料	ljlc
 绿林	ljlb
 路考	ljkz
@@ -77633,8 +77637,8 @@
 来临	lhlb
 来考	lhkz
 略宽	lhkt
+徕卡	lhksu
 莱卡	lhksi
-徕卡	lhks
 来看	lhkf
 来客	lhke
 来潮	lhjz
@@ -90805,7 +90809,6 @@
 花落	hqlli
 滑落	hqll
 画里	hqlkv
-花札	hqlkiv
 华里	hqlki
 华丽	hqlk
 话路	hqlj
@@ -90919,6 +90922,7 @@
 花费	hqfw
 划转	hqftv
 花砖	hqft
+花札	hqfsi
 画法	hqfs
 话锋	hqfro
 画风	hqfr
@@ -93791,9 +93795,9 @@
 毁坏	hbhg
 悔憾	hbhfo
 挥汗	hbhf
-回合	hbhei
+回合	hbheii
+会合	hbhei
 汇合	hbhea
-会合	hbhe'
 会和	hbhe
 会后	hbhd
 会徽	hbhbi
@@ -96594,6 +96598,7 @@
 姑爷	gjye
 故有	gjydu
 固有	gjyd
+古音	gjybu
 孤傲	gjxz
 雇凶	gjxy
 故乡	gjxx
@@ -99160,7 +99165,6 @@
 状况	fxkx
 状况	fxkm
 壮阔	fxkl
-装酷	fxkj
 撞开	fxkh
 庄客	fxke
 装成	fxjr
@@ -100929,8 +100933,9 @@
 仿古	fpgj
 房改	fpgh
 放竿	fpgf
-放歌	fpgeo
-方格	fpge
+放歌	fpgeov
+方格	fpgeo
+放个	fpge
 放归	fpgb
 仿照	fpfz
 房中	fpfy
@@ -101443,6 +101448,7 @@
 状况	fmkx
 状况	fmkmo
 壮阔	fmkl
+撞库	fmkji
 装酷	fmkj
 撞开	fmkh
 庄客	fmke
@@ -102350,10 +102356,10 @@
 职改	fkgh
 只怪	fkgg
 枝干	fkgfv
-之感	fkgfov
-只干	fkgfo
-质感	fkgf
-只敢	fkgf'
+质感	fkgfu
+之感	fkgfo
+只干	fkgf'
+只敢	fkgf
 制革	fkgeu
 之隔	fkgeo
 之歌	fkge
@@ -106618,7 +106624,7 @@
 实用	ekyy
 时运	ekywo
 诗云	ekyw
-师院	ekytu
+师院	ekyti
 十元	ekyt
 石崖	ekysv
 试压	ekysov
@@ -118669,7 +118675,6 @@
 薄弱	blrl
 拨入	blrj
 勃然	blrf
-般若	blre
 博洽	blqs
 剥去	blqla
 博取	blql
@@ -118748,7 +118753,7 @@
 拨号	blhz
 波鸿	blhy
 波黑	blhw
-擘划	blhqv
+擘划	blhqa
 擘画	blhq
 波痕	blhn
 拨火	blhl
@@ -119300,11 +119305,11 @@
 不咸	bjxmv
 不嫌	bjxm'
 不限	bjxm
+不需	bjxlvv
 不须	bjxlvu
-不虚	bjxlv
+不虚	bjxlv'
+不许	bjxlv
 补叙	bjxlo
-不需	bjxl'
-不许	bjxl
 不息	bjxkvu
 不喜	bjxkv
 补习	bjxko
@@ -119660,8 +119665,9 @@
 不喝	bjhe
 不悔	bjhbv
 不回	bjhb
-布告	bjgzv
-不高	bjgz
+布告	bjgzvu
+不高	bjgzv
+不搞	bjgz
 不恭	bjgyv
 不公	bjgy
 不光	bjgx
@@ -120635,6 +120641,7 @@
 半死	bfsk
 伴随	bfsb
 半软	bfrt
+般若	bfrl
 半日	bfrk
 搬入	bfrj
 办照	bfqza
@@ -124971,6 +124978,8 @@
 转	ft_
 赚	fta
 赚	ftaoou
+沌	ftav
+沌	ftavai
 撰	fti
 颛	ftia
 僎	ftiaa
@@ -127323,7 +127332,6 @@
 静	jgvvua
 䴖	jgvvua
 井	jgvvui
-决	jh_
 绝	jha
 绝	jhaaua
 孓	jhai
@@ -127361,7 +127369,8 @@
 撅	jhiuvu
 柴	jhiv
 柴	jhivvv
-觉	jho
+决	jho
+觉	jho'
 诀	jhoa
 谲	jhoaa
 谲	jhoaao
