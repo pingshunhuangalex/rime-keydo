@@ -7125,6 +7125,7 @@
 战略思想	qlsx
 其乐融融	qlrr
 亲力亲为	qlqw
+切来切去	qlqqv
 侵略战争	qlqqi
 骑驴找马	qlqma
 站了起来	qlqlo
@@ -20908,6 +20909,7 @@
 头顶上	tdeo
 谈得上	tde_
 太多的	tddv
+特定的	tddu
 听到的	tddo
 挺多的	tddiu
 挺大的	tddi
@@ -28846,7 +28848,8 @@
 副厂长	fjqvv
 副处长	fjqvu
 转接器	fjqvi
-副局长	fjqv
+副局长	fjqva
+转出去	fjqv
 支局长	fjqua
 风景区	fjqu
 房产证	fjqoo
@@ -29038,6 +29041,7 @@
 中国话	fghi
 这个好	fgh_
 直勾勾	fgg_
+分隔符	fgfu
 非官方	fgf_
 转过身	fgev
 招股书	fgei
@@ -33541,7 +33545,8 @@
 就和	jh_
 就好	jh'
 就没	jm_
-就能	jn_
+就你	jn_
+就能	jn'
 就去	jq_
 就在	jz_
 快餐	kc_
@@ -35486,6 +35491,7 @@
 再帖	zhtdv
 再贴	zhtd
 再跳	zhtc
+再退	zhtbv
 再推	zhtb
 再送	zhsy
 栽桑	zhsp
@@ -67287,8 +67293,8 @@
 疲了	pkleo
 劈了	pklea
 批了	pkle
-纰漏	pklda
-劈裂	pkld
+劈裂	pklda
+纰漏	pkld
 坯料	pklc
 毗邻	pklb
 皮孔	pkky
@@ -96940,6 +96946,7 @@
 该用	ghyyo
 改用	ghyy
 该院	ghyt
+盖亚	ghyso
 改呀	ghys
 改样	ghyp
 该月	ghyh
@@ -127976,7 +127983,7 @@
 碱	jmvuvu
 戋	jmvv
 戋	jmvvau
-陈	jn_
+陈	jna
 沉	jna
 陈	jnaiva
 沉	jnaoau
