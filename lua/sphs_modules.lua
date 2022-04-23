@@ -89,6 +89,21 @@ local function get_char(text, index)
     return text:sub(index, index)
 end
 
+-- 获取由特定分隔符分割后的字符串字段集合
+--- @param text string
+--- @param delimiter string
+--- @return table<number, string>
+local function split(text, delimiter)
+    local result = {};
+
+    -- 遍历字符串中的非分隔符字段并逐一将其插入表格
+    for match in (text .. delimiter):gmatch("([^" .. delimiter .. "]+)") do
+        table.insert(result, match)
+    end
+
+    return result;
+end
+
 -- 在特定的变换池中，根据映射规则将罗马数字替换为中文字符
 --- @param text string
 --- @param digits table
@@ -101,6 +116,25 @@ local function to_cn_digits(text, digits)
     end)
 end
 
+-- 在特定的变换池中，根据映射规则将罗马数字替换为中文数字
+--- @param text string
+--- @param is_casual boolean
+--- @return string
+local function to_cn_number(text, is_casual)
+    local number_segs = split(text, ".")
+
+    return text
+end
+
+-- 在特定的变换池中，根据映射规则将罗马数字替换为中文货币
+--- @param text string
+--- @return string
+local function to_cn_currency(text)
+    local number_segs = split(text, ".")
+
+    return text
+end
+
 return {
     switch = switch,
     is_valid = is_valid,
@@ -108,5 +142,8 @@ return {
     ends_with_code = ends_with_code,
     has_cn_chars = has_cn_chars,
     get_char = get_char,
-    to_cn_digits = to_cn_digits
+    split = split,
+    to_cn_digits = to_cn_digits,
+    to_cn_number = to_cn_number,
+    to_cn_currency = to_cn_currency
 }
