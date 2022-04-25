@@ -1888,6 +1888,7 @@
 尊师重教	zefj
 自始至终	zeff
 尊师重道	zefdo
+姿势水平	zeep
 自视甚高	zeeg
 坐视不理	zebl
 坐视不管	zebg
@@ -12941,6 +12942,7 @@
 废话连篇	fhlp
 峰回路转	fhlf
 发挥出来	fhjla
+反华急先锋	fhjf
 风华绝代	fhjdu
 放虎归山	fhge
 之乎者也	fhfyo
@@ -16941,6 +16943,7 @@
 早上好	zeh_
 增删改	zeg_
 在上周	zef_
+最顺手	zeeo
 做手术	zee_
 再深的	zedv
 最深的	zedo
@@ -20350,6 +20353,7 @@
 拖油瓶	typ_
 太阳能	tyn_
 陶渊明	tym_
+图一乐	ytl_
 体育课	tyk_
 太阳镜	tyjv
 头一家	tyjo
@@ -20361,7 +20365,8 @@
 头一昏	tyh_
 太阳光	tygv
 头一个	tygo
-体育馆	tygi
+体育馆	tygio
+挑一个	tygi
 同一个	tyg_
 脱衣服	tyfu
 团圆饭	tyfi
@@ -25913,6 +25918,7 @@
 交流会	jlh_
 脊梁骨	jlgo
 经历过	jlg_
+成立者	jlfv
 处理中	jlfu
 家乐福	jlfou
 军令状	jlfo
@@ -27500,11 +27506,12 @@
 高晓松	gxso
 谷氨酸	gxs_
 工休日	gxr_
+感兴趣	gxqvo
 更安全	gxqv
 高新区	gxqo
 个星期	gxqi
 滚雪球	gxqa
-感兴趣	gxq'
+干下去	gxq'
 过下去	gxq_
 革新派	gxp_
 高性能	gxn_
@@ -28365,8 +28372,8 @@
 这下子	fxzo
 中心组	fxzi
 这小子	fxz_
+负效应	fxyuo
 分析仪	fxyu
-只需要	fxyov
 只限于	fxyo
 中西医	fxyivv
 中西药	fxyivi
@@ -28374,7 +28381,7 @@
 中下游	fxyi
 法学院	fxyao
 飞行员	fxya
-负效应	fxy_
+只需要	fxy_
 方向性	fxxo
 哲学系	fxxio
 中小学	fxxii
@@ -34726,8 +34733,8 @@
 做官	zlgt
 作梗	zlgr
 坐瓜	zlgq
-坐过	zlgliv
 作过	zlgli
+坐过	zlgl'
 做过	zlgl
 坐骨	zlgji
 作古	zlgj
@@ -41034,7 +41041,6 @@
 油温	ydwna
 又问	ydwn
 又创	ydwm
-有我	ydwlv
 邮戳	ydwlia
 优渥	ydwli
 由我	ydwl
@@ -41333,6 +41339,7 @@
 诱惑	ydhl
 游湖	ydhj
 有害	ydhh
+有喝	ydhev
 呦呵	ydheo
 有何	ydhe
 油猴	ydhda
@@ -66915,6 +66922,7 @@
 片片	pmpmu
 翩翩	pmpmo
 便便	pmpmi
+骗骗	pmpma
 偏偏	pmpm
 偏颇	pmpl
 偏僻	pmpk
@@ -89012,6 +89020,7 @@
 好硬	hzyg
 豪言	hzyfo
 好言	hzyf
+好耶	hzye
 耗油	hzydv
 好友	hzyd
 豪饮	hzyb
@@ -103532,11 +103541,11 @@
 翻换	ffhtui
 返还	ffhtu
 帆桁	ffhr
-反话	ffhquo
-反华	ffhqui
-繁花	ffhqu
+繁花	ffhqui
+繁华	ffhqu
 泛化	ffhqa
-繁华	ffhq
+反华	ffhq'
+反话	ffhq
 返航	ffhp
 泛黄	ffhm
 返货	ffhl
