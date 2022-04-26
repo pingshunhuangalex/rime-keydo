@@ -22836,7 +22836,8 @@
 苹果派	pgp_
 排骨面	pgm_
 爬过来	pgl_
-皮革城	pgj_
+皮革城	pgja
+凭感觉	pgj_
 拍广告	pgg_
 旁观者	pgf_
 评估师	pge_
@@ -31236,13 +31237,14 @@
 对的上	ddea
 大多数	dde_
 大大的	dddv
-叮叮当	dddo
+叮叮当	dddoo
+懂得多	dddo
 点对点	dddia
 打点滴	dddi
 淡淡的	dddaa
 淡定的	ddda
-大得多	ddd'
-多得多	ddd_
+多得多	ddd'
+大得多	ddd_
 党代表	ddb_
 电磁灶	dcz_
 大草原	dcy_
