@@ -29000,8 +29000,9 @@
 召唤回	fhh_
 指挥官	fhg_
 防护服	fhf_
-只会是	fheo
-这回事	fhe_
+这回事	fheo
+召唤师	fhea
+只会是	fhe_
 发货单	fhda
 止滑垫	fhd_
 指挥棒	fhbi
@@ -89322,8 +89323,8 @@
 耗着	hzfe
 毫州	hzfd
 好少	hzez
-好爽	hzexa
-豪爽	hzex
+豪爽	hzexo
+好爽	hzex
 好傻	hzes
 毫升	hzero
 好生	hzera
@@ -89332,8 +89333,6 @@
 好上	hzep
 豪绅	hzeno
 耗神	hzen
-好爽	hzema
-豪爽	hzem
 好说	hzel
 耗时	hzekv
 嚆矢	hzekou
