@@ -30360,11 +30360,12 @@
 打字机	dzji
 对自己	dzj_
 大杂烩	dzhv
-电子化	dzhi
-钉子户	dzh'
+电子化	dzhia
+钉子户	dzhi
 到最后	dzh_
 电子狗	dzg_
-党组织	dzf_
+党组织	dzfi
+大作战	dzf_
 电子束	dzei
 电子书	dze_
 胆子大	dzd_
@@ -33072,7 +33073,8 @@
 教室	joo
 成为	jou
 城市	jov
-几乎	ju
+就得	ju
+几乎	ju'
 竟然	jua
 阶段	jui
 进入	juo
@@ -83788,8 +83790,7 @@
 就睡	jqeb
 就到	jqdz
 就懂	jqdy
-九吨	jqdwu
-就得	jqdw
+九吨	jqdw
 九段	jqdtu
 就短	jqdto
 就断	jqdt
@@ -89323,8 +89324,8 @@
 耗着	hzfe
 毫州	hzfd
 好少	hzez
-豪爽	hzexo
-好爽	hzex
+好爽	hzexa
+豪爽	hzex
 好傻	hzes
 毫升	hzero
 好生	hzera
