@@ -5222,9 +5222,6 @@
 持之有故	wfyg
 稳中有升	wfye
 嗤之以鼻	wfyb
-无法选择	wfxz
-无法相信	wfxxva
-无法想象	wfxxv
 违法行为	wfxw
 重装系统	wfxtu
 望风而逃	wfxto
@@ -20096,7 +20093,7 @@
 冲锋枪	wfq_
 万智牌	wfp_
 外分泌	wfm_
-吃饭了	wfl_
+违反了	wfl_
 仇者快	wfki
 充值卡	wfk_
 王府井	wfjvov
@@ -24821,6 +24818,7 @@
 礼拜三	lbs_
 礼拜日	lbr_
 篮板球	lbqu
+拎不清	lbqi
 滤波器	lbqaa
 了不起	lbqa
 留不住	lbq_
@@ -26900,6 +26898,7 @@
 和平鸽	hpg_
 很佩服	hpf_
 黄皮书	hpe_
+很偏的	hpdu
 很平淡	hpd_
 很普遍	hpbu
 横排版	hpb_
@@ -32091,11 +32090,12 @@
 不确切	bqqv
 不正确	bqq_
 比去年	bqn_
-板着脸	bqlv
+板着脸	bqlvo
+比起来	bqlv
 冰淇凌	bqloa
 冰淇淋	bqlo
 不准了	bql'
-比起来	bql_
+别劝了	bql_
 补助款	bqk_
 标准件	bqjvo
 不正经	bqjv
@@ -32711,8 +32711,8 @@
 抱大腿	bdt_
 本打算	bdsv
 不打算	bds_
-不打扰	bdrv
-本地人	bdr'
+本地人	bdrv
+不打扰	bdr'
 不丢人	bdr_
 本地区	bdqv
 变电站	bdqo
@@ -33370,6 +33370,7 @@
 讨厌	tvu
 推开	tvv
 得了	ua
+得上	ui
 为了	wa
 我又	wa'
 网络	waa
@@ -33552,7 +33553,8 @@
 这和	fh_
 符合	fh'
 这就	fj_
-父母	fm_
+这没	fm_
+父母	fm'
 这我	fw_
 这一	fy_
 之一	fy'
@@ -80949,6 +80951,7 @@
 看待	kfdh
 看定	kfdg
 看淡	kfdf
+看的	kfdei
 看得	kfde
 看跌	kfdd
 砍掉	kfdc
@@ -84575,7 +84578,8 @@
 坚强	jmqx
 建群	jmqwa
 键准	jmqw
-鉴权	jmqti
+鉴权	jmqtiv
+键圈	jmqti
 涧泉	jmqta
 健全	jmqt
 兼洽	jmqs
@@ -119387,8 +119391,9 @@
 不察	bjwsv
 补差	bjwso
 不差	bjws
-不枉	bjwpv
-不忘	bjwp
+不忘	bjwpv
+不枉	bjwp'
+不往	bjwp
 不吻	bjwnvo
 不闻	bjwnv
 不稳	bjwn'

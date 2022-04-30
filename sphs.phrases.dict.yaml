@@ -578,14 +578,14 @@ sort: original
 别抢	bdqx
 别照	bdqz
 不丢人	bdr
-本地人	bdr
+不打扰	bdr
 别惹	bdre
 不动如山	bdrev
 别入	bdrj
 别让	bdrp
 别扔	bdrr
 别软	bdrt
-不打扰	bdrv
+本地人	bdrv
 不得人心	bdrx
 别扰	bdrz
 不打算	bds
@@ -2923,8 +2923,9 @@ sort: original
 不稳	bjwn
 不闻	bjwnv
 不吻	bjwnvo
-不忘	bjwp
-不枉	bjwpv
+不往	bjwp
+不枉	bjwp
+不忘	bjwpv
 不差	bjws
 补差	bjwso
 不察	bjwsv
@@ -4872,12 +4873,13 @@ sort: original
 不正经	bqjv
 标准件	bqjvo
 补助款	bqk
-比起来	bql
+别劝了	bql
 不准了	bql
 鼻青脸肿	bqlf
 冰淇淋	bqlo
 冰淇凌	bqloa
-板着脸	bqlv
+比起来	bqlv
+板着脸	bqlvo
 兵强马壮	bqmf
 比去年	bqn
 屏气凝神	bqne
@@ -41954,6 +41956,7 @@ sort: original
 行当	hpdp
 杭大	hpds
 航段	hpdt
+很偏的	hpdu
 航道	hpdz
 行道	hpdzu
 巷道	hpdzv
@@ -50734,7 +50737,8 @@ sort: original
 兼洽	jmqs
 健全	jmqt
 涧泉	jmqta
-鉴权	jmqti
+键圈	jmqti
+鉴权	jmqtiv
 筋膜枪	jmqu
 键准	jmqw
 建群	jmqwa
@@ -55640,6 +55644,7 @@ sort: original
 看中的	kfdi
 看重的	kfdiu
 看得	kfde
+看的	kfdei
 看淡	kfdf
 看定	kfdg
 看待	kfdh
@@ -58503,6 +58508,7 @@ sort: original
 联邦政府	lbqfv
 临清	lbqg
 林寨	lbqh
+拎不清	lbqi
 拎起	lbqk
 聊不起来	lbql
 临去	lbqli
@@ -94286,7 +94292,7 @@ sort: original
 纨绔	wfkj
 顽抗	wfkp
 万卡	wfks
-吃饭了	wfl
+违反了	wfl
 顽劣	wfld
 完了	wfle
 玩了	wfle
@@ -94477,9 +94483,6 @@ sort: original
 重装系统	wfxtu
 违法行为	wfxw
 万象	wfxx
-无法想象	wfxxv
-无法相信	wfxxva
-无法选择	wfxz
 嗤之以鼻	wfyb
 万有	wfyd
 玩友	wfydv
