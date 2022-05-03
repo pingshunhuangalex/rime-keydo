@@ -1101,8 +1101,7 @@
 某种意义上	mfyev
 某种程度上	mfjev
 明智的选择	mfdzo
-没什么两样	memya
-没什么意思	mems
+没什么两样	memy
 名师出高徒	mejt
 闷声发大财	mefc
 谋定而后动	mdxdoo
@@ -8519,12 +8518,10 @@
 马失前蹄	meqt
 没事找事	meqe
 名实难副	menf
-没什么用	memy
 某时某刻	memkv
 每时每刻	memk
 马瘦毛长	memja
 毛手毛脚	memj
-没什么事	meme
 麻省理工	melg
 玛莎拉蒂	meld
 面授机宜	mejy
@@ -23985,8 +23982,7 @@
 没商量	melao
 买少了	melai
 马上来	mela
-没谁了	mel'
-没事了	mel_
+没谁了	mel_
 美术课	mek_
 秘书处	meju
 美食家	mejo
@@ -29757,10 +29753,10 @@
 水泥板	enb_
 数目字	emz_
 守门员	emyo
-什么用	emyi
+什么也	emyi
 圣母院	emya
-什么也	emy'
-什么样	emy_
+什么样	emy'
+什么用	emy_
 石墨烯	emxv
 生命线	emx_
 双马尾	emwa
