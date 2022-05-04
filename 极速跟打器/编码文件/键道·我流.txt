@@ -1876,6 +1876,7 @@
 自身难保	zenb
 滋生蔓延	zemy
 醉生梦死	zemsv
+自身利益	zely
 坐失良机	zelj
 增收节支	zejf
 总设计师	zeje
@@ -2295,7 +2296,6 @@
 与我无关	ywwg
 云愁雾惨	ywwc
 尤文图斯	ywts
-有问题的	ywtd
 一无所有	ywsyv
 也无所谓	ywsw
 一无所取	ywsq
@@ -2305,9 +2305,7 @@
 一无所失	ywse
 一无所得	ywsd
 医务人员	ywry
-因为如此	ywrc
 仰卧起坐	ywqz
-因为这样	ywqy
 愿闻其详	ywqx
 摇尾乞怜	ywql
 一往情深	ywqe
@@ -2329,7 +2327,6 @@
 幺五喝六	ywhla
 尤为重要	ywfyv
 言外之意	ywfyo
-因为这样	ywfyi
 亿万富翁	ywfwiv
 业务范围	ywfwi
 勇往直前	ywfq
@@ -2337,7 +2334,6 @@
 永无止境	ywfjo
 义无反顾	ywfg
 用武之地	ywfd
-因为什么	ywem
 一无是处	ywejv
 言传身教	ywejoi
 意味深长	ywejo
@@ -6708,7 +6704,6 @@
 正因如此	qyrc
 千与千寻	qyqx
 确有其事	qyqe
-这样那样	qyny
 主要内容	qynr
 这也难怪	qyng
 朝云暮雨	qymy
@@ -7502,7 +7497,7 @@
 亲生骨肉	qegr
 全神贯注	qegq
 囚首垢面	qegm
-青山刚昌	qegjv
+青山刚昌	qegj
 正是这样	qefy
 亲生父母	qefm
 切实抓好	qefh
@@ -9311,6 +9306,7 @@
 抗震救灾	kqjz
 空前绝后	kqjh
 开展工作	kqgz
+空气炸锅	kqfg
 抗战时期	kqeq
 抗战胜利	kqeli
 口诛笔伐	kqbf
@@ -12073,7 +12069,6 @@
 滚瓜烂熟	gglea
 国共两党	ggld
 改革开放	ggkf
-刚刚开始	ggkei
 公共交通	ggjt
 公共场所	ggjs
 各个击破	ggjp
@@ -12360,7 +12355,6 @@
 风雨飘摇	fypyu
 只言片语	fypy
 枝源派本	fypbv
-这样那样	fynyo
 忠言逆耳	fynx
 重要内容	fynru
 知音难觅	fynmu
@@ -13634,7 +13628,6 @@
 胜券在握	eqzw
 神情自若	eqzro
 顺其自然	eqzr
-是这样子	eqyz
 身轻言微	eqyw
 首屈一指	eqyf
 失去信心	eqxx
@@ -14071,7 +14064,6 @@
 深更半夜	egby
 食古不化	egbhi
 收放自如	efzr
-是这样子	efyzo
 师范院校	efyx
 受制于人	efyr
 受之有愧	efyku
@@ -16877,8 +16869,8 @@
 最根本	zgb_
 租房子	zfzu
 总分总	zfz_
-总费用	zfyo
-最重要	zfy_
+最重要	zfyo
+总费用	zfy_
 自治县	zfxu
 组织性	zfxaa
 组织胺	zfxa
@@ -17436,7 +17428,8 @@
 有人爱	yrx_
 羊肉串	yrwo
 又让我	yrw_
-羊肉汤	yrt_
+羊肉汤	yrto
+有人听	yrt_
 易燃品	yrp_
 一日内	yrnv
 也让你	yrn_
@@ -24928,10 +24921,10 @@
 可持续	kwxvi
 开创性	kwxv
 开玩笑	kwx_
-科威特	kwtu
-考察团	kwt'
+科威特	kwtuv
+考察团	kwtu
 看问题	kwt_
-开车去	kwq_
+看文章	kwq_
 开车门	kwmv
 靠我们	kwm_
 看穿了	kwl_
@@ -25109,9 +25102,8 @@
 可计算	kjsv
 抗菌素	kjsi
 科技司	kjs_
-开车去	kjqv
-空间站	kjqo
-恐惧症	kjq_
+恐惧症	kjqv
+空间站	kjq_
 矿产品	kjp_
 框架内	kjn_
 开车门	kjmv
@@ -25255,9 +25247,9 @@
 考第一	kdyu
 快递员	kdyo
 卡地亚	kdyiv
-肯定要	kdyi
-看电影	kdy'
-看得远	kdy_
+看得远	kdyiu
+看电影	kdyi
+肯定要	kdy_
 可读性	kdx_
 苦丁茶	kdwiv
 卡丁车	kdwi
@@ -27057,10 +27049,10 @@
 好几天	hjt_
 婚介所	hjs_
 好几日	hjr_
-豁出去	hjqo
+火车站	hjqo
 获奖者	hjqi
 混进去	hjqa
-火车站	hjq_
+豁出去	hjq_
 海产品	hjpa
 火车票	hjp_
 好几年	hjn_
@@ -28281,7 +28273,8 @@
 职业性	fyxvi
 专业性	fyxv
 重要性	fyxu
-冯玉祥	fyxov
+冯玉祥	fyxovo
+这样想	fyxov
 装一下	fyxo
 扎伊尔	fyxi
 防御性	fyxau
@@ -33535,6 +33528,7 @@
 是吧	eb_
 上次	ec_
 是的	ed_
+是这	ef_
 是个	eg_
 是和	eh_
 是没	em_
@@ -33681,7 +33675,8 @@
 我人	wr_
 我在	wz_
 而是	xe_
-而能	xn_
+而你	xn_
+而能	xn'
 因此	yc_
 有时	ye_
 一个	yg_
@@ -37031,8 +37026,8 @@
 云台	ywth
 云亭	ywtg
 匀摊	ywtf
-云头	ywtdv
 熨帖	ywtda
+云头	ywtd
 云腿	ywtb
 运送	ywsy
 运算	ywst
@@ -41023,10 +41018,10 @@
 优秀	ydxq
 有恩	ydxn
 有闲	ydxmvo
-有线	ydxmv
+有线	ydxmva
+有限	ydxmv
 攸县	ydxmii
 悠闲	ydxmi
-有限	ydxm'
 优先	ydxm
 有序	ydxl
 有息	ydxkv
@@ -56619,7 +56614,6 @@
 退去	tbql
 退却	tbqh
 推展	tbqf
-推着	tbqe
 推敲	tbqc
 腿勤	tbqb
 退赔	tbpw
@@ -65388,12 +65382,6 @@
 这却	qeqh
 这桥	qeqc
 遮篷	qepr
-这片	qepmo
-这篇	qepm
-这匹	qepko
-这批	qepk
-这瓶	qepg
-这盘	qepf
 蔗农	qeny
 这年	qenm
 浙南	qenf
@@ -65454,9 +65442,6 @@
 折嘎	qegs
 这根	qegn
 遮光	qegmo
-折过	qegl
-这股	qegjo
-鹧鸪	qegj
 遮盖	qegh
 浙赣	qegf
 这够	qegd
@@ -91866,6 +91851,7 @@
 货单	hldf
 火的	hldeo
 活的	hldea
+豁得	hlde'
 活得	hlde
 火斗	hldd
 火堆	hldb
@@ -103785,8 +103771,8 @@
 这却	feqh
 这桥	feqc
 遮篷	fepr
-这片	fepmo
-这篇	fepm
+这篇	fepmo
+这片	fepm
 这匹	fepko
 这批	fepk
 这瓶	fepg
@@ -108311,8 +108297,8 @@
 设想	eexx
 设下	eexs
 射线	eexmu
-设限	eexmo
-涉嫌	eexm
+涉嫌	eexma
+设限	eexm
 社戏	eexk
 舍尔	eexj
 社学	eexh
@@ -136390,8 +136376,8 @@
 咸	xmvuoo
 燹	xmvuou
 现	xmvvia
-恩	xn_
-摁	xni
+恩	xni
+摁	xni'
 恩	xniaoa
 蒽	xnii
 蒽	xniiia
