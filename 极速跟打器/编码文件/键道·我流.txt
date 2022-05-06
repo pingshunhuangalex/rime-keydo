@@ -271,6 +271,7 @@
 女人心，海底针	nrxq
 哪壶不开提哪壶	nhbh
 哪管他人瓦上霜	ngte
+你方唱罢我登场	nfjji
 牛不喝水强按头	nbht
 绵阳外国语学校	mywx
 冒天下之大不韪	mtxwi
@@ -4160,7 +4161,7 @@
 嘘寒问暖	xhwnoo
 寻花问柳	xhwla
 循环往复	xhwfu
-安徽卫视	xhweou
+安徽卫视	xhweo
 悬壶问世	xhwei
 虚怀若谷	xhrg
 新华日报	xhrb
@@ -4175,7 +4176,7 @@
 相互理解	xhljv
 循环经济	xhjju
 新欢旧好	xhjh
-悬壶济世	xhjei
+悬壶济世	xhje
 心怀鬼胎	xhgto
 辛亥革命	xhgm
 相互制约	xhfyv
@@ -16471,6 +16472,7 @@
 仔细听	zxti
 子系统	zxt_
 再而三	zxs_
+砸下去	zxqv
 做下去	zxq_
 做爱片	zxp_
 坐下来	zxl_
@@ -16792,6 +16794,7 @@
 总觉得	zjd_
 最纯粹	zjc_
 最基本	zjb_
+最后再	zhzo
 总会在	zhz_
 怎会有	zhyu
 总会有	zhy_
@@ -20693,9 +20696,10 @@
 叹口气	tkq_
 太可怕	tkpv
 特靠谱	tkp_
-太空棉	tkmv
-土库曼	tkm_
-太酷了	tkl_
+土库曼	tkmv
+太空棉	tkm_
+太酷了	tklv
+太亏了	tkl_
 偷窥狂	tkk_
 提款机	tkj_
 太空灰	tkhv
@@ -20888,6 +20892,7 @@
 他的人	tdr_
 推动者	tdq_
 替代品	tdp_
+太多年	tdnv
 土豆泥	tdn_
 挺倒霉	tdm_
 太多了	tdlv
@@ -24161,6 +24166,7 @@
 老一辈	lybu
 另一边	lybov
 另一半	lybo
+拉一波	lybi
 录音笔	lyba
 捞一把	lyb'
 拉一把	lyb_
@@ -25919,9 +25925,9 @@
 军令状	jlfo
 差旅费	jlf'
 经历着	jlf_
-吉林市	jlev
-出了事	jlea
-吉林省	jle_
+吉林市	jlevv
+吉林省	jlev
+出了事	jle_
 杰拉德	jldvi
 夹链带	jldv
 交流电	jldo
@@ -30069,8 +30075,8 @@
 闪光灯	egd'
 闪光点	egd_
 石膏板	egb_
-谁负责	efzo
-摄制组	efz_
+摄制组	efzi
+谁负责	efz_
 甚至于	efyv
 受制于	efyu
 始终有	efy_
@@ -30547,7 +30553,8 @@
 第二点	dxduv
 第二代	dxdu
 单行道	dxdo
-代销店	dxdi
+代销店	dxdii
+典型的	dxdi
 地下党	dxd_
 第二次	dxc_
 大西北	dxbvv
@@ -45410,8 +45417,8 @@
 哀婉	xhwfoa
 学完	xhwfo
 爱玩	xhwf
-学车	xhweo
-爱车	xhwe
+爱车	xhweu
+学车	xhwe
 血仇	xhwdu
 哀愁	xhwd
 雪桃	xhtzv
@@ -45481,12 +45488,12 @@
 学长	xhqp
 爱钱	xhqmu
 学前	xhqm
-爱去	xhqlu
-学区	xhql
+学区	xhqlo
+爱去	xhql
 血气	xhqkuu
 爱妻	xhqku
-学起	xhqko
-学期	xhqk
+学期	xhqko
+学起	xhqk
 血债	xhqh
 爱卿	xhqguu
 血清	xhqgu
@@ -45647,8 +45654,6 @@
 穴处	xhjj
 艾敬	xhjgi
 雪景	xhjg
-学车	xhjeo
-爱车	xhje
 爱借	xhjdu
 学界	xhjdo
 学姐	xhjd
@@ -71149,6 +71154,7 @@
 酶切	mwqd
 没瞧	mwqc
 没陪	mwpw
+没碰	mwpr
 每篇	mwpmu
 每片	mwpm
 媒婆	mwpl
@@ -71287,6 +71293,7 @@
 没货	mwhla
 魅惑	mwhl
 每户	mwhj
+没坏	mwhg
 枚和	mwhe
 每回	mwhbu
 没回	mwhb
