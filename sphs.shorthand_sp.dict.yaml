@@ -4,6 +4,7 @@ version: "1.0"
 sort: original
 ...
 那又	aa
+那个	ai
 那有	av
 又有	av
 # 不能	ba
@@ -226,6 +227,7 @@ sort: original
 活动	hvv
 上了	ia
 打了	ia
+上个	ii
 上得	iu
 打得	iu
 继续	ja
@@ -544,6 +546,7 @@ sort: original
 推开	tvv
 得了	ua
 得上	ui
+有了	va
 为了	wa
 我又	wa
 网络	waa
