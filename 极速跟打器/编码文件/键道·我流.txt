@@ -1419,6 +1419,7 @@
 打了个电话	dlgh
 得理不饶人	dlbr
 度君子之腹	djzf
+大肠包小肠	djbjv
 灯火阑珊处	dhljo
 顶功输入法	dgef
 大中型企业	dfxyv
@@ -6593,6 +6594,7 @@
 人手一个	reyg
 人是衣妆	reyfi
 人身安全	rexqi
+人生无常	rewj
 弱水三千	resq
 日上三竿	resg
 如上所述	rese
@@ -23548,7 +23550,6 @@
 每星期	mxqu
 明细账	mxqo
 冒险者	mxqi
-没心情	mxqa
 没兴趣	mxq_
 明信片	mxp_
 每学年	mxn_
@@ -27685,7 +27686,8 @@
 敢情好	gqh_
 国企股	gqg_
 感情中	gqf_
-过去时	gqev
+过去时	gqevv
+更正式	gqev
 感情上	gqe_
 关注度	gqdoa
 关注点	gqdo
@@ -60182,7 +60184,7 @@
 热望	rewp
 热吻	rewn
 惹我	rewl
-热舞	rewj
+热舞	rewji
 热车	rewe
 惹它	retsi
 惹她	rets'
@@ -102171,6 +102173,7 @@
 之类	fklw
 之乱	fklto
 治乱	fklt
+支楞	fklruv
 支棱	fklru
 制冷	fklr
 支流	fklqua
