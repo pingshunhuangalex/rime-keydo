@@ -1536,7 +1536,7 @@ sort: original
 病况	bgkm
 病况	bgkx
 不管了	bgl
-不给力	bgl
+不干了	bgl
 办公楼	bgla
 兵临	bglb
 并列	bgld
@@ -1555,14 +1555,15 @@ sort: original
 波光粼粼	bgll
 并联	bglm
 不敢掠美	bglmv
-曝光率	bglo
+别管了	bglo
+曝光率	bgloi
 槟榔	bglp
 冰溜	bglq
 冰冷	bglr
 病啦	bglso
 兵乱	bglt
-不干了	bglv
-不归路	bglv
+不给力	bglv
+不归路	bglvi
 百公里	bglvu
 丙类	bglw
 并论	bglwo
@@ -12251,7 +12252,6 @@ sort: original
 地级市	djeva
 地产商	djevo
 电解质	djf
-等级制	djf
 蛋炒饭	djfa
 点睛之笔	djfb
 赌咒	djfd
@@ -12272,7 +12272,8 @@ sort: original
 毒发	djfs
 读法	djfso
 杜撰	djft
-等级分	djfu
+等级制	djfu
+等级分	djfua
 答记者问	djfw
 独中	djfy
 刀锯斧钺	djfya
@@ -15597,7 +15598,7 @@ sort: original
 墩身	dwenv
 顿生	dwer
 第五十	dweu
-蛋炒饭	dwf
+带我飞	dwf
 弹丸之地	dwfd
 蹲着	dwfe
 顿饭	dwff
@@ -32149,8 +32150,8 @@ sort: original
 跪倒	gbdzo
 鬼刀	gbdzu
 鬼道	gbdzuo
-更不是	gbe
 赶不上	gbe
+顾不上	gbe
 贵手	gbed
 鬼手	gbedu
 贵摄	gbee
@@ -32164,9 +32165,8 @@ sort: original
 跟不上	gbeo
 柜上	gbep
 更别说	gbev
-根本上	gbev
 过半数	gbevo
-顾不上	gbevv
+更不是	gbevv
 归谁	gbew
 归顺	gbewi
 贵霜	gbex
@@ -48001,7 +48001,8 @@ sort: original
 拆招	jhfzi
 脚后跟	jhg
 豺狗	jhgd
-拆改	jhgh
+计划赶不上变化	jhgh
+拆改	jhghi
 拆股	jhgj
 长恨歌	jhgu
 交换婚	jhh
@@ -61533,6 +61534,7 @@ sort: original
 连打	lmdsv
 联大	lmdsvv
 连段	lmdt
+联盟党	lmdv
 联动	lmdy
 连动	lmdyv
 镰刀	lmdz
@@ -111678,7 +111680,6 @@ sort: original
 夜静更深	yjge
 一将功成万骨枯	yjgk
 也就会	yjh
-一句话	yjh
 演唱会	yjha
 以己昏昏，使人昭昭	yjhf
 永绝后患	yjhh
@@ -111687,7 +111688,8 @@ sort: original
 有计划	yjhv
 原计划	yjhv
 研究会	yjhvo
-有句话	yjhvu
+一句话	yjhvu
+有句话	yjhvuo
 衣锦还乡	yjhx
 以旧换新	yjhxa
 有机化学	yjhxv
@@ -119887,7 +119889,6 @@ sort: original
 走啊走	zxz
 最想做	zxzo
 再也不	zyb
-走一步	zyb
 走一步看一步	zybb
 总表	zybc
 早已不是	zybe
@@ -119904,7 +119905,8 @@ sort: original
 再也不能	zybn
 棕绷	zybr
 总把	zybs
-走一遍	zybv
+走一步	zybv
+走一遍	zybvv
 总被	zybw
 再也不用	zyby
 再也不要	zybyv
@@ -119928,6 +119930,7 @@ sort: original
 纵荡	zydp
 总段	zydt
 自由度	zydu
+自由党	zydui
 走一段	zydv
 在野党	zydvi
 总得	zydw
