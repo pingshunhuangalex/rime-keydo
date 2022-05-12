@@ -23360,6 +23360,7 @@
 那时的	neda
 你说的	ned_
 女生版	neb_
+拿单子	ndzi
 闹肚子	ndz_
 尿道炎	ndya
 哪都有	ndy_
@@ -48296,8 +48297,6 @@
 超顶	wzdg
 炒蛋	wzdfo
 超淡	wzdf
-吵得	wzdeo
-炒得	wzde
 超跌	wzdd
 炒掉	wzdc
 晁错	wzcl
@@ -71368,7 +71367,8 @@
 没色	mweh
 没删	mwefa
 眉山	mwef
-每首	mwed
+每首	mwedu
+没收	mwed
 没睡	mweb
 每道	mwdzu
 美刀	mwdzo
@@ -81890,9 +81890,11 @@
 超度	jzdj
 朝代	jzdh
 超顶	jzdg
-炒蛋	jzdfo
-超淡	jzdf
-吵得	jzdeo
+超淡	jzdfv
+炒蛋	jzdf
+吵的	jzdeo
+抄的	jzdei
+吵得	jzde'
 炒得	jzde
 超跌	jzdd
 炒掉	jzdc
@@ -103895,7 +103897,8 @@
 褶皱	fefdo
 这周	fefd
 这双	feex
-折杀	feesi
+折杀	feesiu
+折煞	feesi
 这啥	fees
 哲圣	feer
 浙商	feep
@@ -117166,9 +117169,9 @@
 抱定	bzdgi
 保定	bzdg
 保单	bzdf
-报的	bzdeiu
-薄的	bzdei
-抱的	bzde'
+薄的	bzdeiu
+报的	bzdei'
+抱的	bzdei
 抱得	bzde
 爆豆	bzddo
 暴跌	bzdd

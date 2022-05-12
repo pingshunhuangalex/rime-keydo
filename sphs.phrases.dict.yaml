@@ -6363,9 +6363,9 @@ sort: original
 暴跌	bzdd
 爆豆	bzddo
 抱得	bzde
-抱的	bzde
-薄的	bzdei
-报的	bzdeiu
+抱的	bzdei
+报的	bzdei
+薄的	bzdeiu
 保单	bzdf
 保定	bzdg
 抱定	bzdgi
@@ -24560,7 +24560,8 @@ sort: original
 风生水起	feeq
 哲圣	feer
 这啥	fees
-折杀	feesi
+折煞	feesi
+折杀	feesiu
 智商税	feeu
 置身事外	feew
 这双	feex
@@ -54470,9 +54471,11 @@ sort: original
 炒掉	jzdc
 超跌	jzdd
 炒得	jzde
-吵得	jzdeo
-超淡	jzdf
-炒蛋	jzdfo
+吵得	jzde
+抄的	jzdei
+吵的	jzdeo
+炒蛋	jzdf
+超淡	jzdfv
 超顶	jzdg
 朝代	jzdh
 超度	jzdj
@@ -68239,7 +68242,8 @@ sort: original
 每道	mwdzu
 门卫室	mwe
 没睡	mweb
-每首	mwed
+没收	mwed
+每首	mwedu
 眉山	mwef
 没删	mwefa
 没色	mweh
@@ -69383,6 +69387,7 @@ sort: original
 难得一见	ndyj
 孽缘	ndyt
 闹肚子	ndz
+拿单子	ndzi
 蹑足	ndzj
 镊子	ndzk
 孽子	ndzki
@@ -99413,8 +99418,6 @@ sort: original
 外在的	wzd
 炒掉	wzdc
 超跌	wzdd
-炒得	wzde
-吵得	wzdeo
 超淡	wzdf
 炒蛋	wzdfo
 超顶	wzdg
