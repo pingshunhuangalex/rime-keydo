@@ -3938,7 +3938,7 @@
 相貌平平	xmpp
 爱莫能助	xmnq
 喜马拉雅	xmly
-鞍马劳顿	xmldva
+鞍马劳顿	xmldv
 邪魅狂狷	xmkj
 项目经理	xmjlv
 性命交关	xmjgo
@@ -9956,6 +9956,7 @@
 长期护理	jqhlu
 九曲回肠	jqhju
 究其根源	jqgyo
+建筑公司	jqgs
 建筑工程	jqgja
 建筑工地	jqgda
 极其重要	jqfyv
@@ -11506,7 +11507,8 @@
 工作作风	gzzf
 挂在嘴边	gzzbi
 光宗耀祖	gzyzi
-鼓足勇气	gzyq
+鼓足勇气	gzyqv
+搞在一起	gzyq
 工作原理	gzylv
 工作小组	gzxzv
 工作需要	gzxyv
@@ -17481,7 +17483,8 @@
 元器件	yqj_
 邀请函	yqhu
 运气好	yqh_
-引擎盖	yqg_
+引擎盖	yqga
+邀请过	yqg_
 一张纸	yqf_
 一站式	yqev
 月全食	yqeu
@@ -18905,6 +18908,7 @@
 阿卡林	xkl_
 想看看	xkk_
 新科技	xkj_
+新客户	xkho
 小括号	xkh_
 新课改	xkgo
 欣快感	xkg_
@@ -20713,6 +20717,7 @@
 停车难	tjn_
 堂姐妹	tjm_
 太卷了	tjlvo
+太紧了	tjlvi
 太长了	tjlv
 逃出来	tjlu
 投简历	tjliu
@@ -23960,7 +23965,8 @@
 陌上桑	mes_
 买受人	mera
 陌生人	mer_
-秘书长	meq_
+秘书长	mequ
+没生气	meq_
 墨水屏	mep_
 美少年	meno
 美少女	men_
@@ -24827,10 +24833,11 @@
 两部分	lbf_
 蓝宝石	lbei
 连不上	lbe_
+聊不到	lbdv
 冷板凳	lbdov
 冷不丁	lbdo
 洛必达	lbda
-聊不到	lbd'
+捞不到	lbd'
 轮不到	lbd_
 凉拌菜	lbc_
 李冰冰	lbbv
@@ -26629,8 +26636,9 @@
 好与坏	hyhav
 欢迎会	hyha
 好一会	hyh_
-会员国	hygi
-换一个	hyg_
+会员国	hygio
+换一个	hygi
+还有个	hyg_
 很严重	hyfu
 谎言中	hyfo
 辉映着	hyfio'
@@ -27603,6 +27611,7 @@
 高铁站	gtq_
 罐头瓶	gtp_
 管他呢	gtn_
+给他们	gtm_
 哥特林	gtlv
 古天乐	gtlu
 改天聊	gtl_
@@ -31994,6 +32003,7 @@
 不妥当	btdvu
 不同点	btdvi
 不停的	btdv
+被踢掉	btdo
 拜天地	btdi
 不停地	btd'
 不太对	btd_
@@ -33659,6 +33669,7 @@
 他都	td'
 他是	te_
 他这	tf_
+他和	th_
 他没	tm_
 他能	tn_
 太难	tn'
@@ -43892,11 +43903,12 @@
 先须	xmxl
 纤细	xmxk
 现学	xmxhv
+鲜血	xmxhuu
+衔哀	xmxhuo'
 腺癌	xmxhuo
-衔哀	xmxhu
+献血	xmxhu
 显学	xmxho
-鲜血	xmxh'
-献血	xmxh
+先学	xmxh
 现形	xmxgvv
 现行	xmxgv
 先行	xmxgu
@@ -44076,10 +44088,11 @@
 县令	xmlg
 线缆	xmlf
 闲了	xmle
-现楼	xmldv
-先烈	xmld
+先烈	xmldu
+现楼	xmld
 馅料	xmlcu
-闲聊	xmlc
+闲聊	xmlco
+先聊	xmlc
 咸临	xmlb
 先考	xmkz
 闲空	xmky
@@ -93505,8 +93518,8 @@
 吼道	hddzo
 厚道	hddz
 后盾	hddw
-后端	hddtu
-后段	hddt
+后段	hddtu
+后端	hddt
 厚达	hdds
 后灯	hddr
 后点	hddm
@@ -118980,6 +118993,7 @@
 比照	bkqz
 鼻腔	bkqx
 鼻准	bkqw
+币圈	bkqtu
 比全	bkqt
 必争	bkqr
 壁球	bkqq
@@ -119147,6 +119161,7 @@
 逼格	bkge
 壁柜	bkgb
 比照	bkfz
+币种	bkfyu
 必中	bkfyo
 比重	bkfy
 必装	bkfx
@@ -119220,9 +119235,10 @@
 笔袋	bkdh
 必定	bkdg
 避弹	bkdf
-逼得	bkdev
+逼的	bkdev
 彼得	bkdeu
-必得	bkde
+必得	bkdeo
+逼得	bkde
 鼻窦	bkddu
 必跌	bkddo
 比斗	bkdd
@@ -119827,8 +119843,8 @@
 补洞	bjdyo
 不懂	bjdy
 不端	bjdt
-不大	bjdsv
-不搭	bjds
+不搭	bjdsv
+不大	bjds
 补登	bjdro
 不等	bjdr
 不丢	bjdq
@@ -119837,8 +119853,8 @@
 补点	bjdm
 不躲	bjdlv
 不多	bjdl
-不低	bjdkv
-不敌	bjdk
+不敌	bjdkv
+不低	bjdk
 不独	bjdjv
 不读	bjdj
 不待	bjdhvu
