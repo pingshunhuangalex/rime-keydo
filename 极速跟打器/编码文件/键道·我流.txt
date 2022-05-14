@@ -9437,6 +9437,7 @@
 跨凤乘鸾	kfjlo
 开发环境	kfhjv
 狂风骤雨	kffyu
+口腹之欲	kffyo
 夸父追日	kffrv
 开闸放水	kffev
 开放世界	kfejvo
@@ -17541,6 +17542,7 @@
 一年内	ynn_
 也那么	ynm_
 一年里	ynl_
+也能看	ynk_
 一年级	ynj_
 有内涵	ynh_
 也难怪	ynga
@@ -20186,7 +20188,8 @@
 超低空	wdk_
 舞蹈家	wdjuo
 稳定剂	wdju
-温度计	wdj_
+温度计	wdja
+捂得紧	wdj_
 武道会	wdhv
 晚的话	wdh_
 传达给	wdgi
@@ -25424,9 +25427,10 @@
 金银花	jyhi
 产业化	jyh_
 成员国	jygv
+举一个	jygo
 挤牙膏	jygi
 绩优股	jyga
-举一个	jyg_
+加一个	jyg_
 九月份	jyfu
 记忆中	jyfo
 经营者	jyfa
@@ -26875,6 +26879,7 @@
 何其多	hqd_
 华强北	hqbi
 后勤部	hqb_
+好便宜	hpy_
 很普通	hpt_
 活菩萨	hps_
 黄浦区	hpqv
@@ -30735,7 +30740,8 @@
 躲起来	dql'
 多起来	dql_
 打折扣	dqk_
-东正教	dqj_
+东正教	dqjv
+地主家	dqj_
 大气候	dqhv
 打招呼	dqhi
 电气化	dqh_
@@ -31155,11 +31161,12 @@
 读书人	dero
 低收入	deri
 当事人	der_
-短时期	dequ
+短时期	dequo
+戴上去	dequi
+多收钱	dequ
 订书针	deqoa
 定时器	deqo
 董事长	deqi
-戴上去	deq'
 多少钱	deq_
 多数派	depuo
 短视频	depu
@@ -32592,7 +32599,8 @@
 别犯贱	bfjo
 别着急	bfj_
 不发出	bfj'
-百分号	bfhv
+百分号	bfhvu
+不反华	bfhv
 包装盒	bfhu
 暴发户	bfho
 北方话	bfhi
@@ -38323,9 +38331,9 @@
 玉龙	yllyv
 裕隆	yllyo
 鱼龙	ylly
-余粮	yllxio
+雨量	yllxv
 余量	yllxi
-雨量	yllx
+余粮	yllx
 鱼雷	yllwuv
 鱼类	yllwu
 舆论	yllw
@@ -51471,8 +51479,9 @@
 五角	wjjcv
 屋角	wjjca
 午觉	wjjc
-五金	wjjbv
-无尽	wjjb
+五金	wjjbvi
+无尽	wjjbv
+捂紧	wjjb
 五红	wjhy
 五荒	wjhx
 五黑	wjhwv
@@ -103574,10 +103583,10 @@
 翻换	ffhtui
 返还	ffhtu
 帆桁	ffhr
-繁花	ffhqui
+反华	ffhqui
+繁花	ffhqu'
 繁华	ffhqu
 泛化	ffhqa
-反华	ffhq'
 反话	ffhq
 返航	ffhp
 泛黄	ffhm

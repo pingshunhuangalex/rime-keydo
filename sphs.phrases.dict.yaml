@@ -1016,7 +1016,8 @@ sort: original
 版画	bfhq
 班花	bfhqv
 包装盒	bfhu
-百分号	bfhv
+不反华	bfhv
+百分号	bfhvu
 变着花样	bfhy
 办好	bfhz
 白纸黑字	bfhzu
@@ -10841,7 +10842,6 @@ sort: original
 短视频	depu
 多数派	depuo
 多少钱	deq
-戴上去	deq
 的亲	deqb
 德勤	deqbu
 的桥	deqc
@@ -10863,7 +10863,9 @@ sort: original
 得球	deqq
 德政	deqr
 得证	deqru
-短时期	dequ
+多收钱	dequ
+戴上去	dequi
+短时期	dequo
 当事人	der
 低收入	deri
 德汝	derj
@@ -14148,7 +14150,7 @@ sort: original
 大展宏图	dqht
 大气候	dqhv
 丢荒	dqhx
-东正教	dqj
+地主家	dqj
 丢尽	dqjb
 丢进	dqjbu
 打起精神	dqje
@@ -14159,6 +14161,7 @@ sort: original
 地主阶级	dqjjv
 丢局	dqjl
 单亲家庭	dqjt
+东正教	dqjv
 打折扣	dqk
 丢课	dqke
 丢开	dqkh
@@ -25082,10 +25085,10 @@ sort: original
 这番话	ffhou
 返航	ffhp
 反话	ffhq
-反华	ffhq
 泛化	ffhqa
 繁华	ffhqu
-繁花	ffhqui
+繁花	ffhqu
+反华	ffhqui
 夫复何求	ffhqv
 帆桁	ffhr
 反复横跳	ffht
@@ -42057,6 +42060,7 @@ sort: original
 航行	hpxg
 航线	hpxm
 航向	hpxx
+好便宜	hpy
 和平演变	hpyb
 呼朋引伴	hpybo
 航油	hpyd
@@ -54288,7 +54292,7 @@ sort: original
 九月份	jyfu
 交易中心	jyfx
 沉冤昭雪	jyfxa
-举一个	jyg
+加一个	jyg
 绩优股	jyga
 教育工作者	jygf
 教育改革	jygg
@@ -54297,6 +54301,7 @@ sort: original
 基因工程	jygjv
 经营管理	jygl
 产业革命	jygm
+举一个	jygo
 教育工作者	jygq
 加油鼓掌	jygqa
 紧要关头	jygt
@@ -55704,6 +55709,7 @@ sort: original
 看庄	kffx
 看中	kffy
 看重	kffyi
+口腹之欲	kffyo
 狂风骤雨	kffyu
 看招	kffz
 咖啡馆	kfg
@@ -93604,7 +93610,8 @@ sort: original
 丑化	wdhqa
 抽换	wdht
 武道会	wdhv
-温度计	wdj
+捂得紧	wdj
+温度计	wdja
 抽筋	wdjb
 酬金	wdjbv
 臭脚	wdjc
@@ -95217,8 +95224,9 @@ sort: original
 五红	wjhy
 赤橙黄绿青蓝紫	wjhz
 文件夹	wjj
-无尽	wjjb
-五金	wjjbv
+捂紧	wjjb
+无尽	wjjbv
+五金	wjjbvi
 午觉	wjjc
 屋角	wjjca
 五角	wjjcv
@@ -113255,9 +113263,9 @@ sort: original
 舆论	yllw
 鱼类	yllwu
 鱼雷	yllwuv
-雨量	yllx
+余粮	yllx
 余量	yllxi
-余粮	yllxio
+雨量	yllxv
 鱼龙	ylly
 裕隆	yllyo
 玉龙	yllyv
@@ -113732,6 +113740,7 @@ sort: original
 也难怪	ynga
 有内涵	ynh
 一年级	ynj
+也能看	ynk
 一年里	ynl
 也那么	ynm
 一年内	ynn
