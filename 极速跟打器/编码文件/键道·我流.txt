@@ -82,6 +82,7 @@
 恃美扬威，恃美而骄	emyj
 盛名之下，其实难副	emff
 社会主义核心价值观	ehqg
+身怀利器，杀心自起	ehlq
 手中有粮，心中不慌	efyh
 食之无味，弃之可惜	efwx
 失之东隅，收之桑榆	efdyu
@@ -104929,6 +104930,7 @@
 沙俄	esxe
 沙鸥	esxd
 傻笑	esxc
+杀心	esxb
 杀虫	eswy
 砂川	eswt
 傻娃	eswsia
