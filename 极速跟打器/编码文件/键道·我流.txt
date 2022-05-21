@@ -14217,10 +14217,10 @@
 身手不凡	eebfu
 实施办法	eebfo
 师道尊严	edzy
-说到做到	edzdo
+说到做到	edzd
 圣地亚哥	edyga
-说得也是	edyeou
-说得也对	edydo
+说得也是	edye
+说得也对	edyd
 生动形象	edxxu
 数典忘祖	edwzo
 深得我心	edwx
@@ -108568,7 +108568,7 @@
 收载	edzha
 守在	edzh
 守则	edze
-收走	edzd
+收走	edzda
 受罪	edzb
 受邀	edyzu
 兽药	edyzo
@@ -108594,11 +108594,11 @@
 守约	edyh
 首映	edyg
 首演	edyf
-守夜	edyeo
+守夜	edyeoo
+首页	edyeo
 授业	edyei
-首页	edye
+手游	edydi
 收有	edyda
-手游	edyd
 手淫	edybia
 手印	edybi
 收音	edyba
