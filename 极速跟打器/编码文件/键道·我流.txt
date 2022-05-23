@@ -15824,15 +15824,15 @@
 便利商店	bledi
 薄利多销	bldx
 波罗的海	bldh
-不了多少	bldev
 闭路电视	bldeo
 勃兰登堡	bldb
 不吝赐教	blcj
 表里不一	blby
 不老不死	blbs
 不冷不热	blbr
+不离不弃	blbqv
 变来变去	blbqo
-不离不弃	blbq
+搬来搬去	blbq
 不伦不类	blblv
 巴拉巴拉	blbla
 哔哩哔哩	blbl
