@@ -42,6 +42,8 @@
 晓之以理，动之以情	xfyq
 创业未半而中道崩殂	wywc
 仇人相见，分外眼红	wrxh
+吃着碗里，瞧着锅里	wfwl'
+吃着碗里，看着锅里	wfwl
 为中华之崛起而读书	wfheo
 我不入地狱谁入地狱	wbry
 桃李不言，下自成蹊	tlbx
@@ -110,9 +112,7 @@
 以经济建设为中心	yjjx
 阿拉伯联合酋长国	xlbg
 新疆维吾尔自治区	xjwq
-吃着碗里瞧着锅里	wqwlo
 我整个人都不好了	wqglu
-吃着碗里瞧着锅里	wfwl
 三人行，必有我师	srxe
 人民代表大会制度	rmdd
 朝闻道，夕死可矣	qwdy
@@ -19752,10 +19752,10 @@
 传染病	wrb_
 往前走	wqz_
 无助于	wqy_
-无穷小	wqxv
+无穷小	wqxvo
+无障碍	wqxv
 文曲星	wqxoi
 完整性	wqxo
-无障碍	wqx'
 重启下	wqx_
 为前提	wqt_
 围棋赛	wqs_
@@ -22160,7 +22160,6 @@
 敲了敲	qlq_
 战利品	qlp_
 前两年	qln_
-这里面	qlmo
 千里马	qlm_
 真理论	qllu
 确立了	qll_
@@ -22176,8 +22175,9 @@
 齐刘海	qlho
 展览会	qlh_
 禽流感	qlgi
-潜力股	qlga
-展览馆	qlg_
+潜力股	qlgaa
+展览馆	qlga
+清理过	qlg_
 情侣装	qlfo
 侵略者	qlfi
 争论中	qlf_
@@ -28795,8 +28795,7 @@
 菲利普	flpi
 飞利浦	flp_
 中老年	fln_
-费洛蒙	flma
-这里面	flm_
+费洛蒙	flm_
 殖利率	fllv
 费列罗	fllav
 法拉利	flla
@@ -97782,7 +97781,8 @@
 各路	gelj
 各来	gelh
 各栏	gelf
-隔了	gele
+隔了	gelea
+割了	gele
 阁楼	geldo
 割裂	geld
 阁僚	gelc
