@@ -3478,6 +3478,7 @@
 小有名气	xymq
 硝烟弥漫	xymm
 心有灵犀	xylx
+悬崖勒马	xylm
 兴意阑珊	xyleo
 行云流水	xyle
 想用就用	xyjy
@@ -18366,13 +18367,13 @@
 下一站	xyq_
 消炎片	xyp_
 校园内	xyn_
-喜盈门	xymv
-形音码	xym'
+喜盈门	xymva
+形音码	xymv
 下一秒	xym
 匈牙利	xylu
-新一轮	xylov
-吸引了	xylo
-吸引力	xyl_
+吸引力	xyloa
+新一轮	xylo
+吸引了	xyl_
 下一刻	xykv
 信用卡	xyk_
 下页键	xyjvv
