@@ -1,14 +1,6 @@
 # Rime全局自定义设置
 # encoding: utf-8
 
-customization:
-  distribution_code_name: Weasel
-  distribution_version: 0.14.3
-  generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Feb 25 21:56:19 2021"
-  rime_version: 1.5.3
-
-
 patch:
   ascii_composer: # 英文模式配置
     good_old_caps_lock: false # 用`Caps Lock`切换英文模式时，是否激活大写锁定（默认关闭）
