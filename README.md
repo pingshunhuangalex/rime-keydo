@@ -4,7 +4,7 @@
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
 
-![Colemak-DH Matrix Layout](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/preview/colemak_dh_matrix_layout_keydo.png)
+![Colemak-DH Matrix Layout](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/customisation/preview/colemak_dh_matrix_layout_keydo.png)
 
 作为一款独立的输入方案，用户只需在[下载安装Rime]后将本仓库覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。
 
@@ -184,6 +184,6 @@
 [Rime开源输入平台]: https://github.com/rime
 [Rime键道输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
 [下载安装Rime]: https://rime.im/download/
-[自定义主题]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/weasel.custom.yaml
+[自定义主题]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/customisation/windows/weasel.custom.yaml
 [词库结构]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/keydo.dict.yaml
-[编码文件]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/%E6%9E%81%E9%80%9F%E8%B7%9F%E6%89%93%E5%99%A8/%E7%BC%96%E7%A0%81%E6%96%87%E4%BB%B6/%E9%94%AE%E9%81%93%C2%B7%E6%88%91%E6%B5%81.txt
+[编码文件]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/customisation/%E6%9E%81%E9%80%9F%E8%B7%9F%E6%89%93%E5%99%A8/%E7%BC%96%E7%A0%81%E6%96%87%E4%BB%B6/%E9%94%AE%E9%81%93%C2%B7%E6%88%91%E6%B5%81.txt
