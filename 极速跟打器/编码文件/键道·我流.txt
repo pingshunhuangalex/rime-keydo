@@ -36061,8 +36061,8 @@
 邹平	zdpg
 走票	zdpc
 走哪	zdns
-走你	zdnkv
-揍你	zdnk
+揍你	zdnki
+走你	zdnk
 走吗	zdms
 走摸	zdml
 奏明	zdmg
@@ -36071,6 +36071,7 @@
 走留	zdlq
 走廊	zdlp
 走路	zdlj
+揍了	zdlei
 走了	zdle
 走漏	zdld
 奏凯	zdkhv
