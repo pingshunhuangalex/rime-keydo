@@ -1,3 +1,5 @@
+local castings = sphs_constants.castings
+
 -- 在特定的函数池中，根据函数识别名称运行对应函数
 --- @generic K, V
 --- @param case_id string
@@ -39,6 +41,14 @@ end
 --- @return boolean
 local function starts_with(text, prefix)
     return text:sub(1, #prefix) == prefix
+end
+
+-- 判断字符串是否含有固定后缀
+--- @param text string
+--- @param suffix string
+--- @return boolean
+local function ends_with(text, suffix)
+    return text:sub(-#suffix) == suffix
 end
 
 -- 判断编码字符串是否由特定编码结尾
@@ -96,9 +106,19 @@ end
 local function split(text, delimiter)
     local result = {};
 
+    -- 若字符串以分隔符为开头，则将首字段定义为“空项”（`""`）
+    if (starts_with(text, delimiter)) then
+        table.insert(result, "")
+    end
+
     -- 遍历字符串中的非分隔符字段并逐一将其插入表格
     for match in (text .. delimiter):gmatch("([^" .. delimiter .. "]+)") do
         table.insert(result, match)
+    end
+
+    -- 若字符串以分隔符为结尾，则将末字段定义为“空项”（`""`）
+    if (ends_with(text, delimiter)) then
+        table.insert(result, "")
     end
 
     return result;
@@ -118,12 +138,29 @@ end
 
 -- 在特定的变换池中，根据映射规则将罗马数字替换为中文数字
 --- @param text string
---- @param is_casual boolean
+--- @param is_formal? boolean
 --- @return string
-local function to_cn_number(text, is_casual)
-    local number_segs = split(text, ".")
+local function to_cn_number(text, is_formal)
+    local delimiter = "."
+    local number_segs = split(text, delimiter)
+    local segs_size = #number_segs
 
-    return text
+    if (segs_size ~= 1 and segs_size ~= 2) then
+        return text
+    end
+
+    local integral = number_segs[1]
+    local integral_size = #integral
+    local fractional = number_segs[2]
+
+    local index = 1
+    local digit_index = integral_size - index + 1
+
+    local integral_cn = integral:gsub(".", function(digit)
+        return digit
+    end)
+
+    return text .. castings.number_symbols[delimiter] .. to_cn_digits(fractional, castings.number_digits_verbal)
 end
 
 -- 在特定的变换池中，根据映射规则将罗马数字替换为中文货币
@@ -139,6 +176,7 @@ return {
     switch = switch,
     is_valid = is_valid,
     starts_with = starts_with,
+    ends_with = ends_with,
     ends_with_code = ends_with_code,
     has_cn_chars = has_cn_chars,
     get_char = get_char,

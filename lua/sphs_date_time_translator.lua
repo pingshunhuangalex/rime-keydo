@@ -3,6 +3,7 @@ local formatters = sphs_constants.formatters
 
 local switch = sphs_modules.switch
 local to_cn_digits = sphs_modules.to_cn_digits
+local to_cn_number = sphs_modules.to_cn_number
 
 local DATE_TYPE = "date" -- 日期与时间所对应的候选项类型字符串
 
