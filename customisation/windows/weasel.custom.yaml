@@ -15,7 +15,7 @@ patch:
     hilited_label_color: 0x6a8cf7 # 高亮候选项序号字体颜色
     hilited_text_color: 0xea92c7 # 输入区高亮部分（编码）字体颜色
     label_color: 0x797979 # 候选项序号字体颜色
-    name: Keydo # 主题名称
+    name: 键道·我流／SPHS # 主题名称
     text_color: 0xffaa82 # 输入区字体颜色
   style: # 主题配置
     color_scheme: keydo # 主题识别名称（用于代码引用）
