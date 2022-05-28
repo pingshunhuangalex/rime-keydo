@@ -2,4 +2,7 @@
 # encoding: utf-8
 
 # patch:
-#   style/layout/margin_y: 12 # 用于显示候选区
+#   style:
+#     label_format: "%s " # 显示候选项序号
+#     layout:
+#       margin_y: 12 # 显示候选区

@@ -26,7 +26,7 @@ patch:
     fullscreen: false # 是否开启全屏模式（默认关闭）
     horizontal: true # 候选项是否横排（默认横排）
     inline_preedit: true # 是否开启输入区嵌入（默认开启）
-    label_format: "%s " # 候选项序号格式
+    label_format: "" # 候选项序号格式（格式为“空项”时隐藏候选项序号）
     layout: # 主题布局配置
       border: 2 # 主题边框粗细
       candidate_spacing: 20 # 候选项间距
