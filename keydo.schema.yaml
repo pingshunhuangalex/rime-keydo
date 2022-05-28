@@ -1,9 +1,9 @@
-﻿# 键道·我流@SPHS默认设置
+﻿# 键道·我流默认设置
 # encoding: utf-8
 
 # 输入方案概要
 schema:
-  schema_id: sphs # 方案识别名称（用于代码引用）
+  schema_id: keydo # 方案识别名称（用于代码引用）
   name: 键道·我流 # 方案显示名称（用于方案切换）
   version: "1.0" # 版本号
   author: # 方案作者（在Rime中勾选方案时会予以显示）
@@ -34,7 +34,7 @@ engine:
     - recognizer # 与matcher搭配，处理特定结构的编码（计算器、编码反查等）
     - key_binder # 绑定按键并赋予功能（或重新定义按键本身）
     - lua_processor@topup_processor # 顶功处理器 -> 判断是否顶功与顶功的内容（顶功逻辑应优先于`speller`逻辑）
-    - lua_processor@sphs_select_processor # 选择处理器 -> 使特定按键可以选择特定候选项（单引号、斜杠等）
+    - lua_processor@keydo_select_processor # 选择处理器 -> 使特定按键可以选择特定候选项（单引号、斜杠等）
     - speller # 将输入编码根据拼写运算规则编辑输入区
     - punctuator # 与`punct_segmentor`搭配，将特定按键映射为标点符号（逗号、句号等）
     - selector # 将特定按键映射为选择键（数字键、上/下方向键、`PageUp`/`PageDown`等）
@@ -50,11 +50,11 @@ engine:
     - punct_translator # 句读转换器 -> 根据标点符号配置将特定按键映射为标点符号
     - history_translator@repeat_history # 历史转换器 -> 储存或调取历史输入候选项
     - table_translator@char_lookup # 码表转换器 -> 通过编码查询词库（基于输入方案本身）
-    - lua_translator@sphs_date_time_translator # 日期与时间转换器 -> 获取当前日期与时间
+    - lua_translator@keydo_date_time_translator # 日期与时间转换器 -> 获取当前日期与时间
     - lua_translator@number_translator # 数字转换器 -> 将阿拉伯数字转换为对应汉字或进行运算
   filters: # 过滤器 -> 将转换好的候选项进行过滤（增删改查）
     - uniquifier # 去重过滤器 -> 过滤重复的候选项（历史模式中相邻两项可重复一次，即重复连续输入）
-    - lua_filter@sphs_cand_filter # 优化唯一项自动上屏以及历史模式中的候选项过滤与去重
+    - lua_filter@keydo_cand_filter # 优化唯一项自动上屏以及历史模式中的候选项过滤与去重
     - reverse_lookup_filter@char_lookup # 反查过滤器 -> 用特定码表来反查词库中的编码
 
 
@@ -105,12 +105,12 @@ speller:
 
 # 将特定字符映射为标点符号或文字处理句读键、数字键
 punctuator:
-  import_preset: sphs.punct # 导入标点符号配置
+  import_preset: keydo.punct # 导入标点符号配置
 
 
 # 将划分好的编码段转换为对应候选项
 translator:
-  dictionary: sphs # 指定转换器所使用的词库
+  dictionary: keydo # 指定转换器所使用的词库
   enable_charset_filter: false # 是否开启字符集过滤
   enable_completion: true # 是否提前显示尚未输入完整编码的字
   enable_encoder: false # 是否开启自动造词
@@ -129,7 +129,7 @@ repeat_history:
 
 # 通过编码查询词库（基于输入方案本身）
 char_lookup:
-  dictionary: sphs # 指定编码查询所使用的词库
+  dictionary: keydo # 指定编码查询所使用的词库
   tags: [ char_lookup ] # 指定编码查询所对应的标识
   overwrite_comment: true # 是否允许覆写编码提示
   enable_charset_filter: false # 是否开启字符集过滤

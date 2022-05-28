@@ -3,8 +3,11 @@
 # miscnpm
 .DS_Store
 
-# production
+# Rime configs
 build
+sync
 
-# user database
+# user configs
+installation.yaml
+user.yaml
 *.userdb

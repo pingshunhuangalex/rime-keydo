@@ -1,10 +1,10 @@
-local is_valid = sphs_modules.is_valid
-local starts_with = sphs_modules.starts_with
-local ends_with_code = sphs_modules.ends_with_code
-local has_cn_chars = sphs_modules.has_cn_chars
-local get_char = sphs_modules.get_char
+local is_valid = keydo_modules.is_valid
+local starts_with = keydo_modules.starts_with
+local ends_with_code = keydo_modules.ends_with_code
+local has_cn_chars = keydo_modules.has_cn_chars
+local get_char = keydo_modules.get_char
 
-local force_commit = sphs_utils.force_commit
+local force_commit = keydo_utils.force_commit
 
 -- 候选过滤器
 -- - 历史模式候选项过滤（Rime历史模式允许记录所有输入字符，如标点、表情、英文字母等）
@@ -83,7 +83,7 @@ end
 local function init(env)
     local config = env.engine.schema.config
 
-    env.reverse_dict = ReverseDb("build/sphs.reverse.bin") -- 从编译文件中获取反查词库
+    env.reverse_dict = ReverseDb("build/keydo.reverse.bin") -- 从编译文件中获取反查词库
 
     -- 从设置中读取自动上屏设置
     env.has_auto_select = (config:get_bool("speller/auto_select") and

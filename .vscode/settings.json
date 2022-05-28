@@ -3,11 +3,11 @@
         "ReverseDb",
         "Candidate",
         "yield",
-        "sphs_constants",
-        "sphs_modules",
-        "sphs_utils",
-        "sphs_select_processor",
-        "sphs_date_time_translator",
-        "sphs_cand_filter"
+        "keydo_constants",
+        "keydo_modules",
+        "keydo_utils",
+        "keydo_select_processor",
+        "keydo_date_time_translator",
+        "keydo_cand_filter"
     ]
 }

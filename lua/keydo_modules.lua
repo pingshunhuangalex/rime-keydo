@@ -1,4 +1,4 @@
-local castings = sphs_constants.castings
+local castings = keydo_constants.castings
 
 -- 在特定的函数池中，根据函数识别名称运行对应函数
 --- @generic K, V

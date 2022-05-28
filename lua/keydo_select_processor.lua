@@ -1,10 +1,10 @@
-local results = sphs_constants.results
+local results = keydo_constants.results
 
-local starts_with = sphs_modules.starts_with
+local starts_with = keydo_modules.starts_with
 
-local is_key = sphs_utils.is_key
-local is_pressed = sphs_utils.is_pressed
-local force_select = sphs_utils.force_select
+local is_key = keydo_utils.is_key
+local is_pressed = keydo_utils.is_pressed
+local force_select = keydo_utils.force_select
 
 local SELECT1_KEY = " " -- 首选键字符串
 local SELECT2_KEY = "'" -- 次选键字符串

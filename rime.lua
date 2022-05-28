@@ -18,16 +18,16 @@
 ----------------
 
 -- 常量
-sphs_constants = require("sphs_constants")
+keydo_constants = require("keydo_constants")
 
 -- 常用组件
-sphs_modules = require("sphs_modules")
+keydo_modules = require("keydo_modules")
 
 -- 逻辑封装
-sphs_utils = require("sphs_utils")
+keydo_utils = require("keydo_utils")
 
 --------------------------
--- 键道·我流@SPHS逻辑块 --
+-- 键道·我流逻辑块 --
 --------------------------
 
 -- `processor = (key_event: KeyEvent, env) => void`
@@ -38,14 +38,14 @@ sphs_utils = require("sphs_utils")
 topup_processor = require("for_topup")
 
 -- 选择处理器
-sphs_select_processor = require("sphs_select_processor")
+keydo_select_processor = require("keydo_select_processor")
 
 -- `translator = (input: string, seg: Segment, env) => void`
 -- - 转换器 -> 将划分好的编码段转换为对应候选项
 -- - https://github.com/rime/librime/blob/master/src/rime/translator.h
 
 -- 日期与时间转换器
-sphs_date_time_translator = require("sphs_date_time_translator")
+keydo_date_time_translator = require("keydo_date_time_translator")
 
 -- 数字转换器：将阿拉伯数字转换为对应汉字（由`=`引导）
 number_translator = require("xnumber")
@@ -55,4 +55,4 @@ number_translator = require("xnumber")
 -- - https://github.com/rime/librime/blob/master/src/rime/filter.h
 
 -- 候选过滤器
-sphs_cand_filter = require("sphs_cand_filter")
+keydo_cand_filter = require("keydo_cand_filter")

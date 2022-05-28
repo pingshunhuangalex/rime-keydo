@@ -1,4 +1,4 @@
-local results = sphs_constants.results
+local results = keydo_constants.results
 
 -- [处理器]判断按键是否为目标键位
 --- @param key string | nil

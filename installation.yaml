@@ -1,9 +1,6 @@
 distribution_code_name: Weasel
 distribution_name: "小狼毫"
 distribution_version: 0.14.3
-install_time: "Thu Feb 25 18:05:57 2021"
+install_time: "Sat May 28 12:50:59 2022"
+installation_id: "e028aee5-b7a3-439e-9268-fd610e1fccd2"
 rime_version: 1.5.3
-
-
-installation_id: "SPHS" # 备份识别名称
-sync_dir: "E:\\Google Drive\\Sterile Zone\\Backup\\Keebs\\Rime" # 备份同步目录

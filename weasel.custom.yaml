@@ -10,7 +10,7 @@ customization:
 
 
 patch:
-  preset_color_schemes/sphs: # 主题样式（`0xBBGGRR`）
+  preset_color_schemes/keydo: # 主题样式（`0xBBGGRR`）
     author: SPHS # 主题作者
     back_color: 0x212121 # 主题背景颜色
     border_color: 0x373737 # 主题边框颜色
@@ -23,10 +23,10 @@ patch:
     hilited_label_color: 0x6a8cf7 # 高亮候选项序号字体颜色
     hilited_text_color: 0xea92c7 # 输入区高亮部分（编码）字体颜色
     label_color: 0x797979 # 候选项序号字体颜色
-    name: SPHS # 主题名称
+    name: Keydo # 主题名称
     text_color: 0xffaa82 # 输入区字体颜色
   style: # 主题配置
-    color_scheme: sphs # 主题识别名称（用于代码引用）
+    color_scheme: keydo # 主题识别名称（用于代码引用）
     corner_radius: 4 # 候选区圆角半径（不支持Windows）
     display_tray_icon: false # 是否显示托盘图标（默认隐藏）
     font_face: "Sarasa Mono SC" # 主题字体样式
