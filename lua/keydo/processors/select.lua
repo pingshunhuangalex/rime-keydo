@@ -1,10 +1,14 @@
-local results = keydo_constants.results
+local constants = require("constants")
+local utils = require("utils")
+local helpers = require("helpers")
 
-local starts_with = keydo_modules.starts_with
+local results = constants.results
 
-local is_key = keydo_utils.is_key
-local is_pressed = keydo_utils.is_pressed
-local force_select = keydo_utils.force_select
+local starts_with = utils.starts_with
+
+local is_key = helpers.is_key
+local is_pressed = helpers.is_pressed
+local force_select = helpers.force_select
 
 local SELECT1_KEY = " " -- 首选键字符串
 local SELECT2_KEY = "'" -- 次选键字符串

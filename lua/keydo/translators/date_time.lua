@@ -1,9 +1,12 @@
-local castings = keydo_constants.castings
-local formatters = keydo_constants.formatters
+local constants = require("constants")
+local utils = require("utils")
 
-local switch = keydo_modules.switch
-local to_cn_digits = keydo_modules.to_cn_digits
-local to_cn_number = keydo_modules.to_cn_number
+local castings = constants.castings
+local formatters = constants.formatters
+
+local switch = utils.switch
+local to_cn_digits = utils.to_cn_digits
+local to_cn_number = utils.to_cn_number
 
 local DATE_TYPE = "date" -- 日期与时间所对应的候选项类型字符串
 

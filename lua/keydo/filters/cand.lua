@@ -1,10 +1,13 @@
-local is_valid = keydo_modules.is_valid
-local starts_with = keydo_modules.starts_with
-local ends_with_code = keydo_modules.ends_with_code
-local has_cn_chars = keydo_modules.has_cn_chars
-local get_char = keydo_modules.get_char
+local utils = require("utils")
+local helpers = require("helpers")
 
-local force_commit = keydo_utils.force_commit
+local is_valid = utils.is_valid
+local starts_with = utils.starts_with
+local ends_with_code = utils.ends_with_code
+local has_cn_chars = utils.has_cn_chars
+local get_char = utils.get_char
+
+local force_commit = helpers.force_commit
 
 -- 候选过滤器
 -- - 历史模式候选项过滤（Rime历史模式允许记录所有输入字符，如标点、表情、英文字母等）

@@ -13,22 +13,9 @@
 -- `yield = (cand: Candidate) => void`
 -- - 生成一个候选项至候选区（每次只能生成一个候选项，但可以多次使用）
 
-----------------
--- 常用逻辑块 --
-----------------
-
--- 常量
-keydo_constants = require("keydo_constants")
-
--- 常用组件
-keydo_modules = require("keydo_modules")
-
--- 逻辑封装
-keydo_utils = require("keydo_utils")
-
---------------------------
+---------------------
 -- 键道·我流逻辑块 --
---------------------------
+---------------------
 
 -- `processor = (key_event: KeyEvent, env) => void`
 -- - 处理器 -> 响应按键并按照预设的规则依次进行编码处理
@@ -38,14 +25,14 @@ keydo_utils = require("keydo_utils")
 topup_processor = require("for_topup")
 
 -- 选择处理器
-keydo_select_processor = require("keydo_select_processor")
+keydo_select_processor = require("keydo.processors.select")
 
 -- `translator = (input: string, seg: Segment, env) => void`
 -- - 转换器 -> 将划分好的编码段转换为对应候选项
 -- - https://github.com/rime/librime/blob/master/src/rime/translator.h
 
 -- 日期与时间转换器
-keydo_date_time_translator = require("keydo_date_time_translator")
+keydo_date_time_translator = require("keydo.translators.date_time")
 
 -- 数字转换器：将阿拉伯数字转换为对应汉字（由`=`引导）
 number_translator = require("xnumber")
@@ -55,4 +42,4 @@ number_translator = require("xnumber")
 -- - https://github.com/rime/librime/blob/master/src/rime/filter.h
 
 -- 候选过滤器
-keydo_cand_filter = require("keydo_cand_filter")
+keydo_cand_filter = require("keydo.filters.cand")
