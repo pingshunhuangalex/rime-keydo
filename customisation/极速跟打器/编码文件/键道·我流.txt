@@ -32866,14 +32866,18 @@
 并不比	bbb_
 那又	aa
 那个	ai
+那里	aia
+那位	aio
+那些	aiv
+那是	ao
 那么	au
+那种	auv
 那有	av
 又有	av'
-不能	ba
+那样	avo
+那天	avv
 班级	baa
-不了	bai
 宝贝	bao
-不好	bau
 不敢	bav
 不上	bi
 不打	bi'
@@ -32882,7 +32886,6 @@
 不错	bio
 不少	biu
 不会	biv
-不是	bo
 不让	boa
 便是	boi
 表情	boo
@@ -32901,7 +32904,6 @@
 本来	bvo
 变成	bvu
 不禁	bvv
-才能	ca
 曾经	caa
 村子	cai
 沧桑	cao
@@ -32909,13 +32911,11 @@
 村民	cav
 操作	ci
 村里	cia
-此人	cii
 催促	cio
 从小	ciu
 从此	civ
 此时	co
 测试	coa
-才是	coi
 匆忙	coo
 从前	cou
 此刻	cov
@@ -32934,7 +32934,6 @@
 到了	da
 大约	daa
 肚子	dai
-都能	dao
 打架	dau
 当即	dav
 多少	di
@@ -32946,7 +32945,6 @@
 但是	do
 的啊	do'
 的话	doa
-都是	doi
 大家	doo
 弟弟	dou
 地方	dov
@@ -33063,7 +33061,6 @@
 喝酒	hav
 好像	hi
 后果	hia
-好人	hii
 黄金	hio
 好看	hiu
 还会	hiv
@@ -33074,7 +33071,6 @@
 回家	hoo
 火焰	hou
 呵呵	hov
-好的	hu
 很多	hua
 浑身	hui
 或者	huo
@@ -33104,7 +33100,6 @@
 经常	jio
 坚持	jiu
 机会	jiv
-就是	jo
 惊讶	joa
 出门	joi
 教室	joo
@@ -33127,7 +33122,6 @@
 可以	ka
 口水	kaa
 看出	kai
-可能	kao
 开始	kau
 夸张	kav
 况且	ki
@@ -33136,7 +33130,6 @@
 块钱	kio
 科技	kiu
 快点	kiv
-可是	ko
 开心	koa
 空间	koi
 肯定	koo
@@ -33223,20 +33216,14 @@
 年纪	naa
 女孩	nai
 难以	nao
-你好	nau
 农民	nav
 你们	ni
-那里	nia
-哪里	nia'
-那个	nii
-哪个	nii'
-那位	nio
+哪里	nia
+哪个	nii
 难看	niu
-那些	niv
-哪些	niv'
+哪些	niv
 难道	no
 内心	noa
-那是	noi
 内容	noo
 怒火	nou
 内部	nov
@@ -33245,14 +33232,11 @@
 难的	nui
 难受	nuo
 难得	nuu
-那种	nuv
-那样	nv
-能有	nv'
+能有	nv
 年轻	nva
 难过	nvi
 拿来	nvo
 女友	nvu
-那天	nvv
 着了	oa
 普通	pa
 婆婆	paa
@@ -33290,7 +33274,6 @@
 前台	qao
 强忍	qau
 逐渐	qav
-其他	qi
 其中	qia
 整个	qii
 正常	qio
@@ -33323,7 +33306,6 @@
 人群	rav
 如果	ri
 如同	ria
-人人	rii
 如今	rio
 软件	riu
 任何	riv
@@ -33341,7 +33323,6 @@
 人生	ruv
 然而	rv
 柔软	rva
-人才	rvi
 认可	rvo
 偌大	rvu
 让开	rvv
@@ -33351,7 +33332,6 @@
 三流	sao
 散发	sau
 随即	sav
-三个	si
 三岁	sia
 四个	sii
 思念	sio
@@ -33458,7 +33438,6 @@
 相信	xio
 选择	xiu
 安全	xiv
-而是	xo
 谢谢	xoa
 像是	xoi
 心情	xoo
@@ -33482,7 +33461,6 @@
 游戏	yao
 一边	yau
 一张	yav
-一个	yi
 眼睛	yia
 一幕	yii
 一位	yio
@@ -33497,7 +33475,6 @@
 一次	yov
 以后	yu
 一句	yua
-有的	yui
 一直	yuo
 一般	yuu
 一种	yuv
@@ -33594,7 +33571,6 @@
 是在	ez_
 这不	fb_
 服从	fc_
-这是	fe_
 这个	fg_
 中国	fg'
 这和	fh_
