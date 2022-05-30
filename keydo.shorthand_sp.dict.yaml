@@ -5,6 +5,7 @@ sort: original
 ...
 那又	aa
 那个	ai
+那么	au
 那有	av
 又有	av
 # 不能	ba
@@ -380,7 +381,7 @@ sort: original
 怒火	nou
 内部	nov
 # 你的	nu
-那么	nu
+你得	nu
 能够	nua
 难的	nui
 难受	nuo
@@ -534,6 +535,7 @@ sort: original
 听着	tou
 同意	tov
 # 他的	tu
+他得	tu
 突然	tua
 叹息	tui
 头脑	tuo
@@ -573,6 +575,7 @@ sort: original
 完美	wou
 闻言	wov
 # 我的	wu
+我得	wu
 吃饭	wua
 冲向	wui
 无辜	wuo

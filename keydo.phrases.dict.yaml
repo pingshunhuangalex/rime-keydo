@@ -20778,7 +20778,6 @@ sort: original
 双鬓	embb
 双标	embc
 使命必达	embd
-什么办法	embf
 双百	embh
 双臂	embk
 双笔	embka
@@ -20882,7 +20881,6 @@ sort: original
 双面胶	emja
 双紧	emjb
 市民阶层	emjc
-什么程度	emjd
 双解	emjda
 双节	emjdai
 水漫金山	emje
@@ -20911,7 +20909,6 @@ sort: original
 双料	emlc
 双列	emld
 双楼	emlda
-什么来着	emlf
 双菱	emlg
 声名狼藉	emlj
 双路	emlja
@@ -20919,7 +20916,6 @@ sort: original
 双力	emlka
 双链	emlm
 爽朗	emlp
-什么来着	emlq
 双流	emlqa
 生命里	emlu
 双轮	emlw
@@ -20941,18 +20937,12 @@ sort: original
 双码	emms
 双眉	emmw
 双猫	emmz
-什么名字	emmzi
 霜鸟	emnc
 树莓派	emp
-双拼	empb
-双屏	empg
-双排	emph
-双坡	empl
 审美疲劳	emplo
 爽片	empm
 舍命陪君子	empz
 生闷气	emq
-什么区别	emqb
 双亲	emqba
 双桥	emqc
 双切	emqd
@@ -20961,8 +20951,6 @@ sort: original
 双寨	emqha
 使命召唤	emqhi
 双柱	emqj
-什么情况	emqk
-神马情况	emqko
 双曲	emql
 双千	emqm
 双针	emqn
@@ -20995,7 +20983,6 @@ sort: original
 双停	emtg
 双胎	emth
 双图	emtj
-什么条件	emtji
 双体	emtk
 霜天	emtm
 双糖	emtp
@@ -21014,7 +21001,6 @@ sort: original
 生命垂危	emww
 生命危险	emwx
 双重	emwy
-什么玩意	emwyi
 生命线	emx
 双薪	emxb
 双效	emxc
@@ -21055,13 +21041,9 @@ sort: original
 双鱼	emylau
 守门员	emyo
 双阳	emyp
-什么意思	emys
 双押	emysa
-什么颜色	emysi
 双韵	emyw
-什么原因	emyy
 双拥	emyya
-什么意义	emyyi
 数目字	emz
 世贸组织	emzf
 霜灾	emzh
@@ -21071,7 +21053,6 @@ sort: original
 双字	emzka
 双座	emzl
 双增	emzr
-什么作用	emzy
 水泥板	enb
 深表	enbc
 申办	enbf
@@ -23326,6 +23307,7 @@ sort: original
 伤心难过	exng
 试销品	exp
 双拼	expb
+双频	expba
 身心疲惫	expbu
 双屏	expg
 双排	exph
@@ -96144,6 +96126,7 @@ sort: original
 无立锥之地	wlfd
 握着	wlfe
 踔厉风发	wlff
+卧龙凤雏	wlfj
 我只	wlfk
 我知	wlfku
 卧佛	wlfl
@@ -97543,10 +97526,10 @@ sort: original
 茶庄	wsfm
 差分	wsfn
 挖坟	wsfni
-瓦房	wsfp
+查房	wsfp
 茶房	wsfpi
 挖方	wsfpio
-查房	wsfpv
+瓦房	wsfpv
 查封	wsfr
 插法	wsfs
 茶砖	wsft
@@ -109260,8 +109243,8 @@ sort: original
 幽兰	ydlfi
 幽灵	ydlg
 有灵	ydlgv
-由来	ydlh
-又来	ydlha
+又来	ydlh
+由来	ydlhi
 有赖	ydlhv
 遇到了	ydli
 有路	ydlj
@@ -113277,8 +113260,7 @@ sort: original
 余款	ylkt
 有利可图	ylktv
 预考	ylkz
-圆溜溜	yll
-又来了	ylla
+又来了	yll
 雨林	yllb
 鱼鳞	yllbu
 榆林	yllbv
@@ -113293,6 +113275,7 @@ sort: original
 玉兰	yllfv
 育龄	yllg
 愈来	yllh
+圆溜溜	ylli
 语录	yllj
 雨露	ylljv
 余力	yllk
@@ -113567,10 +113550,11 @@ sort: original
 语音	ylyb
 余音	ylybi
 有利有弊	ylybv
+越来越大	ylyd
 越来越多	ylyd
-鱼油	ylyd
 遇有	ylydi
-狱友	ylydu
+鱼油	ylydu
+狱友	ylyduv
 越来越少	ylye
 渔业	ylyea
 雨夜	ylyev
@@ -117848,7 +117832,7 @@ sort: original
 再困	zhkw
 再空	zhky
 再考	zhkz
-总会来	zhl
+做好了	zhl
 综合楼	zhla
 在聊	zhlc
 再聊	zhlcv
@@ -117859,6 +117843,7 @@ sort: original
 再来	zhlh
 在理	zhlk
 再练	zhlm
+总会来	zhlo
 再冷	zhlr
 在拉	zhls
 再乱	zhlt
@@ -119680,6 +119665,7 @@ sort: original
 昨天中午	ztfw
 钻杆	ztgf
 总体规划	ztgh
+钻过	ztgl
 钻工	ztgy
 座谈会	zth
 紫藤花	zthi
