@@ -4652,7 +4652,6 @@
 威胁利诱	wxly
 文学理论	wxll
 持续快速	wxks
-重新考虑	wxkl
 无隙可乘	wxkjv
 无懈可击	wxkj
 重新开始	wxke
@@ -6283,7 +6282,6 @@
 斯巴拉西	sblxv
 三百六十	sblev
 俗不可耐	sbkn
-随便看看	sbkk
 死不悔改	sbhg
 损兵折将	sbfji
 斯巴达克	sbdkv
@@ -9221,7 +9219,6 @@
 可以确定	kyqd
 可以理解	kyljv
 可有可无	kykw
-可以考虑	kyklv
 开源节流	kyjlv
 可以解决	kyjjv
 科研机构	kyjguv
@@ -9322,14 +9319,11 @@
 孔孟之道	kmfd
 空码顶屏	kmdp
 看了一眼	klyy
-考虑一下	klyx
 克莱因瓶	klyp
 可怜兮兮	klxx
-考虑问题	klwt
 克拉玛依	klmy
 科罗拉多	klldu
 开来开去	klkq
-考虑考虑	klklu
 可了劲的	kljd
 开朗活泼	klhp
 看了个呆	klgd
@@ -11020,7 +11014,6 @@
 灰头土脸	httl
 呼天抢地	htqd
 毁天灭地	htmdu
-回头看看	htkk
 憨态可掬	htkja
 花天酒地	htjd'
 花团锦簇	htjci
@@ -16850,10 +16843,11 @@
 最高峰	zgf'
 最高分	zgf_
 总干事	zge_
-糟糕的	zgdoo
-足够的	zgdo
-最高点	zgd'
-做过的	zgd_
+最高点	zgdoo
+最高的	zgdo
+做过的	zgdi
+足够的	zgd'
+糟糕的	zgd_
 最高层	zgc_
 字根表	zgbo
 最根本	zgb_
@@ -31736,7 +31730,8 @@
 变阻器	bzqo
 班组长	bzq_
 包租婆	bzp_
-不自量	bzlv
+不自量	bzlvu
+不租了	bzlv
 不早了	bzl_
 波阻抗	bzk_
 不在场	bzjvv
@@ -32159,8 +32154,9 @@
 白皮书	bpe_
 不平等	bpd_
 被批捕	bpb_
+不能做	bnzv
 白娘子	bnzu
-不能做	bnz_
+不能在	bnz_
 不能用	bny_
 不能按	bnx_
 不弄完	bnw_
@@ -36691,6 +36687,7 @@
 腰椎	yzfb
 要少	yzez
 尧舜	yzew
+要啥	yzes
 要耍	yzeq
 腰上	yzepu
 咬伤	yzep
@@ -39167,13 +39164,13 @@
 一场	ykjp
 亦称	ykjn
 一简	ykjmvu
-一间	ykjmvo
 一剑	ykjmvi
 一建	ykjmva
 一箭	ykjmv'
 一键	ykjmv
-一件	ykjm'
-意见	ykjm
+意见	ykjmo
+一间	ykjm'
+一件	ykjm
 一聚	ykjlvv
 一举	ykjlvo
 一具	ykjlvi
@@ -43945,7 +43942,6 @@
 先充	xmwyu
 线虫	xmwya
 现充	xmwy
-舷窗	xmwx
 现为	xmwwv
 鲜味	xmwwu
 显微	xmwwo
@@ -43959,6 +43955,7 @@
 仙翁	xmwr
 先王	xmwpu
 线网	xmwp
+先问	xmwn
 舷窗	xmwm
 嫌我	xmwl
 先吃	xmwk
@@ -48642,9 +48639,7 @@
 创立	wxlk
 窗棂	wxlg
 窗孔	wxky
-窗框	wxkx
 窗宽	wxkt
-窗框	wxkm
 创刊	wxkf
 创客	wxkei
 创口	wxkdi
@@ -50504,7 +50499,6 @@
 窗孔	wmky
 窗框	wmkx
 窗宽	wmkt
-窗框	wmkm
 创刊	wmkf
 创客	wmke
 创口	wmkdi
@@ -74876,9 +74870,9 @@
 两场	lxjp
 良辰	lxjn
 两肩	lxjmvo
-两键	lxjmvi
-两间	lxjmv
+两键	lxjmv
 亮剑	lxjmo
+两间	lxjm'
 两件	lxjm
 两具	lxjlvi
 两局	lxjlv

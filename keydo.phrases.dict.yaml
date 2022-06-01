@@ -4670,7 +4670,7 @@ sort: original
 奔涌	bnyy
 百年一遇	bnyyv
 本要	bnyz
-不能做	bnz
+不能在	bnz
 不能自拔	bnzb
 奔走	bnzd
 本则	bnze
@@ -4680,6 +4680,7 @@ sort: original
 本作	bnzl
 本座	bnzlv
 白娘子	bnzu
+不能做	bnzv
 笨贼	bnzw
 本尊	bnzwv
 本宗	bnzy
@@ -6605,7 +6606,8 @@ sort: original
 保留	bzlq
 爆冷	bzlr
 暴乱	bzlt
-不自量	bzlv
+不租了	bzlv
+不自量	bzlvu
 堡垒	bzlw
 苞蕾	bzlwi
 爆雷	bzlwo
@@ -42973,7 +42975,6 @@ sort: original
 回头客	htki
 患苦	htkj
 憨态可掬	htkja
-回头看看	htkk
 换卡	htks
 还款	htkt
 很痛苦	htku
@@ -56762,7 +56763,6 @@ sort: original
 扩军	kljw
 看了看	klk
 阔阔	klkl
-考虑考虑	klklu
 开来开去	klkq
 扩孔	klky
 卡路里	kll
@@ -56797,7 +56797,6 @@ sort: original
 克里特	klt
 可怜虫	klw
 阔绰	klwl
-考虑问题	klwt
 扩充	klwy
 看了下	klx
 扩写	klxd
@@ -56810,7 +56809,6 @@ sort: original
 括约	klyh
 蛞蝓	klyl
 克莱因瓶	klyp
-考虑一下	klyx
 看了一眼	klyy
 克洛泽	klz
 扩资	klzk
@@ -58053,7 +58051,6 @@ sort: original
 空开	kykh
 空库	kykj
 空阔	kykl
-可以考虑	kyklv
 空旷	kykm
 空卡	kyks
 可有可无	kykw
@@ -63628,9 +63625,9 @@ sort: original
 两局	lxjlv
 两具	lxjlvi
 两件	lxjm
+两间	lxjm
 亮剑	lxjmo
-两间	lxjmv
-两键	lxjmvi
+两键	lxjmv
 两肩	lxjmvo
 良辰	lxjn
 老羞成怒	lxjnu
@@ -85069,7 +85066,6 @@ sort: original
 撕不开	sbk
 随口	sbkd
 碎块	sbkg
-随便看看	sbkk
 俗不可耐	sbkn
 虽空	sbky
 死不了	sbl
@@ -96519,7 +96515,6 @@ sort: original
 创客	wmke
 创刊	wmkf
 愁眉苦脸	wmkl
-窗框	wmkm
 窗宽	wmkt
 窗框	wmkx
 窗孔	wmky
@@ -98898,11 +98893,8 @@ sort: original
 创刊	wxkf
 无懈可击	wxkj
 无隙可乘	wxkjv
-重新考虑	wxkl
-窗框	wxkm
 持续快速	wxks
 窗宽	wxkt
-窗框	wxkx
 窗孔	wxky
 王晓莉	wxl
 窗棂	wxlg
@@ -105201,6 +105193,7 @@ sort: original
 先吃	xmwk
 嫌我	xmwl
 舷窗	xmwm
+先问	xmwn
 线网	xmwp
 先王	xmwpu
 奥妙无穷	xmwq
@@ -105215,7 +105208,6 @@ sort: original
 显微	xmwwo
 鲜味	xmwwu
 现为	xmwwv
-舷窗	xmwx
 现充	xmwy
 线虫	xmwya
 先充	xmwyu
@@ -112338,13 +112330,13 @@ sort: original
 一具	ykjlvi
 一举	ykjlvo
 一聚	ykjlvv
-意见	ykjm
 一件	ykjm
+一间	ykjm
+意见	ykjmo
 一键	ykjmv
 一箭	ykjmv
 一建	ykjmva
 一剑	ykjmvi
-一间	ykjmvo
 一简	ykjmvu
 亦称	ykjn
 一场	ykjp
@@ -116326,6 +116318,7 @@ sort: original
 咬伤	yzep
 腰上	yzepu
 要耍	yzeq
+要啥	yzes
 尧舜	yzew
 要少	yzez
 有组织	yzf
@@ -117573,11 +117566,12 @@ sort: original
 怎敢不低头	zgbt
 自顾不暇	zgbx
 最高层	zgc
-做过的	zgd
-最高点	zgd
+糟糕的	zgd
+足够的	zgd
+做过的	zgdi
 自甘堕落	zgdl
-足够的	zgdo
-糟糕的	zgdoo
+最高的	zgdo
+最高点	zgdoo
 总干事	zge
 遵规守纪	zgej
 坐骨神经	zgeji
