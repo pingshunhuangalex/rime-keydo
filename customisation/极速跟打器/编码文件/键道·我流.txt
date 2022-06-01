@@ -29355,11 +29355,12 @@
 放鞭炮	fbp_
 这表明	fbmo
 方便面	fbm_
+转不了	fblv
 反比例	fbluv
 分辨率	fblu
 烦不了	fblo
 发病率	fbla
-转不了	fbl'
+赚不了	fbl'
 发不了	fbl_
 放不开	fbko
 分不开	fbk_
@@ -41485,9 +41486,9 @@
 由省	yderii
 优生	yderi
 优胜	yder
-友商	ydepv
+友商	ydepvo
+有伤	ydepv
 忧伤	ydepo
-有伤	ydep'
 右上	ydep
 尤甚	ydenv
 幽深	ydeni
@@ -56674,6 +56675,7 @@
 推理	tblk
 退路	tblj
 颓龄	tblg
+推了	tblei
 退了	tble
 退料	tblc
 退款	tbkt
@@ -120141,6 +120143,7 @@
 白兰	bhlfu
 摆烂	bhlf
 白了	bhleu
+掰了	bhlei
 败了	bhlea
 摆了	bhle
 百列	bhldv
