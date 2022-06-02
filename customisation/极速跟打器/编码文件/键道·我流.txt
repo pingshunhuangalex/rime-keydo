@@ -67791,9 +67791,10 @@
 排第	phdk
 排毒	phdj
 排定	phdg
-派单	phdfa
-排弹	phdf
-拍的	phde
+排弹	phdfi
+派单	phdf
+拍的	phdei
+拍得	phde
 拍掉	phdc
 派对	phdba
 排队	phdb
