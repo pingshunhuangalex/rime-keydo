@@ -33646,6 +33646,7 @@
 平台	pt_
 平安	px_
 拼音	py_
+平在	pz_
 去的	qd_
 去个	qg_
 去了	ql_
@@ -67814,7 +67815,6 @@
 萍踪	pgzy
 平作	pgzl
 瓶子	pgzk
-平在	pgzh
 平仄	pgze
 平遥	pgyz
 平庸	pgyy
