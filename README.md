@@ -4,7 +4,7 @@
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
 
-![Colemak-DH Matrix Layout](https://github.com/pingshunhuangalex/rime-xkjd/blob/main/customisation/preview/colemak_dh_matrix_layout_keydo.png)
+![Colemak-DH Matrix Layout](https://github.com/pingshunhuangalex/rime-xkjd-docs/blob/main/.gitbook/assets/xkjd-colemak-dh-matrix.png)
 
 作为一款独立的输入方案，用户只需在[下载安装Rime]后将本仓库覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。
 
