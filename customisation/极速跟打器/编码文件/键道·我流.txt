@@ -18054,6 +18054,7 @@
 远大于	ydyvv
 一等一	ydyvuv
 有待于	ydyvu
+有点用	ydyvi
 一对一	ydyva
 运动员	ydyv
 印度洋	ydyu
@@ -20743,14 +20744,14 @@
 她就是	tjea
 通常是	tje_
 太简单	tjdv
-他觉得	tjdi
 坦诚的	tjdv
 突击队	tjdo
 台积电	tjda
 她觉得	tjd_
 挺精彩	tjc_
 统计表	tjb_
-偷汉子	thz_
+偷汉子	thzi
+铁盒子	thz_
 桃花源	thyvi
 桃花运	thyv
 同行业	thy_
