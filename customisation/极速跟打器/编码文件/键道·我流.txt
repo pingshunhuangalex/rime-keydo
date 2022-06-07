@@ -32670,9 +32670,8 @@
 变声期	beqov
 半衰期	beqoo
 宝山区	beqoi
-别生气	beqo
-变声器	beq'
-不上去	beq_
+变声器	beqo
+别生气	beq_
 保守派	bep_
 比什么	bem_
 不睡了	belv
@@ -33086,6 +33085,7 @@
 打个	ii'
 上得	iu
 打得	iu'
+上去	iv
 继续	ja
 成绩	jaa
 除了	jai
@@ -110969,9 +110969,7 @@
 大胆	dsdf
 大德	dsdevu
 大的	dsdev
-打的	dsdei
-大得	dsde'
-打得	dsde
+大得	dsde
 大碟	dsddvv
 大兜	dsddvu
 大跌	dsddvo
