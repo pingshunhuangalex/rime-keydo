@@ -33615,7 +33615,8 @@
 了吧	lb_
 了没	lm_
 了嘛	lm'
-两年	ln_
+了你	ln_
+两年	ln'
 没了	ml_
 没你	mn_
 没能	mn'
@@ -33635,6 +33636,7 @@
 你好	nh_
 能好	nh'
 你就	nj_
+你了	nl_
 你没	nm_
 你能	nn_
 哪怕	np_
@@ -69990,8 +69992,7 @@
 泥里	nklk
 泥路	nklj
 你来	nklh
-腻了	nkleu
-你了	nkle
+腻了	nkle
 你聊	nklc
 逆鳞	nklb
 拟靠	nkkz
