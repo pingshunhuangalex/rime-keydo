@@ -17,14 +17,20 @@ schema:
 
 # 候选项菜单
 menu:
-  page_size: 6 # 候选项显示个数
+  page_size: 2 # 候选项显示个数
 
 
 # 模式切换开关
 switches:
-  - { name: ascii_mode, reset: 0 } # 中英文切换（默认中文）
-  - { name: extended_charset, reset: 1 } # CJK字符集切换（默认全字符集）
-  - { name: full_shape, reset: 0 } # 全角半角切换（默认半角）
+  - name: ascii_mode
+    reset: 0
+    states: ["中", "英"]
+  - name: full_shape
+    reset: 0
+    states: ["半角", "全角"]
+  - name: extended_charset
+    reset: 1
+    states: ["常用", "扩展"]
 
 
 # 输入方案引擎
@@ -138,3 +144,5 @@ char_lookup:
   enable_sentence: false # 是否开启自动造句
   enable_user_dict: false # 是否开启用户词库（用于记录动态字词频）
   encode_commit_history: false # 是否对已上屛的词进行自动成词
+  comment_format: # 指定编码提示格式
+    - xform/~[a-z;]+// # 移除以`~`为前缀的逐码提示

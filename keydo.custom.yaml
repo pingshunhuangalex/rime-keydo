@@ -1,13 +1,29 @@
 # 键道·我流自定义设置
 # encoding: utf-8
 
-patch:
-  char_lookup/comment_format:
-    - xform/~[a-z;]+// # 移除以`~`为前缀的逐码提示
-  menu/page_size: 2 # 候选项只显示首选与次选
-  style:
-    inline_preedit: true # 开启输入区嵌入
-    label_format: "" # 隐藏候选项序号
-    layout:
-      margin_y: -12 # 隐藏候选区
-    preedit_type: preview # 预览编码
+######################
+## [Win] 辅助轮设置 ##
+######################
+
+# patch:
+#   char_lookup/comment_format: [] # 显示逐码提示
+#   menu/page_size: 6 # 尽可能显示关联候选项
+#   style:
+#     inline_preedit: false # 关闭输入区嵌入
+#     label_format: "%s " # 显示候选项序号
+#     layout:
+#       margin_y: 12 # 显示候选区
+#     preedit_type: composition # 编码所见即所得
+
+######################
+## [Mac] 辅助轮设置 ##
+######################
+
+# patch:
+#   char_lookup/comment_format: [] # 显示逐码提示
+#   menu/page_size: 6 # 尽可能显示关联候选项
+#   style:
+#     alpha: 1 # 显示候选区
+#     inline_candidate: false # 编码所见即所得
+#     inline_preedit: false # 关闭输入区嵌入
+#     candidate_format: "%c %@" # 显示候选项序号

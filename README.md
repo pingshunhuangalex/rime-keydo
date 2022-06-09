@@ -22,7 +22,7 @@
 
 如果说[星空键道]的灵魂在于对字词编码的有理化（即在不增加心智负担的前提下，以高效的方式将字词罗马化），那么`键道·我流`便是在这基础上对字词的解码进行有理化（即在不增加心智负担的前提下，以高效的方式将编码与字词产生联系）。
 
-为达成这一目标，`键道·我流`力求对词库编码规则进行量化，以此来构建一个标准化的词库，从而使用户能通过记忆少量规则来自然反应出字词所需的编码。如词库设计得当，盲打应是`键道·我流`最有效的运用方式（`键道·我流`的[推荐自定义设置]为所见即所得模式）。
+为达成这一目标，`键道·我流`力求对词库编码规则进行量化，以此来构建一个标准化的词库，从而使用户能通过记忆少量规则来自然反应出字词所需的编码。如词库设计得当，盲打应是`键道·我流`最有效的运用方式（初学者可开启[辅助轮设置]来降低学习难度）。
 
 另外为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，`键道·我流`的[词库结构]对字词进行更为细化的归类，使长度更大且码长更小的字词优先得到映射。
 
@@ -184,6 +184,6 @@
 [Rime开源输入平台]: https://github.com/rime
 [Rime键道输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
 [下载安装Rime]: https://rime.im/download/
-[推荐自定义设置]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/keydo.custom.yaml
+[辅助轮设置]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/keydo.custom.yaml
 [词库结构]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/keydo.dict.yaml
 [编码文件]: https://github.com/pingshunhuangalex/rime-xkjd/blob/main/customisation/%E6%9E%81%E9%80%9F%E8%B7%9F%E6%89%93%E5%99%A8/%E7%BC%96%E7%A0%81%E6%96%87%E4%BB%B6/%E9%94%AE%E9%81%93%C2%B7%E6%88%91%E6%B5%81.txt
