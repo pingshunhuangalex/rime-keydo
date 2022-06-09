@@ -22,13 +22,13 @@ menu:
 
 # 模式切换开关
 switches:
-  - name: ascii_mode
+  - name: ascii_mode # 中英文切换（默认中文）
     reset: 0
     states: ["中", "英"]
-  - name: full_shape
+  - name: full_shape # 全角半角切换（默认半角）
     reset: 0
     states: ["半角", "全角"]
-  - name: extended_charset
+  - name: extended_charset # CJK字符集切换（默认全字符集）
     reset: 1
     states: ["常用", "扩展"]
 
