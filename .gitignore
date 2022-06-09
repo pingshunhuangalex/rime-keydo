@@ -10,5 +10,7 @@ sync
 # user configs
 *.userdb
 installation.yaml
+default.yaml
 user.yaml
 weasel.yaml
+squirrel.yaml
