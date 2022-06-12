@@ -15000,7 +15000,7 @@
 跌跌撞撞	ddff
 颠倒众生	ddfeu
 地动山摇	ddey
-道德水平	ddepou
+道德水平	ddepo
 当代社会	ddeh
 到底是个	ddeg
 颠倒是非	ddefu
@@ -27549,12 +27549,13 @@
 高尔夫	gxfo
 高血脂	gxf'
 高消费	gxf_
+干些啥	gxev
 盥洗室	gxeua
 管闲事	gxeu
 关系式	gxeo
-供销社	gxei
-个小时	gxe'
-干些啥	gxe_
+供销社	gxeii
+个小时	gxei
+刚想说	gxe_
 官二代	gxdov
 高兴的	gxdoo
 高效的	gxdo
@@ -32939,6 +32940,7 @@
 打架	dau
 当即	dav
 多少	di
+都上	di'
 当中	dia
 大人	dii
 短信	dio
@@ -47409,7 +47411,8 @@
 小舅	xcjqi
 小酒	xcjq
 笑场	xcjpu
-小肠	xcjp
+小肠	xcjpi
+小厂	xcjp
 小陈	xcjni
 消沉	xcjn
 箫剑	xcjmu
@@ -110729,8 +110732,8 @@
 达成	dsjr
 大舅	dsjqv
 搭救	dsjq
-大厂	dsjpv
-大肠	dsjp
+大肠	dsjpv
+大厂	dsjp
 大臣	dsjn
 大建	dsjmva
 大件	dsjmv
@@ -114223,8 +114226,7 @@
 叠声	ddera
 都生	dder
 逗耍	ddeq
-跌伤	ddepo
-都上	ddep
+跌伤	ddep
 都深	dden
 都说	ddel
 斗士	ddeko
