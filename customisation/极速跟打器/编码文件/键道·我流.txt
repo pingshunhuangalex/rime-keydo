@@ -4510,7 +4510,8 @@
 安步当车	xbdwo
 西部地区	xbdqv
 喧宾夺主	xbdq
-阿卜杜拉	xbdl
+阿卜杜拉	xbdla
+性别对立	xbdl
 安步当车	xbdjo
 安邦定国	xbdgo
 下半辈子	xbbzv
@@ -7904,6 +7905,7 @@
 奶奶个熊	nngx
 男女之间	nnfj
 男女双方	nnef
+男女对立	nndli
 念念不忘	nnbw
 男女比例	nnbl
 怒目圆睁	nmyq
@@ -21817,7 +21819,7 @@
 前一段	qydov
 主要的	qydo
 歧异度	qydi
-注意的	qyda
+强一点	qyda
 注意到	qyd_
 招议标	qybi
 晴雨表	qyb_
@@ -26732,6 +26734,7 @@
 很喜欢	hxh_
 互相关	hxgvv
 坏习惯	hxgv
+呼吸管	hxgo
 好习惯	hxga
 幻想过	hxg_
 很幸福	hxfu
@@ -28475,11 +28478,12 @@
 发信说	fxea
 中学生	fxe'
 这些事	fxe_
+富二代	fxdov
 装卸队	fxdou
 这儿的	fxdo
 中心点	fxdi
 发祥地	fxda
-富二代	fxd_
+分享点	fxd_
 中下层	fxc_
 风向标	fxbu
 遮羞布	fxbo
@@ -29057,7 +29061,8 @@
 周国平	fgpu
 放个屁	fgp_
 放过你	fgno
-发给你	fgn_
+发给你	fgna
+这个能	fgn_
 覆盖面	fgmv
 反革命	fgmu
 中国梦	fgm_
@@ -33583,6 +33588,7 @@
 这就	fj_
 这没	fm_
 父母	fm'
+这人	fr_
 这我	fw_
 这一	fy_
 之一	fy'
@@ -34047,8 +34053,8 @@
 总行	zyhp
 总很	zyhn
 纵火	zyhl
-综合	zyhea
-总和	zyhe
+总和	zyheo
+综合	zyhe
 总后	zyhd
 总汇	zyhbo
 总会	zyhb
@@ -70064,7 +70070,8 @@
 泥沼	nkfz
 你非	nkfw
 逆转	nkft
-拟发	nkfs
+拟发	nkfsi
+你发	nkfs
 逆风	nkfr
 你方	nkfp
 泥佛	nkfl
@@ -103070,9 +103077,9 @@
 腐坏	fjhg
 复函	fjhfu
 富含	fjhf
-复核	fjheu
+负荷	fjheu
 附和	fjhea
-负荷	fjhe'
+复核	fjhe'
 复合	fjhe
 附会	fjhba
 赴会	fjhb
@@ -109771,7 +109778,8 @@
 洞彻	dywea
 动车	dywe
 东讨	dytz
-动他	dyts
+动他	dytsv
+懂他	dyts
 洞天	dytma
 冬天	dytm
 胴体	dytk
@@ -111521,6 +111529,7 @@
 点茶	dmws
 电网	dmwp
 电文	dmwn
+点我	dmwl
 滇池	dmwka
 电池	dmwk
 玷污	dmwj
