@@ -2683,7 +2683,8 @@
 有利有弊	ylybv
 有两下子	ylxz
 一来二去	ylxq
-一流学科	ylxkva
+以泪洗面	ylxma
+一流学科	ylxkv
 月落星沉	ylxjui
 游龙戏凤	ylxfa
 以礼相待	ylxd
@@ -18135,8 +18136,7 @@
 议定书	ydeoo
 应当说	ydeo
 也都是	ydea
-用的是	yde'
-有的是	yde_
+用的是	yde_
 一堆堆	yddvvv
 运动队	yddvva
 一大段	yddvv'
@@ -26792,8 +26792,9 @@
 红太阳	htyav
 绘图员	htya
 航天员	hty_
-黑天鹅	htxi
-护套线	htx_
+护套线	htxiv
+回调线	htxi
+黑天鹅	htx_
 还贪吃	htwv
 糊涂虫	htw_
 候梯厅	htti
@@ -27112,7 +27113,8 @@
 好几遍	hjb_
 汉化组	hhza
 好好在	hhz_
-后悔药	hhyu
+后悔药	hhyuo
+很好用	hhyu
 混合泳	hhya
 后花园	hhy_
 红孩儿	hhxa
@@ -27715,6 +27717,7 @@
 感情中	gqf_
 过去时	gqevv
 更正式	gqev
+高情商	gqeo
 感情上	gqe_
 关注度	gqdoa
 关注点	gqdo
@@ -30767,6 +30770,7 @@
 打秋风	dqfi
 大丈夫	dqf_
 大趋势	dqev
+低情商	dqei
 地球上	dqe_
 地震带	dqdv
 多渠道	dqdu
@@ -33402,6 +33406,7 @@
 有个	vi
 有着	vo
 有啊	vo'
+有的	vu
 我那	wa
 我又	wa'
 网络	waa
@@ -38169,7 +38174,7 @@
 预先	ylxm
 语序	ylxl
 玉玺	ylxkvu
-玉溪	ylxkv
+玉溪	ylxkva
 语系	ylxkou
 哟西	ylxko
 遇袭	ylxki
@@ -83184,6 +83189,7 @@
 承载	jrzh
 称赞	jrzf
 成药	jryzv
+诚邀	jryzo
 撑腰	jryz
 承运	jryw
 成员	jryt
@@ -92266,8 +92272,8 @@
 还用	hhyy
 海运	hhyw
 海员	hhyt
-嗨呀	hhyso
-海牙	hhys
+海牙	hhysa
+嗨呀	hhys
 海洋	hhyp
 还与	hhylv
 嗨哟	hhylo
