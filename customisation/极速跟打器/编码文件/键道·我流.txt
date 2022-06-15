@@ -16987,6 +16987,7 @@
 做错事	zce_
 子菜单	zcd_
 再猜猜	zcc_
+租不租	zbzu
 做不做	zbzi
 在不在	zbz_
 滋补药	zbya
@@ -17694,8 +17695,9 @@
 也可能	ykn_
 有空吗	ykmv
 一口闷	ykm_
+亚克力	yklv
 油库里	ykla
-亚克力	ykl_
+要考虑	ykl_
 一块块	ykkvv
 一颗颗	ykkv
 一开口	ykk_
@@ -18942,9 +18944,9 @@
 陷进去	xjq_
 喜剧片	xjpv
 畜产品	xjpoo
-新加坡	xjpoa
-新产品	xjpo
-习近平	xjp_
+新加坡	xjpo
+习近平	xjpa
+新产品	xjp_
 新技能	xjno
 想见你	xjn_
 新局面	xjmo
@@ -19991,6 +19993,7 @@
 为何物	whw_
 万花筒	whtv
 文化厅	whto
+传话筒	whti
 我和他	wht_
 茶褐色	whs_
 五花肉	whrv
@@ -20733,7 +20736,8 @@
 退出键	tjjaa
 添加剂	tjja
 统计局	tjj_
-套近乎	tjh_
+套近乎	tjhv
+淘浆糊	tjh_
 推荐给	tjg_
 通缉犯	tjfa
 统计法	tjf_
@@ -24054,10 +24058,11 @@
 明摆着	mbqo
 瞒不住	mbqi
 买不起	mbq_
-慢半拍	mbpo
+鸣不平	mbpo
 姆巴佩	mbpa
-鸣不平	mbp_
+慢半拍	mbp_
 妈宝男	mbn_
+买不买	mbma
 忙不忙	mbm_
 明辨楼	mblo
 买不了	mbla
@@ -24479,6 +24484,7 @@
 李可染	lkr_
 李克强	lkqv
 冷空气	lkq_
+来考虑	lklv
 拉开了	lkl_
 老框框	lkk_
 离开家	lkjo
@@ -27292,6 +27298,7 @@
 黄段子	hdz_
 活地狱	hdya
 还得要	hdy_
+回短信	hdx_
 很到位	hdwu
 换电池	hdw_
 红地毯	hdta
@@ -27738,7 +27745,8 @@
 给排水	gpe_
 供配电	gpd_
 光盘版	gpb_
-更难做	gnz_
+更难做	gnzv
+给你做	gnz_
 工农业	gny_
 干女儿	gnx_
 国内外	gnw_
@@ -27782,7 +27790,8 @@
 干嘛呢	gmn_
 歌迷们	gmmv
 改密码	gmm_
-根目录	gmlv
+根目录	gmlvi
+感冒了	gmlv
 关门了	gmlo
 购买力	gmla
 过马路	gml_
@@ -30813,9 +30822,10 @@
 电脑迷	dnmi
 当你们	dnm'
 对你们	dnm_
-到哪里	dnlvo
-到那里	dnlv
-多年来	dnl_
+待腻了	dnluu
+多年来	dnlu
+到哪里	dnl'
+到那里	dnl_
 电脑课	dnk_
 低年级	dnji
 动脑筋	dnj_
@@ -62204,6 +62214,7 @@
 樟脑	qpnz
 账内	qpnw
 长女	qpnl
+涨你	qpnk
 涨奶	qpnh
 张宁	qpng
 张楠	qpnfa
@@ -87679,6 +87690,8 @@
 解套	jdtz
 接通	jdty
 接团	jdtt
+接她	jdtsi
+接他	jdts
 解脱	jdtl
 解题	jdtkuo
 解体	jdtku
@@ -112956,9 +112969,10 @@
 待聘	dhpb
 带内	dhnw
 歹念	dhnm
-待你	dhnku
+待腻	dhnku
 呆腻	dhnko
 代你	dhnki
+待你	dhnk'
 带你	dhnk
 埭南	dhnf
 呆鸟	dhnc
