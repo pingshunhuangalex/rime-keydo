@@ -11689,6 +11689,7 @@
 高潮迭起	gwdq
 攻无不克	gwbk
 国土资源	gtzyi
+改天再来	gtzl
 共同语言	gtyyv
 共同愿望	gtywv
 共同心愿	gtxy
@@ -28073,8 +28074,9 @@
 寡妇村	gfc_
 葛洲坝	gfbi
 国防部	gfb_
-光是在	gezi
-高山族	gez_
+高山族	gezoi
+跟着做	gezo
+光是在	gez_
 过十一	geyv
 狗屎运	geyu
 观世音	geya
@@ -35574,7 +35576,9 @@
 在同	zhty
 在它	zhtsv
 在她	zhts
-在唐	zhtp
+在唐	zhtpvo
+再躺	zhtpv
+在躺	zhtp
 再添	zhtm
 载体	zhtk
 在途	zhtjv
@@ -95111,7 +95115,7 @@
 惯纵	gtzy
 惯贼	gtzw
 棺葬	gtzp
-管座	gtzl
+管座	gtzlu
 罐子	gtzkua
 管子	gtzku
 关子	gtzko
@@ -104377,7 +104381,8 @@
 少文	ezwn
 少吃	ezwk
 邵武	ezwj
-稍晚	ezwf
+稍晚	ezwfu
+烧完	ezwf
 烧车	ezwe
 潲桶	ezty
 哨塔	ezts
@@ -105813,10 +105818,10 @@
 上唇	epjwi
 伤春	epjw
 上卷	epjt
-上家	epjsio
+商家	epjso
 上佳	epjsii
 上架	epjsi
-商家	epjs
+上家	epjs
 上乘	epjri
 商城	epjr
 上九	epjq
@@ -124811,7 +124816,6 @@
 椓	flvvu
 椓	flvvua
 琢	flvvvu
-装	fm'
 奘	fma
 奘	fmaivu
 撞	fmi
@@ -124820,7 +124824,8 @@
 僮	fmio
 僮	fmiovo
 撞	fmiuov
-状	fmo
+装	fmo
+状	fmo'
 憧	fmoo
 憧	fmooov
 壮	fmov
