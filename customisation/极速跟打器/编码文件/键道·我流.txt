@@ -23668,8 +23668,9 @@
 美容觉	mrjoo
 美人尖	mrjo
 美人计	mrj_
-美如画	mrho
-美人关	mrg_
+美如画	mrh_
+美人关	mrgo
+没人管	mrg_
 默认值	mrf_
 美容师	mre_
 磨人的	mrdo
@@ -24150,7 +24151,8 @@
 莱茵河	lyh_
 李玉刚	lygvv
 连云港	lygv
-老眼光	lygu
+老眼光	lygui
+老员工	lygu
 晾衣杆	lygo
 另一个	lyg_
 来一份	lyfv
@@ -95268,6 +95270,7 @@
 关岭	gtlg
 掼篮	gtlfi
 灌篮	gtlf
+管了	gtleu
 惯了	gtleo
 关了	gtle
 关楼	gtld
