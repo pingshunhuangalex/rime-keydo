@@ -179,7 +179,6 @@
 有钱能使鬼推磨	yqnm
 一切尽在不言中	yqjf
 有其父必有其子	yqfzv
-一切从实际出发	yqcf
 羊毛出在羊身上	ymjeo
 远来和尚好看经	ylhj
 一骑红尘妃子笑	yjhxv
@@ -399,9 +398,6 @@
 道不同不相为谋	dbtmo
 打遍天下无敌手	dbte
 此一时，彼一时	cyee
-从这个意义上说	cqgei
-从某种意义上讲	cmfj
-从这个意义上说	cfgei
 此地无银三百两	cdwl
 不以一眚掩大德	byydv
 不愿透露姓名的	bytdv
@@ -423,9 +419,6 @@
 自我保护意识	zwbe
 择日不如撞日	zrbr
 自主知识产权	zqfq
-在某些情况下	zmxx
-在某种意义上	zmfev
-在某种程度上	zmfe
 资产阶级革命	zjjmoo
 最高人民法院	zgry
 族繁不及备载	zfbz
@@ -667,7 +660,7 @@
 生命财产安全	emcq
 世界一流大学	ejyxv
 世界一流学科	ejykv
-杀鸡焉用牛刀	ejydua
+杀鸡焉用牛刀	ejydu
 世界先进水平	ejxp
 世界文化遗产	ejwjv
 世界卫生组织	ejwfv
@@ -708,10 +701,6 @@
 大多数情况下	ddex
 从入门到精通	crmt
 从入门到放弃	crmq
-从这个意义上	cqge
-从某种程度上	cmfei
-从某种意义上	cmfe
-从这个意义上	cfge
 从删库到跑路	cekl
 猜不透摸不着	cbtq
 猜不透摸不着	cbtf
@@ -761,9 +750,6 @@
 最终解释权	zfjqo
 钻石王老五	zewwi
 坐山观虎斗	zegd
-最大限度地	zdxdov
-最大程度地	zdjdo
-在此基础上	zcje
 宜早不宜晚	yzbwo
 一言以蔽之	yyyfv
 有意而为之	yyxf
@@ -809,7 +795,6 @@
 依葫芦画瓢	yhlpi
 野火烧不尽	yheji
 一棍子打死	ygzs
-严格意义上	ygyev
 艺高人胆大	ygrd
 一个接一个	ygjgv
 一个多星期	ygdq
@@ -888,7 +873,6 @@
 现实主义者	xeqf
 新石器时代	xeqdo
 相当一部分	xdyfvi
-相当程度上	xdjev
 现代化进程	xdhjv
 现代化建设	xdhevi
 幸存者偏差	xcqwv
@@ -908,7 +892,6 @@
 微型计算机	wxjju
 万万没想到	wwmdv
 唯物辩证法	wwbfo
-传统意义上	wtye
 文体两开花	wtlho
 问题的关键	wtdj
 为人民服务	wrmw
@@ -1033,7 +1016,6 @@
 障碍性贫血	qxxxa
 且行且珍惜	qxqxiu
 七天无理由	qtwy
-真正意义上	qqyeu
 群起而攻之	qqxfa
 证券交易所	qqjs
 全球范围内	qqfni
@@ -1098,8 +1080,6 @@
 密集恐惧症	mjkq
 慢工出细活	mgjho
 摩根士丹利	mgelo
-某种意义上	mfyev
-某种程度上	mfjev
 明智的选择	mfdzo
 没什么两样	memy
 名师出高徒	mejt
@@ -1297,7 +1277,6 @@
 宫商角徵羽	gejy
 公说公有理	gegluo
 功到自然成	gdzjv
-根本的原因	gbdy
 犯罪嫌疑人	fzxr
 知子莫若父	fzmfu
 中央委员会	fywhi
@@ -1372,7 +1351,6 @@
 什么也没说	emye
 舍命陪君子	empz
 十里坡剑神	elpe
-受教育程度	ejydu
 市场占有率	ejql
 时间和精力	ejhl
 世界范围内	ejfnv
@@ -1414,7 +1392,7 @@
 大男子主义	dnzy
 到目前为止	dmqfv
 多米诺骨牌	dmnp
-独木不成林	dmblu
+独木不成林	dmbluv
 东盟博览会	dmbhv
 打了个电话	dlgh
 得理不饶人	dlbr
@@ -1431,15 +1409,6 @@
 打蛇打七寸	dedc
 大事不糊涂	debt
 电动自行车	ddzw
-从这个意义	cqgy
-从这个角度	cqgd
-从明天开始	cmte
-从来也没有	clyyi
-从来没有过	clmg
-从根本上说	cgbei
-从这个意义	cfgy
-从这个角度	cfgd
-从实际出发	cejfi
 八字没一撇	bzmp
 表演艺术家	byyj
 不以人废言	byry
@@ -1454,7 +1423,6 @@
 霸王硬上弓	bwygv
 不完全统计	bwqjv
 宝塔镇河妖	btqyo
-不同程度上	btje
 不确定因素	bqds
 不平等条约	bpdy
 饱暖思淫欲	bnsy
@@ -1906,7 +1874,6 @@
 总的来说	zdleo
 最大可能	zdkn
 自动控制	zdkf
-最大程度	zdjd
 自动检测	zdjc
 坐地分赃	zdfz
 自动上屏	zdepu
@@ -1917,7 +1884,6 @@
 在此期间	zcqj
 总参谋长	zcmq
 总参谋部	zcmb
-在此之前	zcfq
 杂草丛生	zcce
 自暴自弃	zbzq
 左膀右臂	zbybv
@@ -3281,7 +3247,6 @@
 以大欺小	ydqxa
 阅读理解	ydljo
 一刀两断	ydld
-一定程度	ydjd
 焉得虎子	ydhzv
 以毒攻毒	ydgda
 因地制宜	ydfyiv
@@ -4431,7 +4396,6 @@
 小肚鸡肠	xdjji
 下得厨房	xdjf
 凶多吉少	xdjeu
-相当程度	xdjdv
 暗度陈仓	xdjcoo
 暗渡陈仓	xdjcoa
 现代汉语	xdhyv
@@ -5146,7 +5110,6 @@
 文化交流	whjl
 文化价值	whjfo
 文化建设	whje
-文化程度	whjdo
 外汇储备	whjb
 吃好喝好	whhh
 文化革命	whgm
@@ -7382,7 +7345,6 @@
 政府机关	qfjgvo
 政府机构	qfjgv
 政治建设	qfjev
-这种程度	qfjdo
 轻装简从	qfjcv
 前俯后仰	qfhy
 欠债还钱	qfhq
@@ -8464,8 +8426,6 @@
 美国队长	mgdqo
 目光短浅	mgdq
 没过多久	mgdj
-某种原因	mfyyvu
-某种意义	mfyyv
 满腹疑团	mfytau
 眯着眼睛	mfyj
 莫衷一是	mfyei
@@ -8486,7 +8446,6 @@
 民脂民膏	mfmg
 民风淳朴	mfjpau
 满腹经纶	mfjl
-某种程度	mfjdv
 满腹狐疑	mfhya
 明知故问	mfgw
 民富国强	mfgq
@@ -8495,7 +8454,6 @@
 魔法少女	mfeno
 卖方市场	mfeju
 买方市场	mfej
-某种东西	mfdx
 美中不足	mfbzo
 明哲保身	mfbe
 民事责任	mezra
@@ -9519,7 +9477,6 @@
 就在这时	jzfeo
 酒足饭饱	jzfb
 车载斗量	jzdlv
-就在此刻	jzck
 焦躁不安	jzbx
 教育资源	jyzy
 咎由自取	jyzq
@@ -9589,7 +9546,6 @@
 就业机会	jyjh
 产业结构	jyjgo
 敬业精神	jyje
-教育程度	jyjd
 家喻户晓	jyhxo
 寄予厚望	jyhwo
 超氧化物	jyhw
@@ -11425,7 +11381,6 @@
 回到家里	hdjl
 很多机会	hdjhu
 华灯初上	hdjei
-很大程度	hdjdu
 忽大忽小	hdhx
 何德何能	hdhn
 患得患失	hdhei
@@ -12273,6 +12228,7 @@
 概不负责	gbfzv
 官卑职小	gbfx
 格宾石笼	gbel
+根本上说	gbee
 各奔东西	gbdx
 干部队伍	gbdw
 广播电台	gbdt
@@ -13093,7 +13049,6 @@
 浮浮沉沉	ffjja
 分支机构	ffjg
 智者见智	ffjf
-这种程度	ffjdo
 反复横跳	ffht
 夫复何求	ffhqv
 分分合合	ffhhuu
@@ -15177,12 +15132,10 @@
 策马扬鞭	cmyb
 财迷心窍	cmxq
 猜枚行令	cmxl
-从没想过	cmxg
 侧目而视	cmxe
 从明天起	cmtq
 摧眉折腰	cmqy
 聪明伶俐	cmll
-从没见过	cmjg
 聪明绝顶	cmjd
 草木皆兵	cmjb
 摧眉折腰	cmfy
@@ -15250,7 +15203,6 @@
 残羹剩饭	cgef
 存个定期	cgdq
 从古到今	cgdj
-从根本上	cgbe
 才高八斗	cgbd
 财富自由	cfzy
 从中作梗	cfzg
@@ -15570,7 +15522,6 @@
 不太明白	btmb
 遍体鳞伤	btle
 不太可能	btkn
-不同程度	btjd
 白天黑夜	bthy
 冰糖葫芦	bthl
 不太合适	bthe
@@ -17164,21 +17115,21 @@
 洋溢着	yyfa
 医药费	yyf'
 要一直	yyf_
-轧轧声	yyevv
+轧轧声	yyevvv
+于一身	yyevv
+运营商	yyevi
 有约束	yyeva
-于一身	yyev'
 有意识	yyev
 舀一勺	yyeuv
 饮用水	yyeu
-意义上	yyeoo
-永远是	yyeo
+意义上	yyeo
 摇椅上	yyeiv
 营养师	yyeio
 眼药水	yyeii
 营业税	yyei
 阴阳师	yyea
-运营商	yye'
-原因是	yye_
+原因是	yye'
+永远是	yye_
 远远的	yydvv
 有用的	yydvu
 有意的	yydvo
@@ -19374,7 +19325,6 @@
 下次你	xcn_
 小聪明	xcm_
 二层楼	xcl_
-而此刻	xck_
 下次见	xcj_
 修辞格	xcg_
 幸存者	xcf_
@@ -23328,9 +23278,7 @@
 泥饭碗	nfw_
 闹翻天	nfto
 牛轧糖	nft_
-那种人	nfra
 南方人	nfr_
-那之前	nfq_
 奶制品	nfp_
 女追男	nfn_
 内分泌	nfmi
@@ -26461,7 +26409,8 @@
 嫉妒着	jdf_
 基度山	jdevo
 成都市	jdev
-近代史	jdeu
+近代史	jdeui
+程度上	jdeu
 鸡大婶	jdeav
 绝对数	jdea
 称得上	jde'
@@ -28245,7 +28194,6 @@
 顾不上	gbe'
 赶不上	gbe_
 顾拜旦	gbdvi
-根本的	gbdv'
 顾不得	gbdv
 怪不得	gbdo
 搞不动	gbdi
@@ -31545,7 +31493,6 @@
 财政局	cqja
 此期间	cqj_
 财政和	cqh_
-从这个	cqg_
 催情粉	cqf_
 参展商	cqe_
 参政党	cqd_
@@ -31566,10 +31513,12 @@
 草泥马	cnm_
 从哪里	cnl_
 才能救	cnj_
+从那时	cnei
 才能使	cne_
 才能把	cnb_
 从没有	cmy_
-侧面图	cmt_
+侧面图	cmti
+从明天	cmt_
 聪明人	cmr_
 催眠曲	cmqi
 参谋长	cmq_
@@ -31578,6 +31527,7 @@
 词码块	cmk_
 搓麻将	cmj_
 彩墨画	cmh_
+从某种	cmf_
 层面上	cme_
 曹孟德	cmd_
 参谋部	cmb_
@@ -31670,7 +31620,8 @@
 参观者	cgf_
 采购商	cge_
 采购单	cgd_
-村干部	cgb_
+村干部	cgbv
+从根本	cgb_
 草房子	cfz_
 侧重于	cfy_
 参照系	cfxa
@@ -31695,8 +31646,9 @@
 次生林	cel_
 菜市口	cek_
 慈善家	cejo
-藏书家	ceji
-菜市场	cej_
+藏书家	cejia
+菜市场	ceji
+从实际	cej_
 曾说过	ceg_
 测试服	cef_
 藏书室	cee_
@@ -33750,6 +33702,7 @@
 以下	yx_
 因而	yx'
 字词	zc_
+在此	zc'
 在这	zf_
 做饭	zf'
 字根	zg_
@@ -35817,7 +35770,6 @@
 再从	zhcy
 再存	zhcw
 再错	zhcl
-在此	zhckv
 再次	zhck
 再粗	zhcj
 再裁	zhch
@@ -98421,7 +98373,7 @@
 鬼屎	gbek
 归属	gbej
 龟山	gbef
-贵摄	gbee
+贵摄	gbeei
 鬼手	gbedu
 贵手	gbed
 鬼道	gbdzuo
@@ -111806,10 +111758,10 @@
 电棒	dmbp
 殿本	dmbn
 电变	dmbm
-点播	dmblii
-电波	dmblia
-点拨	dmbli
-颠簸	dmbl
+颠簸	dmblu
+电波	dmbli
+点播	dmbl'
+点拨	dmbl
 点笔	dmbki
 电笔	dmbk
 垫布	dmbj

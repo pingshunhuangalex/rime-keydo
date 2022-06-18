@@ -5446,8 +5446,6 @@ sort: original
 本土化	bthvv
 白天黑夜	bthy
 半脱产	btj
-不同程度	btjd
-不同程度上	btje
 不推荐	btjv
 不提倡	btjvi
 不太看	btk
@@ -7134,16 +7132,16 @@ sort: original
 册亨	cehr
 测谎	cehx
 草蛇灰线	cehxi
-菜市场	cej
+从实际	cej
 侧近	cejb
 错上加错	cejc
 草率将事	ceje
 村上春树	cejev
 测产	cejf
-从实际出发	cejfi
 测井	cejg
 慈善机构	cejgo
-藏书家	ceji
+菜市场	ceji
+藏书家	cejia
 测出	cejj
 侧记	cejk
 测距	cejl
@@ -7292,15 +7290,11 @@ sort: original
 参照	cffz
 从这个	cfg
 餐柜	cfgb
-从这个角度	cfgd
-从这个意义上	cfge
-从这个意义上说	cfgei
 参股	cfgj
 操之过急	cfgji
 残羹	cfgr
 参观	cfgt
 餐馆	cfgti
-从这个意义	cfgy
 残稿	cfgz
 参会	cfhb
 餐后	cfhd
@@ -7452,10 +7446,9 @@ sort: original
 残贼	cfzw
 财富自由	cfzy
 惨遭	cfzz
-村干部	cgb
+从根本	cgb
 才高八斗	cgbd
-从根本上	cgbe
-从根本上说	cgbei
+村干部	cgbv
 采购单	cgd
 从古到今	cgdj
 存个定期	cgdq
@@ -8454,7 +8447,6 @@ sort: original
 错乱	cllt
 错量	cllx
 错缪	clmc
-从来没有过	clmg
 磋磨	clml
 错谬	clmq
 错码	clms
@@ -8525,7 +8517,6 @@ sort: original
 错落有致	clyf
 错译	clyk
 错用	clyy
-从来也没有	clyyi
 撮药	clyz
 菜篮子	clz
 错在	clzh
@@ -8540,15 +8531,12 @@ sort: original
 层面上	cme
 慈眉善目	cmem
 才貌双全	cmeq
-从某种意义上	cmfe
-从某种程度上	cmfei
-从某种意义上讲	cmfj
+从某种	cmf
 摧眉折腰	cmfy
 彩墨画	cmh
 搓麻将	cmj
 草木皆兵	cmjb
 聪明绝顶	cmjd
-从没见过	cmjg
 词码块	cmk
 聪明伶俐	cmll
 村民们	cmm
@@ -8557,11 +8545,10 @@ sort: original
 催眠曲	cmqi
 摧眉折腰	cmqy
 聪明人	cmr
-侧面图	cmt
-从明天开始	cmte
+从明天	cmt
+侧面图	cmti
 从明天起	cmtq
 侧目而视	cmxe
-从没想过	cmxg
 猜枚行令	cmxl
 财迷心窍	cmxq
 从没有	cmy
@@ -8573,6 +8560,7 @@ sort: original
 参差	cnck
 涔涔	cncn
 才能使	cne
+从那时	cnei
 从那时起	cneq
 岑港	cngp
 岑巩	cngy
@@ -8710,12 +8698,7 @@ sort: original
 参展商	cqe
 财政收入	cqer
 催情粉	cqf
-从这个	cqg
-从这个角度	cqgd
-从这个意义上	cqge
-从这个意义上说	cqgei
 才气过人	cqgr
-从这个意义	cqgy
 财政和	cqh
 此期间	cqj
 财政局	cqja
@@ -13488,11 +13471,11 @@ sort: original
 盗墓笔记	dmbjo
 电笔	dmbk
 点笔	dmbki
-颠簸	dmbl
-点拨	dmbli
-电波	dmblia
-点播	dmblii
-独木不成林	dmblu
+点拨	dmbl
+点播	dmbl
+电波	dmbli
+颠簸	dmblu
+独木不成林	dmbluv
 电变	dmbm
 殿本	dmbn
 电棒	dmbp
@@ -19617,8 +19600,7 @@ sort: original
 树荫	ejybv
 输油	ejyd
 书友	ejyda
-受教育程度	ejydu
-杀鸡焉用牛刀	ejydua
+杀鸡焉用牛刀	ejydu
 树叶	ejye
 书页	ejyea
 输液	ejyev
@@ -25111,7 +25093,6 @@ sort: original
 纸芝居	ffjai
 范进	ffjb
 犯戒	ffjd
-这种程度	ffjdo
 智者见智	ffjf
 分支机构	ffjg
 反拆	ffjh
@@ -32156,11 +32137,9 @@ sort: original
 贵大	gbds
 广播电台	gbdt
 顾不得	gbdv
-根本的	gbdv
 顾拜旦	gbdvi
 干部队伍	gbdw
 各奔东西	gbdx
-根本的原因	gbdy
 轨道	gbdz
 归到	gbdzi
 贵到	gbdziv
@@ -32171,7 +32150,8 @@ sort: original
 顾不上	gbe
 贵手	gbed
 鬼手	gbedu
-贵摄	gbee
+根本上说	gbee
+贵摄	gbeei
 龟山	gbef
 归属	gbej
 鬼屎	gbek
@@ -38935,7 +38915,6 @@ sort: original
 后脚	hdjc
 吼叫	hdjco
 喉结	hdjd
-很大程度	hdjdu
 后街	hdjduu
 候车	hdje
 华灯初上	hdjei
@@ -46091,7 +46070,8 @@ sort: original
 接生	jderi
 借刀杀人	jderia
 截杀	jdes
-近代史	jdeu
+程度上	jdeu
+近代史	jdeui
 成都市	jdev
 基度山	jdevo
 结霜	jdex
@@ -54349,7 +54329,6 @@ sort: original
 家喻户晓	jyhxo
 尝一尝	jyj
 教育局	jyj
-教育程度	jyjd
 敬业精神	jyje
 教育出版社	jyjeu
 窘境	jyjg
@@ -54508,7 +54487,6 @@ sort: original
 就在此	jzc
 超册	jzce
 炒菜	jzch
-就在此刻	jzck
 超次	jzckv
 晁错	jzcl
 称赞道	jzd
@@ -65146,7 +65124,6 @@ sort: original
 慢档	mfdpo
 满灯	mfdr
 蛮大	mfds
-某种东西	mfdx
 慢动	mfdy
 慢道	mfdz
 明智的选择	mfdzo
@@ -65211,9 +65188,7 @@ sort: original
 蛮好	mfhz
 蛮劲	mfjb
 满街	mfjd
-某种程度	mfjdv
 慢车	mfje
-某种程度上	mfjev
 蛮缠	mfjf
 蔓菁	mfjg
 满处	mfjj
@@ -65362,7 +65337,6 @@ sort: original
 蛮有	mfydo
 满也	mfye
 莫衷一是	mfyei
-某种意义上	mfyev
 蔓延	mfyf
 满眼	mfyfa
 蛮硬	mfyg
@@ -65377,8 +65351,6 @@ sort: original
 满员	mfytao
 满腹疑团	mfytau
 慢用	mfyy
-某种意义	mfyyv
-某种原因	mfyyvu
 慢摇	mfyz
 买房子	mfz
 满嘴	mfzb
@@ -69711,7 +69683,6 @@ sort: original
 南皮	nfpk
 南坡	nfpl
 男怕	nfps
-那之前	nfq
 南侵	nfqb
 南桥	nfqc
 南站	nfqf
@@ -69731,7 +69702,6 @@ sort: original
 南墙	nfqx
 难找	nfqz
 南方人	nfr
-那种人	nfra
 难惹	nfre
 赧然	nfrf
 难如	nfrj
@@ -76511,7 +76481,6 @@ sort: original
 粘胶	qfjc
 轻装简从	qfjcv
 站街	qfjd
-这种程度	qfjdo
 战车	qfje
 政治建设	qfjev
 战警	qfjg
@@ -80720,7 +80689,6 @@ sort: original
 振振有词	qqyc
 秋游	qqyd
 秋叶	qqye
-真正意义上	qqyeu
 珍禽异兽	qqyev
 秋颜	qqyf
 秋英	qqyg
@@ -94795,7 +94763,6 @@ sort: original
 外交	whjc
 外教	whjcu
 外界	whjd
-文化程度	whjdo
 外接	whjdu
 文化建设	whje
 歪缠	whjf
@@ -98080,7 +98047,6 @@ sort: original
 川音	wtyb
 传音	wtybi
 串游	wtyd
-传统意义上	wtye
 传言	wtyf
 穿越	wtyh
 传阅	wtyhi
@@ -100619,7 +100585,6 @@ sort: original
 小抄	xcjz
 小炒	xcjzi
 小超	xcjziv
-而此刻	xck
 小亏	xckb
 小葵	xckbi
 小口	xckd
@@ -101167,10 +101132,8 @@ sort: original
 藕节	xdjd
 斜街	xdjdi
 协解	xdjdu
-相当程度	xdjdv
 卸车	xdje
 凶多吉少	xdjeu
-相当程度上	xdjev
 下得厨房	xdjf
 写景	xdjg
 谢绝	xdjh
@@ -109187,7 +109150,6 @@ sort: original
 油胶	ydjcau
 右脚	ydjcv
 有教	ydjcvu
-一定程度	ydjd
 游街	ydjda
 有节	ydjdv
 有解	ydjdvu
@@ -111240,7 +111202,6 @@ sort: original
 营业	ygye
 愚公移山	ygyei
 影业	ygyeo
-严格意义上	ygyev
 应验	ygyf
 鹰眼	ygyfo
 盈盈	ygyg
@@ -114174,7 +114135,6 @@ sort: original
 有求必应	yqby
 一朝被蛇咬	yqbyv
 语助词	yqc
-一切从实际出发	yqcf
 义正辞严	yqcy
 优缺点	yqd
 一整段	yqd
@@ -115784,8 +115744,8 @@ sort: original
 用到	yydz
 甬道	yydza
 用刀	yydzu
+永远是	yye
 原因是	yye
-运营商	yye
 阴阳师	yyea
 用水	yyeb
 壅水	yyebo
@@ -115811,8 +115771,7 @@ sort: original
 用时	yyeku
 用事	yyekuv
 永硕	yyel
-永远是	yyeo
-意义上	yyeoo
+意义上	yyeo
 用上	yyep
 涌上	yyepa
 永生	yyer
@@ -115822,9 +115781,10 @@ sort: original
 饮用水	yyeu
 舀一勺	yyeuv
 有意识	yyev
-于一身	yyev
 有约束	yyeva
-轧轧声	yyevv
+运营商	yyevi
+于一身	yyevv
+轧轧声	yyevvv
 永顺	yyew
 有一说一	yyey
 要一直	yyf
@@ -117055,11 +117015,9 @@ sort: original
 杂草丛生	zcce
 子菜单	zcd
 做错事	zce
-在此之前	zcfq
 在参观	zcg
 早餐后	zch
 总裁兼	zcj
-在此基础上	zcje
 做参考	zck
 做错了	zcl
 组策略	zcla
@@ -117169,8 +117127,6 @@ sort: original
 最低价	zdj
 走近	zdjb
 自动检测	zdjc
-最大程度	zdjd
-最大程度地	zdjdo
 奏出	zdjj
 邹忌	zdjk
 奏技	zdjkv
@@ -117257,7 +117213,6 @@ sort: original
 奏效	zdxc
 最大限度	zdxd
 最低限度	zdxdo
-最大限度地	zdxdov
 奏案	zdxf
 走形	zdxg
 走穴	zdxh
@@ -117699,7 +117654,6 @@ sort: original
 再裁	zhch
 再粗	zhcj
 再次	zhck
-在此	zhckv
 再错	zhcl
 再存	zhcw
 再从	zhcy
@@ -119146,8 +119100,6 @@ sort: original
 怎么说呢	zmen
 走马上任	zmer
 贼眉鼠眼	zmey
-在某种程度上	zmfe
-在某种意义上	zmfev
 髭毛乍鬼	zmfg
 怎么搞	zmg
 走马观花	zmgh
@@ -119173,7 +119125,6 @@ sort: original
 自媒体	zmt
 怎么玩	zmw
 怎么行	zmx
-在某些情况下	zmxx
 怎么样	zmy
 怎么用	zmy
 怎么样呢	zmyn
