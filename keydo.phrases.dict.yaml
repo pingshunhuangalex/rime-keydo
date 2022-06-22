@@ -2420,6 +2420,7 @@ sort: original
 白衬衫	bjeu
 不仅是	bjev
 比较少	bjev
+不出事	bjeva
 不接受	bjevi
 不解释	bjevu
 不成熟	bjevv
@@ -4032,8 +4033,8 @@ sort: original
 扁的	bmde
 编的	bmdea
 变的	bmdeo
-扁担	bmdf
-变淡	bmdfo
+变淡	bmdf
+扁担	bmdfo
 本末倒置	bmdfv
 编订	bmdg
 边带	bmdh
@@ -4049,7 +4050,8 @@ sort: original
 变大	bmds
 鞭打	bmdsv
 变短	bmdt
-百慕大	bmdv
+不满的	bmdv
+百慕大	bmdvi
 变动	bmdy
 编导	bmdz
 便道	bmdzi
@@ -5005,8 +5007,6 @@ sort: original
 不如趁	brj
 绷紧	brjb
 崩解	brjd
-别人家的	brjdo
-必然结果	brjg
 崩决	brjh
 迸出	brjj
 崩出	brjji
@@ -8497,7 +8497,7 @@ sort: original
 错位	clww
 痤疮	clwx
 错炒	clwz
-磁力线	clx
+材料学	clx
 错写	clxd
 错愕	clxe
 错案	clxf
@@ -8507,6 +8507,7 @@ sort: original
 错修	clxq
 错下	clxs
 错啊	clxsi
+磁力线	clxv
 错寻	clxw
 从来也	cly
 测量仪	clya
@@ -10683,14 +10684,12 @@ sort: original
 的词	deck
 的错	decl
 的村	decw
-得从	decy
 德操	decz
 代售点	ded
 得对	dedb
 的对	dedbu
 打蛇打七寸	dedc
 德都	dedd
-得得	dede
 大是大非	dedf
 得定	dedg
 的定	dedgu
@@ -10724,8 +10723,6 @@ sort: original
 电视转播	defb
 德州	defd
 定时炸弹	defdo
-得着	defe
-但是这个	defg
 大煞风景	defj
 德芙	defju
 得知	defk
@@ -10739,7 +10736,6 @@ sort: original
 单身狗	deg
 的歌	dege
 电视观众	degf
-得过	degl
 的过	degl
 德国	deglu
 的根	degn
@@ -10754,7 +10750,6 @@ sort: original
 德海	dehhu
 董事会	dehi
 的火	dehl
-得慌	dehm
 得很	dehn
 单身汉	deho
 的花	dehq
@@ -10763,7 +10758,6 @@ sort: original
 得慌	dehx
 大事化小	dehxv
 的宏	dehy
-得好	dehz
 到时间	dej
 电视剧	dej
 得劲	dejb
@@ -10801,7 +10795,6 @@ sort: original
 的卡	deks
 的款	dekt
 得空	deky
-得靠	dekz
 断舍离	del
 的料	delc
 得令	delg
@@ -10852,8 +10845,7 @@ sort: original
 得起	deqk
 的气	deqk
 的棋	deqku
-得去	deql
-地去	deqlv
+地去	deql
 的钱	deqm
 德镇	deqn
 定时器	deqo
@@ -10869,7 +10861,6 @@ sort: original
 德汝	derj
 德日	derk
 读书人	dero
-得让	derp
 多数人	deru
 德润	derw
 得荣	dery
@@ -10881,7 +10872,6 @@ sort: original
 德颂	desy
 电视台	det
 得体	detk
-得脱	detl
 的天	detm
 多少天	detu
 电视网	dew
@@ -10896,7 +10886,6 @@ sort: original
 大师兄	dex
 对手戏	dexa
 的心	dexb
-得按	dexf
 德性	dexg
 德行	dexg
 得幸	dexgu
@@ -15578,6 +15567,7 @@ sort: original
 顿挫	dwcl
 断无此理	dwclo
 遁藏	dwcp
+得从	dwcy
 多吃点	dwd
 吨的	dwde
 端茶倒水	dwdeo
@@ -15622,6 +15612,8 @@ sort: original
 第五个	dwg
 盾构	dwgd
 顿感	dwgf
+得改	dwgh
+得过	dwgl
 墩高	dwgz
 党委会	dwh
 敦厚	dwhd
@@ -15653,9 +15645,10 @@ sort: original
 蹲坑	dwkr
 大王卡	dwkv
 东床快婿	dwkx
+得靠	dwkz
 都忘了	dwl
-洞察力	dwl
 淡忘了	dwla
+洞察力	dwlao
 钝劣	dwld
 对我来说	dwle
 蹲了	dwleo
@@ -15697,11 +15690,13 @@ sort: original
 顿然	dwrf
 第五人格	dwrg
 遁入	dwrj
+得让	dwrp
 戴维斯	dws
 钝涩	dwse
 睹物思人	dwsr
 底朝天	dwt
 蹲腿	dwtb
+得脱	dwtl
 炖汤	dwtp
 等问题	dwtu
 大问题	dwtv
@@ -15716,7 +15711,8 @@ sort: original
 顿消	dwxc
 冬虫夏草	dwxcu
 调查显示	dwxe
-弹无虚发	dwxf
+得按	dwxf
+弹无虚发	dwxfa
 遁形	dwxg
 电蚊香	dwxi
 蹲儿	dwxj
@@ -19204,7 +19200,6 @@ sort: original
 市场管理	ejglov
 生产管理	ejglu
 树果	ejglv
-世界观和方法论	ejglvi
 神出鬼没	ejgm
 曙光	ejgmo
 输光	ejgmv
@@ -19215,6 +19210,7 @@ sort: original
 十几个	ejgu
 输精管	ejgv
 输给	ejgw
+身居高位	ejgwu
 输光	ejgx
 曙光	ejgxo
 生产关系	ejgxu
@@ -19804,9 +19800,10 @@ sort: original
 石室	ekekvo
 石狮	ekekvu
 世世	ekekvv
-受苦受累	ekel
+是说	ekel
 师说	ekeli
 实说	ekelo
+受苦受累	ekelu
 失神	eken
 尸身	ekena
 湿身	ekenau
@@ -24400,12 +24397,12 @@ sort: original
 制度创新	fdwxu
 周朝	fdwz
 放得下	fdx
-找对象	fdx
 发短信	fdxa
 轴心	fdxb
 周星	fdxg
-非典型	fdxi
+找对象	fdxi
 指导性	fdxia
+非典型	fdxii
 周二	fdxj
 周恤	fdxl
 周线	fdxm
@@ -24414,7 +24411,8 @@ sort: original
 轴线	fdxmv
 装得下	fdxo
 周旋	fdxt
-智多星	fdxu
+制度下	fdxu
+智多星	fdxuu
 周迅	fdxw
 周详	fdxx
 值得学习	fdxxi
@@ -25013,7 +25011,8 @@ sort: original
 反方	fffp
 反讽	fffr
 犯法	fffs
-饭渣	fffsu
+翻法	fffsu
+饭渣	fffsua
 反转	ffft
 翻转	ffftu
 知之者	fffu
@@ -30500,6 +30499,7 @@ sort: original
 飞来	fwlh
 飞掠	fwlha
 肥来	fwlhu
+中文里	fwli
 飞卢	fwlj
 费力	fwlk
 飞离	fwlka
@@ -31176,6 +31176,7 @@ sort: original
 忠顺	fyew
 终霜	fyex
 职业生涯	fyey
+专业术语	fyeyv
 中烧	fyez
 中少	fyezi
 这一份	fyf
@@ -31190,7 +31191,8 @@ sort: original
 重犯	fyff
 中饭	fyffi
 中寨	fyfh
-抚养费	fyfi
+中文中	fyfi
+抚养费	fyfio
 眨一眨	fyfiv
 重负	fyfj
 俯仰之间	fyfji
@@ -37210,8 +37212,8 @@ sort: original
 光源	gxyt
 广元	gxyto
 管弦乐	gxyu
-工学院	gxyv
-更需要	gxyvv
+更需要	gxyv
+工学院	gxyvo
 光晕	gxyw
 苟安一隅	gxyy
 光耀	gxyz
@@ -37255,7 +37257,7 @@ sort: original
 苟延残喘	gycwi
 共从	gycy
 功曹	gycz
-高压电	gyd
+过一段	gyd
 共调	gydc
 公爹	gydd
 公德	gyde
@@ -37276,6 +37278,7 @@ sort: original
 告一段落	gydlu
 供电	gydm
 宫殿	gydmo
+高压电	gydo
 工党	gydp
 共党	gydpv
 汞等	gydr
@@ -37283,7 +37286,6 @@ sort: original
 工大	gydsv
 工段	gydt
 古印度	gydu
-过一段	gydv
 公吨	gydw
 拱动	gydy
 国有大中型企业	gydyi
@@ -37368,13 +37370,13 @@ sort: original
 宫中	gyfyo
 工种	gyfyv
 供招	gyfz
-更应该	gyg
+搞一个	gyg
 各有各的	gygd
 公狗	gygdu
 公干	gygf
 公益广告	gygg
-国有股	gygi
-国与国	gygiv
+国与国	gygi
+国有股	gygiv
 巩固	gygj
 国与国之间	gygji
 肱骨	gygju
@@ -37389,12 +37391,13 @@ sort: original
 攻关	gygtv
 工管	gygtvu
 狗咬狗	gygu
-工业国	gygv
+更应该	gygv
+工业国	gygvi
 公共	gygy
 公公	gygyu
 共工	gygyv
 公告	gygz
-工业化	gyh
+过一会	gyh
 工会	gyhb
 公会	gyhbu
 恭候	gyhd
@@ -37413,14 +37416,14 @@ sort: original
 共话	gyhqv
 官运亨通	gyht
 肝硬化	gyhu
-过氧化	gyhv
-过一会	gyhvv
+工业化	gyhv
+过氧化	gyhvu
 共婚	gyhw
 过氧化物	gyhwv
 过一会儿	gyhx
 功耗	gyhz
 工号	gyhzv
-更有劲	gyj
+冠亚军	gyj
 公斤	gyjb
 共进	gyjbv
 恭谨	gyjbvo
@@ -37450,7 +37453,6 @@ sort: original
 工件	gyjmv
 攻坚	gyjmvi
 功臣	gyjn
-冠亚军	gyjo
 工厂	gyjp
 工场	gyjpv
 贡酒	gyjq
@@ -37460,8 +37462,9 @@ sort: original
 公家	gyjs
 共价	gyjsv
 拱圈	gyjt
-工业界	gyjv
-工业局	gyjvi
+更有劲	gyjv
+工业界	gyjvi
+工业局	gyjvia
 共军	gyjw
 工匠	gyjx
 工潮	gyjz
@@ -42763,7 +42766,8 @@ sort: original
 哈代	hsdh
 哈迪	hsdk
 哈达	hsds
-活塞式	hse
+还算是	hse
+活塞式	hsea
 哈福	hsfj
 哈佛	hsfl
 好色之徒	hsft
@@ -43274,8 +43278,8 @@ sort: original
 毫无还手之力	hwhlo
 昏惑	hwhlu
 昏黄	hwhm
-黑化	hwhq
-黑话	hwhqi
+黑话	hwhq
+黑化	hwhqi
 昏花	hwhqu
 胡吃海塞	hwhs
 黑鲩	hwht
@@ -45309,7 +45313,7 @@ sort: original
 金创	jbwx
 洁白无瑕	jbwxa
 久病床前无孝子	jbwz
-超薄型	jbx
+就不行	jbx
 尽心	jbxb
 今宵	jbxc
 尽孝	jbxca
@@ -45337,7 +45341,8 @@ sort: original
 进修	jbxq
 锦绣	jbxqi
 今夏	jbxs
-聚丙烯	jbxv
+超薄型	jbxv
+聚丙烯	jbxvv
 津讯	jbxw
 结伴而行	jbxx
 金像	jbxxi
@@ -54801,8 +54806,9 @@ sort: original
 朝向	jzxx
 竭泽而渔	jzxy
 超凶	jzxyv
-沉醉于	jzy
+就在于	jzy
 出自于	jzya
+沉醉于	jzyav
 超音	jzyb
 就在于此	jzyc
 朝右	jzyd
@@ -54813,8 +54819,7 @@ sort: original
 朝邑	jzyk
 朝语	jzyl
 潮语	jzyla
-就在于	jzyo
-姜子牙	jzyoa
+姜子牙	jzyo
 朝阳	jzyp
 近在眼前	jzyq
 超员	jzyt
@@ -61376,7 +61381,8 @@ sort: original
 李岚清	llqv
 裸照	llqz
 吕昭	llqzo
-沦落人	llr
+领路人	llr
+沦落人	llra
 驴肉	llrd
 铝热	llre
 绿染	llrf
@@ -71209,6 +71215,7 @@ sort: original
 能品	nrpb
 能排	nrph
 能谱	nrpj
+能跑	nrpz
 聂荣臻	nrq
 能者	nrqe
 能清	nrqg
@@ -73593,6 +73600,7 @@ sort: original
 批示	pkek
 屁事	pkeka
 皮试	pkekao
+皮实	pkekao
 砒霜	pkem
 披上	pkep
 皮绳	pker
@@ -93444,7 +93452,6 @@ sort: original
 温饱问题	wbwt
 垂危	wbww
 吃不消	wbx
-超薄型	wbx
 垂心	wbxb
 吹箫	wbxc
 未卜先知	wbxf
@@ -94962,10 +94969,10 @@ sort: original
 无不	wjbjv
 无补	wjbjvo
 务必	wjbk
-未尝不可	wjbk
 维基百科	wjbka
 舞弊	wjbku
-五笔	wjbkv
+未尝不可	wjbkv
+五笔	wjbkvu
 误拨	wjbl
 无边	wjbm
 无本	wjbn
@@ -95219,7 +95226,7 @@ sort: original
 五荒	wjhx
 五红	wjhy
 赤橙黄绿青蓝紫	wjhz
-文件夹	wjj
+为基础	wjj
 捂紧	wjjb
 无尽	wjjbv
 五金	wjjbvi
@@ -95227,7 +95234,6 @@ sort: original
 屋角	wjjca
 五角	wjjcv
 误解	wjjd
-为基础的	wjjdo
 无解	wjjdv
 物产	wjjf
 无产	wjjfv
@@ -95259,8 +95265,8 @@ sort: original
 舞见	wjjmui
 无间	wjjmv
 无尘	wjjn
-文教界	wjjo
-为基础	wjjov
+文件夹	wjjo
+文教界	wjjou
 无偿	wjjp
 无常	wjjpv
 五常	wjjpvi
@@ -97226,12 +97232,13 @@ sort: original
 王座	wpzlv
 王总	wpzy
 汪藻	wpzz
-完整版	wqb
+完全不	wqb
 委屈巴巴	wqbb
 无巧不成书	wqbe
 万仟佰拾元角分	wqbf
 万千百十元角分	wqbf
 文情并茂	wqbm
+完整版	wqbo
 无奇不有	wqby
 为期不远	wqbyo
 乌七八糟	wqbz
@@ -109775,7 +109782,7 @@ sort: original
 冶工	yegy
 也搞	yegz
 有时会	yeh
-有收获	yeh
+硬是和	yeh
 也会	yehb
 优势互补	yehbi
 也和	yehe
@@ -109796,12 +109803,12 @@ sort: original
 野花	yehq
 液化	yehqa
 于是乎	yehv
+有收获	yehva
 夜黑	yehw
 游手好闲	yehx
 也黄	yehxa
 也红	yehy
 也好	yehz
-一瞬间	yej
 于是就	yej
 约时间	yeja
 已删除	yejau
@@ -109841,8 +109848,9 @@ sort: original
 原生家庭	yejt
 饮水机	yeju
 印刷厂	yejua
-右上角	yejv
+一瞬间	yejv
 盐水鸡	yejva
+右上角	yejvi
 也将	yejx
 一声巨响	yejxv
 应试教育	yejy
@@ -111723,7 +111731,6 @@ sort: original
 有机结合	yjjh
 眼镜架	yjji
 药监局	yjjii
-已经成了	yjjl
 一举成名	yjjm
 一级简码	yjjmv
 易筋经	yjjo
@@ -111736,7 +111743,7 @@ sort: original
 要加快	yjkv
 亚健康	yjkvi
 一场空	yjkvv
-已经可以	yjky
+有迹可循	yjkx
 眼睛里	yjl
 预处理	yjla
 一举两得	yjld
@@ -113449,7 +113456,8 @@ sort: original
 鱼纹	ylwnu
 玉文	ylwnv
 与闻	ylwnvo
-议论文	ylwo
+意料外	ylwo
+议论文	ylwoo
 欲望	ylwp
 渔网	ylwpa
 渔翁	ylwr
@@ -115173,6 +115181,7 @@ sort: original
 用武之地	ywfd
 云帆	ywff
 义无反顾	ywfg
+英文中	ywfi
 孕妇	ywfj
 永无止境	ywfjo
 永无止尽	ywfjov
@@ -115243,12 +115252,13 @@ sort: original
 语文课	ywko
 一无可取	ywkq
 云空	ywky
-业务量	ywl
+英文里	ywl
 语无伦次	ywlc
 义务劳动	ywld
 晕了	ywle
 云岭	ywlg
 运来	ywlh
+业务量	ywli
 云麓	ywlj
 运力	ywlk
 陨落	ywll
@@ -119719,7 +119729,7 @@ sort: original
 尊大	zwds
 自卫队	zwdu
 贼盗	zwdz
-走为上	zwe
+在位时	zwe
 走为上策	zwec
 遵守	zwed
 走为上计	zwej
@@ -119728,6 +119738,7 @@ sort: original
 尊神	zwen
 尊尚	zwep
 尊圣	zwer
+走为上	zwev
 贼少	zwez
 造物者	zwf
 自我封闭	zwfb
