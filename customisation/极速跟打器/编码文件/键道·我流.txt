@@ -28475,6 +28475,7 @@
 只为了	fwl_
 蜂王浆	fwjiv
 俯卧撑	fwji
+防雾剂	fwja
 这我就	fwj_
 中午好	fwh_
 债务国	fwg_
@@ -29389,7 +29390,8 @@
 商业性	eyxoi
 试一下	eyxo
 少一些	eyxi
-刷一下	eyxa
+收一下	eyxa
+刷一下	eyx'
 说一下	eyx_
 十一五	eyw_
 试验田	eyto
@@ -100810,7 +100812,8 @@
 放网	fpwp
 访问	fpwn
 放我	fpwl
-防务	fpwja
+防务	fpwjau
+防雾	fpwja
 房屋	fpwj
 方外	fpwh
 放完	fpwf
