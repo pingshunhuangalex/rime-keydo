@@ -13288,8 +13288,8 @@
 神一样的	eyyd
 实用新型	eyxx
 睡眼惺忪	eyxs
-刷牙洗脸	eyxla
-生意兴隆	eyxl
+生意兴隆	eyxlu
+刷牙洗脸	eyxl
 实言相告	eyxgo
 铩羽而归	eyxg
 食言而肥	eyxf
@@ -16553,8 +16553,9 @@
 在内的	znd_
 在农村	znc_
 怎能不	znb_
-怎么走	zmzu
+怎么坐	zmzu
 字幕组	zmzo
+怎么走	zmz'
 怎么做	zmz_
 怎么也	zmyu
 怎么用	zmy'
@@ -86056,11 +86057,11 @@
 基地	jkdk
 基督	jkdjvi
 极度	jkdjv
-几度	jkdju
+几度	jkdjuo
+季度	jkdju
 忌妒	jkdjaa
 缉毒	jkdja
 嫉妒	jkdj
-季度	jkdj
 基带	jkdhv
 急待	jkdhuu
 几袋	jkdhui
