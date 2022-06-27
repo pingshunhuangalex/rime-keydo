@@ -22054,9 +22054,9 @@
 青霉素	qms_
 掌门人	qmri
 证明人	qmr_
-曲面屏	qmpiv
 全面屏	qmpi
-群名片	qmp_
+群名片	qmpa
+曲面屏	qmp_
 丈母娘	qmn_
 真面目	qmm_
 奇美拉	qmlv
