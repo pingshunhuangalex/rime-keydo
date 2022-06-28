@@ -54626,6 +54626,7 @@
 提到	tkdz
 踢断	tkdt
 踢打	tkds
+提灯	tkdr
 提档	tkdp
 提点	tkdm
 提督	tkdji
