@@ -8295,6 +8295,7 @@
 明灭不定	mmbd
 明明白白	mmbb
 眉来眼去	mlyq
+慢了一拍	mlyp
 睦邻友好	mlyh
 骂了一顿	mlydo
 马来西亚	mlxya
@@ -16497,8 +16498,8 @@
 足球赛	zqs_
 赞助人	zqr_
 暂住证	zqqv
-自主权	zqqu
-走着瞧	zqq_
+最正确	zqqo
+自主权	zqq_
 自去年	zqn_
 最起码	zqm_
 增长率	zqlv
@@ -22118,8 +22119,7 @@
 蒸馏水	qlei
 祁连山	qle_
 猪鹿蝶	qldu
-全垒打	qldi
-整理得	qld_
+全垒打	qld_
 这里错	qlc_
 这里边	qlbo
 整理表	qlb_
@@ -22252,8 +22252,9 @@
 正合适	qhev
 恰好是	qheo
 却还是	qhe_
+秦皇岛	qhdvu
 契合度	qhdv
-秦皇岛	qhd_
+切换到	qhd_
 青花瓷	qhc_
 这还不	qhbo
 抢红包	qhb_
@@ -22419,6 +22420,7 @@
 长大了	qdlu
 敲到了	qdlo
 战斗力	qdlio
+钦定了	qdli'
 睁大了	qdli
 驱动力	qdlav
 强多了	qdlau
@@ -23429,8 +23431,8 @@
 牧羊犬	myqu
 满月照	myqa
 没有钱	myq_
-慢一拍	mypo
-每一篇	myp_
+每一篇	mypu
+慢一拍	myp_
 每一年	myn_
 每一枚	mymu
 摸一摸	mymi
@@ -23942,8 +23944,10 @@
 没得选	mdx'
 买东西	mdx_
 牡丹亭	mdt_
-免打扰	mdru
-每代人	mdr_
+免打扰	mdrui
+每代人	mdru
+卖的人	mdr'
+买的人	mdr_
 买得起	mdq_
 莫德纳	mdn_
 面对面	mdm_
@@ -25024,9 +25028,10 @@
 颗粒状	klf_
 昆仑山	kleo
 看来是	kle_
-开绿灯	kldv
+开绿灯	kldva
+可聊的	kldv
 克林顿	kldu
-可聊的	kld'
+颗粒度	kldi
 考虑到	kld_
 克隆版	klb_
 开口子	kkz_
@@ -31431,6 +31436,7 @@
 曹雪芹	cxq_
 促销品	cxp_
 此项目	cxm_
+错爱了	cxli
 从心里	cxl_
 蔡徐坤	cxki
 菜虚鲲	cxk_
@@ -31905,7 +31911,6 @@
 半小时	bxeo
 便携式	bxei
 不现实	bxe_
-表现得	bxdvv
 表兄弟	bxdvo
 不幸的	bxdv'
 不小的	bxdv
@@ -33711,6 +33716,7 @@
 郁闷	ym_
 一年	yn_
 要求	yq_
+一人	yr_
 以下	yx_
 因而	yx'
 字词	zc_
@@ -38980,7 +38986,8 @@
 一匹	ykpkv
 一批	ykpk
 译谱	ykpj
-一派	ykphv
+一拍	ykphv
+一派	ykph'
 一排	ykph
 一瓶	ykpg
 一盘	ykpf
@@ -63381,9 +63388,10 @@
 取舍	qlee
 渠首	qled
 取水	qleb
-取道	qldzvo
-取到	qldzv
-渠道	qldz
+取道	qldzv
+渠道	qldza
+取到	qldz'
+去到	qldz
 驱动	qldy
 区段	qldt
 取大	qlds
@@ -65372,10 +65380,6 @@
 谪仙	qexmo
 折线	qexmi
 折现	qexm
-折耳	qexji
-浙二	qexja
-这儿	qexj
-哲学	qexh
 折行	qexg
 这茬	qewso
 这娃	qews
@@ -72389,7 +72393,7 @@
 墨晕	mlyw
 摩愿	mlyt
 磨牙	mlys
-墨阳	mlyp
+墨阳	mlypi
 魔域	mlylov
 魔羽	mlyloa
 魔芋	mlylo
@@ -103779,7 +103783,8 @@
 折耳	fexji
 浙二	fexja
 这儿	fexj
-哲学	fexh
+哲学	fexhi
+这爱	fexh
 折行	fexg
 折冲	fewyi
 这位	feww
