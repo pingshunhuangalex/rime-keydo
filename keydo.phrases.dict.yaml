@@ -1675,6 +1675,7 @@ sort: original
 并查	bgwso
 冰川	bgwt
 八股文	bgwu
+不搞岔	bgwv
 并未	bgww
 并为	bgww
 病危	bgwwo
@@ -3091,7 +3092,8 @@ sort: original
 背景音乐	bjyyi
 补药	bjyz
 步摇	bjyzi
-败家子	bjz
+不仅在	bjz
+败家子	bjza
 不醉	bjzb
 不走	bjzd
 不择	bjze
@@ -3115,7 +3117,7 @@ sort: original
 不赚	bjzt
 不进则退	bjztv
 包饺子	bjzu
-不仅在	bjzv
+比较早	bjzv
 飙车族	bjzvv
 不贼	bjzw
 不遵	bjzwv
@@ -3356,7 +3358,7 @@ sort: original
 比况	bkkx
 鼻孔	bkky
 必考	bkkz
-不考虑	bkl
+不看了	bkl
 不肯来	bkl
 比邻	bklb
 碧聊	bklc
@@ -3382,7 +3384,8 @@ sort: original
 逼脸	bklmv
 碧浪	bklp
 必乱	bklt
-不苦了	bklv
+不考虑	bklv
+不苦了	bklvi
 壁垒	bklw
 避雷	bklwa
 鼻梁	bklx
@@ -6142,14 +6145,15 @@ sort: original
 不信邪	bxxvi
 白雪皑皑	bxxx
 不想要	bxy
-不下雨	bxy
+必须要	bxy
 不屑一顾	bxyg
 保险业	bxyi
 不惜一切代价	bxyj
-必须要	bxyo
+被吸引	bxyo
 不惜一切	bxyq
 不形于色	bxys
-不屑于	bxyv
+不下雨	bxyv
+不屑于	bxyva
 不限于	bxyva
 不小于	bxyvi
 本协议	bxyvu
@@ -10761,7 +10765,6 @@ sort: original
 大事化小	dehxv
 的宏	dehy
 到时间	dej
-电视剧	dej
 得劲	dejb
 的街	dejd
 的结	dejd
@@ -10770,7 +10773,8 @@ sort: original
 的井	dejgu
 的决	dejh
 大声疾呼	dejhv
-电视机	deji
+电视剧	deji
+电视机	dejio
 得出	dejj
 点石成金	dejji
 得见	dejm
@@ -10872,10 +10876,10 @@ sort: original
 大势所趋	desq
 大失所望	desw
 德颂	desy
-电视台	det
+多少天	det
+电视台	deti
 得体	detk
 的天	detm
-多少天	detu
 电视网	dew
 都市传说	dewe
 但说无妨	dewf
@@ -10974,7 +10978,6 @@ sort: original
 但从	dfcyi
 单槽	dfcz
 吊着打	dfd
-大幅度	dfd
 对方的	dfda
 对蹠点	dfdao
 但对	dfdb
@@ -11003,6 +11006,7 @@ sort: original
 单打	dfdso
 单段	dfdt
 大幅的	dfdv
+大幅度	dfdvi
 东方的	dfdvo
 单墩	dfdw
 丹东	dfdy
@@ -11018,7 +11022,6 @@ sort: original
 单手	dfed
 单设	dfee
 单摄	dfeeo
-大幅上升	dfeev
 单删	dfef
 单数	dfej
 打发时间	dfeji
@@ -11028,9 +11031,8 @@ sort: original
 单双	dfem
 单身	dfen
 丹参	dfenu
-东方神起	dfeq
-单刷	dfeqo
-大幅上涨	dfeqv
+单刷	dfeq
+东方神起	dfeqv
 诞生	dfer
 丹砂	dfes
 单双	dfex
@@ -11327,12 +11329,10 @@ sort: original
 胆小	dfxc
 单鞋	dfxd
 东扶西倒	dfxdv
-大幅下跌	dfxdvi
 丹垩	dfxe
 单行	dfxg
 但爱	dfxh
-大幅下降	dfxj
-单反相机	dfxjo
+单反相机	dfxj
 地质学家	dfxjv
 旦夕	dfxk
 单膝	dfxko
@@ -14801,7 +14801,8 @@ sort: original
 打假	dsjsi
 大驾	dsjsv
 答卷	dsjt
-第四纪	dsju
+第四季	dsju
+第四纪	dsjui
 大军	dsjw
 大春	dsjwv
 大奖	dsjx
@@ -33476,6 +33477,7 @@ sort: original
 敢吗	gfmsa
 干吗	gfmsv
 干妈	gfmsva
+更丰满	gfmv
 干妹	gfmw
 甘美	gfmwv
 感冒	gfmz
@@ -38132,7 +38134,8 @@ sort: original
 搞忘	gzwp
 各自为战	gzwq
 各自为政	gzwqu
-搞差	gzws
+搞岔	gzws
+搞差	gzwsi
 公子王孙	gzwsu
 高位	gzww
 高危	gzwwo
@@ -40081,6 +40084,7 @@ sort: original
 怀康	hgkp
 坏卡	hgks
 回国了	hgl
+回归了	hgl
 红高粱	hgla
 槐林	hglb
 黑咕隆咚	hgld
@@ -44401,7 +44405,8 @@ sort: original
 毫伏	hzfj
 豪壮	hzfm
 毫分	hzfn
-豪放	hzfp
+号房	hzfp
+豪放	hzfpo
 毫发	hzfs
 好转	hzft
 耗费	hzfw
@@ -46974,10 +46979,7 @@ sort: original
 九十五	jewuu
 爵士舞	jewuv
 晋升为	jewv
-车位	jeww
-车窗	jewx
-技术创新	jewxi
-车床	jewxv
+技术创新	jewx
 技术性	jex
 介绍信	jex
 建设性	jexa
@@ -48324,9 +48326,10 @@ sort: original
 除草	jjcz
 渐渐地	jjd
 静静地	jjd
-酒精灯	jjda
 纯洁的	jjda
 贱贱的	jjdaa
+酒精灯	jjdao
+出场点	jjdav
 出掉	jjdc
 除掉	jjdca
 简简单单	jjdd
@@ -50644,7 +50647,8 @@ sort: original
 简况	jmkx
 监控	jmky
 监考	jmkz
-居民楼	jml
+就没了	jml
+居民楼	jmla
 建林	jmlb
 简陋	jmld
 捡漏	jmldi
@@ -50999,6 +51003,7 @@ sort: original
 沉淀	jndm
 衬垫	jndmo
 臣等	jndr
+境内的	jndv
 暨南大学	jndx
 济南市	jne
 沉睡	jneb
@@ -53336,9 +53341,9 @@ sort: original
 纯词	jwck
 纯藏	jwcp
 春草	jwcz
-绝望的	jwd
 觉察到	jwd
-经纬度	jwda
+绝望的	jwda
+经纬度	jwdaa
 军队	jwdb
 春都	jwdd
 坚持到底	jwddi
@@ -53354,7 +53359,8 @@ sort: original
 均等	jwdr
 均达	jwds
 居无定所	jwdsa
-机务段	jwdv
+境外的	jwdv
+机务段	jwdvu
 蠢动	jwdy
 军刀	jwdz
 家务事	jwe
@@ -56595,7 +56601,7 @@ sort: original
 酷评	kjpg
 酷派	kjph
 哭破	kjpl
-空间站	kjq
+看进去	kjq
 苦战	kjqf
 苦情	kjqg
 酷宅	kjqh
@@ -56603,6 +56609,7 @@ sort: original
 苦主	kjqji
 哭泣	kjqk
 库区	kjql
+空间站	kjqo
 恐惧症	kjqv
 苦挣	kjqr
 苦劝	kjqt
@@ -60250,6 +60257,7 @@ sort: original
 略逊	lhxwi
 来向	lhxx
 来想	lhxxv
+来澳	lhxz
 老花眼	lhy
 莱茵	lhyb
 略有	lhyd
@@ -63697,7 +63705,8 @@ sort: original
 离心力	lxlo
 六小龄童	lxlt
 留下来	lxlu
-李小龙	lxlv
+聊下来	lxlv
+李小龙	lxlvi
 两类	lxlw
 两轮	lxlwv
 两肋	lxlwvu
@@ -64890,6 +64899,7 @@ sort: original
 某地	mddk
 眸底	mddki
 蛮大的	mddo
+蛮多的	mddo
 某大	mdds
 某段	mddt
 篾刀	mddz
@@ -65183,6 +65193,7 @@ sort: original
 满归	mfgb
 蛮干	mfgf
 明知故犯	mfgfo
+漫改	mfgh
 曼谷	mfgj
 漫过	mfgl
 瞒过	mfgli
@@ -65332,7 +65343,8 @@ sort: original
 满屋	mfwj
 漫无	mfwja
 莫非王臣	mfwji
-慢吃	mfwk
+蛮吃	mfwk
+慢吃	mfwko
 满窗	mfwm
 满文	mfwn
 目中无人	mfwr
@@ -65842,6 +65854,7 @@ sort: original
 麦家	mhjsvo
 埋夹	mhjsvv
 卖春	mhjw
+蛮好看	mhk
 脉口	mhkd
 麦克	mhke
 迈克	mhkev
@@ -72623,7 +72636,8 @@ sort: original
 剖腹	pdfj
 剖分	pdfn
 攀登者	pdfv
-平底锅	pdg
+碰到过	pdg
+平底锅	pdgv
 彭德怀	pdh
 平等互利	pdhl
 撇号	pdhz
@@ -82188,9 +82202,8 @@ sort: original
 主要部分	qybf
 穷兵	qybg
 招议标	qybi
-主要包括	qybk
+缺一不可	qybk
 穷逼	qybko
-缺一不可	qybku
 穷本	qybn
 前言不搭后语	qyby
 主要表现在	qybz
@@ -83346,12 +83359,12 @@ sort: original
 人杰地灵	rjdl
 褥垫	rjdm
 入党	rjdp
+入场点	rjdu
 蠕动	rjdy
 人间地狱	rjdyi
 入冬	rjdyu
 入洞	rjdyua
 人就是	rje
-人间事	rje
 入睡	rjeb
 如水	rjeba
 入水	rjebu
@@ -83361,7 +83374,8 @@ sort: original
 如山	rjefa
 人间失格	rjeg
 日常生活	rjeh
-人教社	rjei
+人间事	rjei
+人教社	rjeiu
 如数	rjej
 儒术	rjeji
 如实	rjek
@@ -86684,7 +86698,8 @@ sort: original
 嘶哑	skys
 寺院	skyt
 思源	skyti
-私运	skyw
+随口一问	skyw
+私运	skywu
 私用	skyy
 撕咬	skyz
 私钥	skyzu
@@ -87831,7 +87846,8 @@ sort: original
 随遇而安	syxx
 松香	syxxv
 所以也	syy
-松叶	syye
+随口一说	syye
+松叶	syyev
 送烟	syyf
 送验	syyfo
 死有余辜	syyg
@@ -90045,6 +90061,7 @@ sort: original
 胎毛	thmz
 它还能	thn
 台南	thnf
+太难	thnfv
 泰宁	thng
 徒呼奈何	thnh
 太腻	thnk
@@ -90504,7 +90521,6 @@ sort: original
 图腾	tjtr
 土豚	tjtw
 天极网	tjw
-停车位	tjwi
 突兀	tjwj
 凸窗	tjwm
 图床	tjwmi
@@ -92857,6 +92873,7 @@ sort: original
 同名	tymg
 通明	tymga
 通卖	tymh
+挺有名	tymi
 同母	tymj
 铜模	tyml
 桶面	tymm
@@ -103625,8 +103642,8 @@ sort: original
 二冷	xjlr
 徐静蕾	xjlu
 想出来	xjlv
-现金流	xjlv
 下结论	xjlva
+现金流	xjlvi
 下九流	xjlvu
 下脚料	xjlvuo
 而论	xjlw
@@ -106907,6 +106924,7 @@ sort: original
 寻求	xwqq
 熏蒸	xwqr
 训犬	xwqt
+笑岔气	xwqu
 行为准则	xwqz
 行为人	xwr
 熏肉	xwrd
@@ -108437,7 +108455,8 @@ sort: original
 银魂	ybhwi
 银黄	ybhx
 引号	ybhz
-言必称	ybj
+要不就	ybj
+演不出	ybja
 引进	ybjb
 音近	ybjbo
 阴角	ybjc
@@ -108448,8 +108467,7 @@ sort: original
 也不见得	ybjdav
 音阶	ybjdo
 引车	ybje
-要不就是	ybjev
-一般见识	ybjevu
+一般见识	ybjev
 引产	ybjf
 眼不见，心不烦	ybjfi
 阴茎	ybjg
@@ -108473,6 +108491,7 @@ sort: original
 引见	ybjmai
 银监	ybjmi
 阴沉	ybjn
+言必称	ybjo
 吟唱	ybjp
 饮酒	ybjq
 引咎	ybjqa
@@ -109276,9 +109295,10 @@ sort: original
 油类	ydlwao
 邮轮	ydlwi
 有泪	ydlwv
-优良	ydlx
+有辆	ydlx
 油量	ydlxa
 油亮	ydlxao
+优良	ydlxi
 游龙	ydly
 有劳	ydlz
 源代码	ydm
@@ -112754,14 +112774,14 @@ sort: original
 一窝	ykwlv
 一床	ykwm
 疑问	ykwn
-一问	ykwn
 异闻	ykwna
 伊文	ykwni
 译文	ykwno
 易问	ykwnoo
 逸闻	ykwnu
-轶闻	ykwnv
-一吻	ykwnvo
+一问	ykwnv
+一吻	ykwnv
+轶闻	ykwnvo
 遗忘	ykwp
 以往	ykwpa
 已往	ykwpau
