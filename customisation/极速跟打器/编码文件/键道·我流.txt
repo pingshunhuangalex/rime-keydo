@@ -40,6 +40,7 @@
 有中国特色社会主义	yfgyv
 衣不如新，人不如故	ybrg
 心有猛虎，细嗅蔷薇	xymwo
+耳听为虚，眼见为实	xtwe
 晓之以理，动之以情	xfyq
 创业未半而中道崩殂	wywc
 仇人相见，分外眼红	wrxh
@@ -2761,8 +2762,9 @@
 远近闻名	yjwm
 疑车无据	yjwj
 腰缠万贯	yjwg
+严谨务实	yjwevo
 有价无市	yjwev
-严谨务实	yjwe
+眼见为实	yjwe
 羊城晚报	yjwb
 异军突起	yjtq
 语惊四座	yjsz
@@ -4635,7 +4637,7 @@
 晚些时候	wxeh
 无性生殖	wxefv
 捶胸顿足	wxdz
-重新定义	wxdyu
+重新定义	wxdy
 无线电台	wxdt
 穿靴戴帽	wxdmo
 文心雕龙	wxdl
@@ -19422,7 +19424,8 @@
 问责制	wzfo
 外祖父	wzf_
 车子上	wze_
-外在的	wzd_
+外在的	wzdu
+我在的	wzd_
 吃早餐	wzc_
 物资部	wzb_
 无原则	wyzv
@@ -19522,10 +19525,11 @@
 朝鲜人	wxru
 汪星人	wxra
 外星人	wxr_
-无协助	wxqv
+无协助	wxqvu
+无限期	wxqv
+微信群	wxqui
 危险期	wxqua
 危险区	wxqu
-无限期	wxq'
 我想起	wxq_
 危险品	wxpu
 五线谱	wxp_
@@ -48704,7 +48708,6 @@
 创设	wxee
 创收	wxed
 创税	wxeb
-窗洞	wxdy
 闯荡	wxdp
 床垫	wxdm
 床底	wxdk
