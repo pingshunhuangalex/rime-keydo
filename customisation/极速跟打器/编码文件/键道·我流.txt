@@ -8436,6 +8436,7 @@
 明哲保身	mfbe
 民事责任	mezra
 谋事在人	mezr
+没啥意思	meys
 民生银行	meyh
 民事案件	mexj
 妙手偶得	mexd
@@ -12688,6 +12689,7 @@
 法力无边	flwb
 法律条文	fltw
 风流倜傥	fltt
+分类讨论	fltl
 富丽堂皇	flth
 风流儒雅	flry
 风流人物	flrw
@@ -14422,6 +14424,7 @@
 对外经济	dwjj
 调查结果	dwjg
 但我觉得	dwjd
+等我回来	dwhl
 调查户口	dwhk
 调查分析	dwfxo
 当务之急	dwfji
@@ -15409,7 +15412,7 @@
 碧血丹心	bxdx
 彪形大汉	bxdh
 博学多识	bxdeu
-不幸的是	bxde
+不想多说	bxde
 博学多才	bxdc
 不虚此行	bxcx
 冰雪聪明	bxcm
@@ -19686,9 +19689,10 @@
 无助于	wqy_
 无穷小	wqxvo
 无障碍	wqxv
+重启下	wqxu
 文曲星	wqxoi
 完整性	wqxo
-重启下	wqx_
+我去下	wqx_
 为前提	wqt_
 围棋赛	wqs_
 握爪爪	wqq_
@@ -64037,8 +64041,8 @@
 主凶	qjxy
 逐项	qjxx
 主选	qjxt
-去下	qjxsv
-住下	qjxs
+住下	qjxsi
+去下	qjxs
 主修	qjxq
 诛仙	qjxmo
 主线	qjxm
@@ -101690,7 +101694,7 @@
 佛塔	flts
 灼烫	fltpo
 佛堂	fltp
-佛陀	fltl
+佛陀	fltli
 佛图	fltj
 卓特	flte
 桌贴	fltdi
