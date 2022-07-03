@@ -2428,7 +2428,7 @@ sort: original
 不顺	bjew
 不爽	bjex
 北京师范大学	bjexi
-别急着	bjf
+不急着	bjf
 不追	bjfb
 步骤	bjfd
 必经之地	bjfdo
@@ -2461,6 +2461,7 @@ sort: original
 不解之谜	bjfmv
 部分	bjfn
 不分	bjfnv
+别急着	bjfo
 不妨	bjfp
 不放	bjfp
 不防	bjfpv
@@ -6086,6 +6087,7 @@ sort: original
 必修课	bxk
 不辛苦	bxkv
 不行了	bxl
+变现了	bxl
 办下来	bxla
 背下来	bxli
 薄熙来	bxliv
@@ -11436,8 +11438,9 @@ sort: original
 钉钉	dgdgi
 订定	dgdgo
 顶顶	dgdgv
-顶戴	dgdh
-打个电话	dgdhi
+打个电话	dgdh
+打过电话	dgdhi
+顶戴	dgdhv
 打工的	dgdi
 定都	dgdj
 顶多	dgdl
@@ -15989,6 +15992,7 @@ sort: original
 第一手	dyeu
 得与失	dyeuv
 大约是	dyev
+带钥匙	dyevi
 德艺双馨	dyex
 第一种	dyf
 第一周	dyf
@@ -19540,7 +19544,7 @@ sort: original
 世间万物	ejwwv
 戍卫	ejwwva
 书虫	ejwy
-生产线	ejx
+山脚下	ejx
 双绞线	ejxa
 书信	ejxb
 舒心	ejxbi
@@ -19562,7 +19566,6 @@ sort: original
 输出信号	ejxhva
 述学	ejxhvo
 上进心	ejxi
-山脚下	ejxiu
 倏尔	ejxj
 山间小径	ejxji
 舒尔	ejxjiu
@@ -19585,6 +19588,7 @@ sort: original
 数下	ejxso
 输下	ejxsv
 神经系统	ejxt
+生产线	ejxu
 世界性	ejxv
 世界线	ejxvi
 书讯	ejxw
@@ -20664,9 +20668,10 @@ sort: original
 说开	elkh
 上来看	elki
 说库	elkj
-湿淋淋	ell
-水灵灵	ella
-湿漉漉	ellaa
+上路了	ell
+湿淋淋	ella
+湿漉漉	ella
+水灵灵	ellaa
 说林	ellb
 说了	elle
 说来	ellh
@@ -20712,7 +20717,10 @@ sort: original
 说死	elsk
 说了算	elso
 十六岁	elsu
-水龙头	elt
+说了他	elt
+说了她	elt
+水龙头	elta
+说了它	elto
 说他	elts
 说她	eltso
 生灵涂炭	eltt
@@ -20733,6 +20741,7 @@ sort: original
 实力雄厚	elxho
 说戏	elxk
 朔县	elxm
+熟练下	elxo
 双龙戏珠	elxq
 说下	elxs
 说啊	elxso
@@ -34193,16 +34202,16 @@ sort: original
 鼓捣	gjdz
 孤岛	gjdza
 古道	gjdzu
-工程师	gje
+关键是	gje
+估计是	gje
 古水	gjeb
 固守	gjed
 鼓手	gjedv
 鼓舌	gjee
 孤山	gjef
 国际社会	gjeh
-贵金属	gjei
-国际上	gjeia
-估计是	gjeio
+国际上	gjei
+贵金属	gjeii
 股数	gjej
 国际市场	gjeji
 古树	gjeju
@@ -34219,7 +34228,6 @@ sort: original
 钢筋水泥	gjeni
 股神	gjenu
 古神	gjenuo
-关键是	gjeo
 顾上	gjep
 国际水平	gjepi
 关键时期	gjeq
@@ -34227,7 +34235,8 @@ sort: original
 孤军深入	gjera
 固沙	gjes
 功成身退	gjet
-工具书	gjev
+工程师	gjev
+工具书	gjevi
 国家事务	gjew
 过程中	gjf
 孤舟	gjfd
@@ -35101,6 +35110,7 @@ sort: original
 过小	glxc
 过些	glxd
 裹挟	glxdo
+干了些啥	glxe
 国安	glxf
 果形	glxg
 国学	glxh
@@ -35125,8 +35135,8 @@ sort: original
 过硬	glyg
 国营	glygi
 果蝇	glygii
-郭跃	glyh
-过了一会	glyhv
+过了一会	glyh
+郭跃	glyho
 过亿	glyk
 过意	glykv
 过于	glyl
@@ -39623,6 +39633,7 @@ sort: original
 和原	heyt
 河源	heyta
 很少有	heyu
+很善于	heyuo
 核试验	heyv
 喝晕	heyw
 何用	heyy
@@ -40400,6 +40411,7 @@ sort: original
 海牛	hhnq
 还拿	hhns
 海内	hhnw
+很合拍	hhp
 还聘	hhpb
 还平	hhpg
 还派	hhph
@@ -50575,7 +50587,8 @@ sort: original
 经贸合作	jmhzau
 酵母菌	jmj
 渐进	jmjb
-渐近	jmjba
+渐近	jmjb
+沉没成本	jmjba
 监禁	jmjbi
 尖叫	jmjc
 建交	jmjca
@@ -57308,8 +57321,9 @@ sort: original
 垮台	kqth
 夸脱	kqtl
 垮塌	kqts
-扩展坞	kqw
+扩张完	kqw
 侉车	kqwe
+扩展坞	kqwi
 空气污染	kqwr
 夸许	kqxl
 跨县	kqxm
@@ -57336,7 +57350,6 @@ sort: original
 坑底	krdk
 坑洞	krdy
 坑道	krdz
-客人是	kre
 吭声	krer
 坑杀	kres
 狂热者	krf
@@ -58183,7 +58196,6 @@ sort: original
 控艾	kyxhi
 看一下	kyxi
 抗药性	kyxii
-快一些	kyxo
 可以想见	kyxj
 空耳	kyxjo
 空儿	kyxjou
@@ -58195,12 +58207,15 @@ sort: original
 空闲	kyxm
 控线	kyxmi
 科研项目	kyxmu
+开一下门	kyxmv
+快一些	kyxo
 可遇而不可求	kyxq
 空下	kyxs
-快意恩仇	kyxw
-空想	kyxx
-可以想象	kyxxv
-可以有	kyy
+开一下	kyxv
+开一下窗	kyxw
+快意恩仇	kyxwo
+可以想象	kyxx
+空想	kyxxo
 控有	kyyd
 空有	kyydo
 空页	kyye
@@ -66759,7 +66774,7 @@ sort: original
 魔抗	mlkp
 摩卡	mlks
 模考	mlkz
-毛利率	mll
+没落了	mll
 末了	mllc
 磨料	mllco
 抹了	mlle
@@ -66780,6 +66795,7 @@ sort: original
 磨练	mllmo
 末流	mllq
 模棱	mllr
+毛利率	mllu
 抹泪	mllw
 磨轮	mllwo
 模量	mllx
@@ -70371,6 +70387,7 @@ sort: original
 你瞧	nkqc
 拟请	nkqg
 你却	nkqh
+你住	nkqj
 你真	nkqn
 泥鳅	nkqq
 逆政	nkqr
@@ -81486,8 +81503,8 @@ sort: original
 全拼	qtpb
 全票	qtpc
 全盘	qtpf
-全屏	qtpg
-全凭	qtpgi
+全凭	qtpg
+全屏	qtpgi
 全牌	qtph
 拳谱	qtpj
 晴天霹雳	qtpl
@@ -83309,6 +83326,7 @@ sort: original
 热乎乎	rhh
 热乎劲	rhj
 润滑剂	rhja
+日韩剧	rhjo
 热火朝天	rhjt
 乳化剂	rhju
 入海口	rhk
@@ -89056,6 +89074,7 @@ sort: original
 特扎	tefsu
 特装	tefx
 特种	tefy
+同声翻译	tefyi
 特招	tefz
 听说过	teg
 特贵	tegb
@@ -107162,7 +107181,6 @@ sort: original
 响哨	xxez
 信心十足	xxezi
 想象中	xxf
-儿媳妇	xxf
 续写着	xxfa
 阿尔法	xxfau
 香洲	xxfd
@@ -107197,7 +107215,9 @@ sort: original
 想法	xxfs
 想发	xxfsv
 先行者	xxfu
-想像中	xxfv
+儿媳妇	xxfua
+下下周	xxfv
+想像中	xxfvi
 想飞	xxfw
 相撞	xxfx
 谢谢分享	xxfxo
@@ -107820,9 +107840,9 @@ sort: original
 熊霜	xyex
 休养生息	xyexi
 享有盛誉	xyey
-相一致	xyf
-洗衣服	xyf
-洗衣粉	xyfa
+下一周	xyf
+洗衣服	xyfa
+洗衣粉	xyfao
 嫌疑犯	xyfau
 胸椎	xyfb
 雄州	xyfd
@@ -107845,7 +107865,8 @@ sort: original
 熊爪	xyfq
 安营扎寨	xyfqo
 雄风	xyfr
-二月份	xyfv
+相一致	xyfv
+二月份	xyfvu
 逍遥法外	xyfw
 雄壮	xyfx
 胸中	xyfy
@@ -108435,6 +108456,7 @@ sort: original
 音高	ybgz
 一般会	ybh
 也不会	ybha
+也不好	ybhav
 隐晦	ybhb
 淫秽	ybhba
 银灰	ybhbi
@@ -109055,6 +109077,7 @@ sort: original
 幽州	ydfdi
 有粥	ydfdv
 愿赌服输	ydfe
+应对方式	ydfeo
 有的放矢	ydfev
 忧烦	ydff
 以德治国	ydfg
@@ -115601,7 +115624,6 @@ sort: original
 印象派	yxp
 异性朋友	yxpy
 一想起	yxq
-有兴趣	yxq
 英雄气短	yxqd
 英雄气概	yxqg
 贻笑千古	yxqga
@@ -115920,9 +115942,7 @@ sort: original
 用脚	yyjc
 油盐酱醋	yyjca
 一言九鼎	yyjd
-用车	yyje
-应用技术	yyjeo
-原因就是	yyjev
+应用技术	yyje
 营养价值	yyjf
 应用价值	yyjfo
 泳镜	yyjg
@@ -115931,9 +115951,7 @@ sort: original
 远远超过	yyjgv
 永诀	yyjh
 因缘际会	yyjhi
-有一句话	yyjhv
-医养结合	yyjhvo
-一有机会	yyjhvv
+医养结合	yyjhv
 用处	yyjj
 涌出	yyjja
 囿于成见	yyjji
@@ -119935,10 +119953,11 @@ sort: original
 自习室	zxeu
 走形式	zxev
 在校生	zxevv
-最小值	zxf
+再下周	zxf
 罪刑法定	zxfd
 自寻烦恼	zxfn
 最幸福	zxfo
+最小值	zxfoi
 罪恶感	zxg
 造血干细胞	zxgb
 最想过	zxgo
