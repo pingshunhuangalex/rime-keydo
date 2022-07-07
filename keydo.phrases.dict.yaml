@@ -1821,8 +1821,9 @@ sort: original
 百搭	bhdsv
 掰断	bhdt
 饱和度	bhdu
-不厚道	bhdv
+不慌的	bhdv
 百货店	bhdvi
+不厚道	bhdvv
 百吨	bhdw
 保护动物	bhdwi
 摆动	bhdy
@@ -2371,7 +2372,7 @@ sort: original
 补刀	bjdzo
 布道	bjdzv
 不就是	bje
-本就是	bje
+不仅是	bje
 绊脚石	bjea
 不睡	bjeb
 补水	bjebo
@@ -2421,10 +2422,11 @@ sort: original
 捕杀	bjes
 不傻	bjesv
 白衬衫	bjeu
-不仅是	bjev
 比较少	bjev
+比较深	bjev
 不出事	bjeva
 不接受	bjevi
+本就是	bjevo
 不解释	bjevu
 不成熟	bjevv
 不顺	bjew
@@ -3895,9 +3897,10 @@ sort: original
 薄弱	blrl
 拨冗	blry
 表里如一	blryv
-碧绿色	bls
+不利索	bls
 布里斯班	blsb
-布鲁斯	blsv
+碧绿色	blsv
+布鲁斯	blsvu
 波色	blse
 播散	blsf
 波速	blsj
@@ -6322,6 +6325,7 @@ sort: original
 不言而喻	byxy
 不一而足	byxz
 不愿意	byy
+不亚于	byy
 避孕药	byya
 不一样的	byyd
 不以一眚掩大德	byydv
@@ -6332,7 +6336,7 @@ sort: original
 表演艺术家	byyj
 不遗余力	byyl
 病怏怏	byyo
-不亚于	byyv
+不游泳	byyv
 毕业于	byyvi
 不要以为	byyw
 别有用心	byyx
@@ -10570,6 +10574,7 @@ sort: original
 都替	ddtk
 逗他	ddts
 道德体系	ddtx
+带带我	ddw
 等等我	ddw
 地大物博	ddwb
 斗车	ddwe
@@ -13201,8 +13206,8 @@ sort: original
 多解	dljd
 多产	dljf
 倒垃圾	dlji
-多处	dljj
-多出	dljju
+多出	dljj
+多处	dljju
 多极	dljk
 多级	dljku
 多聚	dljl
@@ -38843,7 +38848,6 @@ sort: original
 后单	hddf
 好多地方	hddfa
 后代	hddh
-很大的变化	hddhu
 厚度	hddj
 厚地	hddk
 厚底	hddkv
@@ -38858,7 +38862,6 @@ sort: original
 后盾	hddw
 横刀夺爱	hddx
 好多东西	hddxa
-很大的影响	hddxu
 厚道	hddz
 吼道	hddzo
 很多事	hde
@@ -39070,7 +39073,6 @@ sort: original
 后圈	hdqt
 核电站	hdqv
 后墙	hdqx
-很多情况下	hdqxu
 后爪	hdqz
 好多人	hdr
 活动日	hdra
@@ -40476,7 +40478,7 @@ sort: original
 还损	hhsw
 还送	hhsy
 害臊	hhsz
-很好听	hht
+滑滑梯	hht
 还推	hhtb
 还投	hhtd
 海特	hhte
@@ -40490,6 +40492,7 @@ sort: original
 海棠	hhtp
 害他	hhts
 海獭	hhtsa
+很好听	hhtu
 海豚	hhtw
 孩童	hhty
 海通	hhtya
@@ -41276,7 +41279,9 @@ sort: original
 货轮	hllw
 豁亮	hllx
 火龙	hlly
-红楼梦	hlm
+好了没	hlm
+好了嘛	hlm
+红楼梦	hlma
 火苗	hlmc
 活命	hlmg
 活埋	hlmh
@@ -42157,8 +42162,12 @@ sort: original
 划掉	hqdcv
 化蝶	hqdd
 画得	hqde
+划得	hqde
+滑得	hqdea
+滑的	hqdeau
 花的	hqdei
 画的	hqdev
+划的	hqdevu
 华诞	hqdf
 花旦	hqdfi
 划定	hqdg
@@ -42217,7 +42226,8 @@ sort: original
 划上	hqepv
 花生	hqer
 华生	hqeri
-华沙	hqes
+滑沙	hqes
+华沙	hqesi
 很强势	hqeu
 花哨	hqez
 婚前房	hqf
@@ -51960,7 +51970,6 @@ sort: original
 旧空	jqky
 就靠	jqkz
 记住了	jql
-捡起来	jql
 加起来	jqla
 出勤率	jqlav
 旧料	jqlc
@@ -51973,13 +51982,15 @@ sort: original
 酒令	jqlg
 九零	jqlgu
 就来	jqlh
-坚强了	jqli
-接起来	jqliv
+捡起来	jqli
+接起来	jqli
+坚强了	jqlia
 九路	jqlj
 就里	jqlk
 酒力	jqlka
 就连	jqlm
-竞争力	jqlo
+卷起来	jqlo
+竞争力	jqlou
 久留	jqlq
 贾庆林	jqlv
 酒类	jqlw
@@ -55287,10 +55298,10 @@ sort: original
 考第一	kdyu
 扣在	kdzh
 扩大再生产	kdzj
-扣子	kdzk
-抠字	kdzk
-扣字	kdzki
-口子	kdzko
+口子	kdzk
+抠字	kdzki
+扣子	kdzkia
+扣字	kdzkio
 扣杂	kdzs
 跨设备	keb
 课表	kebc
@@ -65900,7 +65911,7 @@ sort: original
 卖卡	mhks
 卖空	mhky
 买空	mhkya
-闷葫芦	mhl
+忙好了	mhl
 买了	mhle
 卖了	mhleu
 买来	mhlh
@@ -65908,6 +65919,7 @@ sort: original
 麦粒	mhlkv
 脉络	mhll
 卖脸	mhlm
+闷葫芦	mhlo
 麦浪	mhlp
 梅花鹿	mhlv
 麦类	mhlw
@@ -68059,7 +68071,7 @@ sort: original
 麻坑	mskr
 马卡	msks
 冥思苦想	mskx
-穆斯林	msl
+忙死了	msl
 马斯洛	msla
 马三立	mslav
 马琳	mslb
@@ -68091,6 +68103,7 @@ sort: original
 麻辣	msls
 马拉	mslsa
 麻乱	mslt
+穆斯林	mslu
 麻类	mslw
 马良	mslx
 莫斯利安	mslxi
@@ -68694,7 +68707,8 @@ sort: original
 每项	mwxxu
 美印	mwyb
 美音	mwybo
-煤油	mwyd
+没游	mwyd
+煤油	mwydo
 每页	mwye
 每夜	mwyeu
 美颜	mwyf
@@ -75862,7 +75876,8 @@ sort: original
 主导地位	qddw
 切到	qddz
 全都是	qde
-注定是	qdea
+注定是	qde
+清单上	qdea
 且受	qded
 这段时间	qdej
 前段时间	qdej
@@ -92330,7 +92345,8 @@ sort: original
 痛痛快快	ttkk
 条条框框	ttkku
 团矿	ttkm
-天天看	ttkv
+太痛苦	ttkv
+天天看	ttkvv
 团矿	ttkx
 吞吐量	ttl
 团龄	ttlg
@@ -92652,6 +92668,7 @@ sort: original
 通病	tybg
 桐柏	tybh
 头也不回	tybho
+推一把	tybi
 同步	tybj
 同比	tybk
 通臂	tybka
@@ -92816,6 +92833,7 @@ sort: original
 童话	tyhqo
 桐花	tyhqv
 脱氧核糖核酸	tyhs
+太硬核	tyhv
 通婚	tyhw
 同婚	tyhwi
 同好	tyhz
@@ -93198,6 +93216,7 @@ sort: original
 太糟糕	tzg
 套购	tzgd
 讨个	tzge
+套个	tzgev
 套改	tzgh
 田字格	tzgi
 逃过	tzgl
@@ -97909,16 +97928,15 @@ sort: original
 稳妥点	wtdu
 船吨	wtdw
 传动	wtdy
-传导	wtdz
-传道	wtdzi
-传到	wtdziv
-我听说	wte
+传到	wtdz
+传导	wtdzi
+传道	wtdzio
+传统上	wte
 川水	wteb
 传授	wted
 川摄	wtee
 川陕	wtef
 传统社会	wteh
-传统上	wtei
 传输	wtej
 传世	wtek
 传说	wtel
@@ -97928,7 +97946,8 @@ sort: original
 船上	wtepu
 传声	wter
 川沙	wtes
-委托书	wteu
+我同事	wteu
+委托书	wteui
 歪头杀	wtev
 五台山	wteva
 串烧	wtez
@@ -109450,6 +109469,7 @@ sort: original
 用得着	ydqu
 一刀切	ydqv
 右对齐	ydqva
+一点钱	ydqvi
 有底气	ydqvo
 有群	ydqw
 又准	ydqwa
@@ -113263,7 +113283,7 @@ sort: original
 雨洪	ylhy
 鱼龙混杂	ylhz
 愈好	ylhzi
-养老金	ylj
+原来叫	ylj
 游乐场	ylja
 浴巾	yljb
 因利乘便	yljbi
@@ -113304,6 +113324,7 @@ sort: original
 宇称	yljno
 雨晨	yljnv
 应立即	yljo
+养老金	yljou
 浴场	yljp
 渔场	yljpa
 愈久	yljq
