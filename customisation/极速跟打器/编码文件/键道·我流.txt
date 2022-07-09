@@ -397,7 +397,7 @@
 打开天窗说亮话	dkthi
 党和国家领导人	dhgri
 大规模集成电路	dgml
-丁是丁，卯是卯	dedm
+丁是丁，卯是卯	dedmv
 道不同不相为谋	dbtmo
 打遍天下无敌手	dbte
 此一时，彼一时	cyee
@@ -4456,6 +4456,7 @@
 鞍不离马	xblm
 爱别离苦	xblku
 西部开发	xbkfv
+安倍晋三	xbjso
 二八佳人	xbjrv
 想不出来	xbjlv
 而不仅仅	xbjjv
@@ -7031,6 +7032,7 @@
 骑摩托车	qmtw
 全面推进	qmtji
 骑摩托车	qmtja
+逐码提示	qmte
 全民所有	qmsyi
 青梅竹马	qmqmv
 强买强卖	qmqma
@@ -10938,7 +10940,7 @@
 互为知己	hwfj
 横冲直撞	hwffv
 毫无防备	hwfb
-混吃等死	hwds'
+混吃等死	hwdsa
 毫无道理	hwdl
 毫无保留	hwbl
 毫无办法	hwbfo
@@ -13947,7 +13949,6 @@
 手工艺品	egyp
 市公安局	egxjo
 善贾而沽	egxgo
-是个问题	egwt
 尸骨未寒	egwh
 时光荏苒	egrr
 双管齐下	egqxa
@@ -19056,6 +19057,7 @@
 爱跟着	xgf'
 下功夫	xgf_
 习惯上	xge_
+相关的	xgdv
 饿鬼道	xgdu
 按规定	xgd_
 乡干部	xgb_
@@ -26784,6 +26786,7 @@
 火车上	hweo
 候车室	hwei
 和我说	hwe_
+很扯淡	hwdu
 护卫队	hwdi
 汉武帝	hwdav
 好吃的	hwda
@@ -32338,6 +32341,7 @@
 菠萝蜜	blm_
 不亮了	bllv
 别来了	bllo
+剥离了	blla
 不流了	bll'
 不聊了	bll_
 巴拉克	blka
@@ -32515,11 +32519,12 @@
 绊脚石	bjea
 不仅是	bje'
 不就是	bje_
-比较大	bjdvv'
-比较多	bjdvv
-本季度	bjdvu
+比较低	bjdvvi
+比较多	bjdvv'
+比较大	bjdvv
+本季度	bjdvuo
+不简单	bjdvu
 不间断	bjdvo
-不简单	bjdv'
 不急的	bjdv
 必经的	bjdo
 不见得	bjd'
@@ -90322,7 +90327,7 @@
 混沌	hwdw
 魂断	hwdt
 黑大	hwdsi
-混打	hwdsa
+混打	hwds'
 混搭	hwds
 黑店	hwdmi
 黑点	hwdm'
@@ -106913,11 +106918,11 @@
 试下	ekxs
 失修	ekxq
 施恩	ekxn
+事先	ekxmv
 适线	ekxmu
 市县	ekxmoi
 时限	ekxmo
-实现	ekxm'
-事先	ekxm
+实现	ekxm
 时许	ekxlo
 时序	ekxl
 世袭	ekxkv
@@ -114020,6 +114025,7 @@
 的睡	deeb
 得道	dedz
 得当	dedp
+的点	dedm
 的多	dedlu
 得多	dedl
 的定	dedgu

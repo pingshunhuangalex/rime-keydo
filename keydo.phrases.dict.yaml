@@ -2360,11 +2360,12 @@ sort: original
 不搭	bjdsv
 不端	bjdt
 不急的	bjdv
-不简单	bjdv
 不间断	bjdvo
-本季度	bjdvu
-比较多	bjdvv
+不简单	bjdvu
+本季度	bjdvuo
 比较大	bjdvv
+比较多	bjdvv
+比较低	bjdvvi
 北京大学	bjdx
 不懂	bjdy
 补洞	bjdyo
@@ -3818,6 +3819,7 @@ sort: original
 播控	blky
 不聊了	bll
 不流了	bll
+剥离了	blla
 柏林	bllb
 波列	blld
 伯乐	blle
@@ -10720,7 +10722,8 @@ sort: original
 大手大脚	dedjv
 得多	dedl
 的多	dedlu
-丁是丁，卯是卯	dedm
+的点	dedm
+丁是丁，卯是卯	dedmv
 得当	dedp
 倒数第一	dedy
 得道	dedz
@@ -18795,7 +18798,6 @@ sort: original
 尸骨未寒	egwh
 衰亡	egwp
 衰旺	egwpo
-是个问题	egwt
 衰微	egww
 烧高香	egx
 收购额	egxa
@@ -20442,11 +20444,11 @@ sort: original
 世袭	ekxkv
 时序	ekxl
 时许	ekxlo
-事先	ekxm
 实现	ekxm
 时限	ekxmo
 市县	ekxmoi
 适线	ekxmu
+事先	ekxmv
 施恩	ekxn
 失修	ekxq
 试下	ekxs
@@ -43247,10 +43249,11 @@ sort: original
 黑点	hwdm
 黑店	hwdmi
 混搭	hwds
-混吃等死	hwds
-混打	hwdsa
+混打	hwds
+混吃等死	hwdsa
 黑大	hwdsi
 魂断	hwdt
+很扯淡	hwdu
 混沌	hwdw
 浑沌	hwdwa
 黑洞	hwdy
@@ -79659,6 +79662,7 @@ sort: original
 前头	qmtd
 前帖	qmtdo
 牵头	qmtdv
+逐码提示	qmte
 浅谈	qmtf
 浅滩	qmtfa
 潜艇	qmtg
@@ -100120,6 +100124,7 @@ sort: original
 新成	xbjro
 二八佳人	xbjrv
 新家	xbjs
+安倍晋三	xbjso
 香槟酒	xbju
 相比较	xbjv
 下半场	xbjvo
@@ -102397,6 +102402,7 @@ sort: original
 刑典	xgdm
 姓段	xgdt
 饿鬼道	xgdu
+相关的	xgdv
 厄瓜多尔	xgdx
 香港大学	xgdxu
 行动	xgdy
