@@ -29,13 +29,13 @@ patch:
     layout: # [Win] 主题布局配置
       border_height: 2 # 主题上下边框粗细（须与左右边框粗细同时使用）
       border_width: 2 # 主题左右边框粗细（须与上下边框粗细同时使用）
-      candidate_spacing: 20 # 候选项间距
-      hilite_padding: 10 # 高亮候选项填充空间
-      hilite_spacing: 10 # 高亮候选项间距
-      margin_x: 12 # 主题左右边距
-      margin_y: -12 # 主题上下边距（边距为负值时隐藏候选区）
+      candidate_spacing: 12 # 候选项间距
+      hilite_padding: 6 # 高亮候选项填充空间
+      hilite_spacing: 6 # 高亮候选项间距
+      margin_x: 8 # 主题左右边距
+      margin_y: -9999 # 主题上下边距（边距为负值时隐藏候选区）
       min_height: 0 # 主题最小高度
       min_width: 0 # 主题最小宽度
       round_corner: 0 # 候选项圆角半径
-      spacing: 10 # 输入区与候选区间距
+      spacing: 8 # 输入区与候选区间距
     preedit_type: preview # [Win] 输入区嵌入模式（默认预览编码）

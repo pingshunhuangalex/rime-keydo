@@ -19,10 +19,12 @@ patch:
     text_color: 0xffaa82 # 输入区字体颜色
   style: # 主题配置
     alpha: 0.0 # 主题透明度
+    border_height: 2 # [Mac] 主题左右边框粗细（须与上下边框粗细同时使用）
+    border_width: 2 # [Mac] 主题上下边框粗细（须与左右边框粗细同时使用）
     candidate_format: "" # [Mac] 候选项序号格式（`%c`为候选项序号，`%@`为候选项）
     color_scheme: keydo # 当前主题
     comment_font_point: 16 # [Mac] 候选项编码提示字体字号
-    corner_radius: 10 # [Mac] 候选区圆角半径（同时影响候选区上下左右填充空间）
+    corner_radius: 8 # [Mac] 候选区圆角半径（同时影响候选区上下左右填充空间）
     font_face: "Sarasa Mono SC" # 主题字体样式（支持候补字体）
     font_point: 18 # 主题字体字号
     hilited_corner_radius: 2 # [Mac] 高亮候选项圆角半径
@@ -30,7 +32,5 @@ patch:
     inline_candidate: true # [Mac] 是否预览编码（默认预览编码）
     inline_preedit: true # 是否开启输入区嵌入（默认开启）
     label_font_point: 14 # [Mac] 候选项序号字体字号
-    border_width: 2 # [Mac] 主题上下边框粗细（须与左右边框粗细同时使用）
-    border_height: 2 # [Mac] 主题左右边框粗细（须与上下边框粗细同时使用）
-    line_spacing: 10 # [Mac] 候选项行距（仅在竖排模式中有效，且无法影响首/末选项）
-    spacing: 10 # 输入区与候选区间距
+    line_spacing: 8 # [Mac] 候选项行距（仅在竖排模式中有效，且无法影响首/末选项）
+    spacing: 8 # 输入区与候选区间距

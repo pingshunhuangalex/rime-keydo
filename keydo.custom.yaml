@@ -12,7 +12,7 @@
 #     inline_preedit: false # 关闭输入区嵌入
 #     label_format: "%s " # 显示候选项序号
 #     layout:
-#       margin_y: 12 # 显示候选区
+#       margin_y: 8 # 显示候选区
 #     preedit_type: composition # 编码所见即所得
 
 ######################
