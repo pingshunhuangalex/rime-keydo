@@ -18155,9 +18155,10 @@
 远不如	ybrv
 又比如	ybra
 要不然	ybr_
-要不起	ybqvv
+有帮助	ybqvv
 一笔钱	ybqv
-有帮助	ybq'
+摇步器	ybqi
+要不起	ybq'
 用不起	ybq_
 仪表盘	ybpi
 也不配	ybp_
@@ -20827,7 +20828,8 @@
 挺舒服	tefi
 讨说法	tef_
 图书室	tee_
-挺伤的	tedi
+挺伤的	tedii
+挺爽的	tedi
 同时代	ted_
 徒手操	tec_
 统帅部	teb_
