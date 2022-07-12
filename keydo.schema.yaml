@@ -136,7 +136,7 @@ repeat_history:
 # 通过编码查询词库（基于输入方案本身）
 char_lookup:
   dictionary: keydo # 指定编码查询所使用的词库
-  tags: [ char_lookup ] # 指定编码查询所对应的标识
+  tags: [char_lookup] # 指定编码查询所对应的标识
   overwrite_comment: true # 是否允许覆写编码提示
   enable_charset_filter: false # 是否开启字符集过滤
   enable_completion: true # 是否提前显示尚未输入完整编码的字
@@ -145,4 +145,4 @@ char_lookup:
   enable_user_dict: false # 是否开启用户词库（用于记录动态字词频）
   encode_commit_history: false # 是否对已上屛的词进行自动成词
   comment_format: # 指定编码提示格式
-    - xform/~[a-z;]+// # 移除以`~`为前缀的逐码提示
+    - xform/^~[a-z;]+// # 移除以`~`为前缀的逐码提示
