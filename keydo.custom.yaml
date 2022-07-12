@@ -5,15 +5,16 @@
 ## [Win] 辅助轮设置 ##
 ######################
 
-patch:
-  char_lookup/comment_format:
-    - xform/^~// # 显示逐码提示
-  menu/page_size: 6 # 尽可能显示关联候选项
-  style:
-    label_format: " %s" # 显示候选项序号
-    layout:
-      margin_y: 8 # 显示候选区
-    preedit_type: composition # 编码所见即所得
+# patch:
+#   char_lookup/comment_format:
+#     - xform/^~// # 显示逐码提示
+#   menu/page_size: 6 # 尽可能显示关联候选项
+#   style:
+#     inline_preedit: false # 关闭输入区嵌入
+#     label_format: " %s" # 显示候选项序号
+#     layout:
+#       margin_y: 8 # 显示候选区
+#     preedit_type: composition # 编码所见即所得
 
 ######################
 ## [Mac] 辅助轮设置 ##
@@ -26,4 +27,5 @@ patch:
 #   style:
 #     alpha: 1.0 # 显示候选区
 #     inline_candidate: false # 编码所见即所得
+#     inline_preedit: false # 关闭输入区嵌入
 #     candidate_format: "%c %@" # 显示候选项序号
