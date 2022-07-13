@@ -1,6 +1,7 @@
 ﻿溥天之下，莫非王土；率土之滨，莫非王臣	ptfj
 为众人抱薪者，不可使其冻毙于风雪	wfrx
 忍一时风平浪静，退一步海阔天空	ryek
+人到中年不得已，保温杯里泡枸杞	rdfq
 两耳不闻窗外事，一心只读圣贤书	lxbev
 害人之心不可有，防人之心不可无	hrfwo
 赚着卖白菜的钱，操着卖白粉的心	ffmx
@@ -22,7 +23,6 @@
 静中见真境，淡中识本然	jfjr
 建设有中国特色社会主义	jeyyao
 公说公有理，婆说婆有理	geglu
-世界一流大学和一流学科	ejykvi
 本来无一物，何处染尘埃	blwxv
 我不入地狱，谁入地狱	wbry
 科学技术是第一生产力	kxjlu
@@ -81,7 +81,6 @@
 水清濯缨，水浊濯足	eqfz
 恃美扬威，恃美而骄	emyj
 盛名之下，其实难副	emff
-社会主义核心价值观	ehqg
 身怀利器，杀心自起	ehlq
 手中有粮，心中不慌	efyh
 食之无味，弃之可惜	efwx
@@ -148,9 +147,6 @@
 十万千百十元角分	ewqf
 瘦死的骆驼比马大	esddo
 是可忍，孰不可忍	ekrr
-社会主义精神文明	ehqmo
-社会主义民主政治	ehqfo
-社会主义初级阶段	ehqdo
 深化改革领导小组	ehgza
 生不带来死不带去	ebdq
 多一事不如少一事	dyee
@@ -242,6 +238,7 @@
 人生自古谁无死	rezs
 人生若只如初见	rerj
 人生得意须尽欢	redhi
+人到中年不得已	rdfy
 牵一发而动全身	qyfev
 情人眼里出西施	qryeo
 睁着眼睛说瞎话	qqyhi
@@ -373,9 +370,6 @@
 神龙见首不见尾	eljw
 上梁不正下梁歪	elbw
 事出反常必有妖	ejfyv
-社会主义现代化	ehqho
-社会主义公有制	ehqf
-社会主义新农村	ehqc
 说不清，道不明	ebqmo
 胜不骄，败不馁	ebjn
 电子工业出版社	dzgei
@@ -656,8 +650,6 @@
 上气不接下气	eqbq
 生米煮成熟饭	emqf
 生命财产安全	emcq
-世界一流大学	ejyxv
-世界一流学科	ejykv
 杀鸡焉用牛刀	ejydu
 世界先进水平	ejxp
 世界文化遗产	ejwjv
@@ -665,13 +657,6 @@
 世界民族之林	ejml
 世界贸易组织	ejmf
 市场经济体制	ejjfo
-社会主义改造	ehqz
-社会主义阵营	ehqyo
-社会主义革命	ehqm
-社会主义道路	ehql
-社会主义社会	ehqh
-社会主义建设	ehqeo
-社会主义制度	ehqd
 上海交通大学	ehjx
 上海合作组织	ehhf
 社会保障体系	ehbxo
@@ -11042,7 +11027,7 @@
 和平共处	hpgj
 黄皮瓜瘦	hpgev
 和平发展	hpfq
-患难与共	hnygi
+患难与共	hnyg
 湖南卫视	hnwe
 汗牛充栋	hnwda
 何年马月	hnmyi
@@ -12664,7 +12649,7 @@
 风流韵事	flyeu
 芝兰玉树	flyei
 弗洛伊德	flyda
-弗洛伊德	flyd
+赚了一笔	flyb
 扶老携幼	flxy
 风流潇洒	flxsu
 弗朗西斯	flxsa
@@ -13861,16 +13846,14 @@
 社会形态	ehxto
 社会学家	ehxjo
 生活习惯	ehxg
-社会安定	ehxdo
-上呼吸道	ehxd
+社会安定	ehxd
 社会问题	ehwt
 生化武器	ehwqu
 水火无情	ehwq
 生化危机	ehwj
 社会稳定	ehwd
 社会团体	ehtt
-生活条件	ehtju
-社会思潮	ehsw
+生活条件	ehtj
 社会思潮	ehsj
 说话算数	ehse
 社会主义	ehqy
@@ -26745,10 +26728,10 @@
 浣溪沙	hxeaa
 好象是	hxea
 好学生	hxe_
-后现代	hxdu
-呼吸道	hxdo
+后现代	hxduv
+很小的	hxdu
 好兄弟	hxda
-很小的	hxd_
+呼吸道	hxd_
 含羞草	hxc_
 回旋镖	hxbi
 红细胞	hxba
@@ -27186,6 +27169,7 @@
 回国了	hgl_
 化工厂	hgj_
 会更好	hgh_
+很骨感	hggu
 好哥哥	hgg_
 很过分	hgfu
 华国锋	hgfii
@@ -32782,7 +32766,8 @@
 博士后	behu
 被伤害	behoi
 别说话	beho
-不是还	beh_
+不是还	beh'
+不是很	beh_
 包身工	begu
 北上广	begi
 悲伤过	beg'
@@ -45528,8 +45513,8 @@
 血案	xhxf
 学额	xhxeo
 挨饿	xhxe
-学些	xhxdo
-爱写	xhxd
+爱写	xhxdu
+学些	xhxd
 爱笑	xhxcuu
 矮小	xhxcu
 学校	xhxc
@@ -81444,7 +81429,8 @@
 可设	keee
 恪守	keed
 瞌睡	keeb
-可导	kedzv
+可导	kedzva
+磕到	kedzv
 刻刀	kedzo
 可到	kedz
 克东	kedy
@@ -91330,7 +91316,7 @@
 很远	hnyt
 很痒	hnyp
 恨意	hnyk
-很硬	hnyg
+很硬	hnygu
 很严	hnyf
 很野	hnye
 很有	hnyd
@@ -101757,9 +101743,9 @@
 斫营	flyg
 着眼	flyf
 佛爷	flye
-桌游	flydi
+桌游	flyd
 佛印	flybi
-浊音	flyb
+浊音	flyba
 佛像	flxxi
 着想	flxx
 桌下	flxs
@@ -108058,7 +108044,7 @@
 筛查	ehws
 筛网	ehwp
 晒田	ehtm
-晒图	ehtj
+晒图	ehtjo
 晒台	ehth
 晒坪	ehpg
 晒暖	ehnt
