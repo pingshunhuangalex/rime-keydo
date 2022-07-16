@@ -2745,7 +2745,8 @@
 异军突起	yjtq
 语惊四座	yjsz
 阳春三月	yjsy
-一己私利	yjsl
+一己私利	yjslv
+一键三连	yjsl
 一家四口	yjskv
 一家三口	yjsk
 研究人员	yjry
