@@ -3176,6 +3176,7 @@
 有识之士	yefev
 原始社会	yeeh
 以身试法	yeefa
+艺术手法	yeef
 一试身手	yeee
 一身是胆	yeedv
 以少胜多	yeedai
@@ -11047,6 +11048,7 @@
 还没有个	hmyg
 和睦相处	hmxj
 横蛮无理	hmwl
+黑暗童话	hmth
 火冒三丈	hmsq
 侯门似海	hmsh
 讳莫如深	hmre
@@ -17313,7 +17315,8 @@
 演算法	ysfa
 有素质	ysf_
 意思是	yse_
-压缩袋	ysdv
+压缩袋	ysdva
+压缩到	ysdv
 于死地	ysd'
 有所得	ysd_
 压缩比	ysbv
@@ -17390,7 +17393,8 @@
 运气好	yqh_
 引擎盖	yqga
 邀请过	yqg_
-一张纸	yqf_
+一张纸	yqfv
+一起追	yqf_
 一站式	yqev
 月全食	yqeu
 摇钱树	yqei
@@ -17890,10 +17894,11 @@
 宇智波	yfbo
 一直把	yfb_
 艺术字	yez_
-运输业	yeyv
+运输业	yeyvv
+远胜于	yeyvu
+有啥用	yeyv
 饮食业	yeyu
-远胜于	yey'
-有啥用	yey_
+要是有	yey_
 运输线	yexv
 艺术性	yexi
 已上线	yexa
@@ -18010,7 +18015,8 @@
 一大批	ydp_
 雅典娜	ydnv
 遇到你	ydn_
-源代码	ydm_
+源代码	ydma
+有点慢	ydm_
 运动量	ydlvv
 一段路	ydlvu
 一定量	ydlvo
@@ -19409,6 +19415,7 @@
 物资局	wzju
 创造出	wzji
 为自己	wzj_
+我在和	wzh_
 为祖国	wzg_
 问责制	wzfo
 外祖父	wzf_
@@ -19752,6 +19759,7 @@
 伪命题	wmti
 亡命徒	wmt_
 文明人	wmr_
+我没去	wmq_
 无码片	wmp_
 雾蒙蒙	wmmvi
 未命名	wmmv
@@ -20613,10 +20621,11 @@
 套路深	tle_
 弹力带	tlda
 屠龙刀	tld_
-汤料包	tlba
-塔利班	tlb_
+塔利班	tlbv
+汤料包	tlb_
 钛空银	tkyi
 碳烤鱼	tky_
+挺开心	tkxi
 脱口秀	tkx_
 太空船	tkw_
 填空题	tkt_
@@ -23401,7 +23410,8 @@
 暖宝宝	nbb_
 美滋滋	mzz_
 满足于	mzy_
-民族性	mzx_
+民族性	mzxa
+没仔细	mzx_
 麻醉枪	mzq_
 磨嘴皮	mzp_
 没怎么	mzm_
@@ -25266,7 +25276,8 @@
 可都是	kde_
 空荡荡	kddoi
 快得多	kddo
-看得淡	kddi
+看得淡	kddi'
+看得多	kddi
 看得懂	kdd'
 看得到	kdd_
 看到此	kdc_
@@ -25367,7 +25378,8 @@
 加一下	jyx_
 城域网	jywv
 教育网	jywu
-锦衣卫	jywi
+锦衣卫	jywio
+介意我	jywi
 局域网	jywa
 出意外	jyw_
 贾跃亭	jytv
@@ -26270,12 +26282,12 @@
 技术性	jex_
 晋升为	jewv
 爵士舞	jewuv
-九十五	jewuu
-几十万	jewu
+几十万	jewuu
+急刹车	jewu
 寄生虫	jewo
 居首位	jewa
-急刹车	jew'
-就是玩	jew_
+就是玩	jew'
+就是我	jew_
 救生艇	jet_
 加时赛	jesa
 介绍所	jes_
@@ -28715,7 +28727,8 @@
 诈骗犯	fpf_
 招牌式	fpe_
 招牌菜	fpc_
-放你走	fnz_
+放你走	fnzo
+只能做	fnz_
 只能用	fny_
 执牛耳	fnx_
 放牛娃	fnw_
@@ -29108,7 +29121,8 @@
 这个好	fgh_
 直勾勾	fgg_
 分隔符	fgfu
-非官方	fgf_
+非官方	fgfi
+追个番	fgf_
 转过身	fgev
 招股书	fgei
 发高烧	fgea
@@ -30487,11 +30501,11 @@
 多用户	dyhu
 单引号	dyho
 多元化	dyh_
-冬阴功	dygu
+冬阴功	dygua
+第一个	dygu
 定音鼓	dygoo
 单元格	dygo
 缔约国	dyga
-第一个	dyg'
 都要跟	dyg_
 大洋洲	dyfv
 独一份	dyfuv
@@ -32146,6 +32160,7 @@
 半日制	brf_
 不如说	brev
 必然是	breo
+别人说	bre'
 比如说	bre_
 不人道	brdv
 必然的	brdo
@@ -33709,10 +33724,11 @@
 没了	ml_
 没你	mn_
 没能	mn'
+没去	mq_
 没人	mr_
-没我	mw_
 没他	mt_
 明天	mt'
+没我	mw_
 梦想	mx_
 满意	my_
 没在	mz_
@@ -41017,7 +41033,7 @@
 也使	yeek
 椰树	yeejv
 页数	yeej
-野山	yeef
+野山	yeefi
 野兽	yeed
 也到	yedz
 也得	yedw
@@ -41488,7 +41504,9 @@
 幽魂	ydhwi
 游魂	ydhwa
 黝黑	ydhw
-忧患	ydht
+忧患	ydhto
+又换	ydhta
+有换	ydht
 有恒	ydhr
 右滑	ydhqva
 有话	ydhqv
@@ -48521,6 +48539,7 @@
 重燃	wyrf
 充热	wyre
 崇瑞	wyrb
+虫群	wyqw
 冲拳	wyqt
 重挣	wyqru
 重整	wyqr
@@ -71279,8 +71298,7 @@
 玫珍	mwqnv
 没钱	mwqm
 美区	mwqlo
-没趣	mwqla
-没去	mwql
+没趣	mwql
 每期	mwqku
 煤气	mwqk
 美驻	mwqj
@@ -81004,6 +81022,7 @@
 看你	kfnk
 看呢	kfne
 看您	kfnb
+看嘛	kfms'
 看吗	kfms
 看门	kfmn
 看老	kflz
@@ -88250,8 +88269,8 @@
 交往	jcwp
 较稳	jcwn
 叫床	jcwm
-叫我	jcwlo
-教我	jcwl
+教我	jcwlu
+叫我	jcwl
 角尺	jcwk
 教务	jcwj
 郊外	jcwh
@@ -91583,7 +91602,6 @@
 黄体	hmtk
 黄图	hmtjv
 黄土	hmtj
-黄台	hmth
 黄庭	hmtg
 荒滩	hmtf
 皇嫂	hmsz
