@@ -4067,9 +4067,9 @@ sort: original
 不满的	bmdv
 百慕大	bmdvi
 变动	bmdy
-编导	bmdz
+变道	bmdz
+编导	bmdza
 便道	bmdzi
-变道	bmdzo
 表面上	bme
 边水	bmeb
 变瘦	bmed
@@ -5058,6 +5058,7 @@ sort: original
 绷住	brqj
 不认真	brqv
 不饶人	brr
+比热容	brrv
 不如死	brs
 崩碎	brsb
 迸散	brsf
@@ -6265,7 +6266,8 @@ sort: original
 柏油路	bylva
 毕业论文	bylw
 不依赖于	byly
-鼻韵母	bym
+不用买	bym
+鼻韵母	bymu
 不要命	bymv
 比翼鸟	byn
 不要难过	byng
@@ -7478,6 +7480,7 @@ sort: original
 从古至今	cgfj
 踩过界	cgj
 擦干净	cgji
+错过了	cgl
 残羹冷炙	cglf
 才怪呢	cgn
 参观者	cgq
@@ -20010,13 +20013,13 @@ sort: original
 释出	ekjju
 事出	ekjjv
 实际	ekjk
-时机	ekjk
 史记	ekjki
 史籍	ekjkiu
-试剂	ekjko
+时机	ekjko
 市级	ekjkoa
 市集	ekjkoi
 诗集	ekjkoi
+试剂	ekjkoo
 实机	ekjkov
 十几	ekjku
 十级	ekjkua
@@ -23905,7 +23908,8 @@ sort: original
 赘词	fbck
 找不到	fbd
 抓不到	fbd
-防波堤	fbda
+赚不到	fbda
+防波堤	fbdaa
 扶不动	fbdi
 锥度	fbdj
 坠地	fbdk
@@ -35114,12 +35118,13 @@ sort: original
 过充	glwyv
 国朝	glwz
 干了些	glx
-功利性	glx
+改了些	glxa
 过心	glxb
 过小	glxc
 过些	glxd
 裹挟	glxdo
 干了些啥	glxe
+改了些啥	glxea
 国安	glxf
 果形	glxg
 国学	glxh
@@ -35131,7 +35136,8 @@ sort: original
 过夏	glxs
 管理系	glxu
 管理学	glxuv
-规律性	glxv
+功利性	glxv
+规律性	glxvu
 寡廉鲜耻	glxw
 过像	glxx
 国雄	glxy
@@ -41658,7 +41664,6 @@ sort: original
 皇嫂	hmsz
 荒滩	hmtf
 黄庭	hmtg
-黑暗童话	hmth
 黄土	hmtj
 黄图	hmtjv
 黄体	hmtk
@@ -43877,7 +43882,8 @@ sort: original
 活性炭	hxta
 荒滩	hxtf
 黄庭	hxtg
-黄台	hxth
+黑暗童话	hxth
+黄台	hxthv
 黄土	hxtj
 黄图	hxtjv
 黄体	hxtk
@@ -52188,6 +52194,7 @@ sort: original
 酒仙	jqxma
 旧恩	jqxn
 竞争性	jqxo
+交强险	jqxoa
 就下	jqxs
 救下	jqxsv
 就选	jqxt
@@ -52704,7 +52711,8 @@ sort: original
 假吊	jsdc
 撑死胆大的，饿死胆小的	jsdd
 价跌	jsddi
-加的	jsde
+加得	jsde
+加的	jsdea
 假的	jsdei
 集散地	jsdi
 假定	jsdg
@@ -56969,7 +56977,6 @@ sort: original
 狂降	kmjx
 狂潮	kmjz
 考没考	kmk
-旷课	kmke
 狂哭	kmkj
 旷阔	kmkl
 框框	kmkm
@@ -57867,6 +57874,7 @@ sort: original
 跨学科	kxk
 旷课	kxke
 可喜可贺	kxkh
+狂开	kxkhu
 狂哭	kxkj
 旷阔	kxkl
 框框	kxkm
@@ -68471,7 +68479,8 @@ sort: original
 美金	mwjbo
 每斤	mwjbu
 没交	mwjc
-媒介	mwjd
+没接	mwjd
+媒介	mwjda
 每节	mwjdu
 每届	mwjdua
 没车	mwje
@@ -73381,8 +73390,6 @@ sort: original
 排球	phqq
 破坏者	phqv
 牌墙	phqx
-拍照	phqz
-牌照	phqzu
 排入	phrj
 排日	phrk
 派人	phrn
@@ -74494,8 +74501,7 @@ sort: original
 旁敲侧击	pqcj
 排球队	pqd
 喷气式	pqe
-牌照费	pqf
-拍张照	pqfi
+拍张照	pqf
 排气管	pqg
 破折号	pqh
 批准后	pqhi
@@ -79351,6 +79357,7 @@ sort: original
 钱多	qmdl
 争名夺利	qmdlu
 千点	qmdm
+前面的	qmdo
 前灯	qmdr
 欠打	qmds
 前端	qmdt
@@ -100014,11 +100021,9 @@ sort: original
 西北风	xbfv
 耳边风	xbfva
 相簿中	xbfvu
-心扉	xbfw
-心肺	xbfwo
-新装	xbfx
-新庄	xbfxo
-相比之下	xbfxv
+心肺	xbfw
+心扉	xbfwo
+相比之下	xbfx
 心中	xbfy
 新招	xbfz
 心照	xbfzo
@@ -100078,10 +100083,10 @@ sort: original
 心慌	xbhx
 信号	xbhz
 矮半截	xbj
-新晋	xbjb
 按部就班	xbjb
 薪金	xbjbi
-新近	xbjbo
+新晋	xbjbo
+新近	xbjbou
 新进	xbjbov
 新教	xbjc
 信教	xbjci
@@ -105993,7 +105998,8 @@ sort: original
 狭促	xscj
 下次	xsck
 瑕疵	xsckv
-下挫	xscl
+下错	xscl
+下挫	xsclv
 下层	xscr
 瞎存	xscw
 下操	xscz

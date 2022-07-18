@@ -4440,9 +4440,9 @@
 二八佳人	xbjrv
 想不出来	xbjlv
 而不仅仅	xbjjv
-按部就班	xbjb'
+按部就班	xbjb
 耳鼻喉科	xbhk
-相比之下	xbfxv
+相比之下	xbfx
 阿布扎比	xbfb
 小本生意	xbey
 爱不释手	xbee
@@ -10849,6 +10849,7 @@
 化学物质	hxwfi
 红袖添香	hxtxa
 横行天下	hxtx
+黑暗童话	hxth
 灰心丧气	hxsq
 何许人也	hxryi
 含辛茹苦	hxrk
@@ -11048,7 +11049,6 @@
 还没有个	hmyg
 和睦相处	hmxj
 横蛮无理	hmwl
-黑暗童话	hmth
 火冒三丈	hmsq
 侯门似海	hmsh
 讳莫如深	hmre
@@ -11763,6 +11763,7 @@
 高瓴资本	glzb
 过了一会	glyh
 寡廉鲜耻	glxw
+改了些啥	glxea
 干了些啥	glxe
 孤立无援	glwy
 顾虑重重	glwwv
@@ -22089,6 +22090,7 @@
 证明书	qmeo
 詹姆士	qme_
 起码的	qmdv
+前面的	qmdo
 驻马店	qmd_
 正离子	qlz_
 秦良玉	qlyv
@@ -22649,8 +22651,7 @@
 批准后	pqhi
 破折号	pqh_
 排气管	pqg_
-拍张照	pqfi
-牌照费	pqf_
+拍张照	pqf_
 喷气式	pqe_
 排球队	pqd_
 屏占比	pqb_
@@ -25687,6 +25688,7 @@
 建筑业	jqya
 出主意	jqy_
 进取心	jqxv
+交强险	jqxoa
 竞争性	jqxo
 金正恩	jqxi
 建筑学	jqxa
@@ -27826,10 +27828,11 @@
 鼓浪屿	glyva
 橄榄油	glyv
 管理员	gly_
-规律性	glxv
+规律性	glxvu
+功利性	glxv
 管理学	glxuv
 管理系	glxu
-功利性	glx'
+改了些	glxa
 干了些	glx_
 过路车	glwv
 公路网	glw_
@@ -29434,7 +29437,8 @@
 这不是	fbe_
 转不到	fbdv
 扶不动	fbdi
-防波堤	fbda
+防波堤	fbdaa
+赚不到	fbda
 抓不到	fbd'
 找不到	fbd_
 范冰冰	fbbi
@@ -31706,6 +31710,7 @@
 参观团	cgt_
 参观者	cgq_
 才怪呢	cgn_
+错过了	cgl_
 擦干净	cgji
 踩过界	cgj_
 参观者	cgf_
@@ -31875,7 +31880,8 @@
 不要拿	bynv
 比翼鸟	byn_
 不要命	bymv
-鼻韵母	bym_
+鼻韵母	bymu
+不用买	bym_
 柏油路	bylva
 不要脸	bylv
 博弈论	byluo
@@ -32144,6 +32150,7 @@
 包容她	brt'
 包容他	brt_
 不如死	brs_
+比热容	brrv
 不饶人	brr_
 不认真	brqv
 哺乳期	brq_
@@ -43689,7 +43696,8 @@
 下操	xscz
 瞎存	xscw
 下层	xscr
-下挫	xscl
+下挫	xsclv
+下错	xscl
 瑕疵	xsckv
 下次	xsck
 狭促	xscj
@@ -48024,9 +48032,9 @@
 信教	xbjci
 新教	xbjc
 新进	xbjbov
-新近	xbjbo
+新近	xbjbou
+新晋	xbjbo
 薪金	xbjbi
-新晋	xbjb
 信号	xbhz
 心慌	xbhx
 心魂	xbhwov
@@ -48076,10 +48084,8 @@
 心照	xbfzo
 新招	xbfz
 心中	xbfy
-新庄	xbfxo
-新装	xbfx
-心肺	xbfwo
-心扉	xbfw
+心扉	xbfwo
+心肺	xbfw
 新赚	xbft
 心法	xbfsoa
 新法	xbfso
@@ -67795,8 +67801,6 @@
 派人	phrn
 排日	phrk
 排入	phrj
-牌照	phqzu
-拍照	phqz
 牌墙	phqx
 排球	phqq
 排长	phqp
@@ -71423,7 +71427,8 @@
 没车	mwje
 每届	mwjdua
 每节	mwjdu
-媒介	mwjd
+媒介	mwjda
+没接	mwjd
 没交	mwjc
 每斤	mwjbu
 美金	mwjbo
@@ -79528,6 +79533,7 @@
 框框	kxkm
 旷阔	kxkl
 狂哭	kxkj
+狂开	kxkhu
 旷课	kxke
 狂潮	kxjz
 狂降	kxjx
@@ -80198,7 +80204,6 @@
 框框	kmkm
 旷阔	kmkl
 狂哭	kmkj
-旷课	kmke
 狂潮	kmjz
 狂降	kmjx
 狂狷	kmjt
@@ -83253,7 +83258,8 @@
 家丁	jsdgo
 假定	jsdg
 假的	jsdei
-加的	jsde
+加的	jsdea
+加得	jsde
 价跌	jsddi
 假吊	jsdc
 加队	jsdb
@@ -89858,7 +89864,7 @@
 黄体	hxtk
 黄图	hxtjv
 黄土	hxtj
-黄台	hxth
+黄台	hxthv
 黄庭	hxtg
 荒滩	hxtf
 皇嫂	hxsz
@@ -107329,13 +107335,13 @@
 十级	ekjkua
 十几	ekjku
 实机	ekjkov
-市集	ekjkoi
+试剂	ekjkoo
+市集	ekjkoi'
 诗集	ekjkoi
 市级	ekjkoa
-试剂	ekjko
+时机	ekjko
 史籍	ekjkiu
 史记	ekjki
-时机	ekjk'
 实际	ekjk
 事出	ekjjv
 释出	ekjju
@@ -118780,9 +118786,9 @@
 辩手	bmedo
 变瘦	bmed
 边水	bmeb
-变道	bmdzo
 便道	bmdzi
-编导	bmdz
+编导	bmdza
+变道	bmdz
 变动	bmdy
 变短	bmdt
 鞭打	bmdsv
