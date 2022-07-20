@@ -5072,7 +5072,6 @@ sort: original
 半乳糖	brto
 崩塌	brts
 不认为	brw
-被认为是	brwe
 蹦床	brwm
 被认为	brwo
 崩网	brwp
@@ -6240,6 +6239,7 @@ sort: original
 不一会	byhvv
 不一会儿	byhx
 不要紧	byj
+不要接	byj
 不宜久留	byjl
 半音阶	byjo
 闭音节	byjoo
@@ -6248,7 +6248,7 @@ sort: original
 表演唱	byjva
 不夜城	byjvo
 不用急	byjvu
-不要接	byjvv
+不研究	byjvv
 不遗巨细	byjx
 不愉快	byk
 不用客气	bykq
@@ -28449,7 +28449,7 @@ sort: original
 分所	fnsl
 分算	fnst
 分送	fnsy
-智囊团	fnt
+这年头	fnt
 分腿	fntb
 粉条	fntc
 分头	fntd
@@ -28462,10 +28462,10 @@ sort: original
 粉土	fntjo
 分体	fntk
 分田	fntm
-这年头	fnto
 纷腾	fntr
 纷沓	fnts
 分团	fntt
+智囊团	fntu
 粉臀	fntw
 粪桶	fnty
 分桃	fntz
@@ -40796,6 +40796,7 @@ sort: original
 护矿	hjkx
 环境科学	hjkxv
 好极了	hjl
+好久了	hjla
 护林	hjlb
 糊料	hjlc
 海军陆战队	hjld
@@ -41294,7 +41295,8 @@ sort: original
 黄粱美梦	hlmmv
 活门	hlmn
 或门	hlmnv
-后两码	hlmu
+很礼貌	hlmu
+后两码	hlmuv
 火媒	hlmw
 火帽	hlmz
 火烈鸟	hln
@@ -43398,6 +43400,7 @@ sort: original
 混乱	hwlt
 宏伟蓝图	hwlto
 很晚了	hwlu
+很吃力	hwluo
 黑亮	hwlx
 黑龙	hwly
 黑牢	hwlz
@@ -44152,7 +44155,7 @@ sort: original
 宏阔	hykl
 很有可能	hykn
 红卡	hyks
-还颜控	hykv
+很愉快	hyku
 烘烤	hykz
 好眼力	hyl
 耗油量	hyl
@@ -48736,6 +48739,7 @@ sort: original
 长江流域	jjlyu
 成家立业	jjlyv
 除涝	jjlz
+超级忙	jjm
 初民	jjmb
 出苗	jjmc
 阶级矛盾	jjmd
@@ -48784,9 +48788,9 @@ sort: original
 出片	jjpm
 触碰	jjpr
 寄出去	jjq
-继承权	jjq
 经济区	jjqa
-经济圈	jjqaa
+经济圈	jjqa
+继承权	jjqaa
 出勤	jjqb
 畜禽	jjqbo
 出鞘	jjqc
@@ -48800,7 +48804,6 @@ sort: original
 出清	jjqg
 除却	jjqh
 经济全球化	jjqha
-佼佼者	jjqi
 出猪	jjqj
 初期	jjqk
 出奇	jjqka
@@ -80083,7 +80086,6 @@ sort: original
 阵图	qntj
 真题	qntk
 震天	qntm
-这年头	qnto
 阵痛	qnty
 镇痛	qntyi
 针筒	qntyiu
@@ -92460,6 +92462,7 @@ sort: original
 泰晤士报	tweb
 屯守	twed
 贪污受贿	tweh
+挺充实	twei
 豚鼠	twej
 吞噬	twek
 吞食	twekv
@@ -108352,8 +108355,8 @@ sort: original
 袄子	xzzko
 西藏自治区	xzzq
 懊糟	xzzz
+一步步	ybb
 一般般	ybb
-硬邦邦	ybb
 也不必	ybba
 以不变应万变	ybbb
 音标	ybbc
@@ -108377,7 +108380,7 @@ sort: original
 一病不起	ybbq
 印巴	ybbs
 衣不蔽体	ybbt
-一步步	ybbv
+硬邦邦	ybbv
 一把把	ybbvi
 一遍遍	ybbvo
 因被	ybbw
