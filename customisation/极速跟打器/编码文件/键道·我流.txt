@@ -9408,7 +9408,6 @@
 恐怖活动	kbhd
 恐怖分子	kbfz
 口不对心	kbdx
-可悲的是	kbdev
 君子一言	jzyya
 近在眼前	jzyq
 就在于此	jzyc
@@ -10661,6 +10660,7 @@
 几次三番	jcsfu
 见财起意	jcqy
 基层群众	jcqfv
+检测频率	jcpl
 谄词令色	jclso
 就此了结	jcljo
 陈词滥调	jclda
@@ -18878,6 +18878,7 @@
 新产品	xjp_
 新技能	xjno
 想见你	xjn_
+行程码	xjmu
 新局面	xjmo
 小舅妈	xjm_
 下脚料	xjlvuo
@@ -22843,7 +22844,8 @@
 派生词	pec_
 磐石般	peb_
 碰钉子	pdz_
-拍电影	pdy_
+拍电影	pdyi
+跑多远	pdy_
 派大星	pdxa
 平底鞋	pdx_
 跑断腿	pdto
@@ -25323,6 +25325,7 @@
 看不中	kbfi
 看报纸	kbf_
 看不上	kbe_
+可悲的	kbdv
 空白点	kbdo
 抗病毒	kbdio
 苦逼的	kbdi
@@ -26020,9 +26023,10 @@
 金鸡奖	jjji
 经济界	jjja
 出厂价	jjj_
+基金会	jjhvi
 超级好	jjhv
+交际花	jjho
 出车祸	jjha
-基金会	jjh'
 几句话	jjh_
 成就感	jjgv
 肩胛骨	jjgo
@@ -32575,7 +32579,8 @@
 别胡闹	bhn_
 保护膜	bhm_
 不合理	bhlv
-变化率	bhlo
+变化率	bhloi
+补回来	bhlo
 不好了	bhl'
 不回了	bhl_
 不好看	bhk_
@@ -81775,6 +81780,7 @@
 馈电	kbdm
 揆度	kbdl
 亏待	kbdh
+亏的	kbdev
 亏得	kbde
 亏掉	kbdc
 愧对	kbdb
@@ -88390,7 +88396,7 @@
 交配	jcpw
 脚盆	jcpn
 胶片	jcpm
-交迫	jcpl
+交迫	jcplo
 胶皮	jcpk
 脚蹼	jcpj
 教派	jcph
@@ -88475,8 +88481,8 @@
 矫健	jcjm
 教具	jcjlu
 焦距	jcjl
+交际	jcjko
 焦急	jcjki
-交际	jcjk'
 交集	jcjk
 教出	jcjju
 叫出	jcjjo
