@@ -20042,7 +20042,8 @@
 炊事员	weyo
 卫生院	wey_
 传输线	wex_
-微生物	wew_
+微生物	wewu
+丑是丑	wew_
 万事通	wetv
 卫生厅	wet_
 五十岁	wesv
@@ -20367,6 +20368,7 @@
 同位素	tws_
 台湾人	twr_
 逃亡者	twq_
+停车牌	twpi
 调味品	twp_
 停车难	twn_
 太完美	twm_
@@ -20805,7 +20807,8 @@
 听上去	teq_
 台上盆	tep_
 同事们	tem_
-太爽了	telv
+太顺了	telv
+太爽了	tel'
 太少了	tel_
 投石机	tejiv
 停尸间	teji
@@ -22487,7 +22490,8 @@
 这辈子	qbz_
 区别于	qbyv
 请不要	qby_
-亲笔写	qbx_
+亲笔写	qbxo
+真不行	qbx_
 千百万	qbw_
 丘比特	qbt_
 乔布斯	qbsuv
@@ -24838,7 +24842,8 @@
 冷冰冰	lbb_
 抠字眼	kzy_
 孔子庙	kzm_
-客座率	kzl_
+客座率	kzlo
+开走了	kzl_
 看自己	kzji
 靠自己	kzj_
 可再生	kze_
@@ -26425,7 +26430,8 @@
 炒地皮	jdp_
 就当你	jdn_
 季度末	jdmu
-陈道明	jdm_
+陈道明	jdma
+街对面	jdm_
 触动了	jdluv
 几点了	jdlu
 决定论	jdloo
@@ -26919,6 +26925,7 @@
 很普遍	hpbu
 横排版	hpb_
 哈尼族	hnz_
+还能用	hny_
 汉诺威	hnwa
 海内外	hnw_
 回南天	hnti
@@ -27008,6 +27015,7 @@
 好了嘛	hlm'
 好了没	hlm_
 轰隆隆	hllv
+很累了	hllu
 哗啦啦	hllo
 华丽丽	hlli
 火辣辣	hll'
@@ -33000,6 +33008,7 @@
 不错	bio
 不少	biu
 不会	biv
+不着	bo
 不让	boa
 便是	boi
 表情	boo
@@ -33739,6 +33748,7 @@
 开门	km_
 可能	kn_
 了吧	lb_
+了个	lg_
 了没	lm_
 了嘛	lm'
 了你	ln_
@@ -49954,8 +49964,8 @@
 插得	wsdeiu
 挖的	wsdei'
 挖得	wsdei
-差得	wsde'
-查得	wsde
+查得	wsde'
+差得	wsde
 茶碟	wsddi
 插兜	wsdd
 挖掉	wsdc
@@ -53590,6 +53600,7 @@
 拓印	tsyb
 它想	tsxxo
 他乡	tsxxi
+她想	tsxxa
 他想	tsxx
 它下	tsxs
 塌陷	tsxm
@@ -69439,6 +69450,7 @@
 能玩	nrwf
 能同	nrty
 能拖	nrtl
+能停	nrtg
 能透	nrtd
 能推	nrtb
 能让	nrrp
@@ -89422,8 +89434,8 @@
 好价	hzjsa
 好加	hzjs'
 好假	hzjs
-号称	hzjro
-好撑	hzjr
+好撑	hzjra
+号称	hzjr
 好酒	hzjqa
 好久	hzjq
 好长	hzjp
@@ -107891,6 +107903,7 @@
 疏略	ejlh
 树龄	ejlg
 数了	ejleo
+竖了	ejlei
 输了	ejle
 疏漏	ejlda
 数列	ejld
