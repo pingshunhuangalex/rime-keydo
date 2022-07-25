@@ -1493,6 +1493,7 @@ sort: original
 冰花	bghq
 病患	bght
 病号	bghz
+不敢加	bgj
 不敢进	bgj
 并进	bgjb
 病娇	bgjc
@@ -3089,10 +3090,11 @@ sort: original
 不远	bjytv
 不怨	bjytvu
 白居易	bjyu
-比较远	bjyv
+不介意	bjyv
 不经意	bjyva
-不介意	bjyvi
-不成样	bjyvv
+不常用	bjyvi
+比较远	bjyvv
+不成样	bjyvvv
 不晕	bjyw
 不孕	bjyw
 不允	bjywv
@@ -25351,7 +25353,8 @@ sort: original
 饭团	fftt
 服服帖帖	ffttu
 饭桶	ffty
-附着物	ffw
+罩罩我	ffw
+附着物	ffwa
 反吹	ffwb
 范畴	ffwd
 犯愁	ffwdu
@@ -32065,6 +32068,7 @@ sort: original
 昭武	fzwj
 照吃	fzwk
 找我	fzwl
+罩我	fzwli
 赵王	fzwp
 找茬	fzws
 兆瓦	fzwsu
@@ -53043,8 +53047,8 @@ sort: original
 家丑	jswd
 驾车	jswe
 江苏卫视	jswea
-甲烷	jswf
-加完	jswfa
+加完	jswf
+甲烷	jswfi
 家务	jswj
 甲午	jswji
 见所未见	jswjiu
@@ -54734,6 +54738,8 @@ sort: original
 君子兰	jzl
 抄列	jzld
 炒了	jzle
+抄了	jzlei
+超了	jzlev
 超蓝	jzlf
 超龄	jzlg
 抄掠	jzlh
@@ -66186,7 +66192,8 @@ sort: original
 美籍华人	mjhro
 每句话	mjhu
 没解决	mjj
-孟尝君	mjja
+没交集	mjja
+孟尝君	mjjai
 母金	mjjb
 母教	mjjc
 木车	mjje
@@ -69882,7 +69889,7 @@ sort: original
 南雄	nfxy
 难熬	nfxz
 耐着性子	nfxzv
-农副业	nfy
+你这要	nfy
 乃至于	nfya
 南音	nfyb
 男友	nfyd
@@ -69896,6 +69903,7 @@ sort: original
 浓妆艳抹	nfym
 年复一年	nfyn
 逆反应	nfyo
+农副业	nfyov
 南洋	nfyp
 南阳	nfypu
 南亚	nfys
@@ -82756,8 +82764,6 @@ sort: original
 照彻	qzwe
 找踹	qzwg
 昭武	qzwj
-照吃	qzwk
-找我	qzwl
 赵王	qzwp
 找茬	qzws
 兆瓦	qzwsu
@@ -97596,8 +97602,9 @@ sort: original
 差得	wsde
 查得	wsde
 挖得	wsdei
-挖的	wsdei
-插得	wsdeiu
+插得	wsdei
+挖的	wsdeiu
+插的	wsdeiu
 差的	wsdeo
 查的	wsdev
 插定	wsdg
@@ -99723,7 +99730,6 @@ sort: original
 创造力	wzl
 温总理	wzla
 抄列	wzld
-炒了	wzle
 超蓝	wzlf
 五脏六腑	wzlfv
 超龄	wzlg
@@ -106700,7 +106706,7 @@ sort: original
 悬梁	xtlx
 绚隆	xtly
 选老	xtlz
-奥特曼	xtm
+小透明	xtm
 阿童木	xtma
 选民	xtmb
 玄妙	xtmc
@@ -106713,6 +106719,7 @@ sort: original
 耳提面命	xtmm
 玄门	xtmn
 选吗	xtms
+奥特曼	xtmu
 选美	xtmw
 旋毛	xtmz
 心疼你	xtn
@@ -106723,13 +106730,13 @@ sort: original
 旋钮	xtnq
 旋弄	xtny
 喧闹	xtnz
-阿托品	xtp
+新突破	xtp
+阿托品	xtpa
 选聘	xtpb
 选票	xtpc
 宣判	xtpf
 选派	xtph
 悬瀑	xtpj
-新突破	xtpo
 选配	xtpw
 小提琴	xtq
 线膛枪	xtqa
@@ -111917,11 +111924,12 @@ sort: original
 亚健康	yjkvi
 一场空	yjkvv
 有迹可循	yjkx
-眼睛里	yjl
+要超了	yjl
 预处理	yjla
 一举两得	yjld
 悠久历史	yjle
 冤家路窄	yjlf
+眼睛里	yjli
 冤家路窄	yjlq
 以假乱真	yjlqa
 腰肌劳损	yjls
@@ -116775,7 +116783,6 @@ sort: original
 腰围	yzwwu
 要创	yzwx
 要冲	yzwy
-要超	yzwz
 原则性	yzx
 要信	yzxb
 药效	yzxc
