@@ -374,8 +374,6 @@
 胜不骄，败不馁	ebjn
 电子工业出版社	dzgei
 东一榔头西一棒	dylbv
-第一次世界大战	dycq
-大写字母锁定键	dxzj
 多行不义必自毙	dxbb
 打铁还需自身硬	dthyi
 低头不见抬头见	dtbj
@@ -23988,7 +23986,8 @@
 买得起	mdq_
 莫德纳	mdn_
 面对面	mdm_
-麦当劳	mdlv
+麦当劳	mdlvi
+迈大了	mdlv
 曼德拉	mdlou
 明道楼	mdlo
 马德里	mdlau
@@ -26573,6 +26572,7 @@
 承包费	jbfau
 加班费	jbfa
 竟不知	jbf_
+基本是	jbevv
 基本上	jbev
 长白山	jbeuu
 脚步声	jbeui
@@ -29459,6 +29459,7 @@
 分别是	fbe'
 这不是	fbe_
 转不到	fbdv
+分不到	fbdu
 扶不动	fbdi
 防波堤	fbdaa
 赚不到	fbda
@@ -30551,11 +30552,12 @@
 等于是	dye'
 倒也是	dye_
 独一档	dyduvv
-第一点	dyduv
-都应当	dyduo
+等一等	dyduvu
+第一点	dyduv'
+第一代	dyduv
 多余的	dydui
-第一代	dydu'
-等一等	dydu
+都应当	dydu'
+多要点	dydu
 钓鱼岛	dydiu
 打一顿	dydi
 赌一赌	dyda
@@ -36880,7 +36882,8 @@
 药店	yzdmi
 要点	yzdm
 要多	yzdl
-要地	yzdk
+要地	yzdkv
+要低	yzdk
 要读	yzdj
 腰带	yzdh
 要顶	yzdgv
@@ -54232,6 +54235,7 @@
 天路	tmlj
 天籁	tmlh
 天蓝	tmlf
+填了	tmle
 天蝼	tmldv
 填列	tmld
 填料	tmlc
@@ -63225,7 +63229,8 @@
 签定	qmdgu
 签订	qmdg
 签单	qmdf
-浅的	qmde
+浅的	qmdea
+钱的	qmde
 浅碟	qmdda
 迁调	qmdc
 前队	qmdb
@@ -80318,7 +80323,6 @@
 扩散	klsf
 扩容	klry
 廓然	klrf
-扩招	klqz
 扩征	klqr
 扩张	klqp
 阔气	klqk
@@ -80854,6 +80858,7 @@
 块儿	kgxj
 快按	kgxf
 快些	kgxd
+快销	kgxc
 快信	kgxb
 快超	kgwz
 快冲	kgwyo
@@ -97100,8 +97105,8 @@
 古佛	gjfl
 故知	gjfkuu
 股指	gjfku
-估值	gjfkii
-骨质	gjfki
+骨质	gjfkiu
+估值	gjfki
 固执	gjfk
 姑父	gjfja
 辜负	gjfj
@@ -98009,10 +98014,10 @@
 各方	gefp
 个分	gefn
 格状	gefm
-格致	gefkv
+格致	gefkvv
+革职	gefkv
 各支	gefku
 咯吱	gefko
-革职	gefk'
 搁置	gefk
 歌者	gefev
 隔着	gefe
@@ -98866,6 +98871,7 @@
 赵鼎	fzdg
 赵弹	fzdf
 照得	fzdeo
+招的	fzdeiu
 找的	fzdei
 罩得	fzde'
 找得	fzde
@@ -101158,8 +101164,8 @@
 房荒	fphx
 防黑	fphwa
 芳魂	fphw
-放缓	fphto
-防患	fpht
+防患	fphta
+放缓	fpht
 访华	fphqoi
 放话	fphqo
 防滑	fphqa
@@ -101990,9 +101996,9 @@
 支用	fkyyu
 之用	fkyyo
 只用	fkyy
-致远	fkytvv
-职员	fkytvo
-志愿	fkytv
+致远	fkytvv'
+志愿	fkytvv
+职员	fkytv
 支援	fkytu
 之远	fkytov
 之源	fkyto
@@ -112667,6 +112673,7 @@
 滴定	dkdga
 抵顶	dkdg
 底单	dkdf
+低的	dkdei
 地的	dkde
 帝都	dkdd
 低调	dkdci
@@ -117519,6 +117526,7 @@
 贝塔	bwtsa
 被他	bwts
 背疼	bwtr
+被填	bwtmo
 倍添	bwtm
 被拖	bwtl
 被踢	bwtk
