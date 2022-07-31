@@ -16349,7 +16349,8 @@
 做下去	zxq_
 做爱片	zxp_
 坐下来	zxl_
-自习课	zxk_
+自习课	zxku
+仔细看	zxk_
 左下角	zxjv
 子线程	zxja
 自行车	zxj_
@@ -18298,6 +18299,7 @@
 想一个	xygv
 爱一个	xygu
 学一个	xygo
+眩晕感	xygi
 下一个	xyg_
 二月份	xyfvu
 相一致	xyfv
@@ -19145,8 +19147,8 @@
 二十三	xes'
 二十岁	xes_
 心上人	xer_
-下视丘	xeqv
-牺牲者	xequ
+下视丘	xeqvo
+耳石症	xeqv
 新石器	xeqov
 学生证	xeqou
 新时期	xeqoo
@@ -20278,6 +20280,7 @@
 太阳能	tyn_
 挺有名	tymi
 陶渊明	tym_
+体验了	tyl_
 图一乐	ytl_
 体育课	tyk_
 太阳镜	tyjv
@@ -37345,7 +37348,9 @@
 云带	ywdh
 云淡	ywdfv
 运单	ywdf
-云的	ywde
+云的	ywdev
+晕的	ywdeo
+晕得	ywde
 熨斗	ywdd
 匀调	ywdc
 允从	ywcy
@@ -37381,10 +37386,10 @@
 渊源	ytytaa
 源源	ytyta
 远远	ytyt
-原样	ytypvv
 元阳	ytypva
 远洋	ytypv
-鸳鸯	ytyp
+鸳鸯	ytypu
+原样	ytyp
 缘于	ytyla
 源于	ytyl
 原意	ytykv
