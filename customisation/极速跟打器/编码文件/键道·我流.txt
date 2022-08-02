@@ -20352,6 +20352,7 @@
 通信处	txj_
 天鹅湖	txhv
 图形化	txhiv
+挺玄乎	txhio
 同乡会	txhia
 挺喜欢	txhi
 同学会	txh_
@@ -20725,6 +20726,7 @@
 太狠了	thlvu
 太好了	thlv
 糖葫芦	thlo
+弹回来	thla
 踢回来	thl_
 挺好看	thk_
 钛合金	thj_
@@ -23465,8 +23467,9 @@
 牧羊人	myru
 明眼人	myr_
 牧羊犬	myqu
-满月照	myqa
-没有钱	myq_
+没要钱	myqav
+没有钱	myqa
+没要求	myq_
 每一篇	mypu
 慢一拍	myp_
 每一年	myn_
@@ -24861,6 +24864,7 @@
 快走吧	kzb_
 可以走	kyzv
 看样子	kyz_
+可以用	kyy_
 开一下	kyxv
 快一些	kyxo
 抗药性	kyxii
@@ -30549,9 +30553,10 @@
 缔约国	dyga
 都要跟	dyg_
 大洋洲	dyfv
-独一份	dyfuv
+第一封	dyfuvv
+独一份	dyfuvi
+第一份	dyfuv
 德意志	dyfuo
-第一份	dyfu
 得益者	dyfu
 第一周	dyf'
 第一种	dyf_
