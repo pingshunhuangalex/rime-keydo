@@ -2168,7 +2168,8 @@ sort: original
 白糖	bhtp
 白塔	bhts
 百团	bhtt
-不荒唐	bhtv
+不互通	bhtv
+不荒唐	bhtvi
 白陶	bhtz
 不好玩	bhw
 渤海湾	bhwa
@@ -13929,7 +13930,7 @@ sort: original
 当菜	dpch
 档次	dpck
 当此	dpcki
-大排档	dpd
+多抛点	dpd
 党对	dpdb
 当掉	dpdc
 挡掉	dpdci
@@ -13939,6 +13940,7 @@ sort: original
 当地	dpdk
 荡涤	dpdki
 当当	dpdp
+大排档	dpdv
 挡到	dpdz
 挡道	dpdz
 当道	dpdzi
@@ -15909,12 +15911,13 @@ sort: original
 大象无形	dxwx
 达尔文主义	dxwy
 多想想	dxx
-短消息	dxx
 大兴安岭	dxxl
 单行线	dxxo
 店小二	dxxoi
-独行侠	dxxu
+短消息	dxxu
 短信息	dxxui
+独行侠	dxxuu
+第二项	dxxuv
 大猩猩	dxxv
 大小写	dxxvi
 东西欧	dxxvv
@@ -21661,8 +21664,7 @@ sort: original
 上浣	epht
 商潢	ephx
 视频会议	ephy
-上好	ephz
-尚好	ephzi
+尚好	ephz
 商号	ephzo
 售票处	epj
 上进	epjb
@@ -22873,8 +22875,9 @@ sort: original
 身体健康	etjku
 身体机能	etjn
 石头记	etjv
-史塔克	etk
+实体卡	etk
 申通快递	etkd
+史塔克	etki
 升天了	etl
 水土流失	etle
 识途老马	etlm
@@ -54497,6 +54500,7 @@ sort: original
 窘迫	jypl
 就业培训	jypx
 加油站	jyq
+加油枪	jyq
 经营权	jyqa
 金银珠宝	jyqb
 机缘巧合	jyqh
@@ -75233,7 +75237,8 @@ sort: original
 炮弹	pzdf
 庖丁	pzdg
 跑肚	pzdj
-跑电	pzdm
+抛点	pzdm
+跑电	pzdmo
 跑丢	pzdq
 炮打	pzds
 跑断	pzdt
@@ -109114,8 +109119,9 @@ sort: original
 移动电话	yddhu
 有毒	yddj
 有度	yddjv
-邮递	yddk
-有底	yddkv
+有底	yddk
+邮递	yddki
+诱敌	yddko
 有多	yddl
 诱多	yddlo
 有点	yddm
@@ -109563,6 +109569,7 @@ sort: original
 又准	ydqwa
 有枪	ydqx
 以大欺小	ydqxa
+油枪	ydqxav
 一代人	ydr
 有肉	ydrd
 优柔	ydrdi

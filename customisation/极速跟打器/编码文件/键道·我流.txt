@@ -25418,6 +25418,7 @@
 朝阳区	jyqu
 唱一曲	jyqo
 经营权	jyqa
+加油枪	jyq'
 加油站	jyq_
 军用品	jyp_
 就业难	jyn_
@@ -29714,7 +29715,8 @@
 使他们	etm_
 首陀罗	etlo
 升天了	etl_
-史塔克	etk_
+史塔克	etki
+实体卡	etk_
 石头记	etjv
 手推车	etji
 上台阶	etj_
@@ -30599,11 +30601,12 @@
 东西欧	dxxvv
 大小写	dxxvi
 大猩猩	dxxv
+第二项	dxxuv
+独行侠	dxxuu
 短信息	dxxui
-独行侠	dxxu
+短消息	dxxu
 店小二	dxxoi
 单行线	dxxo
-短消息	dxx'
 多想想	dxx_
 大新闻	dxwvo
 达尔文	dxwv
@@ -30887,7 +30890,8 @@
 大盘股	dpg_
 低排放	dpf_
 打平手	dpe_
-大排档	dpd_
+大排档	dpdv
+多抛点	dpd_
 大棚菜	dpc_
 到旁边	dpb_
 动脑子	dnz_
@@ -32598,7 +32602,8 @@
 白话文	bhwu
 渤海湾	bhwa
 不好玩	bhw_
-不荒唐	bhtv
+不荒唐	bhtvi
+不互通	bhtv
 别回头	bhto
 不好听	bht_
 保护色	bhsi
@@ -41362,6 +41367,7 @@
 又热	ydre
 优柔	ydrdi
 有肉	ydrd
+油枪	ydqxav
 有枪	ydqx
 又准	ydqwa
 有群	ydqw
@@ -41711,8 +41717,9 @@
 有点	yddm
 诱多	yddlo
 有多	yddl
-有底	yddkv
-邮递	yddk
+诱敌	yddko
+邮递	yddki
+有底	yddk
 有度	yddjv
 有毒	yddj
 优待	yddhi
@@ -66422,7 +66429,8 @@
 跑断	pzdt
 炮打	pzds
 跑丢	pzdq
-跑电	pzdm
+跑电	pzdmo
+抛点	pzdm
 跑肚	pzdj
 庖丁	pzdg
 炮弹	pzdf
@@ -106032,8 +106040,7 @@
 赏金	epjbi
 上进	epjb
 商号	ephzo
-尚好	ephzi
-上好	ephz
+尚好	ephz
 商潢	ephx
 上浣	epht
 上划	ephqiv
