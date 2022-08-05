@@ -8892,7 +8892,7 @@
 利害攸关	lhygu
 落荒而逃	lhxti
 两虎相争	lhxqv
-两虎相斗	lhxdvi
+两虎相斗	lhxdv
 联欢晚会	lhwh
 联合起来	lhqlvi
 联合政府	lhqfvi
@@ -14871,7 +14871,6 @@
 达到目的	ddmdv
 道德沦丧	ddlso
 大大咧咧	ddllv
-党的领导	ddldi
 大刀阔斧	ddkfv
 得道成仙	ddjxu
 嘀嘀出行	ddjxo
@@ -21545,8 +21544,9 @@
 入场券	rjq_
 软键盘	rjp_
 肉夹馍	rjm_
-认出来	rjlo
-日产量	rjl_
+入场了	rjlu
+日产量	rjlo
+认出来	rjl_
 如己出	rjja
 入出境	rjj_
 热交换	rjhi
@@ -25650,6 +25650,7 @@
 九头蛇	jte_
 惊天地	jtdo
 具体的	jtdi
+出通道	jtda
 具体到	jtd_
 交通部	jtbo
 剪贴板	jtb_
@@ -29781,8 +29782,8 @@
 市政厅	eqt_
 世青赛	eqsv
 生长素	eqs_
-申请人	eqri
-室主任	eqr_
+室主任	eqro
+申请人	eqr_
 生长期	eqqu
 水蒸气	eqq_
 数千年	eqn_
@@ -30847,6 +30848,7 @@
 当权派	dqp_
 短期内	dqn_
 地球梦	dqm_
+大涨了	dqlva
 到期了	dqlv
 丢弃了	dqlu
 挡住了	dqli
@@ -31354,12 +31356,14 @@
 大道南	ddn_
 叮当猫	ddmo
 大动脉	ddm_
-大道理	ddlvo
+大道理	ddlvov
+大跌了	ddlvo
 达到了	ddlv
 躲得了	ddlu
 跌倒了	ddloi
 懂得了	ddlo
 掉到了	ddli
+到底了	ddl'
 到顶了	ddl_
 打底裤	ddki
 道德经	ddjo
@@ -32129,9 +32133,10 @@
 不太能	btn_
 不透明	btmv
 半透明	btm_
+不太冷	btlvv
 比特率	btlvu
 标题栏	btlvo
-不太冷	btlv
+不填了	btlv
 变态辣	btlov
 别提了	btlo
 拜托了	btli
@@ -48833,8 +48838,6 @@
 窗宽	wxkt
 创刊	wxkf
 创客	wxkei
-创口	wxkdi
-窗口	wxkd
 闯将	wxjx
 窗柩	wxjq
 创见	wxjmi
@@ -68334,6 +68337,7 @@
 盘簧	pfhm
 盘活	pfhl
 槃瓠	pfhj
+盘后	pfhd
 盘回	pfhb
 攀高	pfgz
 攀供	pfgy
@@ -77803,8 +77807,8 @@
 来学	lhxh
 来安	lhxf
 掠额	lhxe
-来写	lhxdv
-略写	lhxd
+略写	lhxdi
+来写	lhxd
 略小	lhxc
 来信	lhxb
 来潮	lhwz
@@ -94191,6 +94195,7 @@
 回窜	hbct
 会错	hbcl
 会此	hbck
+回踩	hbchi
 烩菜	hbch
 会餐	hbcf
 绘测	hbce
@@ -119690,8 +119695,9 @@
 布团	bjtt
 不疼	bjtr
 部堂	bjtp
+不甜	bjtmv
 补天	bjtmo
-不甜	bjtm
+不填	bjtm
 不妥	bjtl
 不提	bjtk
 不图	bjtj

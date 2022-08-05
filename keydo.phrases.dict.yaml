@@ -2908,8 +2908,9 @@ sort: original
 不图	bjtj
 不提	bjtk
 不妥	bjtl
-不甜	bjtm
+不填	bjtm
 补天	bjtmo
+不甜	bjtmv
 部堂	bjtp
 不疼	bjtr
 不见天日	bjtrv
@@ -5477,9 +5478,10 @@ sort: original
 拜托了	btli
 别提了	btlo
 变态辣	btlov
-不太冷	btlv
+不填了	btlv
 标题栏	btlvo
 比特率	btlvu
+不太冷	btlvv
 半透明	btm
 不太明白	btmb
 悲天悯人	btmr
@@ -10426,8 +10428,8 @@ sort: original
 斗筐	ddkx
 都空	ddky
 到顶了	ddl
+到底了	ddl
 抖搂	ddld
-党的领导	ddldi
 跌了	ddle
 逗乐	ddlev
 都兰	ddlf
@@ -10453,7 +10455,8 @@ sort: original
 都乱	ddlt
 躲得了	ddlu
 达到了	ddlv
-大道理	ddlvo
+大跌了	ddlvo
+大道理	ddlvov
 都累	ddlw
 蝶类	ddlwi
 斗轮	ddlwo
@@ -14205,6 +14208,7 @@ sort: original
 丢脸	dqlm
 丢弃了	dqlu
 到期了	dqlv
+大涨了	dqlva
 地球梦	dqm
 丢命	dqmg
 丢面	dqmm
@@ -22057,10 +22061,10 @@ sort: original
 生长期	eqqu
 实证主义	eqqy
 伸张正义	eqqyi
-室主任	eqr
+申请人	eqr
 尚且如此	eqrc
-申请人	eqri
 刷入	eqrj
+室主任	eqro
 逝者如斯	eqrs
 生长素	eqs
 刷色	eqse
@@ -38293,6 +38297,7 @@ sort: original
 绘测	hbce
 会餐	hbcf
 烩菜	hbch
+回踩	hbchi
 会此	hbck
 会错	hbcl
 回窜	hbct
@@ -53180,6 +53185,7 @@ sort: original
 卷次	jtck
 卷层	jtcr
 具体到	jtd
+出通道	jtda
 惊天动地	jtdd
 卷得	jtde
 具体地说	jtde
@@ -60338,9 +60344,9 @@ sort: original
 灵活性	lhx
 来信	lhxb
 略小	lhxc
-略写	lhxd
-来写	lhxdv
-两虎相斗	lhxdvi
+来写	lhxd
+略写	lhxdi
+两虎相斗	lhxdv
 掠额	lhxe
 来安	lhxf
 来学	lhxh
@@ -72906,6 +72912,7 @@ sort: original
 攀高	pfgz
 破折号	pfh
 盘回	pfhb
+盘后	pfhd
 蚍蜉撼树	pfhe
 蚍蜉撼大树	pfhei
 槃瓠	pfhj
@@ -83618,7 +83625,7 @@ sort: original
 入坑	rjkr
 入款	rjkt
 如空	rjky
-日产量	rjl
+认出来	rjl
 儒林	rjlb
 如临	rjlba
 入列	rjld
@@ -83627,10 +83634,11 @@ sort: original
 儒略	rjlhi
 入理	rjlk
 入殓	rjlm
-认出来	rjlo
+日产量	rjlo
 如狼	rjlp
 入流	rjlq
 如流	rjlqa
+入场了	rjlu
 如雷	rjlw
 入量	rjlx
 乳酪	rjlz
@@ -99056,8 +99064,6 @@ sort: original
 五星级	wxjv
 闯将	wxjx
 往下看	wxk
-窗口	wxkd
-创口	wxkdi
 重新开始	wxke
 创客	wxkei
 创刊	wxkf
