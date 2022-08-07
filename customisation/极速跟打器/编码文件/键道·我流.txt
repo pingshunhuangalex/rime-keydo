@@ -61,8 +61,7 @@
 面朝大海，春暖花开	mjdkv
 谋事在人，成事在天	mezt
 林子大了什么鸟都有	lzdyv
-蝉翼为重，千钧为轻	jywqi
-具有特别重要的意义	jyty
+蝉翼为重，千钧为轻	jywq
 乘兴而来，败兴而归	jxxgu
 兼听则明，偏信则暗	jtzx
 家庭联产承包责任制	jtlf
@@ -9440,9 +9439,7 @@
 加以限制	jyxf
 就业形势	jyxeo
 精英小队	jyxd
-就意味着	jywq
-出言无状	jywfa
-就意味着	jywf
+出言无状	jywf
 教育体系	jytx
 晶莹剔透	jytt
 教育体制	jytf
@@ -22871,6 +22868,7 @@
 彭德怀	pdh_
 平底锅	pdgv
 碰到过	pdg_
+破大防	pdfvv
 攀登者	pdfv
 平淡中	pdf_
 平顶山	pdev
@@ -23723,6 +23721,7 @@
 命名为	mmwi
 慢慢吃	mmw_
 密码锁	mms_
+牧马人	mmru
 冒冒然	mmr_
 妈卖批	mmp_
 某某某	mmmv
@@ -25136,9 +25135,10 @@
 客家话	kjh_
 可见光	kjgvi
 恐惧感	kjgv
-科技馆	kjgu
-卡成狗	kjgiv
-看家狗	kjgi
+科技馆	kjgui
+科技股	kjgu
+看家狗	kjgio
+卡成狗	kjgi
 看见过	kjg_
 会计法	kjf_
 会计师	kje_
@@ -25403,6 +25403,7 @@
 加一下	jyx_
 城域网	jywv
 教育网	jywu
+家用车	jywo
 锦衣卫	jywio
 介意我	jywi
 局域网	jywa
@@ -27762,7 +27763,6 @@
 歌曲名	gqm_
 公主岭	gql_
 个情况	gqk_
-干着急	gqjv
 公证处	gqju
 宫崎骏	gqjo
 国庆节	gqjio
@@ -28110,10 +28110,11 @@
 辜负了	gfl'
 关照了	gfl_
 购房款	gfk_
-干着急	gfjv
+鼓风机	gfjvu
+赶飞机	gfjv
 郭富城	gfjo
 国防军	gfji
-鼓风机	gfj_
+干着急	gfj_
 规范化	gfhv
 高峰会	gfho
 公众号	gfh_
@@ -31999,8 +32000,9 @@
 不相信	bxxv
 保险箱	bxxi
 不小心	bxx_
-不爱我	bxwv
-表现为	bxw'
+表现为	bxwvv
+不想穿	bxwv
+不爱我	bxw'
 不像我	bxw_
 不锈铁	bxtv
 博尔特	bxtu
@@ -32136,11 +32138,12 @@
 不太冷	btlvv
 比特率	btlvu
 标题栏	btlvo
-不填了	btlv
+不甜了	btlv'
+不疼了	btlv
 变态辣	btlov
 别提了	btlo
 拜托了	btli
-不疼了	btl'
+不填了	btl'
 不提了	btl_
 变态狂	btko
 不太看	btk_
@@ -33895,6 +33898,7 @@
 因而	yx'
 字词	zc_
 在此	zc'
+在的	zd_
 在这	zf_
 做饭	zf'
 字根	zg_
@@ -42533,7 +42537,8 @@
 相偎	xxwwvi
 相位	xxwwv
 香味	xxww
-相传	xxwt
+相传	xxwtv
+想穿	xxwt
 想岔	xxwsv
 相差	xxws
 想望	xxwpvo
@@ -49587,6 +49592,7 @@
 传来	wtlh
 传令	wtlg
 船缆	wtlf
+穿了	wtle
 船楼	wtldu
 串列	wtld
 船寮	wtlc
@@ -57393,6 +57399,7 @@
 算数	stej
 酸水	steb
 算到	stdz
+算大	stds
 酸度	stdj
 算定	stdg
 酸的	stdev
@@ -63163,8 +63170,9 @@
 千户	qmhj
 浅海	qmhh
 遣怀	qmhg
-嵌合	qmhei
-谦和	qmhe
+千鹤	qmheu
+谦和	qmheo
+嵌合	qmhe
 前后	qmhd
 遣回	qmhbi
 浅灰	qmhb
@@ -96000,6 +96008,7 @@
 刚超	gpwz
 钢窗	gpwx
 岗位	gpww
+刚穿	gpwt
 刚挖	gpwsi
 钢叉	gpws
 刚往	gpwp
@@ -114009,6 +114018,7 @@
 德性	dexg
 的心	dexb
 得宠	dewy
+的船	dewtu
 德川	dewt
 德文	dewn
 得无	dewj
