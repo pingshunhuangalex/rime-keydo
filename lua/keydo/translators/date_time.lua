@@ -21,7 +21,7 @@ local function translator(input, seg)
     -- 日期与时间功能所对应的编码集
     local date_time_table = {
         [";xd"] = function()
-            local year = to_cn_digits(os.date(formatters.year), castings.number_digits) -- 当前年份
+            local year = to_cn_digits(tostring(os.date(formatters.year)), castings.number_digits) -- 当前年份
             local month = os.date(formatters.month) -- 当前月份
             local day = os.date(formatters.day) -- 当前天数
             local date = string.format(formatters.date, year, month, day) -- 当前日期（中文大写）

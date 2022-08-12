@@ -132,10 +132,12 @@ end
 --- @return string
 local function to_cn_digits(text, digits)
     -- 全局逐一获取并替换罗马数字为中文字符
-    return text:gsub(".", function(char)
+    local cn_digits = text:gsub(".", function(char)
         -- 若对应中文字符不存在，则不进行替换
         return digits[tonumber(char)] or char
     end)
+
+    return cn_digits
 end
 
 -- 在特定的变换池中，根据映射规则将罗马数字替换为中文数字
