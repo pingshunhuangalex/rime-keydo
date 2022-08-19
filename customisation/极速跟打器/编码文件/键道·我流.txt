@@ -20687,6 +20687,7 @@
 停机坪	tjp_
 停车难	tjn_
 堂姐妹	tjm_
+太近了	tjlvu
 太卷了	tjlvo
 太紧了	tjlvi
 太长了	tjlv
