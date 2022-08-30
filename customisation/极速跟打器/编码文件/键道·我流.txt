@@ -2128,7 +2128,6 @@
 意下如何	yxrh
 忧心如焚	yxrf
 游戏人生	yxre
-一些人的	yxrd
 一向如此	yxrc
 英雄主义	yxqyi
 一厢情愿	yxqy
@@ -10712,12 +10711,13 @@
 军备竞赛	jbjso
 精兵简政	jbjqo
 沉博绝丽	jbjla
-加不进来	jbjl
+加不进来	jbjl'
+进不进来	jbjl
 讲不出口	jbjkov
 基本建设	jbjev
 疾病缠身	jbjeo
 觉不觉得	jbjdo
-加班加点	jbjd'
+加班加点	jbjda
 记不记得	jbjd
 精兵悍将	jbhjo
 金碧辉煌	jbhhi
@@ -17142,7 +17142,8 @@
 有效期	yxqv
 用心去	yxqu
 优先权	yxqi
-一想起	yxq_
+一想起	yxq'
+有兴趣	yxq_
 印象派	yxp_
 迎新年	yxn_
 阴暗面	yxma
@@ -19040,6 +19041,7 @@
 相关联	xglv
 安哥拉	xglo
 小概率	xgli
+下岗了	xgl_
 习惯了	xgla
 醒过来	xgl_
 小公举	xgji
@@ -29694,7 +29696,8 @@
 绍兴话	exhao
 水仙花	exha
 说闲话	exh_
-鼠须管	exg_
+鼠须管	exgu
+刷新过	exg_
 树新风	exfv
 失心疯	exfuo
 受限制	exfu
@@ -30221,6 +30224,7 @@
 肾功能	egn_
 石鬼面	egm_
 时光里	eglo
+上岗了	egli
 收购量	egla
 受够了	egl_
 时光机	egjo
@@ -89110,7 +89114,7 @@
 金车	jbjei
 进车	jbje
 紧接	jbjdi
-尽皆	jbjda
+尽皆	jbjdav
 进阶	jbjd
 近郊	jbjc
 仅仅	jbjb
@@ -96188,9 +96192,9 @@
 岗级	gpjki
 纲纪	gpjk
 刚出	gpjj
-杠精	gpjgv
+刚劲	gpjgi
 港警	gpjga
-刚劲	gpjg
+杠精	gpjg
 港产	gpjf
 刚扯	gpje
 港姐	gpjd
@@ -115411,6 +115415,7 @@
 存根	cwgn
 存过	cwgl
 村姑	cwgj
+存个	cwge
 村规	cwgb
 寸照	cwfzv
 存照	cwfz
@@ -115440,6 +115445,7 @@
 忖度	cwdl
 存贷	cwdh
 存单	cwdfv
+存的	cwdev
 村的	cwde
 村队	cwdb
 寸草	cwcz

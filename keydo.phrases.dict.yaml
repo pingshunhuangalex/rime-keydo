@@ -8995,6 +8995,7 @@ sort: original
 此文档	cwd
 村队	cwdb
 村的	cwde
+存的	cwdev
 粗茶淡饭	cwdf
 存单	cwdfv
 存贷	cwdh
@@ -9030,6 +9031,7 @@ sort: original
 寸照	cwfzv
 茨威格	cwg
 村规	cwgb
+存个	cwge
 村姑	cwgj
 存过	cwgl
 财务管理	cwgla
@@ -18777,6 +18779,7 @@ sort: original
 甩了	egleu
 摔烂	eglf
 率领	eglg
+上岗了	egli
 衰落	egll
 时光里	eglo
 硕果累累	egllv
@@ -23236,7 +23239,7 @@ sort: original
 失心疯	exfuo
 树新风	exfv
 双飞	exfw
-鼠须管	exg
+刷新过	exg
 双轨	exgb
 双规	exgba
 双沟	exgd
@@ -23248,6 +23251,7 @@ sort: original
 双杠	exgp
 双关	exgt
 双管	exgta
+鼠须管	exgu
 双工	exgy
 说闲话	exh
 水仙花	exha
@@ -35740,9 +35744,9 @@ sort: original
 港姐	gpjd
 刚扯	gpje
 港产	gpjf
-刚劲	gpjg
+杠精	gpjg
 港警	gpjga
-杠精	gpjgv
+刚劲	gpjgi
 刚出	gpjj
 纲纪	gpjk
 岗级	gpjki
@@ -45119,8 +45123,8 @@ sort: original
 仅仅	jbjb
 近郊	jbjc
 记不记得	jbjd
-加班加点	jbjd
-尽皆	jbjda
+加班加点	jbjda
+尽皆	jbjdav
 紧接	jbjdi
 觉不觉得	jbjdo
 进阶	jbjdv
@@ -45148,6 +45152,7 @@ sort: original
 讲不出口	jbjkov
 禁忌	jbjkv
 进击	jbjkvv
+进不进来	jbjl
 加不进来	jbjl
 沉博绝丽	jbjla
 金句	jbjli
@@ -102687,6 +102692,7 @@ sort: original
 星灵	xglg
 性灵	xglgo
 醒来	xglh
+下岗了	xgl
 小概率	xgli
 行路	xglj
 行李	xglk
@@ -115840,6 +115846,7 @@ sort: original
 迎新年	yxn
 印象派	yxp
 异性朋友	yxpy
+有兴趣	yxq
 一想起	yxq
 英雄气短	yxqd
 英雄气概	yxqg
@@ -115860,7 +115867,6 @@ sort: original
 有心人	yxr
 幼驯染	yxra
 一向如此	yxrc
-一些人的	yxrd
 游戏人生	yxre
 忧心如焚	yxrf
 意下如何	yxrh
