@@ -1537,6 +1537,7 @@
 咨询电话	zxdh
 作恶多端	zxdd
 自相残杀	zxce
+择偶标准	zxbq
 杂而不乱	zxbl
 杂而不精	zxbj
 自吹自擂	zwzl
@@ -9560,7 +9561,7 @@
 静下心来	jxxl
 乘兴而来	jxxlu
 侥幸心理	jxxli
-寄希望于	jxwyo
+寄希望于	jxwy
 巨细无漏	jxwlv
 除恶务尽	jxwj
 吉凶未卜	jxwb
@@ -10412,8 +10413,9 @@
 警钟长鸣	jfjmi
 集中精力	jfjl
 见招拆招	jfjfi
-简直就是	jfjeu
 春风化雨	jfhy
+均值回归	jfhg
+卷帙浩繁	jfhf
 鸡飞狗跳	jfgt
 价值观念	jfgn
 急转直下	jffx
@@ -18180,6 +18182,7 @@
 一把火	ybhv
 也不好	ybhav
 也不会	ybha
+一不好	ybh'
 一般会	ybh_
 一百个	ybgv
 迎宾馆	ybgu
@@ -18980,8 +18983,8 @@
 安和桥	xhqo
 绣花针	xhqa
 学会去	xhq_
-消耗品	xhpa
-小黄片	xhp_
+小黄片	xhpi
+消耗品	xhp_
 瞎胡闹	xhn_
 小户名	xhmi
 小红帽	xhm_
@@ -19735,7 +19738,8 @@
 握爪爪	wqfi
 文章中	wqf_
 王岐山	wqev
-重庆市	wqe_
+重庆市	wqeu
+完全是	wqe_
 无情对	wqdvo
 无穷大	wqdv'
 无穷的	wqdv
@@ -22143,8 +22147,7 @@
 去了下	qlx_
 这两位	qlwo
 助力车	qlw_
-前两天	qlto
-这两天	qlt_
+前两天	qlt_
 浅蓝色	qls_
 强留人	qlr_
 敲了敲	qlq_
@@ -23259,9 +23262,9 @@
 哪几种	njf_
 南昌市	njeuo
 南京市	njeu
-能承受	njea
-那件事	nje'
-那就是	nje_
+能承受	njeaa
+那件事	njea
+你就是	nje_
 能见度	njda
 你记得	njd_
 那几次	njc_
@@ -25165,8 +25168,9 @@
 锟斤拷	kjk_
 开机键	kjjv
 科技界	kjju
+空城计	kjjov
 哭唧唧	kjjoo
-空城计	kjjo
+跨阶级	kjjo
 快捷键	kjj_
 客家话	kjh_
 可见光	kjgvi
@@ -26294,9 +26298,10 @@
 接种率	jfli
 解放了	jfl'
 出发了	jfl_
+解放初	jfjuo
 解放军	jfju
 剪指甲	jfjo
-解放初	jfj_
+简直就	jfj_
 超负荷	jfhv
 记者会	jfho
 江浙沪	jfha
@@ -26436,10 +26441,11 @@
 就是说	jee_
 畜生道	jedo
 金士顿	jedi
+出生地	jedau
 潮湿的	jeda
-出生地	jed'
 减少到	jed_
-基数词	jec_
+基数词	jecv
+健身餐	jec_
 超声波	jebv
 九十八	jebu
 精神病	jebo
@@ -26767,8 +26773,9 @@
 混血儿	hxxau
 海岸线	hxxa
 好消息	hxx_
-候选窗	hxwi
-好新闻	hxw_
+候选池	hxwi
+好新闻	hxwa
+候选窗	hxw_
 很爱她	hxtu
 活性炭	hxta
 还乡团	hxt_
@@ -26998,6 +27005,7 @@
 喝牛奶	hnn_
 还那么	hnmv
 哈努曼	hnm_
+很难了	hnl_
 贺年卡	hnk_
 回娘家	hnj_
 华南虎	hnh_
@@ -27272,7 +27280,8 @@
 花果山	hgei
 回过身	hge'
 回过神	hge_
-韩国队	hgdu
+韩国队	hgdui
+很贵的	hgdu
 花骨朵	hgdi
 好感度	hgd_
 韩国菜	hgc_
@@ -27694,6 +27703,7 @@
 更完美	gwmv
 古文明	gwmu
 给我们	gwm_
+更扯了	gwlv
 跟我来	gwlo
 观察力	gwla
 拐弯了	gwl_
@@ -28910,6 +28920,7 @@
 只留下	flx_
 法令纹	flwa
 这两位	flw_
+这两条	flto
 这两天	flt_
 发牢骚	fls_
 这类人	flr_
@@ -32511,6 +32522,7 @@
 不可辱	bkr_
 不可取	bkqv
 被困住	bkqo
+不夸张	bkq'
 不客气	bkq_
 不可怕	bkpv
 不靠谱	bkp_
@@ -33004,9 +33016,8 @@
 办得到	bdda
 不单单	bdd_
 背单词	bdc_
-不代表	bdbv
 彼得堡	bdbu
-不得不	bdb_
+不代表	bdb_
 不错呀	bcy_
 不曾想	bcx_
 保存为	bcw_
@@ -51206,6 +51217,7 @@
 痴恋	wklm
 赤裸	wkll
 斥力	wklku
+池里	wklka
 吃力	wklk
 池炉	wklj
 迟来	wklh
@@ -56979,8 +56991,8 @@
 退后	tbhd
 退回	tbhb
 推广	tbgx
-推给	tbgwi
-退给	tbgw
+退给	tbgwa
+推给	tbgw
 退耕	tbgr
 退岗	tbgp
 推广	tbgm
@@ -59838,6 +59850,7 @@
 认股	rngj
 人格	rnge
 认购	rngd
+人中	rnfyi
 人种	rnfy
 认罚	rnfso
 人渣	rnfs
@@ -79490,7 +79503,8 @@
 空场	kyjp
 控件	kyjm
 恐惧	kyjl
-空寂	kyjk
+空寂	kyjko
+空集	kyjk
 空出	kyjj
 孔径	kyjg
 空蝉	kyjf
@@ -82307,7 +82321,7 @@
 江心	jxxba
 匠心	jxxb
 将朝	jxwz
-降重	jxwy
+降重	jxwya
 将为	jxwwo
 降维	jxwwa
 降为	jxww
