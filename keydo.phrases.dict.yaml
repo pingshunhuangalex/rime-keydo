@@ -6616,6 +6616,7 @@ sort: original
 爆裂	bzld
 暴烈	bzldo
 报了	bzle
+抱了	bzlei
 饱了	bzleu
 笔走龙蛇	bzleuv
 包揽	bzlf
@@ -12214,8 +12215,8 @@ sort: original
 独步	djbj
 大肠包小肠	djbjv
 杜比	djbk
-赌博	djbl
-读博	djblo
+读博	djbl
+赌博	djbla
 独播	djblu
 渡边	djbm
 读本	djbn
@@ -20214,8 +20215,9 @@ sort: original
 使你	eknk
 侍女	eknl
 仕女	eknli
-十年	eknm
+是念	eknm
 时年	eknmo
+十年	eknmu
 势能	eknr
 使能	eknri
 失能	eknru
@@ -23755,7 +23757,7 @@ sort: original
 烧荒	ezhx
 烧红	ezhy
 稍好	ezhz
-数字键	ezj
+说自己	ezj
 烧尽	ezjb
 烧焦	ezjc
 少借	ezjd
@@ -23769,6 +23771,7 @@ sort: original
 绍剧	ezjl
 少见	ezjm
 烧碱	ezjmo
+数字键	ezjo
 稍长	ezjp
 烧酒	ezjq
 烧成	ezjr
@@ -25749,6 +25752,7 @@ sort: original
 摘掉	fhdc
 中华大地	fhdd
 摘得	fhde
+宅的	fhdeo
 窄带	fhdh
 宅第	fhdk
 宅邸	fhdko
@@ -29880,7 +29884,7 @@ sort: original
 发胖	fspp
 发配	fspw
 发泡	fspz
-副司长	fsq
+发送前	fsq
 发着	fsqe
 罚站	fsqf
 发情	fsqg
@@ -29908,6 +29912,7 @@ sort: original
 法权	fsqt
 追随者	fsqu
 副所长	fsqv
+副司长	fsqva
 发强	fsqx
 法强	fsqxa
 发照	fsqz
@@ -30584,7 +30589,8 @@ sort: original
 飞浪	fwlp
 飞流	fwlq
 飞鸾	fwlt
-支持率	fwlu
+追问了	fwlu
+支持率	fwlui
 飞轮	fwlw
 非类	fwlwi
 飞龙	fwly
@@ -31323,6 +31329,7 @@ sort: original
 反应过来	fygl
 种过	fyglu
 重根	fygn
+放一个	fygo
 中刚	fygp
 种瓜	fygq
 中耕	fygr
@@ -37992,8 +37999,8 @@ sort: original
 工作岗位	gzgwv
 高光	gzgx
 高工	gzgy
-高高	gzgz
-搞搞	gzgzi
+搞搞	gzgz
+高高	gzgzo
 搞回	gzhb
 高后	gzhd
 高河	gzhe
@@ -40499,6 +40506,7 @@ sort: original
 海旁	hhpp
 害怕	hhps
 还跑	hhpz
+很好奇	hhq
 还亲	hhqb
 含糊其辞	hhqc
 海鞘	hhqca
@@ -40844,6 +40852,7 @@ sort: original
 讳疾忌医	hjjy
 湖潮	hjjz
 还借款	hjk
+好健康	hjka
 户口	hjkd
 虎口	hjkdi
 糊口	hjkdo
@@ -41604,6 +41613,7 @@ sort: original
 惶惑	hmhl
 晃晃	hmhm
 惶惶	hmhmo
+很模糊	hmhu
 黄昏	hmhw
 忽明忽暗	hmhx
 晃晃	hmhxo
@@ -45273,9 +45283,10 @@ sort: original
 金马	jbms
 晋煤	jbmw
 金毛	jbmz
+就把你	jbn
 就不能	jbn
-既不能	jbn
-绝不能	jbna
+既不能	jbna
+绝不能	jbnav
 浸尿	jbnc
 晋南	jbnf
 晋宁	jbng
@@ -45415,7 +45426,8 @@ sort: original
 金塔	jbts
 进屯	jbtw
 仅同	jbty
-出版物	jbw
+就把我	jbw
+出版物	jbwa
 进车	jbwe
 金车	jbwei
 今晚	jbwf
@@ -47104,8 +47116,7 @@ sort: original
 爵士舞	jewuv
 晋升为	jewv
 技术创新	jewx
-技术性	jex
-介绍信	jex
+就是想	jex
 建设性	jexa
 济世安邦	jexb
 撤销	jexc
@@ -47116,6 +47127,8 @@ sort: original
 车型	jexg
 车削	jexh
 监视下	jexi
+介绍信	jexia
+技术性	jexiv
 车耳	jexj
 及时行乐	jexl
 计上心来	jexlo
@@ -48349,7 +48362,7 @@ sort: original
 绝味	jhwwa
 拆违	jhwwi
 拆窗	jhwx
-计划性	jhx
+交换下	jhx
 决心	jhxb
 拆信	jhxbi
 拆卸	jhxd
@@ -48362,7 +48375,7 @@ sort: original
 拆洗	jhxk
 绝续	jhxl
 拆线	jhxm
-就好像	jhxo
+计划性	jhxo
 拆修	jhxq
 驾鹤西去	jhxqa
 酒酣耳热	jhxr
@@ -62556,6 +62569,7 @@ sort: original
 柳外	lqwh
 六五	lqwj
 六尺	lqwk
+留我	lqwl
 流亡	lqwp
 遛娃	lqws
 流传	lqwt
@@ -72451,11 +72465,12 @@ sort: original
 脑瘫	nztf
 闹天	nztm
 闹腾	nztr
-农作物	nzw
+你在我	nzw
 脑抽	nzwd
 闹玩	nzwf
+农作物	nzwo
 蛲虫	nzwy
-您最想	nzx
+你最想	nzx
 闹心	nzxb
 脑学	nzxh
 脑儿	nzxj
@@ -80579,7 +80594,8 @@ sort: original
 秋地	qqdk
 求多	qqdl
 争权夺利	qqdlu
-准确度	qqdo
+准确的	qqdo
+准确度	qqdov
 球灯	qqdr
 求大	qqds
 真正地	qqdu
@@ -83684,7 +83700,8 @@ sort: original
 儒略	rjlhi
 入理	rjlk
 入殓	rjlm
-日产量	rjlo
+日程里	rjlo
+日产量	rjloo
 如狼	rjlp
 入流	rjlq
 如流	rjlqa
@@ -95555,8 +95572,9 @@ sort: original
 悟空	wjkyo
 物控	wjkyu
 无靠	wjkz
-误解了	wjl
 吃撑了	wjl
+误解了	wjl
+婉拒了	wjla
 武林	wjlb
 物料	wjlc
 物疗	wjlcu
@@ -97998,7 +98016,8 @@ sort: original
 茶仙	wsxmi
 茶锈	wsxq
 挖下	wsxs
-插啊	wsxsi
+插下	wsxsi
+查下	wsxsv
 查询	wsxw
 茶乡	wsxx
 穿隧效应	wsxy
@@ -100496,9 +100515,9 @@ sort: original
 薪额	xbxe
 心安	xbxf
 新型	xbxg
-新兴	xbxgo
-心性	xbxgoo
-新星	xbxgoo
+新星	xbxg
+心性	xbxgo
+新兴	xbxgoo
 心形	xbxgov
 心爱	xbxh
 心血	xbxho
@@ -108539,15 +108558,15 @@ sort: original
 一般地	ybd
 也变得	ybda
 音调	ybdc
-银豆	ybdd
-阴跌	ybdda
-引逗	ybddav
+阴跌	ybdd
+引逗	ybdda
+银豆	ybddi
 引得	ybde
 一般地说	ybdev
 饮弹	ybdf
-银锭	ybdg
+一笔带过	ybdg
+银锭	ybdgi
 一百多个	ybdgv
-一笔带过	ybdgvu
 音带	ybdh
 由不得	ybdi
 印度	ybdj
@@ -112036,6 +112055,7 @@ sort: original
 易筋经	yjjo
 语出惊人	yjjr
 一件件	yjjv
+一场场	yjjvv
 以经济建设为中心	yjjx
 远程教育	yjjy
 一节课	yjk
@@ -114070,7 +114090,8 @@ sort: original
 迎难而上	ynxe
 玉女心经	ynxj
 由内而外	ynxw
-隐匿于	yny
+也能用	yny
+隐匿于	ynya
 一年一次	ynyc
 一年一度	ynyd
 延年益寿	ynye
@@ -116648,6 +116669,7 @@ sort: original
 有资格	yzg
 尧沟	yzgd
 要个	yzge
+要隔	yzgev
 遥感	yzgf
 摇杆	yzgfi
 腰杆	yzgfu
@@ -117446,6 +117468,7 @@ sort: original
 走路	zdlj
 总的来讲	zdljo
 总的来看	zdlk
+走脸	zdlm
 总代理	zdlo
 走廊	zdlp
 走留	zdlq
