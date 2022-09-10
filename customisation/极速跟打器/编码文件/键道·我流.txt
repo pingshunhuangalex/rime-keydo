@@ -349,7 +349,7 @@
 中国科学院院士	fgke
 中国工程院院士	fgge
 中共中央政治局	fgfji
-中国社会科学院	fgeyii
+中国社会科学院	fgeyiio
 中国少年先锋队	fged
 只重衣衫不重人	ffyro
 放之四海而皆准	ffsq
@@ -637,6 +637,7 @@
 中国建设银行	fgjhi
 中国共产党人	fggr
 中国工商银行	fggh
+只管生不管养	fgey
 中国社会科学	fgex
 种种迹象表明	ffjm'
 说一千道一万	eyqw
@@ -1293,7 +1294,7 @@
 中国近代史	fgje
 中国工程院	fggy
 中国共产党	fggdi
-中国社科院	fgeyi
+中国社科院	fgeyii
 中国达人秀	fgdxi
 富贵不能淫	fgby
 肥宅快乐水	ffkeu
@@ -5050,7 +5051,6 @@
 晚节不保	wjbb
 为虎作伥	whzjo
 玩火自焚	whzf
-我还以为	whyw
 文化娱乐	whylo
 文化遗产	whyj
 文化艺术	whyeo
@@ -12919,7 +12919,7 @@
 中规中矩	fgfj
 这个方法	fgff
 知根知底	fgfd
-中国石油	fgey
+中国石油	fgeyi
 转过身去	fgeqv
 这个时期	fgeq
 转过身来	fgel
@@ -17035,9 +17035,10 @@
 吟一阕	yyqo
 悠悠球	yyqii
 抑郁症	yyqi
+演艺圈	yyqai
 游泳圈	yyqaa
-演艺圈	yyqa
-也要去	yyq_
+也要去	yyqa
+有一阵	yyq_
 营养品	yyp_
 医院内	yyn_
 有用吗	yym_
@@ -17594,7 +17595,8 @@
 一览表	ylbv
 月亮杯	ylbu
 易拉宝	ylbo
-余利宝	ylbi
+余利宝	ylbiu
+英联邦	ylbi
 引力波	ylba
 医疗包	ylb_
 也可以	yky_
@@ -19956,7 +19958,8 @@
 外交部	wjb'
 我就不	wjb_
 往回走	whz_
-外行员	why_
+外行员	whyu
+往后移	why_
 外环线	whxu
 晚会儿	whxo
 危害性	whx_
@@ -24258,6 +24261,7 @@
 老先生	lxeu
 拉下水	lxei
 旅行社	lxe_
+理想的	lxdvv
 联系单	lxdvu
 理性的	lxdv
 录像带	lxda
@@ -25439,11 +25443,12 @@
 聚乙烯	jyxva
 基因型	jyxv
 教育学	jyxu
+交易额	jyxoo
 逞英雄	jyxo
 陈奕迅	jyxao
 经验性	jyxaa
 出洋相	jyxa
-交易额	jyx'
+进一下	jyx'
 加一下	jyx_
 城域网	jywv
 教育网	jywu
@@ -28105,6 +28110,7 @@
 骨灰盒	ghh_
 观后感	ghga
 共和国	ghg_
+共和制	ghfv
 鬼画符	ghfu
 过户费	ghf_
 刚好是	ghe_
@@ -31890,7 +31896,8 @@
 存贷差	cdw_
 错的人	cdr_
 猜灯谜	cdm_
-猜对了	cdl_
+猜对了	cdlu
+擦到了	cdl_
 猜得出	cdj_
 曾当过	cdg_
 测定法	cdf_
@@ -46566,7 +46573,8 @@
 安卧	xfwl
 按五	xfwj
 岸外	xfwh
-安万	xfwf
+安万	xfwfo
+按完	xfwf
 安通	xfty
 按他	xftsi
 安踏	xfts
@@ -99511,7 +99519,6 @@
 妆新	fxxb
 装维	fxwwo
 桩位	fxww
-状物	fxwj
 装完	fxwf
 装车	fxweo
 撞车	fxwe
@@ -99548,8 +99555,6 @@
 庄票	fxpc
 装嫩	fxnn
 壮年	fxnm
-桩帽	fxmz
-壮美	fxmw
 撞门	fxmn
 装满	fxmf
 壮苗	fxmc
@@ -101792,6 +101797,7 @@
 桩位	fmww
 装船	fmwt
 装窗	fmwm
+撞我	fmwl
 状物	fmwj
 装完	fmwf
 装车	fmweo
@@ -101832,6 +101838,7 @@
 庄票	fmpc
 装嫩	fmnn
 壮年	fmnm
+撞你	fmnk
 桩帽	fmmz
 壮美	fmmw
 撞门	fmmn
