@@ -558,7 +558,6 @@ sort: original
 布达佩斯	bdpsv
 别跑	bdpz
 不定期	bdq
-别当真	bdq
 别瞧	bdqc
 别切	bdqd
 憋着	bdqe
@@ -573,11 +572,13 @@ sort: original
 剥夺政治权利	bdqla
 憋屈	bdqlo
 别针	bdqn
-变电站	bdqo
+别当真	bdqo
+变电站	bdqoi
 别求	bdqq
 别争	bdqr
 不得其所	bdqs
 本地区	bdqv
+不对仗	bdqva
 别抢	bdqx
 别照	bdqz
 不丢人	bdr
@@ -1600,6 +1601,7 @@ sort: original
 冰片	bgpm
 不怪你	bgnv
 并辔	bgpw
+不工整	bgq
 冰橇	bgqc
 秉着	bgqe
 兵站	bgqf
@@ -6118,7 +6120,8 @@ sort: original
 冰箱里	bxlou
 必先利其器	bxlq
 白俄罗斯	bxls
-表现力	bxlv
+不嫌累	bxlv
+表现力	bxlvv
 标新立异	bxly
 巴西利亚	bxlya
 表形码	bxm
@@ -6323,7 +6326,6 @@ sort: original
 不以为耻	byww
 不以为意	bywy
 不要向	byx
-不用谢	byx
 办一下	byxa
 变异系数	byxe
 便宜行事	byxei
@@ -6331,18 +6333,19 @@ sort: original
 闭月羞花	byxh
 败也萧何	byxha
 边缘学科	byxk
-必要性	byxo
+补一下	byxo
 被允许	byxoa
+必要性	byxov
 不约而同	byxt
-不影响	byxv
-不允许	byxv
-不用学	byxvu
-帮一下	byxvv
+帮一下	byxv
+不允许	byxva
+不影响	byxvo
+不用谢	byxvu
+不用学	byxvuo
 报怨雪耻	byxw
 不言而信	byxx
 不言而喻	byxy
 不一而足	byxz
-不愿意	byy
 不亚于	byy
 避孕药	byya
 不一样的	byyd
@@ -6354,8 +6357,10 @@ sort: original
 表演艺术家	byyj
 不遗余力	byyl
 病怏怏	byyo
-不游泳	byyv
-毕业于	byyvi
+不愿意	byyv
+不游泳	byyva
+不押韵	byyvi
+毕业于	byyviv
 不要以为	byyw
 别有用心	byyx
 不用再	byz
@@ -29087,6 +29092,7 @@ sort: original
 发展机遇	fqjya
 种情况	fqk
 肥宅快乐水	fqke
+中秋快乐	fqkl
 抓狂	fqkm
 抓狂	fqkx
 抓空	fqky
@@ -33736,6 +33742,7 @@ sort: original
 勾股定理	ggdl
 拐点	ggdm
 杠杠的	ggdv
+更高点	ggdvo
 拐动	ggdy
 怪道	ggdz
 鬼故事	gge
@@ -71688,6 +71695,7 @@ sort: original
 哪条	nstco
 那头	nstd
 拿铁	nstdi
+哪头	nstdo
 纳坦	nstf
 那台	nsth
 哪天	nstm
@@ -89387,6 +89395,7 @@ sort: original
 特吹	tewb
 特车	tewe
 特歪	tewh
+挺失望	tewi
 特务	tewj
 投石问路	tewl
 特差	tews
@@ -90017,7 +90026,8 @@ sort: original
 腾格尔	tgxu
 停训	tgxw
 挺想	tgxx
-挺像	tgxxi
+挺像	tgxx
+挺香	tgxxi
 挺胸	tgxy
 铁观音	tgy
 听音	tgyb
@@ -92710,7 +92720,9 @@ sort: original
 通宵达旦	txdda
 天下大事	txde
 天旋地转	txdf
+挺想的	txdi
 挺像的	txdi
+挺香的	txdiu
 天下大乱	txdl
 天下第一	txdy
 天下事	txe
@@ -94591,6 +94603,7 @@ sort: original
 武装力量	wfllvo
 挽联	wflm
 五福临门	wflmv
+忘发了	wflo
 挽留	wflq
 完啦	wfls
 完卵	wflt
@@ -97587,6 +97600,7 @@ sort: original
 完全相信	wqxx
 无助于	wqy
 完全一致	wqyf
+往前移	wqyu
 穿针引线	wqyx
 恶其余胥	wqyxv
 往前走	wqz
@@ -100100,7 +100114,7 @@ sort: original
 阿鼻地狱	xbdya
 信道	xbdz
 心道	xbdzo
-下半身	xbe
+而不是	xbe
 薪水	xbeb
 新手	xbed
 信守	xbedi
@@ -100128,7 +100142,8 @@ sort: original
 心声	xber
 心生	xber
 新生	xbero
-二把手	xbev
+下半身	xbev
+二把手	xbevi
 下半生	xbevo
 小本生意	xbey
 新邵	xbez
@@ -117147,7 +117162,8 @@ sort: original
 自报家门	zbjmu
 最沉	zbjn
 坐北朝南	zbjni
-总编辑	zbjo
+最不济	zbjo
+总编辑	zbjoa
 最长	zbjp
 最常	zbjpo
 醉酒	zbjq
@@ -117398,7 +117414,8 @@ sort: original
 最大的	zddo
 最多的	zddo
 最淡的	zddoa
-最低点	zddoi
+最低的	zddoi
+最低点	zddoii
 最短的	zddou
 走丢	zddq
 自动挡	zddu
