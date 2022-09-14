@@ -1882,8 +1882,8 @@
 越走越远	yzyyv
 有滋有味	yzywv
 意在言外	yzywo
-越走越宽	yzykvv
-越走越快	yzyk'
+越走越宽	yzykv'
+越走越快	yzykv
 一字一句	yzyj
 与子偕行	yzxxva
 易子而食	yzxe
@@ -14143,6 +14143,7 @@
 首都机场	edjjo
 时代精神	edjeo
 十赌九输	edje
+说到就到	edjd
 生动活泼	edhpu
 傻大黑粗	edhc
 水调歌头	edgta
@@ -23502,8 +23503,9 @@
 没意义	myya
 没有用	myy_
 每一项	myxuv
+贸易额	myxuo
 每一下	myxu
-贸易额	myx_
+没有选	myx_
 民用船	mywa
 每一位	myw_
 梅雨天	mytvv
@@ -24936,7 +24938,8 @@
 考验你	kynu
 可以拿	kyn_
 客运量	kyl_
-看一看	kyk_
+看一看	kyki
+可以看	kyk_
 括约肌	kyji
 孔乙己	kyja
 开夜车	kyj_
@@ -25324,9 +25327,10 @@
 看电影	kdyi
 肯定要	kdy_
 可读性	kdx_
+宽带网	kdwo
 苦丁茶	kdwiv
 卡丁车	kdwi
-宽带网	kdw_
+看得我	kdw_
 看大图	kdt_
 抗毒素	kds_
 靠得住	kdqu
@@ -27522,6 +27526,7 @@
 很不好	hbhu
 慌不慌	hbho
 会不会	hbh_
+还不给	hbgv
 还不够	hbg_
 核爆炸	hbfv
 好办法	hbf_
@@ -27564,6 +27569,7 @@
 工作处	gzjv
 工作间	gzj'
 给自己	gzj_
+规则化	gzh_
 公子哥	gzgu
 更糟糕	gzg_
 工作制	gzfviu
@@ -28869,6 +28875,7 @@
 分男女	fnn_
 负能量	fnl_
 智能卡	fnku
+只能开	fnko
 纸尿裤	fnka
 只能看	fnk_
 滞纳金	fnja
@@ -31243,6 +31250,7 @@
 大好事	dhev
 多喝水	dheu
 当回事	dhei
+都会使	dhe'
 都会是	dhe_
 大坏蛋	dhd_
 大荟萃	dhc_
@@ -32941,7 +32949,8 @@
 比什么	bem_
 不睡了	belv
 冰释了	belou
-病逝了	belo
+病逝了	beloi
+别说了	belo
 伴手礼	beli
 不说了	bel_
 必胜客	bek_
@@ -32978,6 +32987,7 @@
 不舍得	bed_
 被收藏	beco
 不是从	bec_
+不是吧	beb_
 半调子	bdzo
 半吊子	bdz_
 不动摇	bdyvv
@@ -36679,13 +36689,15 @@
 要用	yzyy
 摇匀	yzyw
 要员	yzytv
-遥远	yzyt
+遥远	yzytu
+要远	yzyt
 咬牙	yzys
 要养	yzyp
 鳐鱼	yzylu
 药浴	yzyli
 要与	yzyl
-要义	yzykv
+要移	yzykvu
+要义	yzykvo
 徭役	yzyku
 摇椅	yzyki
 幺姨	yzykaa
@@ -42800,9 +42812,9 @@
 相联	xxlmvv
 相恋	xxlmvo
 想练	xxlmva
-相连	xxlmv
+项链	xxlmv
 香莲	xxlmu
-项链	xxlm
+相连	xxlm
 想咯	xxllv
 响锣	xxllo
 香螺	xxll
@@ -59507,6 +59519,7 @@
 闰日	rwrk
 闰年	rwnm
 闰秒	rwmc
+润了	rwle
 润唇	rwjw
 润肠	rwjp
 润滑	rwhq
@@ -64601,8 +64614,8 @@
 竹竿	qjgfuu
 猪肝	qjgfu
 主干	qjgf
-逐个	qjgev
-诸葛	qjge
+诸葛	qjgeo
+逐个	qjge
 猪狗	qjgd
 烛照	qjfz
 注重	qjfy
@@ -78058,6 +78071,7 @@
 来件	lhjm
 来记	lhjk
 来处	lhjj
+来拆	lhjh
 来京	lhjg
 来接	lhjd
 来劲	lhjb
@@ -80808,7 +80822,8 @@
 慨然	khrf
 开腔	khqxv
 开枪	khqx
-开征	khqr
+开征	khqrv
+开整	khqr
 开球	khqq
 开张	khqp
 开诊	khqn
@@ -99962,9 +99977,8 @@
 非但	fwdf
 肥的	fwdeu
 废的	fwdeo
-非得	fwdei
-飞得	fwdea
-飞的	fwde
+飞的	fwdea
+飞得	fwde
 飞碟	fwdd
 废掉	fwdc
 非从	fwcy
@@ -105776,11 +105790,11 @@
 盛装	erfm
 圣佛	erfla
 升擢	erfl
-升职	erfkuv
 生殖	erfku
 省直	erfki
 圣旨	erfka
-升值	erfk
+升值	erfk'
+升职	erfk
 生父	erfjuu
 升幅	erfju
 省府	erfji
@@ -107006,8 +107020,8 @@
 硕鼠	elejv
 说书	elej
 说舌	elee
-说到	eldzo
-说道	eldz
+说道	eldzo
+说到	eldz
 说动	eldy
 硕大	elds
 说点	eldm
@@ -109240,7 +109254,7 @@
 手镜	edjg'
 受惊	edjg
 收车	edjea
-首届	edjd
+首届	edjdo
 受教	edjcu
 收缴	edjca
 手脚	edjc
@@ -119912,7 +119926,9 @@
 不浅	bjqmva
 不前	bjqmv
 不欠	bjqm
-不屈	bjql
+不屈	bjqlv
+不娶	bjql'
+不取	bjql
 不气	bjqkvu
 不齐	bjqkv
 补气	bjqkou
