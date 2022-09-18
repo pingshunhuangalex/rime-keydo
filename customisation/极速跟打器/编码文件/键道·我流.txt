@@ -510,7 +510,6 @@
 牛头不对马嘴	ntbz
 南无阿弥陀佛	nmxf
 内蒙古自治区	nmgq
-你叫什么名字	njez
 你不仁我不义	nbry
 你拨打的电话	nbdh
 民族资产阶级	mzzj
@@ -8083,6 +8082,7 @@
 渺无音信	mwyx
 明察暗访	mwxf
 茫无头绪	mwtx
+末位淘汰	mwtt
 曼彻斯特	mwst
 勉为其难	mwqn
 明察秋毫	mwqh
@@ -8315,7 +8315,6 @@
 墨迹未干	mjwg
 墨迹天气	mjtq
 门禁森严	mjsyo
-曼彻斯特	mjsto
 灭绝人性	mjrx
 买进卖出	mjmj
 名缰利索	mjls
@@ -10294,7 +10293,7 @@
 结合实际	jhej
 惊慌失措	jhec
 趁火打劫	jhdj
-长话短说	jhde
+长话短说	jhdeu
 春回大地	jhddv
 骄横跋扈	jhbha
 居功自傲	jgzx
@@ -15158,6 +15157,7 @@
 粗中有细	cfyx
 残渣余孽	cfyn
 从中渔利	cfyli
+侧方停车	cftw
 餐风宿露	cfsl
 粗制滥造	cflz
 操之过急	cfgji
@@ -17285,6 +17285,7 @@
 亚投行	ythvi
 硬通货	ythva
 研讨会	ythv
+也挺好	ytha
 一体化	yth_
 要通过	ytg_
 言谈中	ytf_
@@ -21811,10 +21812,11 @@
 这一回	qyho
 全运会	qyhi
 企业化	qyh_
-正义观	qygvo
-正义感	qygv
+正义观	qygvoa
+正义感	qygvo
+奇异果	qygva
+整一个	qygv
 长一个	qygu
-奇异果	qyg'
 前一个	qyg_
 正与反	qyfvv
 七月份	qyfv
@@ -23271,8 +23273,7 @@
 农机具	njj_
 那句话	njha
 你将会	njh_
-哪几个	njgo
-那几个	njg_
+哪几个	njg_
 年产值	njfuo
 南极洲	njfu
 农家肥	njfo
@@ -23354,10 +23355,11 @@
 南方人	nfr_
 奶制品	nfp_
 女追男	nfn_
+哪方面	nfmo
 内分泌	nfmi
-那方面	nfma
-哪方面	nfm_
-纽芬兰	nfl_
+那方面	nfm_
+纽芬兰	nfla
+闹翻了	nfl_
 年终奖	nfj_
 那只会	nfh_
 男职工	nfgi
@@ -23623,7 +23625,6 @@
 没文化	mwha
 门外汉	mwh_
 没玩过	mwg_
-没位置	mwf_
 门卫室	mwe_
 没吃的	mwd_
 马尾辫	mwb_
@@ -24062,6 +24063,7 @@
 摸底考	mdk_
 牡丹江	mdju
 满大街	mdja
+没动静	mdj'
 没多久	mdj_
 牡丹花	mdhu
 马大哈	mdh_
@@ -25861,8 +25863,9 @@
 柬埔寨	jpq_
 金瓶梅	jpm_
 成品率	jplv
+精品廊	jplo
 加帕里	jpla
-精品廊	jpl_
+捡破烂	jpl_
 产品库	jpk_
 吉普车	jpjv
 敞篷车	jpji
@@ -32821,9 +32824,10 @@
 报告会	bgh_
 不够格	bgg'
 不过关	bgg_
-不规范	bgfv
+不规范	bgfvv
+不过分	bgfv
+半个钟	bgfoi
 被辜负	bgfo
-半个钟	bgf'
 办公桌	bgf_
 不敢说	bgev
 背过身	bgeiv
@@ -33270,7 +33274,6 @@
 上面	ev'
 甚至	eva
 剩下	evi
-上来	evo
 手机	evu
 属于	evv
 只能	fa
@@ -33370,6 +33373,7 @@
 上得	iu
 打得	iu'
 上去	iv
+上来	ivo
 继续	ja
 成绩	jaa
 除了	jai
@@ -49922,8 +49926,8 @@
 茶色	wsse
 插穗	wssb
 插冗	wsry
-挖人	wsrni
-茶人	wsrn
+茶人	wsrni
+挖人	wsrn
 插入	wsrj
 诧然	wsrf
 查找	wsqz
@@ -60425,8 +60429,8 @@
 乳房	rjfp
 乳粉	rjfn
 乳状	rjfm
-入职	rjfku
-乳汁	rjfk
+乳汁	rjfku
+入职	rjfk
 如附	rjfj
 入犯	rjff
 儒者	rjfei
@@ -71470,7 +71474,7 @@
 美瞳	mwtyo
 每桶	mwty
 美臀	mwtw
-美团	mwtt
+美团	mwtto
 梅汤	mwtp
 煤田	mwtm
 美体	mwtko
@@ -71727,8 +71731,10 @@
 眉梢	mwez
 每双	mwex
 没啥	mwes
-美声	mwer
-没上	mwep
+美声	mwero
+没升	mwera
+没剩	mwer'
+没省	mwer
 美神	mwen
 每双	mwem
 没说	mwel
@@ -77754,7 +77760,8 @@
 鹿肉	ljrd
 颅腔	ljqx
 鹿群	ljqw
-禄劝	ljqt
+禄劝	ljqto
+路权	ljqt
 路政	ljqr
 路障	ljqp
 炉前	ljqm
@@ -87119,6 +87126,8 @@
 决定	jhdg
 拆弹	jhdfi
 拆单	jhdf
+拆的	jhdei
+拆得	jhde
 角斗	jhddu
 决斗	jhdd
 绝调	jhdca
@@ -96323,7 +96332,8 @@
 岗哨	gpez
 刚顺	gpew
 刚杀	gpes
-刚胜	gper
+刚胜	gperi
+刚升	gper
 刚刷	gpeq
 港商	gpep
 刚说	gpel
@@ -105693,6 +105703,7 @@
 生来	erlhu
 省略	erlh
 生灵	erlg
+升了	erleu
 省了	erlei
 生了	erle
 盛烈	erld
@@ -111443,6 +111454,7 @@
 等圆	drytu
 瞪圆	dryt
 等压	drys
+灯语	drylo
 等于	dryl
 等以	dryk
 登月	dryh

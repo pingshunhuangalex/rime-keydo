@@ -1426,7 +1426,6 @@ sort: original
 杯弓蛇影	bgey
 补过拾遗	bgeyo
 办公桌	bgf
-半个钟	bgf
 冰锥	bgfb
 并州	bgfd
 秉着	bgfe
@@ -1441,6 +1440,7 @@ sort: original
 冰粉	bgfn
 兵分	bgfnu
 被辜负	bgfo
+半个钟	bgfoi
 病房	bgfp
 冰封	bgfr
 病发	bgfs
@@ -1448,7 +1448,8 @@ sort: original
 兵法	bgfsu
 并转	bgft
 不轨之徒	bgftv
-不规范	bgfv
+不过分	bgfv
+不规范	bgfvv
 并非	bgfw
 病状	bgfx
 病重	bgfy
@@ -7440,6 +7441,7 @@ sort: original
 餐台	cfth
 参天	cftm
 参堂	cftp
+侧方停车	cftw
 惨痛	cfty
 此之外	cfw
 参照物	cfwa
@@ -14505,6 +14507,7 @@ sort: original
 登月	dryh
 等以	dryk
 等于	dryl
+灯语	drylo
 等压	drys
 瞪圆	dryt
 等圆	drytu
@@ -22357,6 +22360,7 @@ sort: original
 生了	erle
 深入落实	erlea
 省了	erlei
+升了	erleu
 生灵	erlg
 省略	erlh
 生来	erlhu
@@ -35711,7 +35715,8 @@ sort: original
 刚说	gpel
 港商	gpep
 刚刷	gpeq
-刚胜	gper
+刚升	gper
+刚胜	gperi
 刚杀	gpes
 刚顺	gpew
 岗哨	gpez
@@ -48137,7 +48142,9 @@ sort: original
 决斗	jhdd
 角斗	jhddu
 春回大地	jhddv
-长话短说	jhde
+拆得	jhde
+拆的	jhdei
+长话短说	jhdeu
 拆单	jhdf
 拆弹	jhdfi
 决定	jhdg
@@ -51596,7 +51603,7 @@ sort: original
 厂矿	jpkxv
 长空	jpky
 常考	jpkz
-精品廊	jpl
+捡破烂	jpl
 加帕里	jpla
 长林	jplb
 肠疗	jplc
@@ -51619,6 +51626,7 @@ sort: original
 常绿	jpll
 倡廉	jplm
 长脸	jplmu
+精品廊	jplo
 长廊	jplp
 长流	jplq
 长留	jplqu
@@ -60713,7 +60721,8 @@ sort: original
 量角器	ljqou
 路障	ljqp
 路政	ljqr
-禄劝	ljqt
+路权	ljqt
+禄劝	ljqto
 老城区	ljqu
 鹿群	ljqw
 颅腔	ljqx
@@ -65137,6 +65146,7 @@ sort: original
 牡丹花	mdhu
 灭蝗	mdhx
 没多久	mdj
+没动静	mdj
 满大街	mdja
 目的就是	mdje
 马到成功	mdjg
@@ -66414,7 +66424,6 @@ sort: original
 慕斯	mjski
 穆萨	mjss
 钼酸	mjst
-曼彻斯特	mjsto
 目送	mjsy
 门禁森严	mjsyo
 麦金塔	mjt
@@ -68521,12 +68530,13 @@ sort: original
 没说	mwel
 每双	mwem
 美神	mwen
-没上	mwep
-美声	mwer
+没省	mwer
+没剩	mwer
+没升	mwera
+美声	mwero
 没啥	mwes
 每双	mwex
 眉梢	mwez
-没位置	mwf
 每周	mwfd
 美洲	mwfdo
 梅州	mwfdv
@@ -68800,7 +68810,8 @@ sort: original
 美体	mwtko
 煤田	mwtm
 梅汤	mwtp
-美团	mwtt
+末位淘汰	mwtt
+美团	mwtto
 美臀	mwtw
 茫无头绪	mwtx
 每桶	mwty
@@ -69851,7 +69862,8 @@ sort: original
 男款	nfkt
 南昆	nfkw
 难控	nfky
-纽芬兰	nfl
+闹翻了	nfl
+纽芬兰	nfla
 南临	nflb
 难料	nflc
 南楼	nfld
@@ -69868,8 +69880,7 @@ sort: original
 难论	nflw
 难凉	nflx
 南龙	nfly
-哪方面	nfm
-那方面	nfma
+那方面	nfm
 难民	nfmb
 楠庙	nfmc
 南蛮	nfmf
@@ -69883,6 +69894,7 @@ sort: original
 难眠	nfmma
 南面	nfmmu
 南门	nfmn
+哪方面	nfmo
 南美	nfmw
 女追男	nfn
 喃喃	nfnf
@@ -70342,7 +70354,6 @@ sort: original
 南京市	njeu
 南昌市	njeuo
 年久失修	njex
-你叫什么名字	njez
 哪几种	njf
 农家肥	njfo
 怒放	njfp
@@ -70351,10 +70362,9 @@ sort: original
 年产值	njfuo
 怒极反笑	njfx
 宁静致远	njfy
-那几个	njg
+哪几个	njg
 鸟尽弓藏	njgc
 奴格	njge
-哪几个	njgo
 弩弓	njgy
 你将会	njh
 那句话	njha
@@ -82482,15 +82492,16 @@ sort: original
 曲意逢迎	qyfyi
 琼中	qyfyv
 前一个	qyg
-奇异果	qyg
 穷鬼	qygb
 招摇过市	qyge
 穷国	qygl
 企业管理	qygli
 穷根	qygn
 长一个	qygu
-正义感	qygv
-正义观	qygvo
+整一个	qygv
+奇异果	qygva
+正义感	qygvo
+正义观	qygvoa
 企业化	qyh
 群英荟萃	qyhc
 穷汉	qyhf
@@ -83625,8 +83636,8 @@ sort: original
 儒者	rjfei
 入犯	rjff
 如附	rjfj
-乳汁	rjfk
-入职	rjfku
+入职	rjfk
+乳汁	rjfku
 乳状	rjfm
 乳粉	rjfn
 乳房	rjfp
@@ -97981,8 +97992,8 @@ sort: original
 微斯人	wsr
 诧然	wsrf
 插入	wsrj
-茶人	wsrn
-挖人	wsrni
+挖人	wsrn
+茶人	wsrni
 插冗	wsry
 插穗	wssb
 茶色	wsse
@@ -115149,6 +115160,7 @@ sort: original
 原告	ytgz
 原稿	ytgzv
 一体化	yth
+也挺好	ytha
 猿猴	ythd
 元和	ythe
 缘何	ythea
