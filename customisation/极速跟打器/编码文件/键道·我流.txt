@@ -6202,6 +6202,7 @@
 僧多粥少	sdfe
 所导致的	sdfdu
 似懂非懂	sdfd
+三点掉头	sddt
 四菜一汤	scyt
 似曾相识	scxe
 三从四德	scsd
@@ -8305,7 +8306,6 @@
 蛮困难的	mknd
 莫可名状	mkmfi
 门可罗雀	mklqo
-没看出来	mkjla
 猫科动物	mkdw
 马可波罗	mkbla
 铭记在心	mjzx
@@ -8322,7 +8322,6 @@
 摩肩接踵	mjjfo
 美籍华人	mjhro
 明镜高悬	mjgxo
-没几个人	mjgr
 满城风雨	mjfya
 面朝大海	mjdhv
 蛮简单的	mjddo
@@ -16285,7 +16284,8 @@
 坐月子	zyzi
 坐一坐	zyz_
 自由泳	zyyu
-总医院	zyyo
+总医院	zyyov
+最遥远	zyyo
 作用域	zyyi
 作用于	zyy_
 租一下	zyxu
@@ -16694,6 +16694,7 @@
 在乎你	zhnv
 再和你	zhn_
 走后门	zhm_
+再回来	zhlv
 总会来	zhlo
 综合楼	zhla
 做好了	zhl_
@@ -17117,10 +17118,11 @@
 一下子	yxz_
 医学院	yxyvo
 亚细亚	yxyva
-一向以	yxyv
-幼儿园	yxya
-也需要	yxy'
-也许有	yxy_
+越想越	yxyv
+幼儿园	yxyau
+也需要	yxya
+也许有	yxy'
+一向以	yxy_
 一下下	yxxvv
 有些爱	yxxvi
 有限性	yxxva
@@ -18844,10 +18846,10 @@
 欧罗巴	xlbv
 饿了吧	xlbua
 行了吧	xlbu
-小笼包	xlbiu
-小喇叭	xlbi
+小喇叭	xlbio
+小笼包	xlbi
 阿拉伯	xlba
-小笼包	xlb_
+下了班	xlb_
 新开业	xky_
 小可爱	xkxi
 寻开心	xkxa
@@ -20458,6 +20460,7 @@
 疼痛难	ttn_
 榻榻米	ttm_
 桃太郎	ttlvv
+太甜了	ttlvu
 太痛了	ttlv
 吞吐量	ttl_
 天天看	ttkvv
@@ -20488,6 +20491,7 @@
 太思念	tsn_
 碳酸镁	tsmv
 塔斯曼	tsm_
+太酸了	tslv
 特斯拉	tslu
 探索类	tsl_
 铁三角	tsj_
@@ -20781,6 +20785,7 @@
 趟浑水	thev
 同花顺	thei
 太行山	the_
+替换掉	thdv
 挺火的	thdio
 挺好的	thdi
 体会到	thd_
@@ -20965,10 +20970,11 @@
 他不是	tbe_
 特别多	tbduo
 特别大	tbdu
-听不到	tbdo
+听不到	tbdov
+听不懂	tbdo
+拖不动	tbdi
 淘宝店	tbda
-逃不掉	tbd'
-听不懂	tbd_
+逃不掉	tbd_
 挺不错	tbc_
 图标包	tbb_
 三宗罪	szz_
@@ -21054,6 +21060,7 @@
 死亡证	swqv
 司务长	swq_
 送温暖	swn_
+随我们	swm_
 死亡率	swl_
 孙悟空	swk_
 散文集	swj_
@@ -21148,6 +21155,7 @@
 骚女人	snr_
 死难者	snq_
 酸牛奶	snn_
+随你们	snm_
 三年来	snl_
 索尼克	snku
 斯诺克	snk_
@@ -22349,7 +22357,8 @@
 主观性	qgxo
 全国性	qgxi
 助个兴	qgx_
-请各位	qgw_
+请各位	qgwo
+占个位	qgw_
 主观题	qgto
 张国焘	qgta
 起个头	qgt_
@@ -23891,9 +23900,8 @@
 孟尝君	mjjai
 没交集	mjja
 没解决	mjj_
-每句话	mjhu
 满江红	mjha
-没机会	mjh_
+每句话	mjh_
 毛巾杆	mjgu
 忙成狗	mjgo
 没见过	mjg_
@@ -24212,6 +24220,7 @@
 录影带	lydao
 录音带	lyda
 离远点	lyd_
+聊一次	lycv
 另一次	lyc_
 琅琊榜	lybv
 老一辈	lybu
@@ -31917,8 +31926,8 @@
 存贷差	cdw_
 错的人	cdr_
 猜灯谜	cdm_
-猜对了	cdlu
-擦到了	cdl_
+擦到了	cdli
+猜对了	cdl_
 猜得出	cdj_
 曾当过	cdg_
 测定法	cdf_
@@ -33930,8 +33939,8 @@
 你都	nd'
 你是	ne_
 你这	nf_
-你好	nh_
-能好	nh'
+你和	nh_
+你好	nh'
 你就	nj_
 你了	nl_
 你没	nm_
@@ -38391,6 +38400,7 @@
 养地	ypdk
 仰读	ypdj
 样带	ypdh
+样的	ypdev
 洋的	ypdea
 养得	ypde
 羊草	ypcz
@@ -43759,6 +43769,7 @@
 瞎火	xshl
 阿虎	xshja
 吓唬	xshj
+瞎嗨	xshhi
 下海	xshh
 吓坏	xshg
 下含	xshf
@@ -56727,6 +56738,7 @@
 条案	tcxf
 调谐	tcxd
 调小	tcxc
+调薪	tcxbo
 挑衅	tcxb
 跳虫	tcwy
 调味	tcww
@@ -57496,6 +57508,7 @@
 算力	stlk
 算来	stlh
 酸懒	stlf
+酸了	stle
 酸困	stkw
 酸苦	stkj
 酸刻	stke
@@ -62474,7 +62487,8 @@
 障碍	qpxh
 嶂暗	qpxf
 掌鞋	qpxd
-掌心	qpxb
+掌心	qpxbi
+涨薪	qpxb
 涨潮	qpwz
 张床	qpwx
 张伟	qpww
@@ -81813,6 +81827,7 @@
 口里	kdlk
 口令	kdlg
 扣篮	kdlf
+抠了	kdlei
 扣了	kdle
 抠搂	kdld
 扣款	kdkt
