@@ -30231,8 +30231,8 @@
 生活区	ehq_
 是和你	ehn_
 生活里	ehlu
-双黄连	ehla
-收回来	ehl'
+双黄连	ehlav
+收回来	ehla
 伤害了	ehl_
 珊瑚礁	ehjv
 说话间	ehjo
@@ -31926,8 +31926,9 @@
 存贷差	cdw_
 错的人	cdr_
 猜灯谜	cdm_
+猜对了	cdlu
 擦到了	cdli
-猜对了	cdl_
+擦掉了	cdl_
 猜得出	cdj_
 曾当过	cdg_
 测定法	cdf_
@@ -97576,7 +97577,8 @@
 该找	ghfz
 改种	ghfy
 改装	ghfx
-改撰	ghft
+改撰	ghfta
+该赚	ghft
 该法	ghfs
 盖房	ghfp
 该分	ghfn
@@ -105871,9 +105873,10 @@
 生单	erdfuo
 生蛋	erdfu
 圣诞	erdf
-生的	erdeuu
-升的	erdeu'
+升的	erdeuu
+生的	erdeu'
 剩的	erdeu
+省的	erdei
 生得	erde'
 省得	erde
 升跌	erddu
@@ -111258,8 +111261,7 @@
 打怪	dsgg
 大干	dsgf
 大个	dsgev
-打嗝	dsgei
-打个	dsge
+打嗝	dsge
 打狗	dsgdi
 打钩	dsgd
 打鬼	dsgb
