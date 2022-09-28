@@ -7513,7 +7513,6 @@
 准备就绪	qbjxo
 情报机构	qbjgo
 泣不成声	qbjea
-整不会了	qbhl
 取保候审	qbhev
 岂不怪哉	qbgz
 照搬照套	qbfto
@@ -22132,8 +22131,9 @@
 招聘会	qphi
 俏皮话	qph_
 青苹果	qpg_
+真佩服	qpfu
 全牌照	qpfi
-真佩服	qpf_
+整破防	qpf_
 招牌式	qpei
 枪炮声	qpe_
 清平调	qpd_
@@ -22610,7 +22610,8 @@
 猪八戒	qbjuu
 真不急	qbju
 前不久	qbj_
-章北海	qbh_
+章北海	qbho
+整不会	qbh_
 敲边鼓	qbg_
 枕边风	qbfv
 主办者	qbfo
@@ -27604,9 +27605,10 @@
 过阻尼	gzn_
 公仔面	gzmu
 该怎么	gzm_
+工作量	gzlv
 瓜子脸	gzlu
 骨子里	gzli
-工作量	gzl_
+刚做了	gzl_
 工作狂	gzk_
 工作处	gzjv
 工作间	gzj'
@@ -34464,7 +34466,8 @@
 宗祠	zyck
 总裁	zych
 总参	zycf
-宗宝	zybz
+宗宝	zybzo
+总包	zybz
 总被	zybw
 总把	zybs
 棕绷	zybr
@@ -61885,7 +61888,8 @@
 全班	qtbf
 券别	qtbd
 卡子	qszk
-恰在	qszh
+恰在	qszho
+卡在	qszh
 恰遇	qsyl
 洽询	qsxw
 洽闻	qswn
@@ -69747,6 +69751,7 @@
 能和	nrhe
 能给	nrgw
 能更	nrgr
+能过	nrgl
 能改	nrgh
 能干	nrgf
 能赚	nrft
@@ -80061,11 +80066,9 @@
 宽博	ktbl
 髋部	ktbj
 卡座	kszl
-卡子	kszki
 卡兹	kszk
 卡族	kszji
 卡组	kszj
-卡在	kszh
 卡晕	ksyw
 卡约	ksyh
 卡宴	ksyf
@@ -84047,7 +84050,8 @@
 酒泉	jqqt
 纠正	jqqr
 九章	jqqpu
-旧账	jqqp
+旧账	jqqpi
+就涨	jqqp
 就诊	jqqn
 九千	jqqm
 九曲	jqqlu
@@ -99532,9 +99536,9 @@
 钟声	fyeriv
 众生	fyeri
 终生	fyer
-中上	fyepi
-中伤	fyep'
-重伤	fyep
+重伤	fyepu
+中伤	fyepi
+中上	fyep
 众神	fyeni
 终审	fyena
 终身	fyen
@@ -105800,8 +105804,9 @@
 生客	erke
 牲口	erkd
 胜朝	erjz
-生姜	erjxu
-升降	erjx
+升降	erjxu
+绳降	erjxa
+生姜	erjx
 升价	erjs
 声称	erjrv
 省城	erjri

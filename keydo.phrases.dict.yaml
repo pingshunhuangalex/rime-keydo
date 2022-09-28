@@ -22346,8 +22346,9 @@ sort: original
 省城	erjri
 声称	erjrv
 升价	erjs
-升降	erjx
-生姜	erjxu
+生姜	erjx
+绳降	erjxa
+升降	erjxu
 胜朝	erjz
 输入框	erk
 牲口	erkd
@@ -31278,9 +31279,9 @@ sort: original
 这样说	fye
 吱一声	fye
 这一生	fyeo
-重伤	fyep
-中伤	fyep
-中上	fyepi
+中上	fyep
+中伤	fyepi
+重伤	fyepu
 智勇双全	fyeq
 终生	fyer
 众生	fyeri
@@ -38114,7 +38115,7 @@ sort: original
 高旷	gzkx
 高空	gzky
 高考	gzkz
-工作量	gzl
+刚做了	gzl
 高楼	gzld
 搞了	gzle
 高了	gzleo
@@ -38131,6 +38132,7 @@ sort: original
 高冷	gzlr
 搞乱	gzlt
 瓜子脸	gzlu
+工作量	gzlv
 高论	gzlw
 高亮	gzlx
 高粱	gzlxo
@@ -52223,7 +52225,8 @@ sort: original
 竞争者	jqqo
 记者站	jqqou
 记者证	jqqouo
-旧账	jqqp
+就涨	jqqp
+旧账	jqqpi
 九章	jqqpu
 纠正	jqqr
 酒泉	jqqt
@@ -57684,11 +57687,9 @@ sort: original
 卡宴	ksyf
 卡约	ksyh
 卡晕	ksyw
-卡在	kszh
 卡组	kszj
 卡族	kszji
 卡兹	kszk
-卡子	kszki
 卡座	kszl
 快速增长	kszq
 卡通版	ktb
@@ -71464,6 +71465,7 @@ sort: original
 牛肉干	nrg
 能干	nrgf
 能改	nrgh
+能过	nrgl
 能更	nrgr
 能给	nrgw
 拟人化	nrh
@@ -75652,16 +75654,16 @@ sort: original
 秦观	qbgt
 寝宫	qbgy
 岂不怪哉	qbgz
-章北海	qbh
+整不会	qbh
 秦桧	qbhb
 亲和	qbhe
 取保候审	qbhev
 秦汉	qbhf
 秦淮	qbhg
 侵害	qbhh
-整不会了	qbhl
 擒获	qbhli
 秦皇	qbhm
+章北海	qbho
 琴行	qbhp
 侵华	qbhq
 勤换	qbht
@@ -80421,7 +80423,7 @@ sort: original
 掌上	qpep
 掌声	qper
 掌勺	qpez
-真佩服	qpf
+整破防	qpf
 胀锥	qpfb
 漳州	qpfd
 全盘否定	qpfdi
@@ -80437,6 +80439,7 @@ sort: original
 长方	qpfpu
 涨风	qpfr
 章法	qpfs
+真佩服	qpfu
 张飞	qpfw
 张庄	qpfx
 掌中	qpfy
@@ -81509,7 +81512,8 @@ sort: original
 轻松一刻	qsykv
 恰遇	qsyl
 清算组	qsz
-恰在	qszh
+卡在	qszh
+恰在	qszho
 卡子	qszk
 桥头堡	qtb
 涨停板	qtba
@@ -120435,7 +120439,8 @@ sort: original
 总被	zybw
 再也不用	zyby
 再也不要	zybyv
-宗宝	zybz
+总包	zybz
+宗宝	zybzo
 再一次	zyc
 总参	zycf
 总裁	zych
