@@ -20737,6 +20737,7 @@
 她居然	tjr_
 太极拳	tjqv
 跳进去	tjqo
+推出去	tjqi
 拖出去	tjq_
 停机坪	tjp_
 停车难	tjn_
@@ -119741,8 +119742,8 @@
 比大	bkds
 壁灯	bkdr
 必当	bkdp
-笔电	bkdmu
-鼻垫	bkdm
+鼻垫	bkdmu
+笔电	bkdm
 毙敌	bkdk
 必读	bkdj
 笔袋	bkdh
