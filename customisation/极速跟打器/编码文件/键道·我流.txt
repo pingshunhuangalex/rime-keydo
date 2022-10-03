@@ -2079,7 +2079,7 @@
 泱泱大国	yydga
 一衣带水	yydev
 抑扬顿挫	yydci
-以一抵百	yydb
+以一抵百	yydba
 郁郁葱葱	yycc
 一言半语	yybyv
 永远不要	yyby
@@ -17711,6 +17711,7 @@
 也仅仅	yjj_
 研究会	yjhvo
 原计划	yjhv
+也几乎	yjhau
 演唱会	yjhao
 也就会	yjha
 一句话	yjh_
@@ -17984,11 +17985,12 @@
 也是只	yefa
 眼神中	yef'
 一生中	yef_
+一身伤	yeevu
 一双手	yeeva
-一身伤	yeev
-艺术史	yeei
-一双双	yee'
-硬生生	yee_
+硬生生	yeev
+艺术史	yeeiv
+仪式上	yeei
+一双双	yee_
 有深度	yedva
 一时的	yedv'
 要说的	yedv
@@ -26212,6 +26214,7 @@
 交换下	jhx_
 聚合物	jhwvi
 救护车	jhwv
+几乎为	jhwu
 计划外	jhwo
 菊花茶	jhwi
 就和我	jhw_
@@ -27462,7 +27465,8 @@
 黑手党	hedii
 合适的	hedi
 会说的	hed_
-含水层	hec_
+含水层	heci
+还是从	hec_
 护犊子	hdzi
 黄段子	hdz_
 活地狱	hdya
@@ -27700,9 +27704,9 @@
 过膝袜	gxwv
 关系网	gxw_
 公安厅	gxtu
-关晓彤	gxto
+关晓彤	gxtoo
+关系图	gxto
 港澳台	gxta
-关系图	gxt'
 高血糖	gxt_
 干休所	gxsv
 胱氨酸	gxsu
@@ -37370,6 +37374,7 @@
 用得	yyde
 勇斗	yydd
 用掉	yydc
+用对	yydb
 永存	yycw
 用错	yycl
 用此	yycku
@@ -39811,9 +39816,10 @@
 役使	ykeku
 议事	ykekov
 衣饰	ykekou
+亦是	ykekoo
 易逝	ykekoi
 衣食	ykeko'
-亦是	ykeko
+意识	ykeko
 遗失	ykekiu
 伊始	ykekia
 仪式	ykeki
@@ -39821,7 +39827,6 @@
 已逝	ykekai
 已使	ykeka'
 已是	ykeka
-意识	ykek'
 一时	ykek
 一数	ykejvo
 一竖	ykejvi
@@ -55257,6 +55262,7 @@
 土货	tjhl
 屠户	tjhja
 图后	tjhd
+图绘	tjhb
 土工	tjgyv
 徒工	tjgy
 土棍	tjgw
@@ -91524,6 +91530,7 @@
 划掉	hqdcv
 花雕	hqdci
 花掉	hqdc
+画对	hqdb
 花丛	hqcy
 花村	hqcw
 花错	hqcl
@@ -121673,7 +121680,8 @@
 表形	bcxg
 表谢	bcxd
 飙信	bcxbv
-表尾	bcww
+表尾	bcwwv
+标为	bcww
 标船	bcwt
 标叉	bcws
 标尺	bcwk
