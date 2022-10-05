@@ -2576,7 +2576,6 @@ sort: original
 不慌	bjhx
 北京航空航天大学	bjhxi
 不仅仅	bjj
-比较紧	bjj
 不仅	bjjb
 不尽	bjjb
 步进	bjjbi
@@ -2635,8 +2634,10 @@ sort: original
 不嫁	bjjsv
 不假	bjjsvi
 不倦	bjjt
-不讲究	bjjv
-不将就	bjjvo
+比较紧	bjjv
+比较急	bjjv
+不讲究	bjjvo
+不将就	bjjvoo
 不解决	bjjvu
 不均	bjjw
 不纯	bjjwv
@@ -20786,6 +20787,7 @@ sort: original
 说清	elqgo
 身临其境	elqj
 说起	elqk
+说钱	elqm
 熟练掌握	elqw
 守林人	elr
 硕儒	elrj
@@ -41645,9 +41647,10 @@ sort: original
 皇妃	hmfwu
 黄庄	hmfx
 荒木飞吕彦	hmfy
-哈密瓜	hmg
+还没个	hmg
 红玫瑰	hmga
-还没个	hmgv
+哈密瓜	hmgo
+很敏感	hmgu
 荒沟	hmgd
 黄狗	hmgdv
 黄苷	hmgf
@@ -60973,7 +60976,7 @@ sort: original
 丽莎	lkesv
 理科生	lkev
 理顺	lkew
-李开复	lkf
+来看房	lkf
 礼州	lkfd
 立着	lkfe
 里番	lkff
@@ -60996,6 +60999,7 @@ sort: original
 礼法	lkfsoa
 篱栅	lkfsu
 历法	lkfsv
+李开复	lkfv
 李庄	lkfx
 粒状	lkfxo
 立中	lkfy
@@ -82799,7 +82803,6 @@ sort: original
 照拂	qzfjo
 招致	qzfk
 招之	qzfki
-找份	qzfn
 亲子装	qzfo
 找房	qzfp
 招风	qzfr
@@ -89742,8 +89745,8 @@ sort: original
 弹起	tfqka
 谈起	tfqko
 滩区	tfql
-贪钱	tfqm
-谈钱	tfqmo
+谈钱	tfqm
+贪钱	tfqmi
 探针	tfqn
 探长	tfqp
 探求	tfqq
@@ -116242,8 +116245,9 @@ sort: original
 一语双关	yyeg
 业余生活	yyeh
 熠熠生辉	yyeho
-营业税	yyei
-眼药水	yyeii
+眼药水	yyei
+园艺师	yyeii
+营业税	yyeiiu
 营养师	yyeio
 摇椅上	yyeiv
 用书	yyej
