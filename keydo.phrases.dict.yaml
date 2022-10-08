@@ -512,6 +512,7 @@ sort: original
 不大可能	bdkn
 别卡	bdks
 不动了	bdl
+不对了	bdl
 别漏	bdld
 别了	bdle
 别懒	bdlf
@@ -529,7 +530,7 @@ sort: original
 别啦	bdls
 别乱	bdlt
 八达岭	bdlu
-不对了	bdlv
+不搭理	bdlv
 别论	bdlw
 别类	bdlwo
 别老	bdlz
@@ -2700,7 +2701,8 @@ sort: original
 部落	bjll
 步履	bjlli
 不练	bjlm
-冰激凌	bjlo
+别卷了	bjlo
+冰激凌	bjloa
 布朗	bjlp
 不流	bjlq
 不留	bjlqv
@@ -2807,7 +2809,8 @@ sort: original
 不缺	bjqh
 补缺	bjqho
 不摘	bjqhv
-报警器	bjqi
+背出去	bjqi
+报警器	bjqii
 北京站	bjqio
 不住	bjqj
 补助	bjqjo
@@ -6765,8 +6768,8 @@ sort: original
 包容	bzry
 脖子酸	bzs
 爆碎	bzsb
-包粟	bzsj
-包宿	bzsju
+包宿	bzsj
+包粟	bzsju
 暴死	bzsk
 报丧	bzsp
 报损	bzsw
@@ -6844,6 +6847,7 @@ sort: original
 保修	bzxq
 报修	bzxqi
 包下	bzxs
+暴下	bzxso
 爆响	bzxx
 报箱	bzxxi
 宝箱	bzxxo
@@ -12730,6 +12734,7 @@ sort: original
 抵达	dkds
 滴答	dkdsa
 嘀嗒	dkdso
+地大	dkdsv
 地段	dkdt
 低端	dkdti
 底端	dkdto
@@ -13631,7 +13636,8 @@ sort: original
 碘伏	dmfjv
 垫支	dmfk
 电灼	dmfl
-点状	dmfm
+电桩	dmfm
+点状	dmfmi
 淀粉	dmfn
 店方	dmfp
 巅峰	dmfr
@@ -13639,7 +13645,6 @@ sort: original
 点发	dmfsi
 电转	dmft
 电费	dmfw
-点状	dmfx
 点钟	dmfy
 低眉折腰	dmfyi
 店中	dmfyo
@@ -17226,6 +17231,7 @@ sort: original
 睡卧	ebwli
 水温	ebwn
 水文	ebwna
+谁把我	ebwo
 水网	ebwp
 誓不为人	ebwr
 水洼	ebws
@@ -28190,7 +28196,7 @@ sort: original
 撞破	fmpl
 撞骗	fmpm
 装配	fmpw
-父母亲	fmq
+这么强	fmq
 发明权	fmqa
 庄桥	fmqc
 庄主	fmqj
@@ -28203,7 +28209,8 @@ sort: original
 撞球	fmqqi
 肥马轻裘	fmqqu
 装帧	fmqr
-反民主	fmqu
+父母亲	fmqu
+反民主	fmqua
 殖民者	fmqv
 桩群	fmqw
 撞墙	fmqx
@@ -30181,6 +30188,7 @@ sort: original
 转动	ftdy
 转到	ftdz
 赚到	ftdza
+分体式	fte
 转税	fteb
 转手	fted
 专设	ftee
@@ -39346,6 +39354,7 @@ sort: original
 厚德载物	hdzw
 很大作用	hdzy
 猴枣	hdzz
+还是别	heb
 河滨	hebb
 何标	hebc
 胡说八道	hebd
@@ -44752,6 +44761,7 @@ sort: original
 好渴	hzkeaa
 毫克	hzkeo
 好快	hzkg
+好开	hzkh
 好苦	hzkj
 豪阔	hzkl
 好康	hzkp
@@ -52524,6 +52534,7 @@ sort: original
 呈递	jrdko
 称多	jrdl
 成电	jrdm
+兼容的	jrdo
 承当	jrdp
 成大	jrds
 趁热打铁	jrdt
@@ -53153,7 +53164,7 @@ sort: original
 春色满园	jsmy
 假冒	jsmz
 家猫	jsmzo
-近三年	jsn
+卷死你	jsn
 加呢	jsne
 迦南	jsnf
 家奴	jsnj
@@ -53161,6 +53172,7 @@ sort: original
 嫁女	jsnl
 佳能	jsnr
 加纳	jsns
+近三年	jsnu
 价内	jsnw
 佳酿	jsnx
 加农	jsny
@@ -53245,6 +53257,7 @@ sort: original
 加糖	jstp
 加藤	jstr
 家童	jsty
+卷死我	jsw
 家丑	jswd
 驾车	jswe
 江苏卫视	jswea
@@ -53467,6 +53480,7 @@ sort: original
 镌镂	jtld
 具体来说	jtle
 倦了	jtlei
+卷了	jtleo
 家庭联产承包责任制	jtlf
 娟玲	jtlg
 捐例	jtlk
@@ -53517,7 +53531,8 @@ sort: original
 倦色	jtse
 集体所有制	jtsf
 绢素	jtsj
-绢丝	jtsk
+卷死	jtsk
+绢丝	jtska
 狡兔三窟	jtsku
 举头三尺有神明	jtsm
 集体所有	jtsy
@@ -53627,7 +53642,8 @@ sort: original
 纯顶	jwdg
 纯度	jwdj
 军地	jwdk
-久闻大名	jwdm
+纯电	jwdm
+久闻大名	jwdmu
 交叉点	jwdo
 纯当	jwdp
 均等	jwdr
@@ -53891,13 +53907,13 @@ sort: original
 淳朴	jwpj
 纯朴	jwpja
 椿皮	jwpk
-健忘症	jwq
+坚持住	jwq
 俊俏	jwqc
 均沾	jwqf
 纯情	jwqg
 军情	jwqgo
 军宅	jwqh
-坚持住	jwqi
+健忘症	jwqi
 君主	jwqj
 郡主	jwqja
 菌株	jwqji
@@ -53915,8 +53931,9 @@ sort: original
 纯正	jwqr
 军政	jwqro
 军权	jwqt
-检查站	jwqv
+超充站	jwqv
 检察长	jwqvo
+检查站	jwqvv
 均照	jwqz
 春招	jwqzv
 局外人	jwr
@@ -55077,7 +55094,8 @@ sort: original
 潮位	jzww
 超位	jzwwv
 超创	jzwx
-超虫	jzwy
+超充	jzwy
+超虫	jzwyv
 吵吵	jzwz
 节奏性	jzx
 潮信	jzxb
@@ -59929,13 +59947,14 @@ sort: original
 滥用	lfyy
 拦腰	lfyz
 懒腰	lfyzo
-老夫子	lfz
+老房子	lfz
 烂醉	lfzb
 揽在	lfzh
 烂在	lfzho
 拦阻	lfzj
 篮子	lfzk
 懒坐	lfzl
+老夫子	lfzu
 揽总	lfzy
 蓝藻	lfzz
 老干部	lgb
@@ -60732,7 +60751,8 @@ sort: original
 露肩	ljjm
 老将出马	ljjmu
 炉衬	ljjn
-亮晶晶	ljjo
+离家近	ljjo
+亮晶晶	ljjoo
 辣椒酱	ljjov
 鹿场	ljjp
 路程	ljjr
@@ -60740,9 +60760,9 @@ sort: original
 垃圾场	ljjv
 林俊杰	ljjvi
 李长春	ljjvu
-李嘉诚	ljjvv
+零基础	ljjvv
+李嘉诚	ljjvvo
 连城诀	ljjvvo
-零基础	ljjvvv
 陆军	ljjw
 离家出走	ljjz
 路口	ljkd
@@ -63745,7 +63765,8 @@ sort: original
 雷伊	lwykv
 雷雨	lwyl
 论语	lwylo
-阑尾炎	lwyo
+离我远	lwyo
+阑尾炎	lwyoa
 耒阳	lwyp
 累呀	lwys
 列车员	lwyv
@@ -64016,6 +64037,7 @@ sort: original
 亮绿	lxllo
 两联	lxlm
 离心力	lxlo
+离岸流	lxloi
 六小龄童	lxlt
 留下来	lxlu
 聊下来	lxlv
@@ -69864,7 +69886,8 @@ sort: original
 南端	nfdt
 难懂	nfdy
 难倒	nfdz
-那种事	nfe
+你这是	nfe
+那种事	nfea
 南水	nfeb
 难舍	nfee
 南山	nfef
@@ -74790,6 +74813,7 @@ sort: original
 爬起来	pql
 铺张浪费	pqlf
 贫穷落后	pqlh
+抛弃了	pqli
 拍照片	pqp
 平起平坐	pqpz
 拍张照	pqq
@@ -89131,7 +89155,9 @@ sort: original
 偷溜	tdlq
 铁流	tdlqi
 太大了	tdlv
-太多了	tdlvu
+太多了	tdlv
+太对了	tdlva
+太低了	tdlvi
 投雷	tdlw
 铁轮	tdlwi
 透亮	tdlx
@@ -89936,6 +89962,7 @@ sort: original
 天罡地煞	tgdev
 天干地支	tgdf
 天高地厚	tgdh
+挺贵的	tgdi
 听读	tgdj
 天高地阔	tgdk
 挺多	tgdl
@@ -90762,7 +90789,7 @@ sort: original
 途经	tjjgi
 图景	tjjgio
 突厥	tjjh
-停车场	tjji
+挺持久	tjji
 突出	tjjj
 凸出	tjjji
 吐出	tjjjo
@@ -94042,7 +94069,6 @@ sort: original
 传道授业	wdey
 伟大事业	wdeyi
 传递着	wdf
-充电桩	wdf
 传递者	wdfi
 瞅着	wdfe
 无的放矢	wdfev
@@ -94051,6 +94077,7 @@ sort: original
 抽纸	wdfk
 抽脂	wdfki
 吃豆腐	wdfo
+充电桩	wdfoi
 重蹈覆辙	wdfq
 抽风	wdfr
 未定之天	wdft
@@ -94159,7 +94186,7 @@ sort: original
 筹拍	wdphu
 臭屁	wdpk
 无党派	wdpv
-超短裙	wdq
+充电器	wdq
 瞅着	wdqe
 歪打正着	wdqf
 伟大旗帜	wdqfi
@@ -94172,7 +94199,8 @@ sort: original
 赤地千里	wdqlv
 抽签	wdqm
 筹钱	wdqmu
-充电器	wdqo
+充电站	wdqo
+超短裙	wdqv
 臭球	wdqq
 歪打正着	wdqqv
 瞅准	wdqw
@@ -95114,6 +95142,7 @@ sort: original
 卧虎藏龙	whcl
 外层	whcr
 外存	whcw
+差很多	whd
 吃很多	whd
 五花大绑	whdb
 外调	whdc
@@ -96565,7 +96594,6 @@ sort: original
 我身	wlen
 吃零食	wleo
 戳伤	wlep
-我上	wlepu
 我刷	wleq
 我省	wler
 我傻	wles
@@ -100170,7 +100198,6 @@ sort: original
 潮位	wzww
 超位	wzwwv
 超创	wzwx
-超虫	wzwy
 吵吵	wzwz
 创造性	wzx
 潮信	wzxb
@@ -101278,6 +101305,7 @@ sort: original
 小屋	xcwj
 校务	xcwjv
 小吃	xcwk
+小池	xcwki
 笑我	xcwl
 小窝	xcwli
 小窗	xcwm
@@ -110664,8 +110692,9 @@ sort: original
 有说有笑	yeyx
 艺术院校	yeyxi
 也用	yeyy
-莺声燕语	yeyyi
+野泳	yeyyi
 优生优育	yeyyiu
+莺声燕语	yeyyiv
 夜用	yeyyo
 也要	yeyz
 艺术字	yez
@@ -113262,13 +113291,13 @@ sort: original
 郁可唯	ykw
 一筹	ykwd
 一万	ykwf
-一晚	ykwf
 已完	ykwfa
 已晚	ykwfao
 亿万	ykwfi
 伊万	ykwfiv
-一碗	ykwfv
+一晚	ykwfv
 一弯	ykwfvo
+一碗	ykwfvv
 以外	ykwh
 意外	ykwho
 优酷网	ykwi
@@ -116772,6 +116801,7 @@ sort: original
 永远	yyyt
 燕语莺啼	yyytv
 有益于	yyyv
+越抑郁	yyyvi
 一咬牙	yyyvo
 运用于	yyyvu
 袁爷爷	yyyvuu
@@ -117841,13 +117871,14 @@ sort: original
 则才	zech
 则从	zecy
 暂时的	zed
-最少的	zed
 则对	zedb
 则得	zede
-最深的	zedo
+最少的	zedo
+最深的	zedoa
 则当	zedp
 责打	zeds
-再深的	zedv
+再少的	zedv
+再深的	zedva
 做手术	zee
 咋舌	zeee
 择善	zeef
@@ -117870,6 +117901,7 @@ sort: original
 择捉	zefl
 再生父母	zefm
 择分	zefn
+最舒服	zefo
 责罚	zefs
 增删改	zeg
 坐山观虎斗	zegd
@@ -118431,8 +118463,10 @@ sort: original
 在么	zhme
 再满	zhmf
 在明	zhmg
-再卖	zhmh
+在买	zhmh
+在卖	zhmh
 再买	zhmhv
+再卖	zhmhvu
 在目	zhmj
 再密	zhmk
 再摸	zhml
@@ -119832,6 +119866,7 @@ sort: original
 藏香	zpxx
 藏獒	zpxz
 做朋友	zpy
+贼便宜	zpya
 藏银	zpyb
 藏医	zpyk
 藏语	zpyl

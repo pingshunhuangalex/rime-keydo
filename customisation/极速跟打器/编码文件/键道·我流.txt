@@ -3084,8 +3084,8 @@
 艺术作品	yezpi
 吟诗作赋	yezf
 怨声载道	yezd
+莺声燕语	yeyyiv
 优生优育	yeyyiu
-莺声燕语	yeyyi
 艺术院校	yeyxi
 有说有笑	yeyx
 有胜于无	yeyw
@@ -9676,7 +9676,7 @@
 节外生枝	jwefi
 警察叔叔	jweei
 居无定所	jwdsa
-久闻大名	jwdm
+久闻大名	jwdmu
 坚持到底	jwddi
 金屋藏娇	jwcj
 坚持不懈	jwbx
@@ -16520,6 +16520,7 @@
 嘴皮子	zpzo
 左撇子	zpz_
 最便宜	zpyo
+贼便宜	zpya
 做朋友	zpy_
 作品选	zpx_
 自拍图	zpt_
@@ -16844,12 +16845,14 @@
 最适合	zeho
 早上好	zeh_
 增删改	zeg_
+最舒服	zefo
 在上周	zef_
 最顺手	zeeo
 做手术	zee_
-再深的	zedv
-最深的	zedo
-最少的	zed'
+再深的	zedva
+再少的	zedv
+最深的	zedoa
+最少的	zedo
 暂时的	zed_
 最深层	zec_
 再说吧	zebv
@@ -17000,6 +17003,7 @@
 袁爷爷	yyyvuu
 运用于	yyyvu
 一咬牙	yyyvo
+越抑郁	yyyvi
 有益于	yyyv
 应用于	yyyou
 咬咬牙	yyyoov
@@ -20063,7 +20067,8 @@
 武汉市	whe_
 万豪顿	whdv
 闯红灯	whdo
-吃很多	whd_
+吃很多	whd'
+差很多	whd_
 武侯祠	whc_
 文汇报	whbo
 文化部	whb'
@@ -20207,8 +20212,9 @@
 我的天	wdt_
 外地人	wdru
 我的人	wdr_
-充电器	wdqo
-超短裙	wdq_
+超短裙	wdqv
+充电站	wdqo
+充电器	wdq_
 无党派	wdpv
 炒地皮	wdp_
 玩电脑	wdnv
@@ -20232,9 +20238,9 @@
 差点给	wdg_
 五大洲	wdfv
 臭豆腐	wdfu
+充电桩	wdfoi
 吃豆腐	wdfo
 传递者	wdfi
-充电桩	wdf'
 传递着	wdf_
 武当山	wdevi
 无敌手	wdev
@@ -20795,7 +20801,7 @@
 提出了	tjl_
 停车库	tjki
 塔吉克	tjk_
-停车场	tjji
+挺持久	tjji
 退出键	tjjaa
 添加剂	tjja
 统计局	tjj_
@@ -20877,6 +20883,7 @@
 头盖骨	tgg_
 太过分	tgf_
 提供商	tge_
+挺贵的	tgdi
 挺高的	tgd_
 泰国菜	tgc_
 团干部	tgb_
@@ -20964,7 +20971,9 @@
 太多年	tdnv
 土豆泥	tdn_
 挺倒霉	tdm_
-太多了	tdlvu
+太低了	tdlvi
+太对了	tdlva
+太多了	tdlv'
 太大了	tdlv
 推动力	tdli
 挑大梁	tdl_
@@ -22788,6 +22797,7 @@
 排球赛	pqs_
 拍张照	pqq_
 拍照片	pqp_
+抛弃了	pqli
 爬起来	pql_
 排气口	pqk_
 喷气机	pqj_
@@ -23448,7 +23458,8 @@
 女职工	nfga
 你这个	nfg_
 农转非	nff_
-那种事	nfe_
+那种事	nfea
+你这是	nfe_
 南方的	nfd_
 你知不	nfbi
 你这边	nfb_
@@ -24339,6 +24350,7 @@
 李小龙	lxlvi
 聊下来	lxlv
 留下来	lxlu
+离岸流	lxloi
 离心力	lxlo
 流下来	lxla
 流下了	lxl'
@@ -24370,7 +24382,8 @@
 流行病	lxba
 流行榜	lxb_
 列车员	lwyv
-阑尾炎	lwyo
+阑尾炎	lwyoa
+离我远	lwyo
 另外一	lwy_
 两重性	lwx_
 梁朝伟	lww_
@@ -24671,14 +24684,15 @@
 拎出来	ljli
 拉出来	ljl'
 流出来	ljl_
-零基础	ljjvvv
-连城诀	ljjvvo
-李嘉诚	ljjvv
+连城诀	ljjvvo'
+李嘉诚	ljjvvo
+零基础	ljjvv
 李长春	ljjvu
 林俊杰	ljjvi
 垃圾场	ljjv
 辣椒酱	ljjov
-亮晶晶	ljjo
+亮晶晶	ljjoo
+离家近	ljjo
 拉家常	ljji
 聊几句	ljj_
 两句话	ljhv
@@ -24781,7 +24795,8 @@
 连锅端	lgdv
 留个底	lgd_
 老干部	lgb_
-老夫子	lfz_
+老夫子	lfzu
+老房子	lfz_
 林志颖	lfyv
 老佛爷	lfyui
 老中医	lfyu
@@ -25730,10 +25745,11 @@
 肌萎缩	jws_
 就宛如	jwro
 局外人	jwr_
+检查站	jwqvv
 检察长	jwqvo
-检查站	jwqv
-坚持住	jwqi
-健忘症	jwq_
+超充站	jwqv
+健忘症	jwqi
+坚持住	jwq_
 车船票	jwp_
 较往年	jwn_
 救我命	jwmv
@@ -25818,11 +25834,13 @@
 金丝燕	jsy_
 减速箱	jsx_
 计算题	jst_
+卷死我	jsw_
 金丝雀	jsqi
 加速器	jsqa
 计算器	jsq_
 惊悚片	jsp_
-近三年	jsn_
+近三年	jsnu
+卷死你	jsn_
 加速卡	jsk_
 长三角	jsju
 金三角	jsji
@@ -25866,6 +25884,7 @@
 既然是	jreau
 居然是	jrea
 假如说	jre_
+兼容的	jrdo
 接入点	jrdi
 进入到	jrd_
 金融报	jrb_
@@ -27529,6 +27548,7 @@
 会说的	hed_
 含水层	heci
 还是从	hec_
+还是别	heb_
 护犊子	hdzi
 黄段子	hdz_
 活地狱	hdya
@@ -28853,6 +28873,7 @@
 只提供	ftgo
 转托管	ftg_
 扎头发	ftf_
+分体式	fte_
 中途岛	ftdi
 折腾得	ftd_
 状态词	ftc_
@@ -29023,9 +29044,10 @@
 抓苗头	fmt_
 发明人	fmr_
 殖民者	fmqv
-反民主	fmqu
+反民主	fmqua
+父母亲	fmqu
 发明权	fmqa
-父母亲	fmq_
+这么强	fmq_
 非卖品	fmpi
 这么偏	fmp_
 啄木鸟	fmno
@@ -30614,6 +30636,7 @@
 上辈子	ebz_
 上半夜	eby_
 睡不醒	ebx_
+谁把我	ebwo
 上百万	ebwi
 使不完	ebw_
 书报摊	ebta
@@ -32796,7 +32819,8 @@
 比较强	bjqv
 别紧张	bjqo
 北京站	bjqio
-报警器	bjqi
+报警器	bjqii
+背出去	bjqi
 编辑器	bjqa
 不进去	bjq'
 不出去	bjq_
@@ -32811,7 +32835,8 @@
 不成立	bjlvv
 不激烈	bjlva
 不讲理	bjlv
-冰激凌	bjlo
+冰激凌	bjloa
+别卷了	bjlo
 边角料	bjla
 不经历	bjl'
 不进来	bjl_
@@ -33187,11 +33212,12 @@
 被打破	bdp_
 帮到你	bdn_
 帮倒忙	bdm_
-不对了	bdlv
+不搭理	bdlv
 八达岭	bdlu
 别打了	bdloi
 别等了	bdlo
 背地里	bdli
+不对了	bdl'
 不动了	bdl_
 傍大款	bdk_
 不多见	bdjvu
@@ -36090,8 +36116,10 @@
 再摸	zhml
 再密	zhmk
 在目	zhmj
+再卖	zhmhvu
 再买	zhmhv
-再卖	zhmh
+在卖	zhmh'
+在买	zhmh
 在明	zhmg
 再满	zhmf
 在么	zhme
@@ -39286,13 +39314,13 @@
 义务	ykwj
 意外	ykwho
 以外	ykwh
+一碗	ykwfvv
 一弯	ykwfvo
-一碗	ykwfv
+一晚	ykwfv
 伊万	ykwfiv
 亿万	ykwfi
 已晚	ykwfao
 已完	ykwfa
-一晚	ykwf'
 一万	ykwf
 一筹	ykwd
 一淘	yktzva
@@ -41167,6 +41195,7 @@
 也在	yezh
 也要	yeyz
 夜用	yeyyo
+野泳	yeyyi
 也用	yeyy
 也愿	yeyt
 野鸭	yeysi
@@ -47680,6 +47709,7 @@
 小窗	xcwm
 小窝	xcwli
 笑我	xcwl
+小池	xcwki
 小吃	xcwk
 校务	xcwjv
 小屋	xcwj
@@ -48613,7 +48643,6 @@
 抄写	wzxd
 潮信	wzxb
 吵吵	wzwz
-超虫	wzwy
 超创	wzwx
 超位	wzwwv
 潮位	wzww
@@ -51268,7 +51297,6 @@
 我傻	wles
 我省	wler
 我刷	wleq
-我上	wlepu
 戳伤	wlep
 我身	wlen
 我说	wlel
@@ -82236,7 +82264,8 @@
 嘲笑	jzxc
 潮信	jzxb
 吵吵	jzwz
-超虫	jzwy
+超虫	jzwyv
+超充	jzwy
 超创	jzwx
 超位	jzwwv
 潮位	jzww
@@ -83160,6 +83189,7 @@
 均达	jwds
 均等	jwdr
 纯当	jwdp
+纯电	jwdm
 军地	jwdk
 纯度	jwdj
 纯顶	jwdg
@@ -83221,7 +83251,8 @@
 卷逃	jttz
 卷筒	jtty
 倦态	jtth
-绢丝	jtsk
+绢丝	jtska
+卷死	jtsk
 绢素	jtsj
 倦色	jtse
 卷绕	jtrz
@@ -83243,6 +83274,7 @@
 眷恋	jtlm
 捐例	jtlk
 娟玲	jtlg
+卷了	jtleo
 倦了	jtlei
 镌镂	jtld
 狷狂	jtkx
@@ -89814,6 +89846,7 @@
 好康	hzkp
 豪阔	hzkl
 好苦	hzkj
+好开	hzkh
 好快	hzkg
 毫克	hzkeo
 好渴	hzkeaa
@@ -112313,7 +112346,6 @@
 点召	dmfz
 店中	dmfyo
 点钟	dmfy
-点状	dmfx
 电费	dmfw
 电转	dmft
 点发	dmfsi
@@ -112321,7 +112353,8 @@
 巅峰	dmfr
 店方	dmfp
 淀粉	dmfn
-点状	dmfm
+点状	dmfmi
+电桩	dmfm
 电灼	dmfl
 垫支	dmfk
 碘伏	dmfjv
@@ -113070,6 +113103,7 @@
 底端	dkdto
 低端	dkdti
 地段	dkdt
+地大	dkdsv
 嘀嗒	dkdso
 滴答	dkdsa
 抵达	dkds
@@ -117480,6 +117514,7 @@
 宝箱	bzxxo
 报箱	bzxxi
 爆响	bzxx
+暴下	bzxso
 包下	bzxs
 报修	bzxqi
 保修	bzxq
@@ -117545,8 +117580,8 @@
 报损	bzsw
 报丧	bzsp
 暴死	bzsk
-包宿	bzsju
-包粟	bzsj
+包粟	bzsju
+包宿	bzsj
 爆碎	bzsb
 包容	bzry
 保人	bzrn
