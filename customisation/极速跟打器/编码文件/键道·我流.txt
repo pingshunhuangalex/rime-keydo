@@ -20822,6 +20822,7 @@
 突击队	tjdo
 台积电	tjda
 她觉得	tjd_
+太紧凑	tjcv
 挺精彩	tjc_
 统计表	tjb_
 偷汉子	thzi
@@ -21451,7 +21452,8 @@
 桑蚕丝	scs_
 素包子	sbzvu
 三步走	sbzv
-腮帮子	sbz_
+腮帮子	sbzu
+随便走	sbz_
 所不愿	sby_
 三八线	sbxv
 所必须	sbxuo
@@ -28879,6 +28881,7 @@
 状态词	ftc_
 招投标	ftb_
 之所在	fsz_
+至少要	fsy_
 粉碎性	fsxo
 发散性	fsx_
 仿宋体	fst_
@@ -29285,8 +29288,8 @@
 中间的	fjdi
 纸胶带	fjdau
 附近的	fjda
-非常大	fjd'
-非常多	fjd_
+非常多	fjd'
+非常大	fjd_
 中间层	fjc_
 装甲兵	fjbo
 飞机杯	fjba
@@ -99679,8 +99682,8 @@
 中指	fyfk
 重负	fyfj
 中寨	fyfh
-中饭	fyffi
-重犯	fyff
+重犯	fyffu
+中饭	fyff
 重者	fyfe
 中轴	fyfd
 中缀	fyfb
