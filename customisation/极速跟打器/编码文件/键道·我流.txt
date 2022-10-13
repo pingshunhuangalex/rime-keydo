@@ -11406,6 +11406,7 @@
 毫不介意	hbjy
 货币基金	hbjji
 毫不讳言	hbhyov
+划不划算	hbhs
 合不合适	hbheiv
 很不高兴	hbgxu
 伙伴关系	hbgxi
@@ -19076,7 +19077,8 @@
 阿共仔	xgzav
 洗个澡	xgza
 小个子	xgz_
-习惯于	xgya
+习惯于	xgyao
+洗个牙	xgya
 下个月	xgy_
 相关性	xgxv
 新干线	xgxov
@@ -23899,7 +23901,8 @@
 慢慢地	mmd_
 慢慢从	mmc_
 没毛病	mmb_
-仫佬族	mlz_
+仫佬族	mlzi
+没路子	mlz_
 玛利亚	mlyv
 没卵用	mlyau
 没来由	mlya
@@ -66309,8 +66312,8 @@
 乔尼	qcnk
 桥南	qcnf
 巧媚	qcmw
-敲门	qcmno
-窍门	qcmn
+窍门	qcmno
+敲门	qcmn
 桥面	qcmm
 乔木	qcmj
 荞麦	qcmh
