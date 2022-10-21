@@ -1725,7 +1725,6 @@
 子承父业	zjfy
 自掘坟墓	zjfm
 作奸犯科	zjfki
-早就知道	zjfdo
 最佳时机	zjejo
 遵纪守法	zjef
 杂交水稻	zjedu
@@ -3294,7 +3293,8 @@
 一般而言	ybxyv
 也不需要	ybxy
 也不相同	ybxt
-鹬蚌相争	ybxq
+鹬蚌相争	ybxqa
+压不下去	ybxq
 有备而来	ybxlv
 掩鼻而过	ybxgiu
 余波未平	ybwpi
@@ -5313,6 +5313,7 @@
 五毒俱全	wdjq
 伟大成就	wdjj'
 为的就是	wdjeo
+差得很远	wdhy
 万达广场	wdgj
 赤胆忠心	wdfxv
 伟大复兴	wdfx
@@ -9024,7 +9025,7 @@
 辣手摧花	lech
 敛声屏气	lebq
 历史背景	lebjv
-老实巴交	lebju
+老实巴交	lebj
 流水不腐	lebf
 屡试不爽	lebe
 领导作用	ldzyi
@@ -9390,6 +9391,7 @@
 看都不看	kdbk
 可操作性	kczx
 看菜吃饭	kcwf
+快餐经济	kcjj
 口不择言	kbzy
 恐怖组织	kbzf
 口不应心	kbyxo
@@ -16338,8 +16340,9 @@
 左右手	zye_
 在野党	zydvi
 走一段	zydv
-自由党	zydui
-自由度	zydu
+自由党	zyduii
+自由度	zydui
+自由点	zydu
 做一单	zydi
 早一点	zyd_
 再一次	zyc_
@@ -16681,6 +16684,7 @@
 走江湖	zjh_
 总价值	zjfo
 总产值	zjf_
+增程式	zjevu
 再就是	zjev
 早就是	zjeo
 紫金山	zjeii
@@ -17065,6 +17069,7 @@
 有意者	yyqv
 忧郁症	yyqov
 吟一阕	yyqo
+拥有权	yyqiv
 悠悠球	yyqii
 抑郁症	yyqi
 演艺圈	yyqai
@@ -17998,8 +18003,9 @@
 已删除	yejau
 约时间	yeja
 于是就	yej_
+于是乎	yehvo
 有收获	yehva
-于是乎	yehv
+一身汗	yehv
 夜生活	yeho
 艺术化	yehi
 硬是和	yeh'
@@ -18373,6 +18379,7 @@
 下一回	xyh_
 想一个	xygv
 爱一个	xygu
+炫一个	xygov
 学一个	xygo
 眩晕感	xygio
 按一个	xygi
@@ -18446,9 +18453,10 @@
 西西里	xxlvv
 想像力	xxlvi
 想象力	xxlv
+爱尔兰	xxluuo
 奥尔良	xxluu
 向心力	xxluo
-爱尔兰	xxlu
+笑醒了	xxlu
 新西兰	xxlov
 兴安岭	xxloo
 学习力	xxloa
@@ -19286,6 +19294,7 @@
 形式上	xee_
 下水道	xedva
 二手的	xedv
+先说点	xedu
 新时代	xedoo
 新生代	xedo
 小时代	xedio
@@ -19685,6 +19694,7 @@
 慰问品	wwp_
 我为你	wwn_
 无重码	wwm_
+我悟了	wwlu
 唯物论	wwlo
 娃娃脸	wwla
 吃完了	wwl_
@@ -21904,8 +21914,9 @@
 氢氧化	qyhu
 这样会	qyhov
 这一回	qyho
-全运会	qyhi
-企业化	qyh_
+全运会	qyhiv
+企业化	qyhi
+痊愈后	qyh_
 正义观	qygvoa
 正义感	qygvo
 奇异果	qygva
@@ -25391,7 +25402,8 @@
 孔繁森	kfs_
 可转债	kfqvv
 开发区	kfqv
-控制器	kfqi
+控制器	kfqiu
+控制权	kfqi
 控制住	kfq_
 开发票	kfp_
 客房内	kfn_
@@ -25478,7 +25490,8 @@
 扩大化	kdhi
 肯定会	kdh_
 快递柜	kdgo
-看得惯	kdg_
+看得惯	kdgi
+看到过	kdg_
 抗倒伏	kdfi
 快递费	kdf_
 靠的是	kdeu
@@ -26445,6 +26458,7 @@
 橙分期	jfqv
 解放前	jfquoo
 解放区	jfquo
+处置权	jfqui
 触发器	jfqu
 记者站	jfqouo
 记者证	jfqou
@@ -26852,6 +26866,7 @@
 很愿意	hyyu
 黑黝黝	hyyi
 黑压压	hyy_
+很有限	hyxu
 回忆下	hyxi
 还有些	hyx_
 火药味	hywo
@@ -26927,7 +26942,8 @@
 还熬夜	hxyv
 胡雪岩	hxyuv
 很需要	hxyu
-好像也	hxya
+好像也	hxyai
+好像要	hxya
 还需要	hxy'
 会需要	hxy_
 坏消息	hxxv
@@ -27306,7 +27322,8 @@
 很可靠	hkku
 划框框	hkk_
 黑科技	hkj_
-合口呼	hkh_
+合口呼	hkhi
+喊口号	hkh_
 汇款给	hkg_
 糊口饭	hkfo
 黑咖啡	hkfi
@@ -27362,10 +27379,11 @@
 黑长直	hjfiu
 获奖者	hjfi
 好处费	hjfau
-海景房	hjfa
-好几种	hjf'
+海景房	hjfao
+好几种	hjfa
 环境中	hjf_
-火炬手	hje_
+火炬手	hjeo
+好几十	hje_
 还记得	hjdv
 很简单	hjduu
 很长的	hjdu'
@@ -27438,7 +27456,8 @@
 贺国强	hgqa
 合格证	hgq_
 合格品	hgp_
-灰姑娘	hgn_
+灰姑娘	hgnv
+还给你	hgn_
 横隔膜	hgm_
 合格率	hgliv
 回国了	hgli
@@ -28784,6 +28803,7 @@
 浮现出	fxj_
 负心汉	fxhu
 这些话	fxho
+中心化	fxhi
 反而会	fxh_
 反效果	fxguo
 分享给	fxgu
@@ -29263,8 +29283,9 @@
 折旧率	fjlii
 非常冷	fjli'
 非常累	fjli
-附件里	fjla
-发出了	fjl'
+附件里	fjlai
+发出了	fjla
+发出来	fjl'
 找出来	fjl_
 找借口	fjkii
 非常快	fjki
@@ -31274,7 +31295,8 @@
 大老婆	dlp_
 哆啦美	dlmoo
 哆哩咪	dlmo
-对立面	dlm_
+对立面	dlma
+大佬们	dlm_
 大咧咧	dllv
 低利率	dlli
 叮铃铃	dll_
@@ -31356,12 +31378,13 @@
 大吉岭	djlvv
 到家了	djlv
 短距离	djlu
+递交了	djloo
 道出了	djloa
-递交了	djlo
+读出来	djlo
 抖机灵	djliv
 点击率	djli'
 当成了	djli
-读出来	djl'
+带出来	djl'
 多出来	djl_
 登机口	djk_
 豆浆机	djjvov
@@ -32577,6 +32600,7 @@
 冰淇淋	bqloa
 别劝了	bqlo
 比起来	bql_
+不展开	bqkv
 补助款	bqk_
 标准件	bqjvo
 标准间	bqjv
@@ -33168,11 +33192,12 @@
 别生气	beq_
 保守派	bep_
 比什么	bem_
-不睡了	belv
+不上路	belv
 冰释了	belou
 病逝了	beloi
 别说了	belo
 伴手礼	beli
+不睡了	bel'
 不说了	bel_
 必胜客	bek_
 本世纪	bejvv
@@ -36551,7 +36576,8 @@
 走题	zdtk
 走台	zdth
 走索	zdsl
-走私	zdsk
+走私	zdskv
+走死	zdsk
 走散	zdsf
 走色	zdse
 邹容	zdry
@@ -44510,8 +44536,6 @@
 先笑	xmxc
 先心	xmxbu
 闲心	xmxb
-咸潮	xmwzv
-现钞	xmwz
 先充	xmwyu
 线虫	xmwya
 现充	xmwy
@@ -44693,6 +44717,7 @@
 咸口	xmkd
 先亏	xmkb
 咸潮	xmjzv
+先炒	xmjzu
 现钞	xmjz
 先将	xmjx
 险峻	xmjw
@@ -59984,8 +60009,8 @@
 任用	rnyy
 人云	rnyw
 人愿	rnyti
-人员	rnyt'
-人缘	rnyt
+人缘	rnyt'
+人员	rnyt
 刃牙	rnys
 人样	rnypi
 认养	rnyp
@@ -69897,7 +69922,9 @@
 能挣	nrqr
 能取	nrql
 能起	nrqk
-能清	nrqg
+能轻	nrqgav
+能清	nrqga
+能请	nrqg
 能者	nrqe
 能跑	nrpz
 能谱	nrpj
@@ -69918,7 +69945,8 @@
 能加	nrjs
 能成	nrjr
 能见	nrjm
-能剧	nrjl
+能剧	nrjla
+能举	nrjl
 能及	nrjka
 能级	nrjk
 能处	nrjj
@@ -78964,7 +78992,7 @@
 乐调	ledc
 勒碑	lebw
 勒逼	lebk
-乐埠	lebj
+乐埠	lebju
 勒兵	lebg
 漏造	ldzz
 烈宗	ldzy
@@ -79607,6 +79635,7 @@
 靠住	kzqj
 靠着	kzqe
 考勤	kzqb
+靠骗	kzpm
 烤破	kzpl
 靠谱	kzpj
 靠拍	kzph
@@ -85908,7 +85937,10 @@
 居第	jldk
 剧毒	jldj
 巨蛋	jldf
-局的	jlde
+焗的	jldeou
+举的	jldeo
+局的	jldea
+举得	jlde
 句读	jldduo
 菊豆	jlddi
 剧跌	jldd
@@ -89949,8 +89981,8 @@
 好换	hzht
 毫亨	hzhro
 豪横	hzhr
-好话	hzhqa
-豪华	hzhq
+豪华	hzhqo
+好话	hzhq
 好狠	hzhn
 好慌	hzhma
 好黄	hzhm
@@ -110445,6 +110477,7 @@
 动物	dywj
 东外	dywh
 动完	dywf
+懂车	dyweo
 洞彻	dywea
 动车	dywe
 东讨	dytz
@@ -113982,7 +114015,6 @@
 定出	dgjj
 定睛	dgjg
 定产	dgjf
-订车	dgje
 定结	dgjd
 定焦	dgjco
 顶角	dgjc
