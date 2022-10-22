@@ -4,6 +4,7 @@ version: "1.0"
 sort: original
 ...
 那又	aa
+又好	aa
 那个	ai
 那里	aia
 那位	aio
@@ -11,6 +12,7 @@ sort: original
 那是	ao
 又是	ao
 那么	au
+又和	au
 那种	auv
 那有	av
 又有	av
@@ -540,6 +542,7 @@ sort: original
 有着	vo
 有啊	vo
 有的	vu
+有在	vv
 我那	wa
 我又	wa
 网络	waa
