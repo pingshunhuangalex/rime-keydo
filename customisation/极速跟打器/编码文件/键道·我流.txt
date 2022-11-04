@@ -4889,8 +4889,6 @@
 物美价廉	wmjl
 窗明几净	wmjj
 为民除害	wmjh
-我们还要	wmhy
-我们国家	wmgju
 卫冕冠军	wmgj
 文明古国	wmgg
 无米之炊	wmfwv
@@ -17558,7 +17556,8 @@
 压马路	ymlva
 轧马路	ymlv
 呀咩咯	ymlo
-阴谋论	yml_
+阴谋论	ymla
+圆梦了	yml_
 牙买加	ymjv
 移民局	ymju
 阴谋家	ymja
@@ -19921,7 +19920,8 @@
 我们将	wmju
 传媒界	wmji
 我们家	wmj_
-我们会	wmh_
+我们会	wmhu
+我没和	wmh_
 无名指	wmfv
 车马费	wmf_
 无名氏	wmev
@@ -22689,7 +22689,6 @@
 抢厕所	qcs_
 贮存器	qcq_
 主裁判	qcp_
-招财猫	qcmi
 注册码	qcm_
 请参考	qck_
 注册机	qcj_
@@ -26920,7 +26919,8 @@
 画自己	hzjv
 喝醉酒	hzjo
 很早就	hzj_
-洪泽湖	hzh_
+洪泽湖	hzha
+还在和	hzh_
 很糟糕	hzgu
 合资格	hzg_
 合作者	hzfi
@@ -29796,7 +29796,8 @@
 犯错误	fcw_
 反脆弱	fcr_
 仲裁者	fcq_
-招财猫	fcm_
+招财猫	fcmi
+这才没	fcm_
 发错了	fcl_
 废词库	fck_
 重仓股	fcg_
@@ -34254,7 +34255,8 @@
 使用	ey_
 是在	ez_
 这不	fb_
-服从	fc_
+这才	fc_
+服从	fc'
 这个	fg_
 中国	fg'
 这和	fh_
@@ -66321,7 +66323,6 @@
 这层	qecr
 遮藏	qecp
 折挫	qecl
-这才	qech
 这册	qece
 这杯	qebw
 这帮	qebp
@@ -104855,7 +104856,6 @@
 折挫	fecl
 这词	fecko
 这次	feck
-这才	fech
 这册	fece
 这杯	febw
 这把	febs
