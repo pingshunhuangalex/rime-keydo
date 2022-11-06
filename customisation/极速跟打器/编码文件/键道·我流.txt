@@ -3025,6 +3025,7 @@
 有福同享	yftx
 硬着头皮	yftpv
 一致通过	yftgv
+一方天地	yftdv
 约法三章	yfsq
 银装素裹	yfsg
 严防死守	yfsev
@@ -9235,6 +9236,7 @@
 可怕的是	kpdev
 困难重重	knwwi
 可能就是	knje
+可能不是	knbe
 抗美援朝	kmyj
 开门揖盗	kmyd
 快马一鞭	kmyb
@@ -9297,6 +9299,7 @@
 看出来了	kjlli
 口出狂言	kjky
 科技开发	kjkfu
+科技产品	kjjp
 科技成果	kjjgu
 科技进步	kjjbu
 科技含量	kjhlu
@@ -13276,6 +13279,7 @@
 事在人为	ezrw
 师资力量	ezlli
 十字路口	ezlku
+说走就走	ezjzo
 十字街头	ezjt
 稍纵即逝	ezje
 身在何处	ezhju
@@ -13646,7 +13650,7 @@
 生命科学	emkx
 数码科技	emkj
 数码产品	emjp
-说没就没	emjmo
+说没就没	emjm
 手忙脚乱	emjl
 水漫金山	emje
 市民阶层	emjc
@@ -14197,6 +14201,7 @@
 上窜下跳	ecxt
 生存条件	ectj
 上层建筑	ecjq
+说裁就裁	ecjc
 生存环境	echj
 诗词歌赋	ecgf
 神采飞扬	ecfy
@@ -14995,7 +15000,7 @@
 淡泊明志	dbmfa
 大步流星	dblx
 大不列颠	dbldv
-得不偿失	dbjeu
+得不偿失	dbje
 大变活人	dbhr
 对簿公堂	dbgt
 待办事项	dbex
@@ -17266,7 +17271,8 @@
 阎王爷	ywyov
 晕车药	ywyo
 业务员	ywyi
-游完泳	ywy_
+游完泳	ywya
+以为要	ywy_
 有危险	ywxv
 遗传性	ywxi
 遗传学	ywx_
@@ -22346,9 +22352,10 @@
 情侣装	qlfo
 侵略者	qlfi
 争论中	qlf_
+祁连山	qleov
 情侣衫	qleo
 蒸馏水	qlei
-祁连山	qle_
+战略上	qle_
 猪鹿蝶	qldu
 全垒打	qld_
 这里错	qlc_
@@ -22618,7 +22625,7 @@
 怯生生	qeeou
 齐刷刷	qeeo
 折射率	qeei
-这首诗	qee_
+战术上	qee_
 牵涉到	qed_
 青石板	qebv
 签收表	qebu
@@ -22664,6 +22671,7 @@
 张得开	qdk_
 战斗机	qdji
 祝大家	qdj_
+整大活	qdhv
 千岛湖	qdhuu
 长大后	qdhu
 注定会	qdh_
@@ -23748,8 +23756,9 @@
 莫须有	mxyi
 没下雨	mxy_
 木偶戏	mxxv
-马歇尔	mxxa
-马鞍形	mxx_
+马歇尔	mxxao
+马鞍形	mxxa
+没信心	mxx_
 马戏团	mxta
 马耳他	mxt_
 没心思	mxs_
@@ -25645,7 +25654,8 @@
 称赞道	jzd_
 就在此	jzc_
 尖子班	jzbi
-酒糟鼻	jzb_
+酒糟鼻	jzba
+趁早办	jzb_
 脚丫子	jyzuo
 教研组	jyzu
 常用字	jyz_
@@ -26595,6 +26605,7 @@
 技术性	jexiv
 介绍信	jexia
 监视下	jexi
+陈述信	jexav
 建设性	jexa
 就是想	jex_
 晋升为	jewv
@@ -27703,6 +27714,7 @@
 好多了	hdl'
 好的了	hdl_
 活动课	hdk_
+还得加	hdjv
 换档键	hdjiv
 蝴蝶结	hdji
 活动家	hdja
@@ -29594,8 +29606,8 @@
 直方图	fft_
 脂肪酸	ffs_
 知之者	ffqu
+中转站	ffqiv
 执法者	ffqi
-中转站	ffq'
 放风筝	ffq_
 复制品	ffpu
 仿制品	ffpi
@@ -29700,11 +29712,11 @@
 肇事者	fef'
 发生着	fef_
 智商税	feeu
+富士山	feeov
 这首诗	feeoo
-富士山	feeo
+这世上	feeo
 折射率	feei
 防晒霜	feea
-这世上	fee'
 只是说	fee_
 副食店	fedv
 知识点	fedu
@@ -31197,7 +31209,8 @@
 地头蛇	dtev
 堕天使	dtea
 大屠杀	dte_
-点头道	dtd_
+点头道	dtdi
+多添点	dtd_
 大头菜	dtc_
 敌托邦	dtbu
 跌停板	dtbo
@@ -31845,6 +31858,7 @@
 大得多	ddd_
 党代表	ddb_
 电磁灶	dcz_
+大裁员	dcyv
 大草原	dcy_
 电磁学	dcx_
 搭错车	dcw_
@@ -41078,7 +41092,7 @@
 烟台	yfth
 盐亭	yftg
 言谈	yftf
-盐铁	yftdv
+盐铁	yftdvi
 烟头	yftd
 眼跳	yftc
 阎嵩	yfsy
@@ -54955,7 +54969,8 @@
 天道	tmdz
 天大	tmds
 天等	tmdr
-甜点	tmdm
+甜点	tmdmu
+添点	tmdm
 天敌	tmdkvu
 天底	tmdkvo
 天帝	tmdkv
@@ -66335,7 +66350,6 @@
 遮蔽	qebk
 这步	qebjo
 这部	qebj
-这并	qebg
 窃贼	qdzw
 茄子	qdzk
 且在	qdzh
@@ -72135,9 +72149,9 @@
 美股	mwgjo
 每股	mwgj
 没改	mwgh
-没敢	mwgfaa
+美感	mwgfo
 没干	mwgfa
-美感	mwgf
+没敢	mwgf
 每格	mwgeu
 美格	mwgeo
 没歌	mwgea
@@ -81121,7 +81135,7 @@
 哭嫁	kjjs
 哭成	kjjr
 苦酒	kjjq
-苦唱	kjjp
+苦唱	kjjpi
 苦谏	kjjm
 苦句	kjjl
 枯寂	kjjk
@@ -84311,8 +84325,9 @@
 久远	jqytu
 救援	jqyt
 韭芽	jqys
-九阳	jqypu
-久仰	jqyp
+九阳	jqypua
+久仰	jqypu
+就养	jqyp
 就与	jqyl
 久已	jqyku
 就义	jqykoo
@@ -90235,14 +90250,15 @@
 号店	hzdmo
 好点	hzdm
 好多	hzdl
-好滴	hzdka
-好迪	hzdk
-豪都	hzdjo
-好堵	hzdjav
-好赌	hzdjaa
-好毒	hzdja
-豪赌	hzdj
+好迪	hzdka
+好滴	hzdk
+豪都	hzdjou
+豪赌	hzdjo
+好赌	hzdja
+好毒	hzdj'
+好堵	hzdj_
 好歹	hzdh
+薅的	hzde
 好逗	hzdda
 好斗	hzdd
 好刁	hzdc
@@ -91946,11 +91962,11 @@
 花布	hqbji
 画布	hqbj
 花白	hqbh
-画饼	hqbgv
 话柄	hqbgo
 华冰	hqbgio
 华兵	hqbgi
-滑冰	hqbg
+滑冰	hqbga
+画饼	hqbg
 画板	hqbfv
 滑板	hqbfa
 花瓣	hqbf
@@ -103087,9 +103103,9 @@
 制冷	fklr
 支流	fklqua
 直流	fklqu
-只留	fklqou
 之流	fklqo
-滞留	fklq
+滞留	fklqa
+只留	fklq
 智联	fklmuv
 直链	fklmu
 之恋	fklmo
@@ -104872,6 +104888,7 @@
 这笔	febk
 这步	febjo
 这部	febj
+这饼	febgo
 这并	febg
 这般	febf
 周遭	fdzz
@@ -107352,8 +107369,6 @@
 双颊	emjs
 双城	emjr
 霜晨	emjn
-双键	emjma
-双肩	emjm
 孀居	emjla
 双击	emjk
 双井	emjg
@@ -111688,6 +111703,7 @@
 大黄	dshm
 大祸	dshlvo
 大获	dshlvi
+大活	dshlva
 大伙	dshlv
 打火	dshli
 大火	dshl
@@ -112741,7 +112757,8 @@
 多套	dltz
 多桶	dlty
 多糖	dltp
-多天	dltm
+多天	dltmu
+多添	dltm
 多图	dltj
 多肽	dlthuu
 多态	dlthu
@@ -115536,7 +115553,6 @@
 对局	dbjl
 堆积	dbjk
 对决	dbjh
-对车	dbje
 对戒	dbjda
 对接	dbjd
 对角	dbjca

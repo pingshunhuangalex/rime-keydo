@@ -9754,8 +9754,7 @@ sort: original
 对角	dbjca
 对接	dbjd
 对戒	dbjda
-对车	dbje
-得不偿失	dbjeu
+得不偿失	dbje
 对决	dbjh
 低不就	dbji
 堆积	dbjk
@@ -10197,6 +10196,7 @@ sort: original
 钓鱼	dcyl
 刁羊	dcyp
 掉牙	dcys
+大裁员	dcyv
 调运	dcyw
 调用	dcyy
 电磁灶	dcz
@@ -13499,7 +13499,8 @@ sort: original
 电路图	dlti
 多图	dltj
 大力推进	dltjv
-多天	dltm
+多添	dltm
+多天	dltmu
 多糖	dltp
 独联体	dltu
 大礼堂	dltv
@@ -14868,6 +14869,7 @@ sort: original
 大火	dshl
 打火	dshli
 大伙	dshlv
+大活	dshlva
 大获	dshlvi
 大祸	dshlvo
 大黄	dshm
@@ -15423,7 +15425,7 @@ sort: original
 断词	dtcko
 短仓	dtcp
 断层	dtcr
-点头道	dtd
+多添点	dtd
 断掉	dtdc
 端掉	dtdco
 短调	dtdcu
@@ -15434,6 +15436,7 @@ sort: original
 断代	dtdh
 缎带	dtdha
 得天独厚	dtdhu
+点头道	dtdi
 端底	dtdk
 独挑大梁	dtdl
 断电	dtdm
@@ -17357,6 +17360,7 @@ sort: original
 生存环境	echj
 收藏夹	ecj
 收藏家	ecja
+说裁就裁	ecjc
 上层建筑	ecjq
 闪存卡	eck
 生存率	ecl
@@ -21053,9 +21057,7 @@ sort: original
 双击	emjk
 手忙脚乱	emjl
 孀居	emjla
-双肩	emjm
-说没就没	emjmo
-双键	emjma
+说没就没	emjm
 霜晨	emjn
 数码产品	emjp
 双城	emjr
@@ -23914,6 +23916,7 @@ sort: original
 少将	ezjx
 少讲	ezjxi
 少超	ezjz
+说走就走	ezjzo
 数字卡	ezk
 少扣	ezkd
 少刻	ezke
@@ -24656,6 +24659,7 @@ sort: original
 风水宝地	febd
 这般	febf
 这并	febg
+这饼	febgo
 招生办	febi
 这部	febj
 这步	febjo
@@ -24723,7 +24727,6 @@ sort: original
 这倒	fedz
 这道	fedzo
 只是说	fee
-这世上	fee
 防晒霜	feea
 着水	feeb
 这首	feed
@@ -24742,8 +24745,9 @@ sort: original
 着说	feel
 这双	feem
 这身	feen
-富士山	feeo
+这世上	feeo
 这首诗	feeoo
+富士山	feeov
 浙商	feep
 风生水起	feeq
 哲圣	feer
@@ -25438,7 +25442,6 @@ sort: original
 复制品	ffpu
 反跑	ffpz
 放风筝	ffq
-中转站	ffq
 反侵	ffqb
 番茄	ffqd
 反切	ffqdu
@@ -25450,6 +25453,7 @@ sort: original
 返青	ffqg
 烦请	ffqgo
 执法者	ffqi
+中转站	ffqiv
 反助	ffqj
 凡属	ffqju
 泛起	ffqk
@@ -27307,9 +27311,9 @@ sort: original
 直链	fklmu
 智联	fklmuv
 分开来	fklo
-滞留	fklq
+只留	fklq
+滞留	fklqa
 之流	fklqo
-只留	fklqou
 直流	fklqu
 支流	fklqua
 制冷	fklr
@@ -39252,6 +39256,7 @@ sort: original
 后称	hdjru
 黄道吉日	hdjrv
 后加	hdjs
+还得加	hdjv
 后军	hdjw
 厚唇	hdjwv
 后将	hdjx
@@ -42428,11 +42433,11 @@ sort: original
 花瓣	hqbf
 滑板	hqbfa
 画板	hqbfv
-滑冰	hqbg
+画饼	hqbg
+滑冰	hqbga
 华兵	hqbgi
 华冰	hqbgio
 话柄	hqbgo
-画饼	hqbgv
 花白	hqbh
 华强北	hqbi
 画布	hqbj
@@ -44701,14 +44706,15 @@ sort: original
 好刁	hzdc
 好斗	hzdd
 好逗	hzdda
+薅的	hzde
 好歹	hzdh
-豪赌	hzdj
-好毒	hzdja
-好赌	hzdjaa
-好堵	hzdjav
-豪都	hzdjo
-好迪	hzdk
-好滴	hzdka
+好堵	hzdj
+好毒	hzdj
+好赌	hzdja
+豪赌	hzdjo
+豪都	hzdjou
+好滴	hzdk
+好迪	hzdka
 好多	hzdl
 好点	hzdm
 号店	hzdmo
@@ -47362,6 +47368,7 @@ sort: original
 技术创新	jewx
 就是想	jex
 建设性	jexa
+陈述信	jexav
 济世安邦	jexb
 撤销	jexc
 撤消	jexci
@@ -52596,8 +52603,9 @@ sort: original
 久已	jqyku
 就与	jqyl
 长期以来	jqylu
-久仰	jqyp
-九阳	jqypu
+就养	jqyp
+久仰	jqypu
+九阳	jqypua
 韭芽	jqys
 救援	jqyt
 久远	jqytu
@@ -54923,7 +54931,8 @@ sort: original
 教研组	jyzu
 脚丫子	jyzuo
 教育资源	jyzy
-酒糟鼻	jzb
+趁早办	jzb
+酒糟鼻	jzba
 超标	jzbc
 抄表	jzbci
 尽在不言中	jzbf
@@ -56988,7 +56997,8 @@ sort: original
 跨阶级	kjjo
 哭唧唧	kjjoo
 空城计	kjjov
-苦唱	kjjp
+科技产品	kjjp
+苦唱	kjjpi
 苦酒	kjjq
 哭成	kjjr
 哭嫁	kjjs
@@ -57472,6 +57482,7 @@ sort: original
 框子	kmzk
 狂砸	kmzs
 狂躁	kmzz
+可能不是	knbe
 肯板	knbf
 恳辞	knck
 啃掉	kndc
@@ -68869,9 +68880,9 @@ sort: original
 没歌	mwgea
 美格	mwgeo
 每格	mwgeu
-美感	mwgf
+没敢	mwgf
 没干	mwgfa
-没敢	mwgfaa
+美感	mwgfo
 没改	mwgh
 每股	mwgj
 美股	mwgjo
@@ -69269,8 +69280,9 @@ sort: original
 面向未来	mxwl
 某些问题	mxwt
 名下无虚	mxwx
-马鞍形	mxx
-马歇尔	mxxa
+没信心	mxx
+马鞍形	mxxa
+马歇尔	mxxao
 毛细血管	mxxg
 面向现代化	mxxh
 木偶戏	mxxv
@@ -76407,6 +76419,7 @@ sort: original
 切换	qdht
 长大后	qdhu
 千岛湖	qdhuu
+整大活	qdhv
 切好	qdhz
 祝大家	qdj
 切近	qdjb
@@ -76560,7 +76573,6 @@ sort: original
 窃贼	qdzw
 主导作用	qdzy
 正式版	qeb
-这并	qebg
 招生办	qebi
 这部	qebj
 这步	qebjo
@@ -76612,7 +76624,7 @@ sort: original
 这栋	qedy
 这倒	qedz
 这道	qedzo
-这首诗	qee
+战术上	qee
 着水	qeeb
 这首	qeed
 折射	qeee
@@ -79410,7 +79422,7 @@ sort: original
 渠道	qldza
 取到	qldzv
 取道	qldzvo
-祁连山	qle
+战略上	qle
 取水	qleb
 渠首	qled
 取舍	qlee
@@ -79429,6 +79441,7 @@ sort: original
 取双	qlem
 屈伸	qlen
 情侣衫	qleo
+祁连山	qleov
 去上	qlep
 取胜	qler
 取双	qlex
@@ -91807,7 +91820,8 @@ sort: original
 天帝	tmdkv
 天底	tmdkvo
 天敌	tmdkvu
-甜点	tmdm
+添点	tmdm
+甜点	tmdmu
 它们的	tmdo
 天等	tmdr
 天大	tmds
@@ -111369,7 +111383,8 @@ sort: original
 有赚头	yft
 眼跳	yftc
 烟头	yftd
-盐铁	yftdv
+一方天地	yftdv
+盐铁	yftdvi
 言谈	yftf
 盐亭	yftg
 一致通过	yftgv
@@ -116230,7 +116245,8 @@ sort: original
 偃武修文	ywxw
 一物降一物	ywxwv
 云乡	ywxx
-游完泳	ywy
+以为要	ywy
+游完泳	ywya
 韵音	ywyb
 阴差阳错	ywyc
 云游	ywyd
