@@ -21675,6 +21675,7 @@
 人情债	rqfi
 人群中	rqf_
 日全食	rqe_
+认真的	rqdo
 热启动	rqdi
 认真地	rqd_
 乳品业	rpy_
@@ -29430,9 +29431,10 @@
 副教授	fjev
 重金属	fjeu
 方程式	fjeou
-房产税	fjeoo
+房产税	fjeoou
+房产商	fjeoo
 福建省	fjeoa
-房产商	fjeo
+只接受	fjeo
 非金属	fjeii
 中间商	fjei
 浙江省	fjea
@@ -30369,7 +30371,8 @@
 说两句	elj_
 实例化	elhoi
 数理化	elho
-省略号	elh_
+省略号	elhi
+商量好	elh_
 输卵管	elgv
 失落感	elg_
 胜利者	elfu
@@ -49331,6 +49334,7 @@
 重拾	wyeku
 充实	wyeko
 重试	wyek
+重输	wyeju
 充数	wyej
 冲晒	wyeh
 重山	wyef
@@ -104430,6 +104434,7 @@
 翻领	fflg
 犯懒	fflfu
 泛滥	fflf
+返了	ffleua
 翻了	ffleu
 烦了	ffleo
 反了	ffle'
