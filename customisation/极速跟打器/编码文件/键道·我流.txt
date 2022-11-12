@@ -8156,6 +8156,7 @@
 摩斯密码	msmm
 莫斯利安	mslxi
 冥思苦想	mskx
+免死金牌	msjp
 茅塞顿开	msdk
 莫桑比克	msbki
 美容养颜	mryy
@@ -18234,7 +18235,8 @@
 越办越	yby'
 要不要	yby_
 样板戏	ybxvv
-一般性	ybxv
+一般性	ybxvu
+一变形	ybxv
 也不行	ybxa
 也不想	ybx_
 一边查	ybwva
@@ -19608,8 +19610,9 @@
 问一问	wyw_
 五月天	wyt_
 持有人	wyr_
-朝阳区	wyqu
-委员长	wyq_
+朝阳区	wyqua
+委员长	wyqu
+玩一圈	wyq_
 外语片	wyp_
 维也纳	wyn_
 王阳明	wymv
@@ -20038,8 +20041,9 @@
 未结算	wjs_
 为己任	wjro
 我承认	wjr_
+望出去	wjqo
 持久战	wjqi
-望出去	wjq_
+我就去	wjq_
 违禁品	wjp_
 未成年	wjn_
 无记名	wjmv
@@ -22691,6 +22695,7 @@
 注定是	qde'
 全都是	qde_
 恰当地	qddo
+潜到底	qddav
 强大的	qdda
 强大到	qdd_
 助动词	qdc_
@@ -27627,6 +27632,7 @@
 活受罪	hez_
 核试验	heyv
 很善于	heyuo
+很伤腰	heyui
 很少有	heyu
 花生油	heyi
 还是以	hey'
@@ -29204,6 +29210,7 @@
 织毛衣	fmya
 驸马爷	fmy_
 父母心	fmxu
+这么想	fmxo
 这么些	fmx_
 这么晚	fmwo
 分泌物	fmw_
@@ -30875,10 +30882,10 @@
 说不说	ebeov
 说不上	ebeo
 睡不睡	ebeiv
-上半生	ebeiou
 上半时	ebeio
-上半身	ebei'
-手把手	ebei
+手把手	ebeii
+上半生	ebei'
+上半身	ebei
 时不时	ebe'
 是不是	ebe_
 说不得	ebdo
@@ -31839,7 +31846,7 @@
 打底裤	ddki
 道德经	ddjo
 电动机	ddji
-电动车	ddj_
+待多久	ddj_
 大渡河	ddhva
 地段好	ddhv
 丹顶鹤	ddhu
@@ -34354,7 +34361,7 @@
 你是	ne_
 你这	nf_
 你和	nh_
-你好	nh'
+能和	nh'
 你就	nj_
 你了	nl_
 你没	nm_
@@ -42145,12 +42152,12 @@
 有解	ydjdvu
 有节	ydjdv
 游街	ydjda
-有教	ydjcvu
 右脚	ydjcv
-油胶	ydjcau
+油胶	ydjcau'
+幼教	ydjcau
 幼交	ydjcao
 又叫	ydjca
-幼教	ydjc
+有教	ydjc
 尤金	ydjbvi
 友尽	ydjbv
 有劲	ydjb
@@ -63852,9 +63859,10 @@
 浅睡	qmebai
 浅水	qmeba
 潜水	qmeb
-迁到	qmdzuv
-千岛	qmdzu
+千岛	qmdzuu
+迁到	qmdzu
 前导	qmdzo
+潜到	qmdza
 签到	qmdz
 牵动	qmdy
 前段	qmdto
@@ -72441,8 +72449,8 @@
 马甲	msjs
 麻城	msjr
 马厩	msjq
+码长	msjpv
 马场	msjpa
-码长	msjp
 马尘	msjn
 马驹	msjl
 马季	msjk
@@ -117121,6 +117129,7 @@
 采乐	chleuu
 采了	chleua
 猜了	chleu
+裁了	chle'
 踩了	chle
 才漏	chld
 材料	chlc
