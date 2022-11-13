@@ -2003,7 +2003,6 @@
 严于律己	yyljvv
 严以律己	yyljv
 源远流长	yylja
-一样可以	yykyv
 营养快线	yykxi
 应用科学	yykx
 也有可能	yykn
@@ -2133,6 +2132,7 @@
 有心无力	yxwl
 迎新晚会	yxwh
 异想天开	yxtk
+硬性条件	yxtj
 一二三四	yxss
 英雄人物	yxrw
 鱼香肉丝	yxrs
@@ -2622,8 +2622,8 @@
 越来越近	ylyjv
 由来已久	ylyji
 有理有据	ylyj
-一来一回	ylyhvv
-有来有回	ylyhv
+一来一回	ylyh'
+有来有回	ylyh
 越来越高	ylyg
 越来越少	ylye
 越来越多	ylyd'
@@ -3296,8 +3296,8 @@
 言不由衷	ybyfo
 也不用对	ybyd'
 也不一定	ybyd
-一般而言	ybxyv
-也不需要	ybxy
+也不需要	ybxya
+一般而言	ybxy
 也不相同	ybxt
 鹬蚌相争	ybxqa
 压不下去	ybxq
@@ -3427,6 +3427,7 @@
 心痒难挠	xynn
 小有名气	xymq
 硝烟弥漫	xymm
+校园恋爱	xylxv
 心有灵犀	xylx
 悬崖勒马	xylm
 兴意阑珊	xyleo
@@ -3829,6 +3830,7 @@
 携起手来	xqel
 安全生产	xqejo
 虚张声势	xqee
+相亲市场	xqej
 下情上达	xqedv
 饿着肚子	xqdzu
 安全第一	xqdyo
@@ -8838,8 +8840,8 @@
 理论水平	llep
 琅琅上口	llekv
 朗朗上口	lleko
-理论上说	lleev
 老老实实	lleeu
+理论上说	llee
 连连点头	lldt
 落落大方	lldfii
 六六大顺	lldeo
@@ -11265,6 +11267,7 @@
 回光返照	hgfq
 回光返照	hgff
 湖光山色	hgesa
+缓过神来	hgela
 回过神来	hgel
 哈根达斯	hgds
 灰飞烟灭	hfym
@@ -13544,6 +13547,7 @@
 深入开展	erkq
 生日快乐	erkl
 水乳交融	erjra
+深入交流	erjla
 世人皆苦	erjkv
 视如己出	erjjoa
 声如洪钟	erhfv
@@ -15846,6 +15850,7 @@
 冰肌玉骨	bjygou
 别具一格	bjygo
 波谲云诡	bjyga
+比较严重	bjyfv
 比较优势	bjyevv
 不经一事	bjyev
 不经意地	bjydv
@@ -16707,6 +16712,7 @@
 总结出	zjj_
 紫荆花	zjhi
 走江湖	zjh_
+自己过	zjg_
 总价值	zjfo
 总产值	zjf_
 增程式	zjevu
@@ -17106,7 +17112,9 @@
 医院内	yyn_
 有用吗	yym_
 岳阳楼	yylu
+抑郁了	yyli
 犹豫了	yyl_
+一样坑	yykvv
 愿意看	yykv
 音乐课	yyko
 优衣库	yykio
@@ -17254,13 +17262,14 @@
 也许是	yxea
 有些事	yxe'
 有些啥	yxe_
+压箱底	yxdvu
 一小袋	yxdvi
+有线电	yxdvai
 有限度	yxdva
-有线电	yxdv'
 有限的	yxdv
 优先度	yxdi
+隐形的	yxdav
 阴暗的	yxda
-压箱底	yxd'
 影响到	yxd_
 鱼腥草	yxcu
 异形词	yxca
@@ -19659,7 +19668,8 @@
 万用表	wybv
 文艺报	wyboi
 冲一波	wybo
-创业板	wybi
+创业板	wybii
+挖一遍	wybi
 我也不	wyb_
 臭小子	wxzu
 维修组	wxza
@@ -20428,9 +20438,10 @@
 提一嘴	tyzi
 同音字	tyz_
 听音乐	tyyo
-他愿意	tyyi
+投影仪	tyyio
+挺有用	tyyi
 她愿意	tyya
-投影仪	tyy_
+他愿意	tyy_
 太阳穴	tyxvao
 太阳系	tyxva
 椭圆形	tyxv
@@ -20950,8 +20961,9 @@
 他告诉	tgs_
 托管人	tgr_
 弹钢琴	tgq_
-提高了	tgli'
+太功利	tglv
 提供了	tgli
+提高了	tgl'
 提过了	tgl_
 同甘苦	tgk_
 退格键	tgja
@@ -20977,10 +20989,11 @@
 同志们	tfm_
 天妇罗	tflv
 特氟龙	tflu
-觍着脸	tfli
+觍着脸	tflio
+体脂率	tfli
 通知栏	tflau
 陀飞轮	tfla
-体脂率	tfl_
+停滞了	tfl_
 通风口	tfk_
 体脂称	tfj_
 同质化	tfh_
@@ -21116,7 +21129,8 @@
 团拜会	tbhi
 特别好	tbh_
 逃不过	tbg_
-土拨鼠	tbev
+土拨鼠	tbevi
+太保守	tbev
 谈不上	tbeo
 台北市	tbea
 他不是	tbe_
@@ -21477,7 +21491,8 @@
 三十一	seyv
 所使用	sey_
 孙尚香	sex_
-洒水车	sew_
+洒水车	sewa
+随时问	sew_
 随身听	set_
 四十岁	sesi
 三十岁	ses_
@@ -22981,6 +22996,7 @@
 帕金森	pjsi
 派出所	pjs_
 平常人	pjr_
+抛接球	pjqi
 爬出去	pjq_
 啤酒瓶	pjpo
 迫击炮	pjp_
@@ -23095,8 +23111,9 @@
 配得起	pdq_
 碰到你	pdn_
 跑得慢	pdm_
+判断力	pdlo
 潘多拉	pdla
-判断力	pdl_
+疲掉了	pdl_
 跑得快	pdk_
 彭德怀	pdh_
 平底锅	pdgv
@@ -24454,6 +24471,7 @@
 留下来	lxlu
 离岸流	lxloi
 离心力	lxlo
+拉下脸	lxli
 流下来	lxla
 流下了	lxl'
 留下了	lxl_
@@ -26327,7 +26345,8 @@
 近几年	jjn_
 超级忙	jjmv
 见几面	jjm_
-成交量	jjlv
+成交量	jjlvo
+进场了	jjlv
 近距离	jjluo
 长颈鹿	jjlua
 季节里	jjlu
@@ -26846,8 +26865,9 @@
 几百万	jbwu
 出版物	jbwa
 就把我	jbw_
-就把他	jbto
-吉布提	jbt_
+吉布提	jbtv
+就不太	jbto
+就把他	jbt_
 锦标赛	jbs_
 接班人	jbri
 经办人	jbra
@@ -26884,7 +26904,8 @@
 几百块	jbku
 决不可	jbko
 解不开	jbk_
-成本价	jbjv
+成本价	jbjvv
+基本就	jbjv
 交杯酒	jbjov
 肩并肩	jbjoo
 记笔记	jbjo
@@ -27410,6 +27431,7 @@
 汇款人	hkr_
 航空器	hkqu
 虹口区	hkq_
+很靠谱	hkpu
 很可怕	hkp_
 很可能	hkn_
 好看吗	hkm_
@@ -28239,6 +28261,7 @@
 橄榄油	glyv
 管理员	gly_
 规律性	glxvu
+概率学	glxvo
 功利性	glxv
 管理学	glxuv
 管理系	glxu
@@ -28557,6 +28580,7 @@
 光电子	gdz_
 个多月	gdyi
 干瞪眼	gdy_
+更大些	gdxv
 公德心	gdx_
 各单位	gdw_
 更动听	gdtv
@@ -28622,11 +28646,12 @@
 棺材板	gcb_
 赶不走	gbzv
 光膀子	gbz_
-过把瘾	gbyv
+更不要	gbyv
 公布于	gbyu
 广播员	gbyo
+冈比亚	gbyiv
 个半月	gbyi
-冈比亚	gby_
+过把瘾	gby_
 根本性	gbxv
 鬼把戏	gbx_
 各部委	gbwu
@@ -29198,6 +29223,7 @@
 智能化	fnh_
 只能够	fngo
 只能给	fng_
+追女生	fneu
 只能说	fne_
 重难点	fnd_
 疯牛病	fnbo
@@ -29634,9 +29660,10 @@
 这方面	ffm_
 夫妇俩	fflv
 反重力	fflu
-粉转路	fflo
+粉转路	fflov
+方法论	fflo
 附着力	ffla
-方法论	ffl_
+丰富了	ffl_
 负反馈	ffk_
 转折处	ffjvi
 榨汁机	ffjv
@@ -29860,8 +29887,8 @@
 闸北区	fbqoi
 这笔钱	fbqo
 值班长	fbqiv
-止不住	fbqi
-抓不住	fbq'
+止不住	fbqi'
+抓不住	fbqi
 分不清	fbq_
 放鞭炮	fbp_
 这表明	fbmo
@@ -30039,6 +30066,7 @@
 试用版	eybo
 刷一波	eyba
 试一遍	eyb_
+傻儿子	exzi
 使性子	exz_
 十二月	exyu
 商学院	exyoo
@@ -30196,7 +30224,8 @@
 受热捧	erp_
 谁让你	ern_
 食人魔	erm_
-摄入量	erl_
+摄入量	erli
+释然了	erl_
 输入框	erk_
 瘦肉精	erjo
 双刃剑	erj_
@@ -30611,6 +30640,7 @@
 陕甘宁	egna
 肾功能	egn_
 石鬼面	egm_
+筛过了	eglu
 时光里	eglo
 上岗了	egli
 收购量	egla
@@ -30951,6 +30981,7 @@
 多一些	dyxu
 电源线	dyxia
 打游戏	dyxi
+顶一下	dyx'
 等一下	dyx_
 第一位	dywu
 定义为	dywo
@@ -31039,10 +31070,11 @@
 对与错	dyca
 第一次	dyc_
 到一半	dybv
-第一遍	dybuv
-第一版	dybu'
-第一本	dybu
-第一波	dyb'
+第一版	dybuv
+第一部	dybuv
+第一本	dybu'
+第一波	dybu
+第一遍	dyb'
 第一步	dyb_
 东乡族	dxzv
 德昂族	dxzu
@@ -31394,6 +31426,7 @@
 电脑包	dnb_
 多民族	dmz_
 度蜜月	dmyo
+但没用	dmyi
 但没有	dmy_
 大冒险	dmxvi
 动脉血	dmxv
@@ -31775,7 +31808,8 @@
 独生女	denu
 迪士尼	deni
 多少年	den_
-大沙漠	dem_
+大沙漠	demv
+大什么	dem_
 断舍离	del_
 地税局	dejvu
 大生产	dejv'
@@ -32128,7 +32162,7 @@
 财政部	cqb_
 裁判员	cpy_
 擦皮鞋	cpx_
-参评者	cpqa
+裁判位	cpw_
 裁判长	cpq_
 词牌名	cpm_
 擦屁股	cpg_
@@ -32840,9 +32874,9 @@
 不能比	bnbv
 帮你把	bnb_
 不满足	bmz_
-不满意	bmyva
-本没有	bmyv
+不满意	bmyv
 兵马俑	bmyu
+本没有	bmy'
 并没有	bmy_
 保密性	bmxi
 斑马线	bmx_
@@ -33341,9 +33375,10 @@
 办事员	beya
 不顺眼	bey'
 不适应	bey_
-不顺心	bexv
+不顺心	bexvu
+不上心	bexv'
+不省心	bexv
 不熟悉	bex_
-不省心	bex'
 不失为	bew_
 板刷头	betva
 不舒坦	betv
@@ -36316,7 +36351,6 @@
 在日	zhrk
 再如	zhrjv
 载入	zhrj
-再找	zhqz
 再强	zhqxv
 再抢	zhqx
 再全	zhqt
@@ -38893,7 +38927,7 @@
 鱼跃	ylyhu
 愉悦	ylyho
 逾越	ylyhi
-预约	ylyh
+预约	ylyha
 御营	ylygu
 鱼眼	ylyfui
 欲言	ylyfu
@@ -42030,8 +42064,9 @@
 有梦	ydmr
 又忙	ydmp
 幽门	ydmni
-油焖	ydmna
-油门	ydmn
+油焖	ydmnao
+油门	ydmna
+又闷	ydmn
 右面	ydmm
 油墨	ydmla
 幽默	ydml
@@ -42419,7 +42454,7 @@
 殷殷	ybybu
 阴阴	ybyba
 隐隐	ybyb
-姻兄	ybxya
+姻兄	ybxyao
 音箱	ybxxou
 音像	ybxxoi
 音响	ybxxo
@@ -44562,8 +44597,8 @@
 锈蚀	xqeki
 休市	xqek'
 修饰	xqek
-休书	xqeji
-修书	xqej
+休书	xqejia
+修书	xqeji
 修缮	xqef
 修手	xqedi
 袖手	xqed
@@ -44739,7 +44774,8 @@
 鲜为	xmww'
 先为	xmww
 先传	xmwt
-先查	xmws
+先查	xmwsu
+先挖	xmws
 仙翁	xmwr
 先王	xmwpu
 线网	xmwp
@@ -68245,7 +68281,8 @@
 屁的	pkdea
 批的	pkde
 批斗	pkdd
-皮雕	pkdc
+皮雕	pkdca
+疲掉	pkdc
 皮草	pkcz
 皮层	pkcr
 批次	pkck
@@ -77679,7 +77716,7 @@
 绿树	llej
 绿山	llefa
 落山	llef
-旅社	llee
+旅社	lleeo
 绿守	lleda
 屡受	lled
 裸睡	llebo
@@ -86940,11 +86977,11 @@
 基地	jkdk
 基督	jkdjvi
 极度	jkdjv
-几度	jkdjuo
 季度	jkdju
+缉毒	jkdjav
 忌妒	jkdjaa
-缉毒	jkdja
-嫉妒	jkdj
+嫉妒	jkdja
+几度	jkdj
 基带	jkdhv
 急待	jkdhuu
 几袋	jkdhui
@@ -91172,6 +91209,7 @@
 换茬	htws
 环往	htwp
 换文	htwn
+换我	htwli
 还我	htwl
 欢舞	htwj
 换完	htwf
@@ -92276,6 +92314,7 @@
 恨到	hndz
 很懂	hndy
 很短	hndt
+很搭	hndsu
 很大	hnds
 狠颠	hndm
 很低	hndk
@@ -93180,7 +93219,6 @@
 海王	hhwpa
 还望	hhwp
 还问	hhwn
-还我	hhwlv
 害我	hhwl
 海外	hhwh
 海湾	hhwf
@@ -95450,9 +95488,9 @@
 拱廊	gylp
 工联	gylm
 功率	gyll
-功利	gylkvu
 巩俐	gylkvi
-功力	gylkv
+功力	gylkva
+功利	gylkv
 公理	gylkuv
 公立	gylku
 宫里	gylko
@@ -108860,6 +108898,7 @@
 筛除	ehjj
 筛号	ehhz
 晒黑	ehhw
+筛过	ehgl
 筛骨	ehgj
 晒干	ehgf
 筛渣	ehfs
@@ -120297,7 +120336,7 @@
 不悦	bjyh
 不应	bjyg
 不厌	bjyfvv
-不言	bjyfv
+不言	bjyf'
 不严	bjyf
 不也	bjye
 部优	bjydo
