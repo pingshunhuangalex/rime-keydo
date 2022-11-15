@@ -9788,8 +9788,8 @@ sort: original
 躲不开	dbku
 对空	dbky
 对拷	dbkz
-大不了	dbl
-都不来	dbl
+等不了	dbl
+躲不了	dbl
 队列	dbld
 大不列颠	dbldv
 对了	dble
@@ -9802,11 +9802,12 @@ sort: original
 对联	dblm
 对流	dblq
 对啦	dbls
-等不了	dblu
-躲不了	dblu'
+都变了	dblu
+都不来	dblu
 得病了	dbluo
 等比例	dbluv
 冬不拉	dbluvi
+大不了	dblv
 到不了	dblv
 达标率	dblvv
 对垒	dblw
@@ -9821,6 +9822,7 @@ sort: original
 对门	dbmn
 对吗	dbms
 对骂	dbmsa
+大部门	dbmv
 对美	dbmw
 但不能	dbn
 对您	dbnb
@@ -9857,6 +9859,7 @@ sort: original
 对正	dbqra
 对证	dbqrao
 待不住	dbqu
+都不全	dbquv
 顶不住	dbqv
 东半球	dbqvo
 对准	dbqw
@@ -11913,6 +11916,7 @@ sort: original
 待得	dhde
 代的	dhdei
 戴的	dhdeu
+带的	dhdev
 待定	dhdg
 带带	dhdh
 代代	dhdhi
@@ -13143,10 +13147,10 @@ sort: original
 第一	dkyk
 敌意	dkyku
 低于	dkyl
-地域	dkyl
 低语	dkyli
 抵御	dkyliu
-地狱	dkylv
+地域	dkylv
+地狱	dkylvu
 低氧	dkyp
 抵押	dkys
 低压	dkysi
@@ -25783,10 +25787,10 @@ sort: original
 钟鼓楼	fgli
 中国联通	fglt
 翻过来	fglu
-覆盖率	fglv
+飞过来	fglv
+覆盖率	fglvo
 浮光掠影	fgly
 中国梦	fgm
-这个目标	fgmb
 中国名牌	fgmp
 反革命	fgmu
 覆盖面	fgmv
@@ -33343,17 +33347,16 @@ sort: original
 仡佬	gelzi
 干什么	gem
 高深莫测	gemc
-干什么的	gemd
 个么	geme
 革命	gemg
 搞什么鬼	gemgi
 歌名	gemgv
+搞什么	gemi
 格木	gemj
 歌迷	gemk
 隔膜	geml
 哥们	gemn
 各门	gemnu
-干什么呢	gemnv
 赶时髦	gemv
 歌美	gemw
 戈矛	gemz
@@ -34939,6 +34942,7 @@ sort: original
 雇凶	gjxy
 孤傲	gjxz
 估计要	gjy
+感觉要	gjy
 更进一步	gjyb
 古音	gjybu
 固有	gjyd
@@ -37656,7 +37660,8 @@ sort: original
 公锥	gyfb
 共轴	gyfd
 膏腴之地	gyfdo
-供者	gyfe
+供着	gyfe
+供者	gyfei
 共犯	gyff
 公债	gyfh
 功夫	gyfj
@@ -37896,7 +37901,6 @@ sort: original
 工业区	gyq
 工勤	gyqb
 拱桥	gyqc
-供者	gyqe
 攻占	gyqf
 共情	gyqg
 光耀千古	gyqgi
@@ -43219,6 +43223,7 @@ sort: original
 欢蹦	htbr
 皇天不负有心人	htbru
 换吧	htbs
+很同步	htbu
 换汤不换药	htby
 环保	htbz
 环抱	htbzv
@@ -46085,7 +46090,8 @@ sort: original
 较宽	jcktv
 交困	jckw
 骄狂	jckx
-洁厕灵	jcl
+记错了	jcl
+洁厕灵	jcla
 脚镣	jclc
 焦裂	jcld
 陈词滥调	jclda
@@ -48804,9 +48810,9 @@ sort: original
 出手	jjed
 出售	jjeda
 触手	jjedu
-结结实实	jjee
+基础设施	jjee
+结结实实	jjeea
 初设	jjeeo
-基础设施	jjeev
 经济适用房	jjef
 出山	jjefa
 经济社会	jjeh
@@ -55070,7 +55076,8 @@ sort: original
 超感	jzgf
 炒股	jzgj
 超过	jzgl
-炒锅	jzglo
+吵过	jzglo
+炒锅	jzgloi
 朝纲	jzgp
 超纲	jzgpv
 超挂	jzgq
@@ -68157,8 +68164,8 @@ sort: original
 民主集中	mqjf
 民主集中制	mqjfa
 谬奖	mqjx
+没去了	mql
 迷住了	mql
-密切联系群众	mqlf
 目前来看	mqlk
 忙起来	mqlo
 米其林	mqlov
@@ -75687,6 +75694,7 @@ sort: original
 便宜无好货	pywh
 拼一下	pyx
 皮影戏	pyxa
+爬一下	pyxu
 培养下	pyxv
 疲于应付	pyyf
 喷油嘴	pyz
@@ -77654,8 +77662,8 @@ sort: original
 轻量	qglxv
 青龙	qgly
 请老	qglz
-强国梦	qgm
-这个目标	qgmb
+去过没	qgm
+强国梦	qgma
 青苗	qgmc
 轻蔑	qgmd
 情满	qgmf
@@ -89364,7 +89372,7 @@ sort: original
 偷空	tdky
 投靠	tdkz
 铁铐	tdkzi
-挑大梁	tdl
+提点了	tdl
 铁林	tdlb
 投料	tdlc
 透漏	tdld
@@ -89376,7 +89384,8 @@ sort: original
 铁岭	tdlgi
 投来	tdlh
 偷来	tdlhi
-推动力	tdli
+挑大梁	tdli
+推动力	tdliv
 透露	tdlj
 铁路	tdlji
 头颅	tdljo
@@ -89687,9 +89696,9 @@ sort: original
 挺舒服	tefi
 停尸房	tefia
 特附	tefj
-特制	tefk
-特质	tefku
-特指	tefkui
+特指	tefk
+特制	tefku
+特质	tefkuu
 特装	tefm
 特发	tefs
 特扎	tefsu
@@ -91279,6 +91288,7 @@ sort: original
 踢得	tkdeo
 提单	tkdf
 替代	tkdh
+挺酷的	tkdi
 梯度	tkdj
 提督	tkdji
 提点	tkdm
@@ -92456,7 +92466,8 @@ sort: original
 跆拳道	tqd
 通情达理	tqdl
 天诛地灭	tqdm
-特长生	tqe
+提前说	tqe
+特长生	tqeu
 太真实	tqev
 谈情说爱	tqex
 挑战者	tqf
@@ -93421,6 +93432,7 @@ sort: original
 太阳公公	tygg
 同业公会	tygh
 挑一个	tygi
+体验过	tygia
 体育馆	tygio
 铜鼓	tygj
 痛过	tygl
@@ -93771,6 +93783,7 @@ sort: original
 统御	tyyla
 听音乐	tyyo
 痛痒	tyyp
+挺有意思	tyysi
 同源	tyyt
 通运	tyyw
 通用	tyyy
@@ -95371,7 +95384,6 @@ sort: original
 五谷杂粮	wgzl
 闻过则喜	wgzx
 我会被	whb
-文化部	whb
 外宾	whbb
 外表	whbc
 维和部队	whbd
@@ -95384,7 +95396,8 @@ sort: original
 歪脖	whbl
 外边	whbm
 五花八门	whbmv
-文汇报	whbo
+文化部	whbo
+文汇报	whboa
 外邦	whbp
 无话不谈	whbt
 外包	whbz
@@ -101046,7 +101059,7 @@ sort: original
 心胸	xbxy
 需不需要	xbxyv
 先不要	xby
-而不要	xby
+先不用	xby
 心瘾	xbyb
 心有	xbyd
 新叶	xbye
@@ -101070,7 +101083,8 @@ sort: original
 新芽	xbys
 心愿	xbyt
 信鸢	xbyti
-西班牙	xbyv
+而不要	xbyv
+西班牙	xbyvv
 新韵	xbyw
 信用	xbyy
 瑕不掩瑜	xbyyv
@@ -107939,11 +107953,12 @@ sort: original
 星星之火	xxfh
 休闲服	xxfi
 小媳妇	xxfia
-享福	xxfj
 相符	xxfj
+相辅	xxfj
 降伏	xxfja
+享福	xxfjo
 衔哀致诚	xxfju
-相辅	xxfjv
+想富	xxfjv
 相知	xxfk
 信息反馈	xxfki
 响指	xxfko
@@ -111074,7 +111089,8 @@ sort: original
 延宕	yfdp
 烟灯	yfdr
 严打	yfds
-一直到	yfdv
+一致的	yfdv
+一直到	yfdvu
 烟墩	yfdw
 一枝独秀	yfdx
 悠着点儿	yfdxi
@@ -112584,6 +112600,7 @@ sort: original
 研究方向	yjfxv
 一家之言	yjfy
 原教旨主义	yjfyv
+研究过	yjg
 夜静更深	yjge
 一将功成万骨枯	yjgk
 一句话	yjh
@@ -113281,9 +113298,9 @@ sort: original
 一篮	yklfv
 一览	yklfvi
 衣领	yklg
-依赖	yklh
+一来	yklh
 以来	yklha
-一来	yklhv
+依赖	yklhi
 一路	yklj
 毅力	yklk
 已离	yklka
@@ -116397,6 +116414,7 @@ sort: original
 以下犯上	yxfea
 一笑置之	yxff
 养儿防老	yxfl
+要想富，先修路	yxflv
 阈限值	yxfo
 浴血奋战	yxfq
 印象中	yxfu
@@ -117996,7 +118014,8 @@ sort: original
 走丢	zddq
 自动挡	zddu
 再大的	zddv
-再多的	zddvu
+再多的	zddv
+再等等	zddvu
 走动	zddy
 走到	zddz
 走道	zddzv
@@ -119124,7 +119143,8 @@ sort: original
 做出了	zjlia
 坐久了	zjliu
 阻路	zjlj
-阻力	zjlk
+组里	zjlk
+阻力	zjlka
 祖率	zjll
 足联	zjlm
 总经理	zjlo
@@ -121060,6 +121080,7 @@ sort: original
 总局	zyjl
 总监	zyjm
 最要紧	zyjo
+最优解	zyjoi
 总厂	zyjp
 纵酒	zyjq
 自由竞争	zyjqu

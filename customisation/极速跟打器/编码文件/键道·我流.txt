@@ -166,6 +166,7 @@
 有缘千里来相会	yyqh
 油盐柴米酱醋茶	yyjwa
 一而再，再而三	yxzsv
+要想富，先修路	yxflv
 一传十，十传百	yweb
 月如无恨月长圆	yrwy
 有情人终成眷属	yqrev
@@ -522,7 +523,6 @@
 贸易保护主义	mybyu
 没文化真可怕	mwhpa
 明人不做暗事	mrbe
-密切联系群众	mqlf
 摸着石头过河	mqehi
 睦邻友好关系	mlyx
 马克思恩格斯	mkssa
@@ -5388,6 +5388,7 @@
 投资建议	tzjy
 天作之合	tzfhv
 天造地设	tzdev
+挺有意思	tyysi
 头晕眼花	tyyho
 同样也是	tyyei
 体育运动	tyydi
@@ -7255,7 +7256,6 @@
 这个名字	qgmzo
 轻歌曼舞	qgmwv
 秋高马肥	qgmfu
-这个目标	qgmb
 全国连锁	qgls
 张冠李戴	qglda
 勤工俭学	qgjxv
@@ -10254,8 +10254,8 @@
 超级市场	jjejv
 久经沙场	jjej'
 经济社会	jjeh
-基础设施	jjeev
-结结实实	jjee
+结结实实	jjeea
+基础设施	jjee
 踽踽独行	jjdxo
 长街短巷	jjdx
 楚楚动人	jjdrv
@@ -12102,9 +12102,7 @@
 更是如此	gerc
 工商企业	geqy
 故事情节	geqj
-干什么呢	gemnv
 搞什么鬼	gemgi
-干什么的	gemd
 高深莫测	gemc
 高山流水	geleo
 各抒己见	gejju
@@ -12930,7 +12928,6 @@
 中国民族	fgmzi
 这个名字	fgmz
 中国名牌	fgmp
-这个目标	fgmb
 浮光掠影	fgly
 中国联通	fglt
 中国历史	fglei
@@ -16351,6 +16348,7 @@
 最有力	zylo
 作用力	zyl_
 资源库	zyk_
+最优解	zyjoi
 最要紧	zyjo
 择一城	zyjivv
 做研究	zyjiv
@@ -16926,7 +16924,8 @@
 早点睡	zdeo
 做点事	zdei
 做的事	zde_
-再多的	zddvu
+再等等	zddvu
+再多的	zddv'
 再大的	zddv
 自动挡	zddu
 最短的	zddou
@@ -17785,6 +17784,7 @@
 演唱会	yjhao
 也就会	yjha
 一句话	yjh_
+研究过	yjg_
 原教旨	yjfvu
 有价值	yjfvi
 研究者	yjfv
@@ -17987,7 +17987,8 @@
 也发生	yfeaa
 也只是	yfea
 一转身	yfe_
-一直到	yfdv
+一直到	yfdvu
+一致的	yfdv
 眼中钉	yfdii
 悠着点	yfdi
 幼稚的	yfda
@@ -19475,8 +19476,9 @@
 下班早	xbzv
 小辫子	xbzi
 下辈子	xbz_
-西班牙	xbyv
-而不要	xby'
+西班牙	xbyvv
+而不要	xbyv
+先不用	xby'
 先不要	xby_
 想不想	xbxv
 饿不饿	xbxu
@@ -20148,8 +20150,8 @@
 吃很多	whd'
 差很多	whd_
 武侯祠	whc_
-文汇报	whbo
-文化部	whb'
+文汇报	whboa
+文化部	whbo
 我会被	whb_
 捂盖子	wgz_
 外国语	wgy_
@@ -20481,6 +20483,7 @@
 太阳光	tygv
 头一个	tygo
 体育馆	tygio
+体验过	tygia
 挑一个	tygi
 同一个	tyg_
 脱衣服	tyfu
@@ -20705,7 +20708,8 @@
 淘气鬼	tqg_
 挑战者	tqf_
 太真实	tqev
-特长生	tqe_
+特长生	tqeu
+提前说	tqe_
 跆拳道	tqd_
 土政策	tqc_
 挑战杯	tqb_
@@ -20855,6 +20859,7 @@
 天空中	tkf_
 特困生	tkeu
 铁矿石	tke_
+挺酷的	tkdi
 调侃道	tkd_
 太空舱	tkc_
 天秤座	tjzv
@@ -21066,8 +21071,9 @@
 太对了	tdlva
 太多了	tdlv'
 太大了	tdlv
-推动力	tdli
-挑大梁	tdl_
+推动力	tdliv
+挑大梁	tdli
+提点了	tdl_
 挺对口	tdki
 偷渡客	tdk_
 听得见	tdjo
@@ -22544,7 +22550,8 @@
 曲棍球	qgq_
 切割片	qgp_
 全功能	qgn_
-强国梦	qgm_
+强国梦	qgma
+去过没	qgm_
 朱古力	qglu
 诸葛亮	qglo
 奇怪了	qgl_
@@ -22797,6 +22804,7 @@
 痞子蔡	pzc_
 喷油嘴	pyz_
 培养下	pyxv
+爬一下	pyxu
 皮影戏	pyxa
 拼一下	pyx_
 朋友网	pyw_
@@ -23922,7 +23930,8 @@
 麦哲伦	mqlv
 米其林	mqlov
 忙起来	mqlo
-迷住了	mql_
+迷住了	mql'
+没去了	mql_
 母亲节	mqja
 民政局	mqj_
 母亲河	mqha
@@ -26842,7 +26851,8 @@
 决策者	jcqo
 储存器	jcqi
 监测站	jcq_
-洁厕灵	jcl_
+洁厕灵	jcla
+记错了	jcl_
 储存卡	jck_
 除草剂	jcj_
 储藏柜	jcg_
@@ -27212,6 +27222,7 @@
 火头上	hte_
 黄土地	htd_
 回头草	htc_
+很同步	htbu
 很特别	htb_
 毁所有	hsyu
 侯赛因	hsy_
@@ -28333,6 +28344,7 @@
 关节炎	gjyo
 归结于	gjyia
 归咎于	gjyi
+感觉要	gjy'
 估计要	gjy_
 工程学	gjxvu
 工具箱	gjxvi
@@ -28557,6 +28569,7 @@
 高水平	gep_
 观赏鸟	gen_
 赶时髦	gemv
+搞什么	gemi
 干什么	gem_
 故事里	gelu
 跟上了	gel_
@@ -29590,7 +29603,8 @@
 覆盖面	fgmv
 反革命	fgmu
 中国梦	fgm_
-覆盖率	fglv
+覆盖率	fglvo
+飞过来	fglv
 翻过来	fglu
 钟鼓楼	fgli
 发过来	fgla
@@ -31961,6 +31975,7 @@
 倒不如	dbr_
 东半球	dbqvo
 顶不住	dbqv
+都不全	dbquv
 待不住	dbqu
 呆不住	dbqo
 代表着	dbqiv
@@ -31973,19 +31988,21 @@
 打保票	dbp_
 大半年	dbnv
 但不能	dbn_
+大部门	dbmv
 代表们	dbmi
 蛋白酶	dbma
 道不明	dbm_
 达标率	dblvv
-到不了	dblv
+到不了	dblv'
+大不了	dblv
 冬不拉	dbluvi
 等比例	dbluv
 得病了	dbluo
-躲不了	dblu'
-等不了	dblu
+都不来	dblu'
+都变了	dblu
 打边炉	dbli
-都不来	dbl'
-大不了	dbl_
+躲不了	dbl'
+等不了	dbl
 躲不开	dbku
 打不开	dbk_
 东北角	dbjviu
@@ -36141,7 +36158,8 @@
 阻留	zjlq
 足联	zjlm
 祖率	zjll
-阻力	zjlk
+阻力	zjlka
+组里	zjlk
 阻路	zjlj
 租来	zjlh
 阻拦	zjlf
@@ -39898,9 +39916,9 @@
 已离	yklka
 毅力	yklk
 一路	yklj
-一来	yklhv
+依赖	yklhi
 以来	yklha
-依赖	yklh
+一来	yklh
 衣领	yklg
 一览	yklfvi
 一篮	yklfv
@@ -43452,10 +43470,11 @@
 像佛	xxfl
 响指	xxfko
 相知	xxfk
-相辅	xxfjv
+想富	xxfjv
+享福	xxfjo
 降伏	xxfja
-相符	xxfj'
-享福	xxfj
+相辅	xxfj'
+相符	xxfj
 襄樊	xxffo
 相反	xxff
 向着	xxfe
@@ -56730,9 +56749,9 @@
 特扎	tefsu
 特发	tefs
 特装	tefm
-特指	tefkui
-特质	tefku
-特制	tefk
+特质	tefkuu
+特制	tefku
+特指	tefk
 特附	tefj
 特摘	tefh
 特番	teff
@@ -82748,7 +82767,8 @@
 超挂	jzgq
 超纲	jzgpv
 朝纲	jzgp
-炒锅	jzglo
+炒锅	jzgloi
+吵过	jzglo
 超过	jzgl
 炒股	jzgj
 超感	jzgf
@@ -95432,7 +95452,6 @@
 公顷	gyqgu
 共情	gyqg
 攻占	gyqf
-供者	gyqe
 拱桥	gyqc
 工勤	gyqb
 工棚	gypr
@@ -95621,7 +95640,8 @@
 功夫	gyfj
 公债	gyfh
 共犯	gyff
-供者	gyfe
+供者	gyfei
+供着	gyfe
 共轴	gyfd
 公锥	gyfb
 恭顺	gyew
@@ -113099,10 +113119,10 @@
 低压	dkysi
 抵押	dkys
 低氧	dkyp
-地狱	dkylv
+地狱	dkylvu
+地域	dkylv
 抵御	dkyliu
 低语	dkyli
-地域	dkyl'
 低于	dkyl
 敌意	dkyku
 第一	dkyk
@@ -114076,6 +114096,7 @@
 代代	dhdhi
 带带	dhdh
 待定	dhdg
+带的	dhdev
 戴的	dhdeu
 代的	dhdei
 待得	dhde
