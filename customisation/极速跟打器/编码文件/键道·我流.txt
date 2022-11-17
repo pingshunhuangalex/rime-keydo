@@ -7289,6 +7289,7 @@
 政治隐喻	qfyyv
 这种意义	qfyyou
 遮遮掩掩	qfyyo
+政治因素	qfysv
 掐指一算	qfys
 睁着眼睛	qfyj
 切中要害	qfyh
@@ -15893,6 +15894,7 @@
 别出机杼	bjjqoa
 不觉经年	bjjnv
 不见经传	bjjfv
+不计成本	bjjbvo
 保驾护航	bjhhi
 白驹过隙	bjgxu
 北京国安	bjgxi
@@ -22762,7 +22764,7 @@
 切薄片	qbp_
 千百年	qbnu
 却不能	qbn_
-这表明	qbm_
+请帮忙	qbm_
 正比例	qblvv
 起不来	qblv
 齐贝林	qblo
@@ -23182,15 +23184,16 @@
 宁愿在	nyzo
 那样做	nyz_
 暖洋洋	nyyo
-挠痒痒	nyyi
+挠痒痒	nyyio
+男演员	nyyi
 那一夜	nyyav
 女演员	nyya
-男演员	nyy'
 你愿意	nyy_
-脑源性	nyxu
+脑源性	nyxua
+脑溢血	nyxu
 哪一项	nyxo
+拿一下	nyxi
 女英雄	nyxa
-脑溢血	nyx'
 弄一下	nyx_
 农用车	nywo
 你以为	nywi
@@ -38200,7 +38203,8 @@
 圆脸	ytlm
 院落	ytlla
 远虑	ytll
-原力	ytlkv
+原力	ytlkva
+原理	ytlkv
 援例	ytlkii
 园里	ytlki
 院里	ytlka
@@ -95229,8 +95233,9 @@
 高飞	gzfwo
 稿费	gzfw
 高专	gzft
+告发	gzfsu
 高发	gzfso
-告发	gzfs
+搞法	gzfs
 高峰	gzfr
 膏方	gzfpoo
 高防	gzfpo
