@@ -3152,6 +3152,7 @@
 优胜劣汰	yelt
 有生力量	yellv
 衣衫褴褛	yello
+一身冷汗	yelhv
 鹰视狼顾	yelgo
 玉树临风	yelfv
 一式两份	yelf
@@ -5320,6 +5321,8 @@
 维多利亚	wdly
 伟大领袖	wdlx
 王道乐土	wdlt
+往大了算	wdls
+往大了说	wdleu
 五毒俱全	wdjq
 伟大成就	wdjj'
 为的就是	wdjeo
@@ -10796,6 +10799,7 @@
 胡作非为	hzfwu
 何足道哉	hzdzi
 活在当下	hzdx
+还在不在	hzbzv
 火炎焱燚	hyyyo
 很有意义	hyyy
 和颜悦色	hyysu
@@ -15509,6 +15513,7 @@
 抱团取暖	btqn
 不太清楚	btqj
 悲天悯人	btmr
+半透明的	btmd
 不太明白	btmb
 遍体鳞伤	btle
 不太可能	btkn
@@ -16404,7 +16409,8 @@
 最小化	zxh_
 自傲感	zxgu
 最想过	zxgo
-罪恶感	zxg_
+罪恶感	zxgi
+自学过	zxg_
 最小值	zxfoi
 最幸福	zxfo
 再下周	zxf_
@@ -17216,6 +17222,7 @@
 幼驯染	yxra
 有心人	yxr_
 压下去	yxqvv
+一学期	yxqvov
 一星期	yxqvo
 有些情	yxqvi
 有效期	yxqv
@@ -17719,6 +17726,7 @@
 一口水	ykev
 也开始	ykea
 要开始	yke_
+有刻度	ykdv
 一刻都	ykd_
 洋快餐	ykc_
 预科班	ykb_
@@ -17782,8 +17790,8 @@
 也仅仅	yjj_
 研究会	yjhvo
 原计划	yjhv
-也几乎	yjhau
 演唱会	yjhao
+也几乎	yjha'
 也就会	yjha
 一句话	yjh_
 研究过	yjg_
@@ -17816,7 +17824,8 @@
 洋泾浜	yjba
 也绝不	yjb_
 用户组	yhzu
-也会在	yhz_
+也会在	yhza
+以后再	yhz_
 颐和园	yhyvu
 有害于	yhyv
 咽喉炎	yhyoo
@@ -18255,6 +18264,7 @@
 一百万	ybwv
 也别忘	ybwa
 有把握	ybw_
+一边弹	ybtv
 也不太	ybta
 也别太	ybt'
 也不同	ybt_
@@ -19660,12 +19670,12 @@
 无疑是	wye_
 万用刀	wydvu
 无言的	wydvo
-无意的	wydv
+无意的	wydv'
+无用的	wydv
 闻一多	wydov
 惟一的	wydo'
-晚一点	wydo
 茶叶蛋	wydi
-无用的	wyd'
+晚一点	wyd'
 差一点	wyd_
 臭氧层	wycu
 吃一次	wyc_
@@ -19867,6 +19877,7 @@
 握爪爪	wqq_
 网球拍	wqp_
 五千年	wqn_
+完全没	wqm_
 充其量	wqlo
 握住了	wqli
 我去了	wql_
@@ -20413,6 +20424,7 @@
 吃不饱	wbb_
 兔崽子	tzz_
 替罪羊	tzy_
+太罪恶	tzxv
 投资额	tzx_
 太自私	tzs_
 挺自然	tzri
@@ -20509,6 +20521,7 @@
 同心圆	txyi
 通讯员	txya
 推销员	txy_
+太恶心	txxv
 挑衅性	txxi
 提醒下	txx_
 碳纤维	txwv
@@ -20574,9 +20587,10 @@
 太完美	twm_
 太差了	twlvo
 太丑了	twlva
-太晚了	twlv'
-太扯了	twlv
+太扯了	twlv'
+太晚了	twlv
 调味料	twlo
+挺无聊	twli
 推迟了	twl_
 停车库	twk_
 甜味剂	twju
@@ -20822,6 +20836,7 @@
 太乱了	tllv'
 太烂了	tllv
 天亮了	tll_
+太垃圾	tljv
 铁路局	tljio
 挺理解	tlji
 拖拉机	tlj_
@@ -20871,7 +20886,8 @@
 统计学	tjxa
 条件下	tjx_
 天极网	tjw_
-统计图	tjt_
+统计图	tjta
+弹吉他	tjt_
 田径赛	tjs_
 她居然	tjr_
 太极拳	tjqv
@@ -21048,6 +21064,7 @@
 挺舒服	tefi
 讨说法	tef_
 图书室	tee_
+特殊的	tedu
 挺伤的	tedii
 挺爽的	tedi
 同时代	ted_
@@ -21058,7 +21075,9 @@
 泰迪熊	tdxv
 天底下	tdx_
 土豆网	tdw_
-土豆条	tdtv
+土豆条	tdtvv
+太蛋疼	tdtv
+他对她	tdt'
 他对他	tdt_
 土豆丝	tds_
 天地人	tdrv
@@ -21318,7 +21337,8 @@
 宋庆龄	sqlo
 算起来	sql_
 三七开	sqk_
-所站的	sqd_
+所站的	sqdu
+死去的	sqd_
 送秋波	sqb_
 死胖子	spz_
 酸葡萄	spt_
@@ -22664,7 +22684,8 @@
 签收表	qebu
 招生办	qebi
 正式版	qeb_
-正电子	qdz_
+正电子	qdzv
+起得早	qdz_
 秋刀鱼	qdyua
 猪队友	qdyu
 全都要	qdy'
@@ -24146,7 +24167,8 @@
 灭火器	mhqv
 闵行区	mhqou
 迷魂阵	mhqo
-没好气	mhqa
+没好气	mhqaa
+没回去	mhqa
 买回去	mhq_
 马后炮	mhp_
 梅花鹿	mhlv
@@ -24170,7 +24192,8 @@
 卖关子	mgz_
 每个月	mgyu
 莫过于	mgy_
-名古屋	mgw_
+名古屋	mgwu
+没给我	mgw_
 芒果台	mgt_
 玫瑰色	mgs_
 蒙古人	mgri
@@ -25056,7 +25079,8 @@
 老大难	ldn_
 聊得来	ldlv
 留的留	ldlu
-劳动力	ldli
+劳动力	ldliv
+累多了	ldli
 落到了	ldl_
 离得开	ldk_
 烂大街	ldjo
@@ -25597,6 +25621,7 @@
 看得见	kdjiu
 看得出	kdji
 肯德基	kdj_
+开大会	kdhv
 扩大化	kdhi
 肯定会	kdh_
 快递柜	kdgo
@@ -26443,10 +26468,11 @@
 计划外	jhwo
 菊花茶	jhwi
 就和我	jhw_
+超好听	jhtv
 计划通	jhtov
+精华贴	jhtoi
 交换台	jhto
 结合体	jhta
-精华贴	jht'
 集合体	jht_
 聚划算	jhsv
 季后赛	jhsu
@@ -26474,8 +26500,9 @@
 九华山	jheu
 交互式	jheo
 将会是	jhe_
+吉哈德	jhdvo
 救护队	jhdv
-吉哈德	jhd_
+加回到	jhd_
 焦化层	jhc_
 胶合板	jhbu
 记号笔	jhbo
@@ -26659,8 +26686,9 @@
 就是玩	jew'
 就是我	jew_
 救生艇	jet_
+介绍所	jesi
 加时赛	jesa
-介绍所	jes_
+就是算	jes_
 久石让	jeru
 介绍人	jer_
 禁售期	jeqvi
@@ -27248,6 +27276,7 @@
 害人虫	hrw_
 很惹人	hrr_
 很认真	hrq_
+好让你	hrna
 会让你	hrn_
 很热门	hrm_
 或然率	hrl_
@@ -27729,7 +27758,8 @@
 会说的	hed_
 含水层	heci
 还是从	hec_
-还是别	heb_
+还是别	hebv
+还是把	heb_
 护犊子	hdzi
 黄段子	hdz_
 活地狱	hdya
@@ -27854,7 +27884,8 @@
 很棒的	hbdu
 宏病毒	hbdoo
 恨不得	hbdo
-荷包蛋	hbdi
+荷包蛋	hbdiu
+黑白的	hbdi
 回不到	hbd'
 还不到	hbd_
 很不错	hbcu
@@ -28361,7 +28392,8 @@
 工程车	gjwv
 鬼见愁	gjwui
 公交车	gjwu
-广场舞	gjw_
+广场舞	gjwo
+攻击我	gjw_
 高产田	gjto
 过几天	gjt_
 冠军赛	gjso
@@ -28520,6 +28552,7 @@
 高转速	gfs_
 贵妇人	gfr_
 管风琴	gfqu
+高发期	gfqo
 高峰期	gfq_
 功夫片	gfp_
 跟着你	gfn_
@@ -30350,8 +30383,8 @@
 守门员	emyo
 什么也	emyi
 圣母院	emya
-什么样	emy'
-什么用	emy_
+什么用	emy'
+什么样	emy_
 石墨烯	emxv
 生命线	emx_
 双马尾	emwa
@@ -31199,7 +31232,7 @@
 大无畏	dww_
 大问题	dwtv
 等问题	dwtu
-底朝天	dwt_
+点完头	dwt_
 戴维斯	dws_
 多万人	dwr_
 大湾区	dwqv
@@ -31607,8 +31640,9 @@
 地产商	djevo
 地级市	djeva
 大城市	djev
+独角兽	djeuu
 胆结石	djeua
-独角兽	djeu
+多交税	djeu
 垫脚石	djeiu
 倒计时	djeio
 当场说	djei
@@ -31822,9 +31856,10 @@
 电视片	depio
 低水平	depi
 打水漂	dep_
-独生女	denu
+独生女	denuu
+多少年	denu
 迪士尼	deni
-多少年	den_
+都是你	den_
 大沙漠	demv
 大什么	dem_
 断舍离	del_
@@ -32702,6 +32737,7 @@
 不太看	btk_
 不提倡	btjvi
 不推荐	btjv
+别弹成	btjo
 半脱产	btj_
 本土化	bthvv
 不听话	bthv
@@ -33587,6 +33623,7 @@
 帮帮忙	bbm_
 不必了	bblv
 冰冰凉	bblo
+搬不了	bbli
 巴比伦	bbla
 办不了	bbl_
 避不开	bbka
@@ -35440,8 +35477,10 @@
 坐稳	zlwni
 作文	zlwn
 坐床	zlwm
-坐卧	zlwli
-做窝	zlwl
+坐卧	zlwliv
+做窝	zlwli
+坐我	zlwl'
+做我	zlwl
 作物	zlwj
 作外	zlwh
 做完	zlwfi
@@ -36311,8 +36350,10 @@
 再洗	zhxkv
 在洗	zhxk
 再而	zhxj
-在学	zhxhv
-在爱	zhxh
+再爱	zhxhvu
+再学	zhxhv
+在爱	zhxh'
+在学	zhxh
 再行	zhxg
 在案	zhxf
 在俄	zhxe
@@ -37232,8 +37273,9 @@
 要虚	yzxl
 要细	yzxk
 幺儿	yzxj
+要隘	yzxhv
 药学	yzxhi
-要隘	yzxh
+要学	yzxh
 摇醒	yzxgi
 药性	yzxg
 要按	yzxfv
@@ -40239,7 +40281,8 @@
 一刹	ykesv
 一霎	ykes
 一声	ykervv
-一生	ykerv
+一生	ykervu
+一升	ykerv
 医生	yker
 一刷	ykeq
 衣裳	ykepo
@@ -43843,6 +43886,8 @@
 选录	xtlj
 炫铃	xtlg
 绚烂	xtlf
+炫了	xtleo
+悬了	xtlei
 选了	xtle
 悬空	xtky
 选框	xtkxu
@@ -44248,7 +44293,8 @@
 下集	xsjkvi
 下级	xsjkv
 夏季	xsjk
-下厨	xsjj
+下厨	xsjjv
+吓出	xsjj
 下井	xsjg
 瞎扯	xsjei
 下车	xsje
@@ -49063,21 +49109,6 @@
 超龄	wzlg
 超蓝	wzlf
 抄列	wzld
-超烤	wzkz
-超空	wzky
-超狂	wzkx
-超困	wzkw
-超宽	wzkt
-超卡	wzks
-超跨	wzkq
-超抗	wzkp
-超狂	wzkm
-超酷	wzkj
-超快	wzkg
-超侃	wzkf
-超刻	wzke
-超口	wzkd
-超亏	wzkb
 吵吵	wzjz
 超纯	wzjw
 超成	wzjr
@@ -53369,7 +53400,7 @@
 抽滤	wdll
 抽离	wdlk
 筹略	wdlh
-臭了	wdleu
+臭了	wdle'
 抽了	wdle
 丑陋	wdld
 抽考	wdkz
@@ -56366,6 +56397,7 @@
 停电	tgdm
 挺多	tgdl
 听读	tgdj
+听的	tgdeo
 听得	tgde
 挺逗	tgddi
 听碟	tgdd
@@ -56513,6 +56545,7 @@
 袒露	tfljo
 探路	tflj
 贪婪	tflf
+弹了	tflea
 谈了	tfle
 炭烤	tfkz
 探空	tfky
@@ -56531,8 +56564,9 @@
 炭菌	tfjwi
 探春	tfjw
 谈价	tfjs
-坦承	tfjrv
-坦诚	tfjr
+坦承	tfjrva
+坦诚	tfjrv
+弹成	tfjr
 探究	tfjq
 弹唱	tfjp
 探监	tfjm
@@ -67760,6 +67794,8 @@
 喷灯	pndr
 盆地	pndk
 喷镀	pndj
+喷的	pndeo
+喷得	pnde
 盆菜	pnch
 喷泵	pnbr
 喷薄	pnbl
@@ -78533,6 +78569,7 @@
 来途	lhtjv
 略图	lhtj
 来台	lhth
+来听	lhtg
 莱特	lhte
 来头	lhtd
 来挑	lhtc
@@ -83939,7 +83976,8 @@
 甲贺	jshei
 家和	jshe
 加厚	jshd
-夹回	jshb
+夹回	jshbv
+加回	jshb
 加高	jsgz
 加工	jsgy
 夹棍	jsgwv
@@ -111306,7 +111344,8 @@
 大字	dszkv
 搭子	dszki
 打字	dszk
-大足	dszj
+大足	dszjv
+大组	dszj
 大灾	dszhv
 搭在	dszhi
 搭载	dszh
@@ -117287,9 +117326,9 @@
 彩装	chfmu
 彩妆	chfm
 裁酌	chfl
-才智	chfkv
+才智	chfkvu
+材质	chfkv
 采制	chfku
-材质	chfk'
 才知	chfk
 财富	chfj
 采摘	chfh
@@ -120878,8 +120917,9 @@
 捕手	bjedi
 不熟	bjed'
 不收	bjed
+不睡	bjebv
 补水	bjebo
-不睡	bjeb
+补税	bjeb
 布道	bjdzv
 补刀	bjdzo
 不倒	bjdz
