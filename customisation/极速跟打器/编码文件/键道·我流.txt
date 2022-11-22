@@ -2450,7 +2450,6 @@
 有去无回	yqwh
 鸦雀无声	yqwe
 有期徒刑	yqtx
-硬着头皮	yqtp
 异曲同工	yqtg
 用其所长	yqsj
 由浅入深	yqre
@@ -3023,7 +3022,7 @@
 义愤填膺	yftyo
 一致同意	yfty
 有福同享	yftx
-硬着头皮	yftpv
+硬着头皮	yftp
 一致通过	yftgv
 一方天地	yftdv
 约法三章	yfsq
@@ -3971,7 +3970,7 @@
 心力交瘁	xljco
 心理疾病	xljbov
 兴利除弊	xljbo
-稀里糊涂	xlhtu
+稀里糊涂	xlht
 稀里哗啦	xlhlu
 先来后到	xlhdu
 心理活动	xlhd
@@ -17989,8 +17988,9 @@
 一幅画	yfhvi
 一番话	yfhv'
 一分货	yfhv
-也符合	yfha
-也只好	yfh_
+也符合	yfhau
+也只好	yfha
+一直晃	yfh_
 宇宙观	yfg_
 一支支	yffvu
 一只只	yffv
@@ -20688,6 +20688,7 @@
 体弱者	trqi
 天然气	trq_
 挺热闹	trn_
+腿软了	trl_
 突然看	trk_
 唐人街	trjo
 突然间	trj_
@@ -23475,8 +23476,10 @@
 农科院	nky_
 内科学	nkx_
 能开胃	nkw_
-鸟瞰图	nktu
-脑壳疼	nkt_
+鸟瞰图	nktui
+脑壳疼	nktu
+你看她	nkt'
+你看他	nkt_
 尼克松	nks_
 南柯梦	nkm_
 你看看	nkk_
@@ -28609,6 +28612,7 @@
 更深入	gerv
 高收入	gero
 过生日	ger_
+刚上去	geqi
 搞事情	geq_
 故事片	gepu
 高射炮	gepo
@@ -28662,6 +28666,7 @@
 搞定了	gdl_
 过得快	gdk_
 宫斗剧	gdjo
+刚到家	gdji
 滚动键	gdja
 给大家	gdj_
 干得好	gdhv
@@ -31568,7 +31573,8 @@
 大老板	dlb_
 动筷子	dkz_
 大可以	dky_
-笛卡尔	dkxu
+笛卡尔	dkxui
+多开心	dkxu
 对抗性	dkx_
 大客车	dkwv
 大卡车	dkw_
@@ -32041,7 +32047,8 @@
 代表们	dbmi
 蛋白酶	dbma
 道不明	dbm_
-达标率	dblvv
+达标率	dblvvo
+动不了	dblvv
 到不了	dblv'
 大不了	dblv
 冬不拉	dbluvi
@@ -41208,8 +41215,8 @@
 研讨	yftz
 眼瞳	yftyi
 雁塔	yfts
+燕塘	yftpv
 炎唐	yftpo
-燕塘	yftp
 盐田	yftm
 延拓	yftl
 演替	yftka
@@ -45367,7 +45374,7 @@
 蓄洪	xlhy
 虚晃	xlhx
 许婚	xlhw
-虚幻	xlht
+虚幻	xlhti
 盱衡	xlhr
 叙话	xlhqi
 虚化	xlhq
@@ -53212,6 +53219,7 @@
 车皮	wepkv
 扯皮	wepk
 车牌	weph
+车评	wepgv
 扯平	wepg
 车盘	wepf
 车票	wepc
@@ -88430,14 +88438,6 @@
 车展	jeqfv
 车站	jeqf
 扯着	jeqe
-车棚	jepr
-扯破	jepl
-车皮	jepkv
-扯皮	jepk
-车牌	jeph
-扯平	jepg
-车盘	jepf
-车票	jepc
 车内	jenw
 车奴	jenj
 车马	jems
