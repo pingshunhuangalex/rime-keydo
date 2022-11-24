@@ -860,7 +860,7 @@
 而不仅仅是	xbjev
 西部大开发	xbdfv
 稳坐钓鱼船	wzdw
-稳坐钓鱼台	wzdtu
+稳坐钓鱼台	wzdt
 网易云音乐	wyyy
 物以稀为贵	wyxgu
 无用武之地	wywd
@@ -1117,6 +1117,7 @@
 克里斯托弗	klsfu
 克里姆林宫	klmg
 快乐大本营	kldyo
+可控核聚变	kkhb
 空口说白话	kkeh
 科技工作者	kjgqu
 科技工作者	kjgfu
@@ -5410,9 +5411,7 @@
 陶冶情操	tyqca
 徒有其表	tyqbu
 糖衣炮弹	typd
-它有没有	tymyo
-他有没有	tymyi
-她有没有	tymya
+太阳能板	tynb
 甜言蜜语	tymy
 头晕目眩	tymx
 听雨两笔	tylbo
@@ -5761,7 +5760,7 @@
 填海造陆	thzlv
 昙花一现	thyx
 头昏眼花	thyh
-铁画银钩	thyg
+铁画银钩	thygi
 退火算法	thsf
 投怀送抱	thsbi
 谈何容易	thry
@@ -8792,7 +8791,7 @@
 林林总总	llzzv
 历历在目	llzm
 老泪纵横	llzhu
-懒懒幽幽	llyy
+懒懒幽幽	llyyo
 愣了一下	llyx
 理论依据	llyjv
 理论研究	llyj
@@ -14730,7 +14729,6 @@
 灯火通明	dhtmo
 对号入座	dhrz
 党和人民	dhrm
-多喝热水	dhre
 大好青春	dhqjv
 党和政府	dhqfi
 大获全胜	dhqe
@@ -17071,6 +17069,7 @@
 营养学	yyxio
 营业额	yyxi
 婴幼儿	yyxa
+云一下	yyx'
 用一下	yyx_
 有疑问	yywvu
 原以为	yywva
@@ -18141,7 +18140,8 @@
 一大群	ydq_
 一大片	ydpv
 一大批	ydp_
-雅典娜	ydnv
+雅典娜	ydnvi
+有点腻	ydnv
 遇到你	ydn_
 源代码	ydma
 有点慢	ydm_
@@ -18691,6 +18691,7 @@
 小算盘	xsp_
 阿森纳	xsn_
 奥斯曼	xsm_
+下三路	xslvv
 下三滥	xslv
 奥斯陆	xslu
 新丝路	xsloa
@@ -20189,6 +20190,7 @@
 车轱辘	wglvv
 万公里	wglv
 外国佬	wglu
+吹过来	wglo
 传过来	wgli
 抽干了	wgl_
 五官科	wgk_
@@ -20417,6 +20419,7 @@
 吃不上	wbeov
 穿不上	wbeo
 我不是	wbe_
+玩不动	wbdvvv
 查不到	wbdvv
 王八蛋	wbdvu
 无边的	wbdv
@@ -20911,7 +20914,8 @@
 逃出来	tjlu
 投简历	tjliu
 掏出来	tjli
-通缉令	tjla
+通缉令	tjlaa
+退潮了	tjla
 脱节了	tjl'
 提出了	tjl_
 停车库	tjki
@@ -22517,7 +22521,8 @@
 奇迹般	qjb_
 却还在	qhz_
 其含义	qhyv
-正好也	qhy_
+正好也	qhy'
+正好要	qhy_
 真好啊	qhxu
 这会儿	qhx_
 前后文	qhw_
@@ -23692,7 +23697,6 @@
 你别笑	nbxi
 尼泊尔	nbxa
 诺贝尔	nbx_
-南北朝	nbw_
 那不算	nbs_
 女病人	nbra
 那不然	nbr_
@@ -23704,7 +23708,8 @@
 闹别扭	nbno
 能不能	nbn_
 你别哭	nbk_
-南北朝	nbju
+南北朝	nbjui
+牛板筋	nbju
 拿不出	nbji
 难不成	nbj_
 弄不好	nbhv
@@ -23902,6 +23907,7 @@
 满堂红	mth_
 米田共	mtgoi
 门头沟	mtgo
+没停过	mtga
 没听过	mtg_
 描图纸	mtfi
 满天飞	mtf_
@@ -26296,7 +26302,8 @@
 伽利略	jlli
 迦楼罗	jllav
 建立了	jlla
-经历了	jll_
+经历了	jll'
+进来了	jll_
 进来看	jlk_
 超链接	jljv
 捡垃圾	jljiv
@@ -27660,8 +27667,8 @@
 好复杂	hfza
 横着走	hfz_
 核反应	hfyv
-会这样	hfyi
-很重要	hfy_
+很重要	hfyu
+会这样	hfy_
 还追星	hfxv
 后防线	hfxu
 合法性	hfx_
@@ -28943,6 +28950,7 @@
 专业版	fybvi
 职业病	fybv
 风云榜	fybu
+这一波	fybov
 这一步	fybo
 招议标	fybiov
 中译本	fybio
@@ -29527,11 +29535,12 @@
 封建制	fjfv
 反交费	fjfu
 这几种	fjfo
-非处方	fjfi
+非处方	fjfiu
+中介费	fjfi
+附加费	fjfaaa
 附加值	fjfaa
 终结者	fjfa
-附加费	fjf'
-中介费	fjf_
+装就装	fjf_
 副驾驶	fjeva
 副教授	fjev
 重金属	fjeu
@@ -29999,6 +30008,7 @@
 分别是	fbe'
 这不是	fbe_
 转不到	fbdv
+追不动	fbduv
 分不到	fbdu
 扶不动	fbdi
 防波堤	fbdaa
@@ -30492,10 +30502,11 @@
 数了数	ele'
 试了试	ele_
 十六大	eldu
-熟练度	eldo
+熟练度	eldoa
+数量多	eldo
 手榴弹	eldi
 水帘洞	elda
-数量多	eld_
+少了点	eld_
 数量词	elc_
 水利部	elb_
 山口组	ekzi
@@ -31585,7 +31596,8 @@
 读卡器	dkq_
 雕刻品	dkp_
 打开门	dkm_
-抵抗力	dkli
+抵抗力	dklii
+打开来	dkli
 多亏了	dkl_
 地矿局	dkjvv
 大卡车	dkjv
@@ -32723,10 +32735,10 @@
 不同于	bty_
 不妥协	btxvu
 不停歇	btxvi
-不太像	btxv
+不太像	btxv'
+不太想	btxv
 白天鹅	btxu
-不太行	btx'
-不太想	btx_
+不太行	btx_
 标题为	btwv
 白头翁	btw_
 扁桃体	btt_
@@ -32913,6 +32925,7 @@
 被批捕	bpb_
 不能做	bnzv
 白娘子	bnzu
+不能再	bnz'
 不能在	bnz_
 不能用	bny_
 不耐心	bnxv
@@ -33619,6 +33632,7 @@
 百宝箱	bbx'
 北部湾	bbwi
 帮帮我	bbw_
+不补贴	bbtv
 半边天	bbto
 棒棒糖	bbt_
 并不算	bbs_
@@ -34473,6 +34487,7 @@
 你和	nh_
 能和	nh'
 你就	nj_
+你可	nk_
 你了	nl_
 你没	nm_
 你能	nn_
@@ -34710,6 +34725,7 @@
 糟糕	zzgz
 早寡	zzgq
 早该	zzgh
+早个	zzge
 遭重	zzfyv
 早种	zzfy
 枣庄	zzfx
@@ -49208,9 +49224,6 @@
 焯水	wzebo
 潮水	wzeb
 朝东	wzdy
-超短	wzdt
-超大	wzds
-超等	wzdr
 炒店	wzdmo
 超点	wzdm
 超多	wzdl
@@ -51517,8 +51530,9 @@
 卧床	wlwm
 窝窝	wlwloo
 喔喔	wlwlo
+龌龊	wlwli
 戳戳	wlwla
-龌龊	wlwl
+戳我	wlwl
 我吃	wlwk
 我无	wlwj
 卧车	wlwe
@@ -55881,6 +55895,7 @@
 台语	thyl
 太乙	thykv
 太医	thyk
+太硬	thyg
 抬眼	thyfi
 太严	thyf
 太爷	thye
@@ -56368,6 +56383,7 @@
 挺嘎	tggs
 停更	tggr
 挺括	tggq
+停过	tggli
 听过	tggl
 听骨	tggj
 听歌	tgge
@@ -66406,7 +66422,6 @@
 这非	qefw
 折转	qeft
 蔗渣	qefs
-这封	qefr
 这方	qefp
 这份	qefn
 这幢	qefmoi
@@ -70200,6 +70215,7 @@
 能赢	nryg
 能言	nryf
 能因	nryb
+能熬	nrxz
 能像	nrxx
 能下	nrxs
 能行	nrxg
@@ -70394,7 +70410,8 @@
 扭伤	nqep
 扭身	nqen
 牛市	nqek
-牛舍	nqee
+牛舍	nqeeu
+牛舌	nqee
 牛首	nqed
 扭到	nqdzi
 牛刀	nqdz
@@ -70933,8 +70950,7 @@
 你哭	nkkj
 你快	nkkg
 你看	nkkf
-尼克	nkkea
-你可	nkke
+尼克	nkke
 拟将	nkjxi
 泥浆	nkjxa
 你将	nkjx
@@ -75430,8 +75446,8 @@
 老弟	lzdk
 老杜	lzdj
 老旦	lzdf
-老得	lzdeu
-老的	lzde
+老的	lzdeu
+老得	lzde
 老豆	lzddu
 老爹	lzdd
 老调	lzdc
@@ -77535,6 +77551,7 @@
 吕祖	llzj
 落在	llzh
 滤嘴	llzb
+裸泳	llyy
 吕元	llyt
 绿芽	llys
 绿杨	llypa
@@ -90255,8 +90272,8 @@
 好贱	hzjm
 豪举	hzjlo
 好聚	hzjlav
-好剧	hzjlaa
-好局	hzjla
+好局	hzjlaa
+好剧	hzjla
 好句	hzjl
 号机	hzjko
 好极	hzjkav
@@ -104931,6 +104948,7 @@
 这非	fefw
 折转	feft
 蔗渣	fefs
+这风	fefro
 这封	fefr
 这方	fefp
 这份	fefn
@@ -112701,7 +112719,6 @@
 电井	dmjgi
 电竞	dmjg
 电铲	dmjf
-电车	dmje
 点解	dmjdi
 电解	dmjd
 点校	dmjciv
@@ -113960,6 +113977,7 @@
 带人	dhrn
 代入	dhrji
 带入	dhrj
+带热	dhre
 待诏	dhqz
 带枪	dhqx
 代群	dhqw
