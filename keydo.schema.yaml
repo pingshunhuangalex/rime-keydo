@@ -103,8 +103,7 @@ recognizer:
 speller:
   algebra: # 核心拼写运算规则（编译后会写入`build`文件夹中的`prism`文件）
     __include: "layout/algebra" # 导入拼写运算规则
-  auto_select: true # 是否开启自动上屏
-  auto_select_unique_candidate: true # 是否开启无重码时自动上屏（仅在编码吻合时判断）
+  auto_select: true # 是否开启无重码时自动上屏（仅在编码吻合时判断）
   alphabet: "abcdefghijklmnopqrstuvwxyz;/=`" # 待监听的按键
   initials: "abcdefghijklmnopqrstuvwxyz;/=`" # 待监听的首位按键（引导键）
 

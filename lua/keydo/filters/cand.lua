@@ -88,9 +88,7 @@ local function init(env)
 
     env.reverse_dict = ReverseDb("build/keydo.reverse.bin") -- 从编译文件中获取反查词库
 
-    -- 从设置中读取自动上屏设置
-    env.has_auto_select = (config:get_bool("speller/auto_select") and
-        config:get_bool("speller/auto_select_unique_candidate")) or false
+    env.has_auto_select = config:get_bool("speller/auto_select") or false -- 从设置中读取自动上屏设置
     env.history_leader = config:get_string("repeat_history/input") -- 从设置中读取历史模式引导键
     env.phonetics_code = config:get_string("topup/phonetics_code") -- 从设置中读取音码集合
     env.stroke_code = config:get_string("topup/stroke_code") -- 从设置中读取形码集合
