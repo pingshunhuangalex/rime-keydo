@@ -126,6 +126,7 @@
 家家有本难念的经	jjyjo
 急惊风撞着慢郎中	jjffuo
 经报上级审批同意	jbey
+好言难劝该死的鬼	hyng
 和平共处五项原则	hpgzu
 会哭的孩子有奶吃	hkdw
 好记性不如烂笔头	hjxta
@@ -3379,6 +3380,7 @@
 寻踪觅迹	xzmj
 幸灾乐祸	xzlh
 下自成蹊	xzjxv
+心脏骤停	xzft
 爱憎分明	xzfm
 心醉神迷	xzem
 削足适履	xzel
@@ -8324,6 +8326,7 @@
 美丽动人	mldro
 马拉多纳	mldn
 没来得及	mldja
+买了点啥	mlde
 绵里藏针	mlcq
 免开尊口	mkzku
 每况愈下	mkyxu
@@ -10532,7 +10535,7 @@
 精神力量	jello
 军事力量	jell
 静水流深	jelev
-就事论事	jeleo
+就事论事	jele
 聚少离多	jeldvi
 军事科学	jekxo
 触手可及	jekju
@@ -15493,6 +15496,7 @@
 不温不火	bwbh
 不茶不饭	bwbfv
 保持不变	bwbb
+不太愿意	btyyv
 不太一样	btyy
 不同意见	btyjv
 悲痛欲绝	btyj
@@ -19774,7 +19778,8 @@
 慰问品	wwp_
 我为你	wwn_
 无重码	wwm_
-我悟了	wwlu
+我悟了	wwluo
+我撤了	wwlu
 唯物论	wwlo
 娃娃脸	wwla
 吃完了	wwl_
@@ -20960,6 +20965,7 @@
 褪黑素	thso
 桃红色	ths_
 挺好奇	thq_
+挺合拍	thp_
 它还能	thn_
 太狠了	thlvu
 太好了	thlv
@@ -21067,6 +21073,7 @@
 停尸间	teji
 台式机	tej_
 太上皇	tehv
+挺适合	tehi
 特殊化	teh_
 图书馆	tegi
 听说过	teg_
@@ -23186,6 +23193,7 @@
 拍巴掌	pbq_
 怕不怕	pbp_
 屏蔽门	pbm_
+碰不了	pblv
 屏蔽了	pbla
 跑不了	pbl_
 铺不开	pbki
@@ -23549,8 +23557,9 @@
 奈何桥	nhq_
 男或女	nhn_
 你好吗	nhm_
-脑回路	nhlu
-脑海里	nhl_
+脑回路	nhlui
+脑海里	nhlu
+拿好了	nhl_
 拿回扣	nhk_
 内环境	nhji
 粘合剂	nhj_
@@ -23614,7 +23623,8 @@
 农转非	nff_
 那种事	nfea
 你这是	nfe_
-南方的	nfd_
+南方的	nfdu
+你这都	nfd_
 你知不	nfbi
 你这边	nfb_
 你实在	nezi
@@ -24110,7 +24120,8 @@
 马路上	mle_
 美丽的	mldov
 蛮累的	mldo
-没料到	mld_
+没料到	mlda
+买了点	mld_
 煤老板	mlbo
 马路边	mlb_
 麦卡锡	mkxvi
@@ -25381,6 +25392,7 @@
 可能要	kny_
 康乃馨	knxo
 可能性	knx_
+可能我	knw_
 可能太	knt_
 烤牛肉	knr_
 可你却	knq_
@@ -25560,6 +25572,7 @@
 开发票	kfp_
 客房内	kfn_
 咖啡猫	kfm_
+开放了	kflv
 空置率	kflo
 卡菲勒	kflii
 控制论	kfli
@@ -25841,7 +25854,8 @@
 程序员	jxyu
 产学研	jxyoo
 交响乐	jxyo
-金镶玉	jxyi
+金镶玉	jxyii
+接线员	jxyi
 局限于	jxya
 仅限于	jxy_
 静下心	jxxv
@@ -26738,11 +26752,12 @@
 产生了	jelo'
 减少了	jelo
 尘世里	jeliv
+接受了	jeliu
 节省了	jeli
+出生率	jelauo
 承受力	jelau
 降水量	jelaa
-出生率	jela
-结束了	jel'
+结束了	jela
 出事了	jel_
 紧身裤	jeki
 就是看	jek_
@@ -27678,6 +27693,7 @@
 护发素	hfs_
 黑种人	hfri
 黄种人	hfr_
+很赚钱	hfqu
 花粉症	hfq_
 化妆品	hfp_
 黄蜂女	hfn_
@@ -27824,8 +27840,9 @@
 好多个	hdg_
 获得者	hdfi
 很多种	hdf_
+很多事	hdeu
 活动室	hdea
-很多事	hde_
+还得是	hde_
 黄赌毒	hddv
 很低的	hddui
 很多的	hddu'
@@ -28504,6 +28521,7 @@
 共患难	ghn_
 钢化膜	ghm_
 赶回来	ghlv
+搞混了	ghli
 改好了	ghla
 搞好了	ghl_
 怪好看	ghko
@@ -29179,6 +29197,7 @@
 只认可	frk_
 缝纫机	frj_
 中日韩	frh_
+招人烦	frf_
 值日生	fre_
 副热带	frd_
 富人榜	frb_
@@ -29649,6 +29668,7 @@
 发给她	fgt'
 发给他	fgt_
 分公司	fgs_
+中国人	fgrii
 找个人	fgri
 法国人	fgra
 这个人	fgr_
@@ -32294,7 +32314,8 @@
 测量器	clqa
 磁疗器	clq_
 才令你	cln_
-磁力链	cll_
+磁力链	cllv
+错乱了	cll_
 从来就	clj_
 存量化	clh_
 残留着	clfv
@@ -33133,6 +33154,7 @@
 不成想	bjxvv
 百家姓	bjxvo
 比较小	bjxv
+补救下	bjxo
 北极熊	bjxiva
 北极星	bjxiv
 背景下	bjxio
@@ -33176,8 +33198,10 @@
 比较慢	bjmv
 比较忙	bjm_
 不成立	bjlvv
+不讲理	bjlvo
 不激烈	bjlva
-不讲理	bjlv
+比较懒	bjlv'
+比较累	bjlv
 冰激凌	bjloa
 别卷了	bjlo
 边角料	bjla
@@ -33333,7 +33357,8 @@
 帮个忙	bgm_
 百公里	bglvu
 不归路	bglvi
-不给力	bglv
+不给力	bglva
+不够了	bglv
 曝光率	bgloi
 别管了	bglo
 办公楼	bgla
@@ -34522,6 +34547,7 @@
 人人	rr_
 热搜	rs_
 热线	rx_
+人在	rz_
 三次	sc_
 三个	sg_
 搜狗	sg'
@@ -41642,9 +41668,11 @@
 也无	yewja
 业务	yewj
 野外	yewh
+也玩	yewfa
 夜晚	yewf
 腋臭	yewdu
 野炊	yewb
+也痛	yetya
 也同	yety
 野塘	yetp
 液体	yetk
@@ -43014,7 +43042,8 @@
 敖包	xzbz
 澳北	xzbw
 奥博	xzbl
-奥比	xzbk
+奥比	xzbku
+澳币	xzbk
 鳌拜	xzbh
 鏖兵	xzbg
 凹版	xzbf
@@ -56006,8 +56035,9 @@
 太难	thnfv
 台南	thnf
 胎毛	thmz
+太美	thmwv
 台妹	thmwa
-太美	thmw
+台媒	thmw
 太麻	thms
 台盟	thmra
 太猛	thmr
@@ -65502,7 +65532,7 @@
 债国	qhgl
 确固	qhgj
 缺钙	qhgh
-摘桂	qhgb
+缺个	qhge
 宅中	qhfy
 却非	qhfw
 缺乏	qhfs
@@ -66694,6 +66724,7 @@
 敲来	qclh
 侨领	qclg
 桥栏	qclf
+翘了	qclev
 巧了	qcle
 桥楼	qcld
 乔林	qclb
@@ -73620,8 +73651,8 @@
 没顶	mldg
 魔弹	mldf
 末的	mldev
-摸得	mldei
-莫得	mlde
+摸得	mldeiu
+莫得	mldei
 魔豆	mldd
 抹掉	mldc
 莫对	mldb
@@ -74320,8 +74351,8 @@
 买断	mhdt
 迈达	mhds
 迈等	mhdr
-买点	mhdma
-卖点	mhdm
+卖点	mhdmu
+买点	mhdm
 麦垛	mhdl
 麦地	mhdkv
 卖地	mhdku
@@ -80038,9 +80069,11 @@
 靠多	kzdl
 靠地	kzdk
 考订	kzdg
-考得	kzdeu
-烤得	kzdeo
-靠的	kzde
+靠的	kzdeuu
+考的	kzdeu
+烤的	kzdeo
+考得	kzde'
+烤得	kzde
 靠猜	kzch
 拷贝	kzbwi
 靠背	kzbw
@@ -88473,7 +88506,6 @@
 车路	jelj
 车铃	jelgv
 车龄	jelg
-撤了	jele
 车裂	jeldv
 车列	jeld
 车况	jekx
@@ -94670,8 +94702,9 @@
 灰土	hbtjv
 绘图	hbtj
 会听	hbtg
-回弹	hbtfi
-会谈	hbtf
+回弹	hbtfia
+会谈	hbtfi
+会弹	hbtf
 回帖	hbtdi
 回头	hbtd
 回调	hbtci
@@ -102549,8 +102582,8 @@
 装酷	fmkj
 撞开	fmkh
 庄客	fmke
-庄稼	fmjso
-装甲	fmjs'
+庄稼	fmjsou
+装甲	fmjso
 庄家	fmjs
 装成	fmjr
 桩长	fmjp
@@ -103221,8 +103254,8 @@
 执迷	fkmki
 致密	fkmk
 之母	fkmj
-只买	fkmho
-只卖	fkmh
+只卖	fkmho
+只买	fkmh
 致命	fkmgv
 之命	fkmgoi
 之名	fkmgo
@@ -108407,7 +108440,8 @@
 十周	ekfdu
 是否	ekfd
 石锥	ekfb
-事少	ekez
+事少	ekezv
+是少	ekez
 是谁	ekew
 是啥	ekes
 失声	ekeru
@@ -111851,9 +111885,9 @@
 大黄	dshm
 大祸	dshlvo
 大获	dshlvi
-大活	dshlva
 大伙	dshlv
 打火	dshli
+大活	dshl'
 大火	dshl
 大湖	dshjva
 大呼	dshjv
@@ -116363,6 +116397,7 @@
 曾给	crgw
 曾跟	crgn
 曾敢	crgf
+蹭个	crge
 层中	crfy
 层状	crfx
 层峰	crfr
@@ -117758,6 +117793,7 @@
 凑合	cdhe
 凑个	cdge
 凑够	cdgd
+凑分	cdfn
 凑上	cdep
 凑数	cdej
 凑手	cded
