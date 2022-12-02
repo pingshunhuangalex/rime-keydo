@@ -446,7 +446,7 @@
 夏虫不可语冰	xwbb
 哀莫大于心死	xmdso
 心理承受能力	xljl
-迅雷不及掩耳	xlbx
+迅雷不及掩耳	xlbxa
 相见不如怀念	xjbnv
 阿共仔的阴谋	xgzm
 香港中文大学	xgfxu
@@ -2350,6 +2350,7 @@
 意思就是	ysjeo
 耶稣基督	ysjdv
 严丝合缝	yshf
+颜色革命	ysgmo
 雅俗共赏	ysgev
 有丝分裂	ysflv
 云散风流	ysfl
@@ -4003,6 +4004,7 @@
 心理测试	xlce
 笑里藏刀	xlcd
 阿拉伯语	xlby
+小老百姓	xlbx
 下里巴人	xlbrv
 阿拉伯人	xlbr
 下落不明	xlbmv
@@ -4446,7 +4448,7 @@
 幸不辱命	xbrmv
 下笔千言	xbqy
 二逼青年	xbqnv
-想不起来	xbqlv
+想不起来	xbql
 下不去手	xbqe
 想不明白	xbmbv
 西伯利亚	xblyv
@@ -5443,6 +5445,7 @@
 体育彩票	tycpi
 太有才了	tycl
 体育比赛	tybs
+退一步讲	tybja
 头也不回	tybho
 统一包装	tybfa
 铤而走险	txzx
@@ -6477,6 +6480,7 @@
 如出一辙	rjyfa
 日久月深	rjyeo
 忍饥挨饿	rjxxa
+日常相处	rjxj
 入境问俗	rjws
 人畜无害	rjwhi
 儒家文化	rjwh
@@ -10529,7 +10533,6 @@
 九十年代	jend
 即使没有	jemy
 精神面貌	jemmo
-车水马龙	jemlv
 近水楼台	jelt
 军事理论	jellov
 精神力量	jello
@@ -12134,6 +12137,7 @@
 广电总局	gdzjo
 固定资产	gdzji
 感到自豪	gdzhv
+搞到最后	gdzh
 古典音乐	gdyyu
 高等院校	gdyx
 孤单一人	gdyr
@@ -14849,6 +14853,7 @@
 独善其身	deqe
 大事铺张	depq
 电视屏幕	depm
+动手能力	denlv
 多少年来	denl
 电闪雷鸣	delm
 独守空房	dekf
@@ -17353,7 +17358,8 @@
 异体字	ytza
 一摊子	ytz_
 一条鱼	ytyv
-也同样	yty_
+也同样	ytya
+依托于	yty_
 一摊血	ytxv
 英特尔	ytxi
 一条心	ytx_
@@ -18677,6 +18683,7 @@
 洗头膏	xtg_
 谢霆锋	xtfo
 小摊贩	xtf_
+形态上	xtev
 安徒生	xteo
 兴头上	xte_
 相同的	xtdv
@@ -19522,6 +19529,7 @@
 想不起	xbqv
 闲不住	xbqo
 细胞器	xbqa
+下不去	xbq'
 而不去	xbq_
 西柏坡	xbp_
 下半年	xbn_
@@ -20880,8 +20888,9 @@
 特靠谱	tkp_
 土库曼	tkmv
 太空棉	tkm_
-太酷了	tklv
-太亏了	tkl_
+太酷了	tklvv
+太亏了	tklv
+推开了	tkl_
 偷窥狂	tkk_
 提款机	tkj_
 太空灰	tkhv
@@ -20990,6 +20999,7 @@
 它会被	thbo
 她会被	thba
 他会被	thb_
+太过于	tgyv
 铁观音	tgy_
 腾格尔	tgxu
 台港澳	tgxa
@@ -21094,6 +21104,7 @@
 土豆网	tdw_
 土豆条	tdtvv
 太蛋疼	tdtv
+挺蛋疼	tdti
 他对她	tdt'
 他对他	tdt_
 土豆丝	tds_
@@ -24008,9 +24019,10 @@
 马屁精	mpj_
 冒牌货	mphi
 门牌号	mph_
-马奶子	mnzaa
-满脑子	mnza
-美男子	mnz_
+毛坯房	mpf_
+美男子	mnzo
+马奶子	mnza
+满脑子	mnz_
 闽南语	mnyo
 木乃伊	mny_
 美女秀	mnx_
@@ -24440,9 +24452,9 @@
 另一位	lyw_
 林语堂	lytvo
 林业厅	lytv
+老油条	lytua
 老一套	lytu
 旅游团	lyto
-老油条	lyt'
 另一条	lyt
 李约瑟	lysv
 刘易斯	lyso
@@ -25462,8 +25474,9 @@
 开口跪	kkg_
 看看谁	kkei
 开口说	kke_
+开口道	kkdv
 苦苦的	kkdi
-开口道	kkd_
+看开点	kkd_
 看看吧	kkb_
 空架子	kjzo
 快节奏	kjz_
@@ -26913,8 +26926,7 @@
 据测算	jcs_
 决策人	jcr_
 检测器	jcqv
-寄存器	jcqov
-决策者	jcqo
+寄存器	jcqo
 储存器	jcqi
 监测站	jcq_
 洁厕灵	jcla
@@ -26922,7 +26934,8 @@
 储存卡	jck_
 除草剂	jcj_
 储藏柜	jcg_
-决策者	jcf_
+决策者	jcfo
+寄存费	jcf_
 储藏室	jcei
 纯粹是	jce_
 检测点	jcdv
@@ -26982,16 +26995,17 @@
 解不开	jbk_
 成本价	jbjvv
 基本就	jbjv
+怵不怵	jbjovo
 交杯酒	jbjov
 肩并肩	jbjoo
 记笔记	jbjo
 常备军	jbjiuo
 储备金	jbjiu
-挤不进	jbji
+紧不紧	jbji
 君不见	jbjav
-加把劲	jbja
-怵不怵	jbj'
-加不加	jbj_
+加把劲	jbjai
+加不加	jbja
+挤不进	jbj_
 简笔画	jbhu
 决不会	jbho
 绝不会	jbh_
@@ -27629,7 +27643,8 @@
 狠狠地	hhduu
 很好的	hhdu
 糊糊的	hhdo
-缓缓地	hhda
+好很多	hhda
+缓缓地	hhd'
 好好地	hhd_
 黄花菜	hhc_
 汉化版	hhba
@@ -29339,6 +29354,7 @@
 殖民者	fmqv
 反民主	fmqua
 父母亲	fmqu
+这么巧	fmqo
 发明权	fmqa
 这么强	fmq_
 非卖品	fmpi
@@ -30158,10 +30174,11 @@
 深一点	eyda
 是有多	eyd'
 是有点	eyd_
+试用版	eybou
 实验班	eyboa
-试用版	eybo
-刷一波	eyba
-试一遍	eyb_
+试一遍	eybo
+刷一遍	eyba
+刷一波	eyb_
 傻儿子	exzi
 使性子	exz_
 十二月	exyu
@@ -30561,9 +30578,10 @@
 上进心	ejxi
 双绞线	ejxa
 山脚下	ejx_
-时间差	ejwoo
 时间戳	ejwo
-省纪委	ejw_
+省纪委	ejwi
+圣甲虫	ejwa
+时间差	ejw_
 噬菌体	ejtoii
 瘦金体	ejtoi
 神经痛	ejto
@@ -31652,9 +31670,11 @@
 大家庭	djt_
 大奖赛	djs_
 奠基人	djr_
-东城区	djqv
+东城区	djqvv
+大几千	djqv
 戴进去	djqu
-代金券	djq_
+代金券	djqi
+带进去	djq_
 挡箭牌	djpi
 到处跑	djp_
 大场面	djm_
@@ -32914,6 +32934,7 @@
 标准化	bqh_
 不粘锅	bqgv
 不奇怪	bqg_
+不强制	bqfv
 版权方	bqfu
 辩证法	bqfo
 补助费	bqf_
@@ -33234,7 +33255,8 @@
 八进制	bjfu
 别急着	bjfo
 不急着	bjf_
-不成熟	bjevv
+不成熟	bjevvo
+比较熟	bjevv
 不解释	bjevu
 本就是	bjevo
 不接受	bjevi
@@ -33948,7 +33970,8 @@
 绝对	jao
 姐姐	jau
 渐渐	jav
-几个	ji
+就上	ji
+几个	ji'
 结果	jia
 紧紧	jii
 经常	jio
@@ -34069,10 +34092,10 @@
 每天	mvv
 你那	na
 你又	na'
-能力	naa
-年纪	naa'
+年纪	naa
 女孩	nai
 难以	nao
+能力	nau
 农民	nav
 你们	ni
 哪里	nia
@@ -48722,7 +48745,7 @@
 新账	xbqp
 心真	xbqn
 新欠	xbqm
-新区	xbql
+新区	xbqlo
 心气	xbqko
 新奇	xbqk
 新竹	xbqjou
@@ -53271,6 +53294,7 @@
 车马	wems
 车门	wemn
 撤免	wemm
+车膜	weml'
 车模	weml
 车迷	wemk
 车龙	wely
@@ -60872,7 +60896,7 @@
 如昔	rjxkav
 如戏	rjxka
 入席	rjxk
-入耳	rjxj
+入耳	rjxju
 乳癌	rjxhu
 儒学	rjxhi
 如血	rjxhau
@@ -69726,6 +69750,7 @@
 浓度	nydj
 农贷	nydh
 浓淡	nydf
+弄的	nydev
 弄得	nyde
 弄掉	nydc
 弄对	nydb
@@ -88493,7 +88518,6 @@
 车马	jems
 车门	jemn
 撤免	jemm
-车模	jeml
 车迷	jemk
 车龙	jely
 车辆	jelx
@@ -98968,7 +98992,7 @@
 狗子	gdzku
 钩子	gdzk
 购租	gdzj
-狗仔	gdzh
+狗仔	gdzhu
 勾走	gdzd
 狗嘴	gdzb
 购药	gdyza
@@ -120480,10 +120504,10 @@
 布下	bjxs'
 不下	bjxs
 不羞	bjxqvo
-不休	bjxqvi
 不朽	bjxqv
 补修	bjxqoi
 补休	bjxqo
+不休	bjxq'
 不修	bjxq
 不现	bjxmvv
 不闲	bjxmvo
@@ -122108,7 +122132,8 @@
 别创	bdwx
 别为	bdww
 别挖	bdws
-别忘	bdwp
+别忘	bdwpo
+别往	bdwp
 别问	bdwn
 别创	bdwm
 别无	bdwj
