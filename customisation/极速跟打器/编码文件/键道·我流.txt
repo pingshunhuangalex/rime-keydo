@@ -25949,7 +25949,8 @@
 监察员	jwyi
 乘务员	jwy_
 基围虾	jwxv
-储物箱	jwx_
+储物箱	jwxi
+加微信	jwx_
 颤巍巍	jww_
 检查团	jwtvv
 成问题	jwtv
@@ -28498,8 +28499,8 @@
 贵金属	gjeii
 刚结束	gjeia
 国际上	gjei
-估计是	gje'
-关键是	gje_
+关键是	gje'
+估计是	gje_
 工程队	gjdvu
 共产党	gjdvo
 根据地	gjdvi
@@ -64425,7 +64426,8 @@
 棋子	qkzkv
 旗子	qkzko
 弃子	qkzk
-七组	qkzj
+七组	qkzjv
+起租	qkzj
 骑在	qkzh
 其责	qkze
 气走	qkzd
