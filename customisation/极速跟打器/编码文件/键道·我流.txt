@@ -971,7 +971,6 @@
 人与人之间	ryrj
 若要人不知	ryrfi
 仁义礼智信	rylxi
-瑞雪兆丰年	rxqn
 人心隔肚皮	rxgp
 瑞雪兆丰年	rxfn
 润物细无声	rwxe
@@ -4384,6 +4383,7 @@
 澳大利亚	xdly
 下大力气	xdlqv
 相对来说	xdlev
+阿德莱德	xdlda
 现代科学	xdkx
 相当可观	xdkg
 下定决心	xdjx
@@ -17813,8 +17813,8 @@
 移机费	yjfu
 演讲者	yjfa
 也就只	yjf_
-研究室	yjevo
-研究生	yjev'
+研究室	yjevoo
+研究生	yjevo
 一件事	yjev
 意见书	yjeo
 眼镜蛇	yjeii
@@ -19429,7 +19429,8 @@
 兄弟们	xdmo
 斜对面	xdmi
 想得美	xdm_
-相对论	xdlv
+相对论	xdlva
+下单了	xdlv
 奥地利	xdluv
 爱抖露	xdlui
 鹅蛋脸	xdlua
@@ -19697,6 +19698,7 @@
 臭氧层	wycu
 吃一次	wyc_
 万用表	wybv
+我也被	wybu
 文艺报	wyboi
 冲一波	wybo
 创业板	wybii
@@ -20586,6 +20588,7 @@
 通讯社	txea
 天下事	txe_
 挺香的	txdiu
+挺响的	txdio
 挺像的	txdi'
 挺想的	txdi
 贴心的	txda
@@ -20626,6 +20629,7 @@
 挺充实	twei
 台湾省	twea
 听我说	twe_
+挺愁的	twdiu
 挺晚的	twdi
 台湾岛	twda
 听我的	twd_
@@ -20788,7 +20792,8 @@
 团年饭	tnf_
 听你说	tne_
 他娘的	tndia
-挺难的	tndi
+挺难的	tndi'
+挺难得	tndi
 听你的	tnd_
 糖尿病	tnb_
 同命运	tmy_
@@ -21031,6 +21036,7 @@
 团中央	tfy_
 同轴线	tfxi
 突发性	tfx_
+挺支持	tfwi
 铁饭碗	tfw_
 他终日	tfr_
 田馥甄	tfqi
@@ -21076,8 +21082,8 @@
 台上盆	tep_
 同事们	tem_
 太顺了	telvu
-太神了	telv'
-太爽了	telv
+太神了	telv
+太爽了	tel'
 太少了	tel_
 投石机	tejiv
 停尸间	teji
@@ -22795,7 +22801,8 @@
 齐步走	qbzo
 这辈子	qbz_
 区别于	qbyv
-请不要	qby_
+请不要	qbyo
+准备要	qby_
 亲笔写	qbxo
 真不行	qbx_
 千百万	qbw_
@@ -25399,6 +25406,7 @@
 开盘价	kpj_
 开普敦	kpd_
 宽屏版	kpb_
+可能在	knz_
 可能也	knyv
 肯尼亚	knyi
 可能要	kny_
@@ -25515,7 +25523,8 @@
 会计法	kjf_
 会计师	kje_
 空出的	kjdo
-看出点	kjd_
+看出点	kjdi
+快进到	kjd_
 课间操	kjc_
 开场白	kjbv
 科技部	kjbu
@@ -28634,7 +28643,8 @@
 高中生	gfeo
 贵州省	gfei
 广州市	gfe_
-鬼知道	gfd_
+鬼知道	gfdu
+刚知道	gfd_
 寡妇村	gfc_
 葛洲坝	gfbi
 国防部	gfb_
@@ -28665,8 +28675,9 @@
 故事里	gelu
 跟上了	gel_
 更深刻	gek_
+更顺畅	gejvu
 工商界	gejvo
-更顺畅	gejv
+更实际	gejv
 古事记	geju
 国税局	geji
 工商局	gej_
@@ -31513,6 +31524,7 @@
 低能儿	dnx_
 逗你玩	dnw_
 大男人	dnr_
+电脑前	dnqi
 多年前	dnq_
 电脑屏	dnp_
 等你拿	dnn_
@@ -33151,10 +33163,10 @@
 被控告	bkg_
 不可知	bkfv
 半空中	bkf_
-本科生	bkev
+本科生	bkevu
+不肯说	bkev
 白开水	bkeu
-不愧是	bke'
-不肯说	bke_
+不愧是	bke_
 不可得	bkd_
 不可测	bkc_
 背靠背	bkbi
@@ -35039,7 +35051,8 @@
 贼眼	zwyfa
 尊严	zwyf
 尊像	zwxxo
-贼相	zwxxa
+贼相	zwxxav
+贼响	zwxxa
 尊享	zwxx
 遵循	zwxw
 尊贤	zwxm
@@ -47876,7 +47889,7 @@
 写了	xdle
 邪猎	xdldv
 谢喽	xdldo
-泄漏	xdlda
+泄漏	xdld'
 泄露	xdld
 卸料	xdlc
 斜靠	xdkz
@@ -56272,6 +56285,7 @@
 挺有	tgyd
 听音	tgyb
 挺胸	tgxy
+挺响	tgxxio
 挺香	tgxxi
 挺像	tgxx'
 挺想	tgxx
@@ -56603,8 +56617,6 @@
 痰阙	tfqh
 谈情	tfqg
 贪占	tfqf
-谈着	tfqeo
-弹着	tfqe
 弹琴	tfqba
 探亲	tfqb
 摊配	tfpw
@@ -56708,8 +56720,9 @@
 贪腐	tffji
 叹服	tffj
 摊贩	tfff
-谈着	tffeo
-弹着	tffe
+瘫着	tffeo
+弹着	tffea
+谈着	tffe
 坦洲	tffd
 弹升	tfer
 碳刷	tfeq
@@ -70941,7 +70954,8 @@
 你替	nktk
 泥土	nktj
 你太	nkth
-你听	nktg
+你听	nktgi
+你挺	nktg
 泥潭	nktf
 你投	nktd
 逆推	nktb
@@ -90261,7 +90275,8 @@
 好萌	hzmra
 好梦	hzmr
 好忙	hzmp
-豪门	hzmn
+豪门	hzmno
+好闷	hzmn
 好面	hzmm
 毫末	hzml
 毫米	hzmk
