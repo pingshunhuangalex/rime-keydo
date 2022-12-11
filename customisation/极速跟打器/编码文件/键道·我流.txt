@@ -1689,6 +1689,7 @@
 走了过来	zlglv
 自力更生	zlgeu
 坐立不安	zlbx
+做了半天	zlbt
 最了不起	zlbq
 坐冷板凳	zlbdi
 再苦再累	zkzlv
@@ -4651,7 +4652,7 @@
 朝鲜半岛	wxbdu
 持续不断	wxbd
 嗡嗡作响	wwzx
-五味杂陈	wwzjv
+五味杂陈	wwzj
 绰绰有余	wwyya
 微微一笑	wwyx
 五位一体	wwytv
@@ -11104,6 +11105,7 @@
 狐狸尾巴	hlwb
 囫囵吞枣	hltzi
 汉隆剃刀	hltda
+号令群雄	hlqxo
 虎落平阳	hlpy
 黄粱美梦	hlmmv
 获利了结	hllji
@@ -13391,7 +13393,7 @@
 瞬息万变	exwb
 山西太原	extyi
 顺心如意	exry
-十项全能	exqnu
+十项全能	exqn
 深陷其中	exqf
 上下其手	exqe
 身心疲惫	expbu
@@ -16125,6 +16127,7 @@
 包治百病	bfbb
 不是滋味	bezw
 巴山夜雨	beyya
+不适用于	beyy
 背水一战	beyq
 榜上有名	beym
 冰山一角	beyjo
@@ -20830,6 +20833,7 @@
 它们的	tmdo
 他妹的	tmdiau
 他妈的	tmdia
+挺迷的	tmdi'
 挺忙的	tmdi
 她们的	tmd_
 太明白	tmbv
@@ -24451,11 +24455,12 @@
 绿油油	lyya
 疗养院	lyy'
 旅游业	lyy_
-聊一下	lyxv
+连一下	lyxv
 刘禹锡	lyxou
-旅游鞋	lyxo
-来一下	lyx'
-另一些	lyx_
+旅游鞋	lyxoa
+另一些	lyxo
+聊一下	lyx'
+来一下	lyx_
 另一位	lyw_
 林语堂	lytvo
 林业厅	lytv
@@ -27674,8 +27679,9 @@
 韩国人	hgru
 回锅肉	hgr_
 昏过去	hgqu
+合格证	hgqi
 贺国强	hgqa
-合格证	hgq_
+混过去	hgq_
 合格品	hgp_
 灰姑娘	hgnv
 还给你	hgn_
@@ -29483,6 +29489,7 @@
 这可能	fkn_
 至昆明	fkm_
 分开来	fklo
+放开了	fkl'
 分开了	fkl_
 反抗军	fkju
 只看见	fkjo
@@ -30208,9 +30215,10 @@
 十二岁	exs_
 双休日	exra
 是想让	exr_
-上学期	exqi
-睡下去	exq'
-上星期	exq_
+烧下去	exqo
+上学期	exqio
+上星期	exqi
+睡下去	exq_
 试销品	exp_
 时限内	exn_
 事儿妈	exm_
@@ -31158,6 +31166,7 @@
 多元化	dyhu
 单引号	dyho
 等以后	dyh_
+多一个	dyguv
 冬阴功	dygua
 第一个	dygu
 定音鼓	dygoo
@@ -34507,6 +34516,7 @@
 就都	jd_
 就是	je_
 就这	jf_
+就个	jg_
 就和	jh_
 就好	jh'
 就没	jm_
@@ -36418,6 +36428,7 @@
 再以	zhykva
 再一	zhykv
 在意	zhyk
+再约	zhyhv
 在约	zhyh
 在英	zhyg
 再艳	zhyfv
@@ -47965,9 +47976,9 @@
 斜谷	xdgj
 斜杆	xdgfi
 偶感	xdgf
-写个	xdgeoi
 讴歌	xdgeo
-些个	xdge
+些个	xdgei
+写个	xdge
 邪鬼	xdgbv
 鞋柜	xdgb
 写照	xdfz
@@ -49676,7 +49687,7 @@
 围坐	wwzli
 为做	wwzl
 位子	wwzk
-维族	wwzj
+维族	wwzja
 未在	wwzhv
 围在	wwzhi
 为在	wwzh
@@ -84692,7 +84703,6 @@
 旧情	jqqgi
 就请	jqqg
 就占	jqqf
-就这	jqqeo
 九折	jqqe
 九窍	jqqc
 就寝	jqqb
@@ -84856,7 +84866,6 @@
 舅父	jqfj
 九寨	jqfh
 就范	jqff
-就这	jqfeo
 九折	jqfe
 九州	jqfd
 就少	jqez
@@ -105711,7 +105720,7 @@
 双全	exqt
 双争	exqr
 双掌	exqp
-双针	exqn
+双针	exqna
 双千	exqm
 双曲	exql
 双柱	exqj
