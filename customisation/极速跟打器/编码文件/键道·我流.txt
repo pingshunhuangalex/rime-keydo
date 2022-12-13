@@ -3837,7 +3837,7 @@
 相亲市场	xqej
 下情上达	xqedv
 饿着肚子	xqdzu
-安全第一	xqdyo
+安全第一	xqdy
 星球大战	xqdq
 西气东输	xqdev
 安全措施	xqce
@@ -18101,9 +18101,10 @@
 要说的	yedv
 饮食店	yedu
 意识到	yedo
+也是对	yedao
 验伤单	yedai
 以上的	yeda
-也是对	yed_
+一收到	yed_
 原上草	yec_
 一档子	ydzv
 一肚子	ydz'
@@ -18388,8 +18389,9 @@
 写字间	xzjo
 爱自己	xzj_
 爱祖国	xzg_
+学杂费	xzfo
 小作坊	xzfi
-学杂费	xzf_
+下载中	xzf_
 现在时	xze_
 二字词	xzc_
 心脏病	xzbo
@@ -27556,8 +27558,9 @@
 会客室	hkeio
 何况是	hkei
 海口市	hke_
-很亏的	hkduv
-很肯定	hkdu
+很肯定	hkdui
+很亏的	hkdu'
+很快的	hkdu
 很快地	hkd_
 航空兵	hkbu
 户口簿	hkbo
@@ -30290,8 +30293,9 @@
 生物界	ewj_
 什刹海	ewh_
 是我国	ewg_
+耍威风	ewfv
 生物钟	ewfu
-耍威风	ewf_
+上传中	ewf_
 杀无赦	eweu
 手挽手	ewei
 十五时	ewe_
@@ -44785,7 +44789,7 @@
 袖手	xqed
 嗅到	xqdzo
 修道	xqdz
-休动	xqdy
+休动	xqdyi
 修读	xqdj
 修订	xqdg
 修单	xqdf
