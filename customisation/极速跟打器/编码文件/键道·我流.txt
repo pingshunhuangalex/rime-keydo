@@ -27555,9 +27555,9 @@
 糊口饭	hkfo
 黑咖啡	hkfi
 喝咖啡	hkf_
-会客室	hkeio
-何况是	hkei
-海口市	hke_
+会客室	hkei
+海口市	hkea
+何况是	hke_
 很肯定	hkdui
 很亏的	hkdu'
 很快的	hkdu
