@@ -3247,6 +3247,7 @@
 有的放矢	ydfev
 应对方式	ydfeo
 愿赌服输	ydfe
+印度神油	ydey
 诱敌深入	ydero
 一段时期	ydeqv
 有待商榷	ydeq
@@ -8242,6 +8243,7 @@
 明年今日	mnjr
 木讷寡言	mngy
 莫逆之交	mnfji
+米诺地尔	mndx
 毛毛躁躁	mmzzu
 面貌一新	mmyx
 梦寐以求	mmyq
@@ -12624,6 +12626,7 @@
 分配制度	fpfdu
 风评被害	fpbh
 转念一想	fnyx
+非那雄胺	fnxxi
 知难而退	fnxtu
 妇女儿童	fnxta
 知难而进	fnxju
@@ -32991,6 +32994,7 @@
 白皮书	bpe_
 不平等	bpd_
 被批捕	bpb_
+不难租	bnzva
 不能做	bnzv
 白娘子	bnzu
 不能再	bnz'
@@ -33265,6 +33269,7 @@
 补偿金	bjjo
 北京城	bjji
 不仅仅	bjj_
+比较狠	bjhvv
 比较好	bjhv
 保监会	bjhii
 北京话	bjhi
@@ -42536,8 +42541,11 @@
 有待	yddh
 又定	yddg
 有德	yddev
+由得	yddei
+油的	yddea'
 游的	yddea
-由得	ydde
+油得	ydde'
+游得	ydde
 又掉	yddc
 又对	yddb
 又糙	ydcz
@@ -100387,9 +100395,6 @@
 装上	fxep
 装身	fxen
 壮硕	fxel
-壮实	fxeko
-壮士	fxek
-装饰	fxek
 装束	fxej
 撞衫	fxef
 装设	fxee
@@ -102685,8 +102690,8 @@
 装上	fmep
 装身	fmen
 壮硕	fmelo
-壮实	fmeko
-壮士	fmek
+壮实	fmekoo
+壮士	fmeko
 装饰	fmek
 装束	fmej
 撞衫	fmef
@@ -120860,6 +120865,7 @@
 不计	bjjkvo
 不济	bjjkva
 不羁	bjjkv
+补剂	bjjkoo
 补集	bjjkoi
 部级	bjjkoa
 补给	bjjko
