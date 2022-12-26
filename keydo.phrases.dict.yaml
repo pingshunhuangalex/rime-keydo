@@ -1049,8 +1049,7 @@ sort: original
 变着花样	bfhy
 办好	bfhz
 白纸黑字	bfhzu
-别着急	bfj
-不发出	bfj
+不着急	bfj
 搬进	bfjb
 钣金	bfjbi
 半斤	bfjbo
@@ -1071,7 +1070,8 @@ sort: original
 版记	bfjku
 半句	bfjl
 不知就里	bfjlv
-别犯贱	bfjo
+别着急	bfjo
+别犯贱	bfjou
 半封建	bfjov
 半场	bfjp
 办厂	bfjpa
@@ -1085,7 +1085,8 @@ sort: original
 半价	bfjso
 不知进退	bfjt
 白费劲	bfju
-不着急	bfjv
+不发出	bfjv
+不支撑	bfjvu
 颁奖	bfjx
 百废俱兴	bfjxv
 半潮	bfjz
@@ -3905,6 +3906,7 @@ sort: original
 拨楞	bllr
 波拉	blls
 不亮了	bllv
+不浪了	bllva
 波轮	bllw
 驳论	bllwa
 波累	bllwai
@@ -16216,8 +16218,9 @@ sort: original
 得益者	dyfu
 德意志	dyfuo
 第一份	dyfuv
+第一封	dyfuv
 独一份	dyfuvi
-第一封	dyfuvv
+多严重	dyfuvu
 大洋洲	dyfv
 东非	dyfw
 冬装	dyfx
@@ -31713,9 +31716,9 @@ sort: original
 中略	fylhi
 非营利	fyli
 中路	fylj
-重力	fylk
 中立	fylk
 幅员辽阔	fylki
+重力	fylku
 中旅	fyll
 中联	fylm
 这一来	fylo
@@ -40565,6 +40568,7 @@ sort: original
 祸国殃民	hgym
 淮扬	hgyp
 怀远	hgyt
+很诡异	hgyu
 怀孕	hgyw
 回顾一下	hgyx
 怀药	hgyz
@@ -68876,6 +68880,7 @@ sort: original
 美图秀秀	mtxx
 猫头鹰	mty
 眉头一皱	mtyf
+蛮讨厌	mtyo
 明天一早	mtyz
 明太祖	mtz
 每天早上	mtze
@@ -69472,7 +69477,8 @@ sort: original
 没有反应	myfya
 没有过	myg
 没用过	myg
-没眼光	myga
+没游过	myga
+没眼光	mygai
 磨洋工	mygo
 每一个	mygu
 某一个	mygv
@@ -90581,6 +90587,7 @@ sort: original
 挺严	tgyfi
 挺硬	tgyg
 韬光养晦	tgyh
+挺诡异	tgyi
 提个意见	tgyj
 同归于尽	tgyji
 逃过一劫	tgyju
@@ -95190,7 +95197,8 @@ sort: original
 顽劣	wfld
 完了	wfle
 晚了	wfleo
-玩乐	wflev
+玩了	wflev
+玩乐	wflevu
 玩烂	wflf
 万灵	wflg
 晚来	wflh
@@ -96739,7 +96747,7 @@ sort: original
 吃春	wkjwo
 无可救药	wkjy
 赤潮	wkjz
-哇咔咔	wkk
+我看看	wkk
 吃亏	wkkb
 吃口	wkkd
 吃客	wkke
@@ -96747,9 +96755,9 @@ sort: original
 吃开	wkkh
 吃苦	wkkj
 痴狂	wkkm
+哇咔咔	wkko
 吃垮	wkkq
 持卡	wkks
-我看看	wkku
 痴狂	wkkx
 乌克兰	wkl
 赤磷	wklb
@@ -100242,7 +100250,7 @@ sort: original
 重重	wywy
 无影无踪	wywz
 无影无踪	wywzv
-我也想	wyx
+查一下	wyx
 重新	wyxb
 冲销	wyxc
 重写	wyxd
@@ -100269,12 +100277,12 @@ sort: original
 重下	wyxsu
 重选	wyxt
 望洋兴叹	wyxto
-外语系	wyxu
+我也想	wyxu
+外语系	wyxuo
 玩游戏	wyxv
 玩艺儿	wyxvi
 玩意儿	wyxvo
 我也要	wyy
-无异于	wyy
 重音	wyyb
 冲印	wyybo
 无以言表	wyybv
@@ -100302,7 +100310,8 @@ sort: original
 冲压	wyyso
 重圆	wyyt
 我愿意	wyyu
-无意义	wyyv
+无异于	wyyv
+无意义	wyyvo
 无原由	wyyvv
 望眼欲穿	wyyw
 网易云音乐	wyyy
@@ -105436,7 +105445,8 @@ sort: original
 需交	xljc
 心力交瘁	xljco
 续借	xljd
-心理承受	xlje
+心理建设	xlje
+心理承受	xljeo
 畜产	xljf
 须经	xljg
 虚惊	xljgi
@@ -117206,7 +117216,7 @@ sort: original
 涌潮	yywz
 语言文字	yywzo
 用一下	yyx
-云一下	yyx
+游一下	yyx
 婴幼儿	yyxa
 用心	yyxb
 冤冤相报	yyxbo
@@ -117234,7 +117244,8 @@ sort: original
 一跃而起	yyxq
 用修	yyxqu
 涌霞	yyxs
-有影响	yyxv
+云一下	yyxv
+有影响	yyxvo
 有印象	yyxvu
 涌向	yyxx
 牙牙学语	yyxy
