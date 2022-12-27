@@ -25587,6 +25587,7 @@
 客观化	kgho
 开过火	kgh_
 看广告	kgg_
+扣过分	kgf_
 客观上	kge_
 克格勃	kgb_
 孔夫子	kfz_
@@ -27542,9 +27543,9 @@
 胡萝卜	hlb_
 还可以	hky_
 很可惜	hkxu
-好开心	hkxav
 好可惜	hkxa
 很开心	hkx_
+很宽松	hksu
 核扩散	hks_
 汇款人	hkr_
 航空器	hkqu
@@ -32436,7 +32437,8 @@
 策划书	cheu
 从何时	che_
 才回到	chd_
-词汇表	chb_
+词汇表	chbo
+才会被	chb_
 醋罐子	cgz_
 采购员	cgyu
 磁感应	cgy_
@@ -82573,7 +82575,8 @@
 扣光	kdgx
 扣关	kdgt
 扣光	kdgm
-口过	kdgl
+口过	kdglo
+扣过	kdgl
 口干	kdgfo
 口感	kdgf
 口垢	kdgd
