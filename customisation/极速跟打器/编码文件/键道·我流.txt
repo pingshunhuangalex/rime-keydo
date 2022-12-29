@@ -16774,6 +16774,7 @@
 在乎你	zhnv
 再和你	zhn_
 走后门	zhm_
+走回来	zhlvi
 再回来	zhlv
 总会来	zhlo
 综合楼	zhla
@@ -18111,6 +18112,7 @@
 以上的	yeda
 一收到	yed_
 原上草	yec_
+硬是把	yeb_
 一档子	ydzv
 一肚子	ydz'
 一大早	ydz_
@@ -18138,9 +18140,10 @@
 印第安	ydxu
 有点像	ydx'
 一点儿	ydx_
+一到五	ydwvv
 有多差	ydwv
-一大串	ydw'
-遇到我	ydw_
+遇到我	ydwi
+一大串	ydw_
 一大跳	ydtvv
 有点痛	ydtv'
 有点疼	ydtv
@@ -18201,9 +18204,10 @@
 一定会	ydh_
 一等功	ydgv
 遇到过	ydg_
+运动服	ydfvv
 一顿饭	ydfv
-羊癫疯	ydfo
-运动服	ydf'
+羊癫疯	ydfoo
+夜店风	ydfo
 用得着	ydf_
 一到手	ydevv
 雁荡山	ydevi
@@ -19332,6 +19336,7 @@
 蓄水池	xew'
 显示为	xew_
 爱上他	xetu
+小石头	xeti
 洗漱台	xet_
 二十四	xesv
 二十三	xes'
@@ -19365,10 +19370,11 @@
 牺牲了	xel'
 消失了	xel_
 肖申克	xek_
-二十九	xejv
-新世界	xejov
+二十九	xejvu
+二十几	xejv
+学术界	xejov
 新世纪	xejo'
-学术界	xejo
+新世界	xejo
 小说家	xejio
 小世界	xeji
 洗漱间	xeja
@@ -20540,6 +20546,7 @@
 太原市	tyev
 她也是	tye_
 特异度	tydu
+挺远的	tydi
 同样地	tyd_
 同义词	tyci
 头一次	tyc_
@@ -20908,6 +20915,7 @@
 太酷了	tklvv
 太亏了	tklv
 推开了	tkl_
+挺开阔	tkki
 偷窥狂	tkk_
 提款机	tkj_
 太空灰	tkhv
@@ -23085,10 +23093,13 @@
 平假名	pjm_
 破纪录	pjlv
 爬出来	pjlu
-普及率	pjlo
-批处理	pjli
+普及率	pjlou
+跑出来	pjlo
+批处理	pjliu
+拍出来	pjli
 潘金莲	pjla
-跑出来	pjl_
+跑出了	pjl'
+拍出了	pjl_
 皮夹克	pjk_
 赔偿金	pjj_
 普及化	pjh_
@@ -24527,7 +24538,8 @@
 录音带	lyda
 离远点	lyd_
 聊一次	lycv
-另一次	lyc_
+另一次	lyco
+来一次	lyc_
 琅琊榜	lybv
 老一辈	lybu
 另一边	lybov
@@ -27128,7 +27140,8 @@
 霍元甲	hyjv
 活页夹	hyja
 黑眼睛	hyj_
-狠一狠	hyhuv
+狠一狠	hyhuvu
+很硬核	hyhuv
 后援会	hyhui
 很友好	hyhu'
 很遗憾	hyhu
@@ -27280,8 +27293,8 @@
 很扯淡	hwdu
 护卫队	hwdi
 汉武帝	hwdav
-好吃的	hwda'
-好玩的	hwda
+好玩的	hwda'
+好吃的	hwda
 缓冲带	hwd_
 红卫兵	hwba
 海外版	hwb_
@@ -27380,7 +27393,8 @@
 合起来	hqli
 红着脸	hqla
 回去了	hql_
-很正常	hqju
+很真诚	hqju
+很正常	hqj'
 很清楚	hqj_
 互助会	hqh_
 好奇怪	hqga
@@ -31122,7 +31136,8 @@
 但由于	dyyi
 滴眼液	dyya
 第一页	dyy_
-大游行	dyxv
+大游行	dyxva
+顶一下	dyxv
 第一下	dyxuvv
 多元性	dyxuvo
 第一线	dyxuva
@@ -31131,7 +31146,7 @@
 多一些	dyxu
 电源线	dyxia
 打游戏	dyxi
-顶一下	dyx'
+兜一下	dyx'
 等一下	dyx_
 第一位	dywu
 定义为	dywo
@@ -31944,6 +31959,7 @@
 大师兄	dex_
 倒时差	dewi
 电视网	dew_
+大石头	detv
 电视台	deti
 多少天	det_
 大师赛	des_
@@ -42464,9 +42480,9 @@
 油渣	ydfsa
 油炸	ydfs
 有风	ydfr
-有方	ydfpv
-右方	ydfp'
-有房	ydfp
+有方	ydfpvo
+有房	ydfpv
+右方	ydfp
 有分	ydfnv
 忧愤	ydfno
 有份	ydfn
@@ -68774,10 +68790,10 @@
 牌局	phjl
 拍击	phjki
 排挤	phjk
-拍出	phjjia
-排出	phjji
+排除	phjji
 派出	phjja
-排除	phjj
+排出	phjj'
+拍出	phjj
 派车	phje
 排解	phjd
 拍好	phhzi
@@ -72419,6 +72435,7 @@
 煤砖	mwft
 美发	mwfsoa
 煤渣	mwfso
+没发	mwfsa
 没法	mwfs
 每逢	mwfr
 没抓	mwfq
@@ -94859,7 +94876,8 @@
 烩面	hbmmo
 会面	hbmm
 徽墨	hbml
-会卖	hbmh
+会卖	hbmhi
+会买	hbmh
 会明	hbmg
 会慢	hbmf
 回眸	hbmdi
@@ -101925,7 +101943,8 @@
 防锈	fpxq
 防线	fpxm
 方儿	fpxj
-放血	fpxho
+放血	fpxhou
+放学	fpxho
 防癌	fpxha
 妨碍	fpxh
 方形	fpxgo
@@ -113038,6 +113057,7 @@
 多日	dlrk
 多如	dlrju
 堕入	dlrj
+多热	dlre
 多肉	dlrd
 多找	dlqz
 多穷	dlqy
@@ -116462,7 +116482,6 @@
 曾见	crjm
 层级	crjk
 层出	crjj
-蹭车	crje
 噌吰	crhy
 曾获	crhl
 曾和	crhe
