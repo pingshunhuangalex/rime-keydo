@@ -2206,7 +2206,7 @@ sort: original
 不互通	bhtv
 不荒唐	bhtvi
 白陶	bhtz
-不好玩	bhw
+不好吃	bhw
 渤海湾	bhwa
 摆锤	bhwb
 白愁	bhwd
@@ -2229,6 +2229,7 @@ sort: original
 白娃	bhwsu
 百川	bhwt
 白话文	bhwu
+不好玩	bhwv
 百味	bhww
 百位	bhwwv
 不和谐	bhx
@@ -12242,6 +12243,8 @@ sort: original
 待查	dhwsu
 待传	dhwt
 代传	dhwti
+很好吃	dhwu
+多好吃	dhwua
 代为	dhww
 戴维	dhwwu
 待冲	dhwy
@@ -26540,7 +26543,8 @@ sort: original
 妇联	fjlm
 复联	fjlmu
 敷脸	fjlmv
-房间里	fjlo
+放出来	fjlo
+房间里	fjloo
 孵卵	fjlt
 周杰伦	fjlu
 副经理	fjlv
@@ -33800,6 +33804,7 @@ sort: original
 干粮	gflx
 干隆	gfly
 赶捞	gflz
+干酪	gflzv
 各方面	gfm
 敢瞄	gfmc
 甘某	gfmd
@@ -40707,8 +40712,9 @@ sort: original
 还给	hhgw
 海光	hhgx
 还供	hhgy
-还高	hhgz
+还搞	hhgz
 花花公子	hhgzi
+还高	hhgzv
 哈哈哈	hhh
 还和	hhhe
 海河	hhhea
@@ -45175,6 +45181,7 @@ sort: original
 好啊	hzxs
 豪侠	hzxso
 好悬	hzxt
+很罪恶	hzxu
 黄宗羲	hzxv
 好寻	hzxw
 好想	hzxx
@@ -47675,6 +47682,7 @@ sort: original
 除非己莫为	jfjw
 长治久安	jfjx
 尽职尽责	jfjz
+积分卡	jfk
 产科	jfke
 出发了	jfl
 解放了	jfl
@@ -58424,6 +58432,7 @@ sort: original
 狂拉	kxls
 狂乱	kxlt
 可惜了	kxlv
+开学了	kxlvo
 狂抡	kxlw
 狂亮	kxlx
 筐笼	kxly
@@ -70698,7 +70707,8 @@ sort: original
 耐克	nhke
 耐看	nhkf
 耐苦	nhkj
-拿好了	nhl
+弄好了	nhl
+拿好了	nhli
 耐力	nhlk
 奈落	nhll
 脑海里	nhlu
@@ -72493,8 +72503,8 @@ sort: original
 内斯	nwsk
 内缩	nwsl
 内嫂	nwsz
-内退	nwtb
-内推	nwtbi
+内推	nwtb
+内退	nwtbi
 内投	nwtd
 内滩	nwtf
 内厅	nwtg
@@ -72645,7 +72655,7 @@ sort: original
 农业大学	nydx
 弄懂	nydy
 弄到	nydz
-农业税	nye
+你要是	nye
 纽约市	nyea
 能言善辩	nyeb
 纽约时报	nyeba
@@ -72656,6 +72666,7 @@ sort: original
 农事	nyek
 农时	nyeko
 农神	nyen
+农业税	nyeo
 弄上	nyep
 农商	nyepo
 弄伤	nyepv
@@ -91813,6 +91824,7 @@ sort: original
 驼铃	tllg
 托赖	tllh
 脱略	tllhu
+偷懒了	tlli
 驼鹿	tllj
 脱离	tllk
 脱粒	tllku
@@ -96484,7 +96496,7 @@ sort: original
 万箭穿心	wjwx
 无重	wjwy
 无冲	wjwyv
-五角星	wjx
+我就想	wjx
 无心	wjxb
 无效	wjxc
 无邪	wjxd
@@ -96527,6 +96539,7 @@ sort: original
 武侠	wjxsv
 巫峡	wjxsvi
 武宣	wjxt
+五角星	wjxv
 武训	wjxw
 五项	wjxx
 物象	wjxxu
@@ -103797,6 +103810,7 @@ sort: original
 血贵	xhgbui
 爱狗	xhgd
 挨个	xhge
+学个	xhgeo
 矮个	xhgeu
 雪歌	xhgev
 爱干	xhgf
@@ -104137,7 +104151,7 @@ sort: original
 哀痛	xhtyo
 艾涛	xhtz
 雪桃	xhtzv
-小黑屋	xhw
+先和我	xhw
 哀愁	xhwd
 血仇	xhwdu
 学车	xhwe
@@ -104148,7 +104162,8 @@ sort: original
 学完	xhwfo
 哀婉	xhwfoa
 循环往复	xhwfu
-小黄车	xhwi
+小黑屋	xhwi
+小黄车	xhwiv
 血污	xhwj
 爱屋	xhwju
 爱吃	xhwk
@@ -105308,6 +105323,7 @@ sort: original
 序跋	xlbs
 哦吧	xlbso
 许吧	xlbsoo
+想了半天	xlbt
 行了吧	xlbu
 饿了吧	xlbua
 欧罗巴	xlbv
@@ -118505,7 +118521,7 @@ sort: original
 择选	zext
 则向	zexx
 自上而下	zexxu
-做生意	zey
+总是要	zey
 则因	zeyb
 择优	zeyd
 则有	zeyda
@@ -118515,7 +118531,8 @@ sort: original
 葬身鱼腹	zeyf
 在水一方	zeyfv
 则应	zeyg
-做实验	zeyi
+做生意	zeyi
+做实验	zeyio
 则以	zeyk
 则已	zeyka
 则与	zeyl

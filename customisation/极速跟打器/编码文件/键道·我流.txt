@@ -4007,6 +4007,7 @@
 笑里藏刀	xlcd
 阿拉伯语	xlby
 小老百姓	xlbx
+想了半天	xlbt
 下里巴人	xlbrv
 阿拉伯人	xlbr
 下落不明	xlbmv
@@ -16884,8 +16885,9 @@
 滋事罪	zez_
 自适应	zeyu
 祖师爷	zeyo
-做实验	zeyi
-做生意	zey_
+做实验	zeyio
+做生意	zeyi
+总是要	zey_
 暂时性	zex_
 坐上车	zew_
 走势图	zet_
@@ -19141,8 +19143,9 @@
 俄亥俄	xhxi
 下划线	xhx_
 新华网	xhwo
-小黄车	xhwi
-小黑屋	xhw_
+小黄车	xhwiv
+小黑屋	xhwi
+先和我	xhw_
 喜欢她	xht_
 鲜红色	xhs_
 小黄人	xhr_
@@ -20095,9 +20098,10 @@
 无机盐	wjyvv
 万金油	wjyv
 我就一	wjy_
+五角星	wjxv
 吴承恩	wjxo
 持久性	wjxi
-五角星	wjx_
+我就想	wjx_
 无机物	wjwvv
 王家卫	wjwv
 汪精卫	wjw_
@@ -20883,6 +20887,7 @@
 太拉了	tllvi
 太乱了	tllv'
 太烂了	tllv
+偷懒了	tlli
 天亮了	tll_
 太垃圾	tljv
 铁路局	tljio
@@ -23306,8 +23311,9 @@
 年夜饭	nyfu
 哪一种	nyfo
 那一份	nyf_
+农业税	nyeo
 纽约市	nyea
-农业税	nye_
+你要是	nye_
 哪一段	nydo
 你要的	nydi
 那一段	nyda
@@ -23603,7 +23609,8 @@
 你好吗	nhm_
 脑回路	nhlui
 脑海里	nhlu
-拿好了	nhl_
+拿好了	nhli
+弄好了	nhl_
 拿回扣	nhk_
 内环境	nhji
 粘合剂	nhj_
@@ -25313,6 +25320,7 @@
 狂想曲	kxqu
 看心情	kxq_
 凯旋门	kxm_
+开学了	kxlvo
 可惜了	kxlv
 砍下来	kxl'
 空下来	kxl_
@@ -26707,6 +26715,7 @@
 接种率	jfli
 解放了	jfl'
 出发了	jfl_
+积分卡	jfk_
 解放初	jfjuo
 解放军	jfju
 剪指甲	jfjo
@@ -27078,6 +27087,7 @@
 紧巴巴	jbb_
 合作组	hzz_
 黄宗羲	hzxv
+很罪恶	hzxu
 还在下	hzx_
 海贼王	hzw_
 孩子头	hzt_
@@ -29588,7 +29598,8 @@
 直接莽	fjm_
 副经理	fjlv
 周杰伦	fjlu
-房间里	fjlo
+房间里	fjloo
+放出来	fjlo
 折旧率	fjlii
 非常冷	fjli'
 非常累	fjli
@@ -31791,6 +31802,8 @@
 电化学	dhxi
 导火线	dhxa
 等会儿	dhx_
+多好吃	dhwua
+很好吃	dhwu
 电话网	dhw_
 大会堂	dhtvi
 大后天	dhtv
@@ -33351,9 +33364,10 @@
 被和谐	bhxo
 保护性	bhxi
 不和谐	bhx_
+不好玩	bhwv
 白话文	bhwu
 渤海湾	bhwa
-不好玩	bhw_
+不好吃	bhw_
 不荒唐	bhtvi
 不互通	bhtv
 别回头	bhto
@@ -46795,6 +46809,7 @@
 爱干	xhgf
 雪歌	xhgev
 矮个	xhgeu
+学个	xhgeo
 挨个	xhge
 爱狗	xhgd
 血贵	xhgbui
@@ -69895,8 +69910,8 @@
 内厅	nwtg
 内滩	nwtf
 内投	nwtd
-内推	nwtbi
-内退	nwtb
+内退	nwtbi
+内推	nwtb
 内嫂	nwsz
 内缩	nwsl
 内斯	nwsk
@@ -93577,7 +93592,8 @@
 海涵	hhhfa
 海河	hhhea
 还和	hhhe
-还高	hhgz
+还高	hhgzv
+还搞	hhgz
 还供	hhgy
 海光	hhgx
 还给	hhgw
@@ -98589,6 +98605,7 @@
 干么	gfme
 甘某	gfmd
 敢瞄	gfmc
+干酪	gflzv
 赶捞	gflz
 干隆	gfly
 干粮	gflx
