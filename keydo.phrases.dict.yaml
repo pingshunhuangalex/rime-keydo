@@ -1898,6 +1898,7 @@ sort: original
 白沙	bhesu
 不合适	bhev
 不好使	bheva
+不会水	bhevi
 不合时宜	bhey
 白芍	bhez
 包含着	bhf
@@ -6186,13 +6187,14 @@ sort: original
 必修课	bxk
 不辛苦	bxkv
 不行了	bxl
-变现了	bxl
+不香了	bxl
 办下来	bxla
 背下来	bxli
 薄熙来	bxliv
 别想了	bxlo
 别嫌累	bxloa
 冰箱里	bxlou
+变现了	bxlov
 必先利其器	bxlq
 白俄罗斯	bxls
 不嫌累	bxlv
@@ -12449,7 +12451,8 @@ sort: original
 独照	djfz
 赌鬼	djgb
 赌狗	djgd
-镀铬	djge
+读个	djge
+镀铬	djgei
 达成共识	djgev
 党纪国法	djgf
 独孤	djgj
@@ -35469,7 +35472,8 @@ sort: original
 国学	glxh
 过爱	glxhv
 果儿	glxj
-过细	glxk
+过膝	glxk
+过细	glxkv
 聒絮	glxl
 过线	glxm
 过夏	glxs
@@ -36211,7 +36215,8 @@ sort: original
 刚走	gpzd
 刚在	gpzh
 杠子	gpzk
-刚坐	gpzl
+刚做	gpzl
+刚坐	gpzli
 刚脏	gpzp
 刚增	gpzr
 刚造	gpzz
@@ -36713,6 +36718,7 @@ sort: original
 告诉了	gsl
 公私两便	gslb
 尬聊	gslc
+嘎了	gsle
 咖喱	gslk
 高速路	gslo
 旮旯	gsls
@@ -38677,10 +38683,11 @@ sort: original
 好帮手	hbea
 湖北省	hbea
 河北省	hbeai
-回水	hbeb
+会水	hbeb
+回水	hbebi
 回收	hbed
-挥手	hbed
-回首	hbedi
+挥手	hbedi
+回首	hbedio
 魂不守舍	hbee
 回删	hbef
 会输	hbej
@@ -39939,6 +39946,7 @@ sort: original
 喝汤	hetp
 荷塘	hetpi
 核糖	hetpv
+和她	hets
 洪水滔天	hett
 和尚头	hetu
 河豚	hetw
@@ -41038,6 +41046,7 @@ sort: original
 护短	hjdt
 很久的	hjdu
 很长的	hjdu
+很僵的	hjdui
 很简单	hjduu
 还记得	hjdv
 护盾	hjdw
@@ -41194,7 +41203,7 @@ sort: original
 互夸	hjkq
 护矿	hjkx
 环境科学	hjkxv
-和解了	hjl
+活成了	hjl
 好久了	hjla
 好极了	hjlav
 护林	hjlb
@@ -41223,6 +41232,7 @@ sort: original
 虎踞龙盘	hjlpi
 呼啦	hjls
 胡乱	hjlt
+和解了	hjlu
 环境里	hjlv
 囫囵	hjlw
 胡勒	hjlwu
@@ -41891,6 +41901,7 @@ sort: original
 晃点	hmdm
 晃荡	hmdp
 黄灯	hmdr
+很忙的	hmdu
 晃动	hmdy
 晃到	hmdz
 荒岛	hmdzi
@@ -42270,7 +42281,8 @@ sort: original
 很假	hnjs
 很蠢	hnjw
 很讲	hnjx
-很犟	hnjxu
+很僵	hnjxu
+很犟	hnjxua
 贺年卡	hnk
 很渴	hnke
 很可	hnkeu
@@ -54568,7 +54580,8 @@ sort: original
 讲课	jxke
 将可	jxkeo
 讲开	jxkh
-江抗	jxkp
+绩效考评	jxkp
+江抗	jxkpa
 姜昆	jxkw
 将空	jxky
 就行了	jxl
@@ -90176,7 +90189,9 @@ sort: original
 贪狼	tflp
 檀栾	tflt
 特氟龙	tflu
-天妇罗	tflv
+太废了	tflv
+太肥了	tflv
+天妇罗	tflva
 谈论	tflw
 探雷	tflwi
 条分缕析	tflx
@@ -91058,8 +91073,6 @@ sort: original
 吐槽	tjcz
 她觉得	tjd
 台积电	tjda
-突击队	tjdo
-坦诚的	tjdv
 土堆	tjdb
 投机倒把	tjdbi
 涂掉	tjdc
@@ -91067,6 +91080,7 @@ sort: original
 图的	tjde
 秃顶	tjdg
 图钉	tjdgi
+挺近的	tjdi
 荼毒	tjdj
 天长地久	tjdjv
 土地	tjdk
@@ -91075,10 +91089,12 @@ sort: original
 团结带领	tjdl
 涂点	tjdm
 凸点	tjdmi
+突击队	tjdo
 图档	tjdp
 兔等	tjdr
 土断	tjdt
 太简单	tjdv
+坦诚的	tjdvo
 土墩	tjdw
 同济大学	tjdx
 天津大学	tjdxv
@@ -91243,8 +91259,9 @@ sort: original
 土链	tjlm
 逃出来	tjlu
 太长了	tjlv
-太紧了	tjlv
-太旧了	tjlvi
+太久了	tjlv
+太紧了	tjlvi
+太旧了	tjlvia
 太卷了	tjlvo
 太近了	tjlvu
 图论	tjlw
@@ -92383,6 +92400,7 @@ sort: original
 他娘的	tndia
 听你说	tne
 童年时光	tneg
+太难受	tnev
 团年饭	tnf
 它能够	tng
 太难喝	tnh
@@ -98952,7 +98970,7 @@ sort: original
 船尾	wtww
 彻头彻尾	wtwwu
 传抄	wtwz
-文天祥	wtx
+闯天下	wtx
 传信	wtxb
 穿心	wtxbo
 传销	wtxc
@@ -98966,6 +98984,7 @@ sort: original
 串戏	wtxki
 船舷	wtxm
 传贤	wtxmi
+文天祥	wtxo
 传下	wtxs
 传宣	wtxt
 传讯	wtxw
@@ -104250,14 +104269,14 @@ sort: original
 爱婴	xhyg
 薛莹	xhygi
 哀乐	xhyh
-爱意	xhyk
+学医	xhyk
 学艺	xhyko
-学医	xhykov
+爱意	xhyku
 哎哟	xhyl
-鳕鱼	xhyl
 心灰意冷	xhylo
 心慌意乱	xhyloo
-血狱	xhylu
+鳕鱼	xhylu
+血狱	xhyluu
 血雨	xhyluv
 碍于	xhylv
 雪域	xhylvv
@@ -104523,7 +104542,8 @@ sort: original
 二程	xjjrv
 二乘	xjjrvu
 二成	xjjrvv
-二甲	xjjs
+二价	xjjs
+二甲	xjjsv
 二卷	xjjt
 二醇	xjjw
 二军	xjjwv
@@ -108781,6 +108801,7 @@ sort: original
 下一周	xyf
 洗衣服	xyfa
 洗衣粉	xyfao
+洗衣房	xyfaoo
 嫌疑犯	xyfau
 胸椎	xyfb
 雄州	xyfd
@@ -114962,6 +114983,7 @@ sort: original
 养蛊	ypgj
 阳谷	ypgja
 养过	ypgl
+阳过	ypgla
 杨过	ypglv
 阳光	ypgm
 仰光	ypgmi
@@ -119948,7 +119970,9 @@ sort: original
 做对	zldbi
 做掉	zldc
 做得	zlde
+坐得	zlde
 做的	zldei
+坐的	zldeiu
 做单	zldf
 坐定	zldg
 作歹	zldh
@@ -121394,7 +121418,7 @@ sort: original
 总为	zyww
 恣意妄为	zywwo
 棕床	zywx
-总有些	zyx
+做一下	zyx
 做一些	zyx
 宗信	zyxb
 总校	zyxc
@@ -121407,6 +121431,7 @@ sort: original
 总序	zyxl
 总线	zyxm
 最有效	zyxo
+总有些	zyxov
 总辖	zyxs
 租一下	zyxu
 总想	zyxx
