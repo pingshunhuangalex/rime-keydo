@@ -179,7 +179,6 @@ sort: original
 本本族	bbzv
 并不在于	bbzy
 不必在意	bbzyv
-######################词库整理进度######################
 标版	bcbf
 标兵	bcbg
 表白	bcbh
@@ -2910,7 +2909,8 @@ sort: original
 不弱	bjrl
 不若	bjrlv
 不绝如缕	bjrlva
-不忍	bjrn
+不认	bjrn
+不忍	bjrnv
 不近人情	bjrq
 不扔	bjrr
 不软	bjrt
@@ -3141,6 +3141,7 @@ sort: original
 别介意	bjyo
 补养	bjyp
 补阳	bjypo
+不养	bjypv
 不雅	bjys
 补牙	bjyso
 不禁哑然	bjyr
@@ -13196,6 +13197,7 @@ sort: original
 地缘	dkyt
 底蕴	dkyw
 狄云	dkywu
+抵用	dkyy
 低腰	dkyz
 动筷子	dkz
 抵罪	dkzb
@@ -16412,6 +16414,7 @@ sort: original
 动情	dyqg
 董卿	dyqgi
 冬青	dyqgu
+抵用券	dyqi
 低吟浅唱	dyqj
 动气	dyqk
 东区	dyql
@@ -17006,6 +17009,7 @@ sort: original
 水貂	ebdca
 水痘	ebdd
 睡得	ebde
+睡的	ebdei
 税单	ebdf
 睡袋	ebdh
 舍不得	ebdi
@@ -25760,8 +25764,7 @@ sort: original
 中国电信	fgdx
 中国达人秀	fgdxi
 中共党员	fgdy
-这个事	fge
-转个身	fge
+这个是	fge
 发高烧	fgea
 中国少年先锋队	fged
 奉公守法	fgef
@@ -25771,9 +25774,11 @@ sort: original
 招股书	fgei
 中国市场	fgej
 转过身来	fgel
+这个事	fgeo
 这个时期	fgeq
 转过身去	fgeqv
-转过身	fgev
+转个身	fgev
+转过身	fgevv
 中国社会科学	fgex
 只管生不管养	fgey
 中国石油	fgeyi
@@ -39177,6 +39182,7 @@ sort: original
 好刺激	hcj
 很刺激	hcju
 核裁军	hcjv
+很残酷	hck
 祸从口出	hckj
 核材料	hcl
 很聪明	hcm
@@ -40946,7 +40952,8 @@ sort: original
 还须	hhxlv
 海鲜	hhxm
 害羞	hhxq
-海峡	hhxs
+还下	hhxs
+海峡	hhxsa
 海选	hhxt
 海讯	hhxw
 还想	hhxx
@@ -41972,6 +41979,7 @@ sort: original
 晃晃	hmhxo
 惶惶	hmhxoo
 还没出	hmj
+好漫长	hmja
 荒郊	hmjc
 海绵城市	hmje
 黄精	hmjg
@@ -84902,6 +84910,7 @@ sort: original
 认路	rnlj
 人力	rnlk
 人脸	rnlm
+认脸	rnlmo
 人浪	rnlp
 人伦	rnlw
 仁良	rnlx
@@ -87419,9 +87428,9 @@ sort: original
 四重	skwy
 丝虫	skwya
 思潮	skwz
-死心	skxb
+私信	skxb
 私心	skxbu
-私信	skxbui
+死心	skxbv
 四小	skxc
 私协	skxd
 泗安	skxf
@@ -109406,6 +109415,7 @@ sort: original
 引种	ybfya
 一步之遥	ybfyv
 也不过	ybg
+也不够	ybga
 音轨	ybgb
 阴沟	ybgd
 因革	ybgei
@@ -111213,11 +111223,12 @@ sort: original
 莺声燕语	yeyyiv
 夜用	yeyyo
 也要	yeyz
-艺术字	yez
+要是在	yez
 怨声载道	yezd
 吟诗作赋	yezf
 也在	yezh
 一失足成千古恨	yezhv
+艺术字	yezi
 曳足	yezj
 叶子	yezk
 椰子	yezkv
@@ -112420,7 +112431,8 @@ sort: original
 越少	yhez
 与会者	yhf
 一合之敌	yhfd
-欲火焚身	yhfe
+有话直说	yhfe
+欲火焚身	yhfeu
 约饭	yhff
 月黑风高	yhfg
 月付	yhfj
@@ -114863,8 +114875,9 @@ sort: original
 油腻点	ynda
 一年到头	yndt
 云南省	yne
-遇难者	ynf
+一年中	ynf
 云泥之别	ynfb
+遇难者	ynfi
 一念之间	ynfj
 一念之差	ynfw
 一怒之下	ynfx
@@ -114880,7 +114893,6 @@ sort: original
 意难平	ynp
 玉女派	ynpv
 一年前	ynq
-遇难者	ynqi
 一诺千金	ynqj
 云南人	ynr
 业内人士	ynre
@@ -119158,6 +119170,7 @@ sort: original
 在洗	zhxk
 再洗	zhxkv
 再细	zhxkva
+在续	zhxl
 在哦	zhxl
 再续	zhxlv
 在线	zhxm

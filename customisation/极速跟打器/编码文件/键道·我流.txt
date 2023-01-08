@@ -2887,7 +2887,8 @@
 引吭高歌	yhgg
 也很重要	yhfya
 月黑风高	yhfg
-欲火焚身	yhfe
+欲火焚身	yhfeu
+有话直说	yhfe
 一合之敌	yhfd
 一号双机	yhejv
 引火烧身	yhee
@@ -17562,7 +17563,6 @@
 也能用	yny_
 因纽特	ynt_
 云南人	ynr_
-遇难者	ynqi
 一年前	ynq_
 玉女派	ynpv
 意难平	ynp_
@@ -17575,7 +17575,8 @@
 有内涵	ynh_
 也难怪	ynga
 也能够	yng_
-遇难者	ynf_
+遇难者	ynfi
+一年中	ynf_
 云南省	yne_
 油腻点	ynda
 一年多	ynd_
@@ -18036,7 +18037,8 @@
 亚洲杯	yfbv
 宇智波	yfbo
 一直把	yfb_
-艺术字	yez_
+艺术字	yezi
+要是在	yez_
 运输业	yeyvv
 远胜于	yeyvu
 有啥用	yeyv
@@ -18343,6 +18345,7 @@
 一般会	ybh_
 一百个	ybgv
 迎宾馆	ybgu
+也不够	ybga
 也不过	ybg_
 一百分	ybfvv
 一把抓	ybfvi
@@ -27500,6 +27503,7 @@
 还没来	hml_
 好命苦	hmk_
 黄焖鸡	hmjv
+好漫长	hmja
 还没出	hmj_
 很模糊	hmhu
 荒漠化	hmhi
@@ -27947,6 +27951,7 @@
 后才能	hcn_
 很聪明	hcm_
 核材料	hcl_
+很残酷	hck_
 核裁军	hcjv
 很刺激	hcju
 好刺激	hcj_
@@ -29797,11 +29802,12 @@
 分隔符	fgfu
 非官方	fgfi
 追个番	fgf_
-转过身	fgev
+转过身	fgevv
+转个身	fgev
+这个事	fgeo
 招股书	fgei
 发高烧	fgea
-转个身	fge'
-这个事	fge_
+这个是	fge_
 致公党	fgdv
 制高点	fgdu
 中国队	fgdii
@@ -31187,6 +31193,7 @@
 第一章	dyqu'
 第一张	dyqu
 呆一起	dyqo
+抵用券	dyqi
 都要钱	dyq_
 第一批	dypu
 单眼皮	dypo
@@ -36522,7 +36529,8 @@
 再现	zhxm'
 在线	zhxm
 再续	zhxlv
-在哦	zhxl
+在哦	zhxl'
+在续	zhxl
 再细	zhxkva
 再洗	zhxkv
 在洗	zhxk
@@ -58767,9 +58775,9 @@
 泗安	skxf
 私协	skxd
 四小	skxc
-私信	skxbui
+死心	skxbv
 私心	skxbu
-死心	skxb
+私信	skxb
 思潮	skwz
 丝虫	skwya
 四重	skwy
@@ -60623,6 +60631,7 @@
 仁良	rnlx
 人伦	rnlw
 人浪	rnlp
+认脸	rnlmo
 人脸	rnlm
 人力	rnlk
 认路	rnlj
@@ -93436,7 +93445,8 @@
 还想	hhxx
 海讯	hhxw
 海选	hhxt
-海峡	hhxs
+海峡	hhxsa
+还下	hhxs
 害羞	hhxq
 海鲜	hhxm
 还须	hhxlv
@@ -110555,6 +110565,7 @@
 水滴	ebdk
 睡袋	ebdh
 税单	ebdf
+睡的	ebdei
 睡得	ebde
 水痘	ebdd
 水貂	ebdca
@@ -113348,6 +113359,7 @@
 低走	dkzd
 抵罪	dkzb
 低腰	dkyz
+抵用	dkyy
 狄云	dkywu
 底蕴	dkyw
 地缘	dkyt
@@ -120574,6 +120586,7 @@
 不愿	bjyt
 补牙	bjyso
 不雅	bjys
+不养	bjypv
 补阳	bjypo
 补养	bjyp
 不愈	bjylvi
@@ -120747,7 +120760,8 @@
 不容	bjry
 不软	bjrt
 不扔	bjrr
-不忍	bjrn
+不忍	bjrnv
+不认	bjrn
 不若	bjrlv
 不弱	bjrl
 不日	bjrk
