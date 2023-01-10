@@ -2292,6 +2292,7 @@
 业务部门	ywbm
 言无不尽	ywbj
 一文不值	ywbf
+有问必答	ywbd
 一拖再拖	ytzt
 一天一夜	ytyyv
 有头有尾	ytywv
@@ -17364,11 +17365,12 @@
 渔船队	ywda
 意外地	ywd_
 也未曾	ywc_
-运维部	ywbv
+运维部	ywbva
+有差别	ywbv
 业务部	ywbiu
-英文版	ywbi
+遗传病	ywbi
 也未必	ywba
-有差别	ywb_
+英文版	ywb_
 一团糟	ytzv
 异体字	ytza
 一摊子	ytz_
@@ -17428,10 +17430,11 @@
 淹死了	ysl_
 压缩卡	ysk_
 御三家	ysj_
-运算符	ysfv
+运算符	ysfvu
+有素质	ysfv
 约瑟夫	ysfav
 演算法	ysfa
-有素质	ysf_
+压缩至	ysf_
 意思是	yse_
 于死地	ysdvv
 有所得	ysdvu
@@ -21099,7 +21102,8 @@
 团支书	tfei
 通知书	tfe_
 探照灯	tfdio
-挺废的	tfdi
+挺废的	tfdi'
+挺重的	tfdi
 通知单	tfda
 天知道	tfd_
 太方便	tfbv
@@ -25330,6 +25334,7 @@
 可行性	kxx_
 看新闻	kxw_
 口香糖	kxt_
+凯恩斯	kxsi
 苦行僧	kxs_
 苦心人	kxr_
 狂想曲	kxqu
@@ -25690,6 +25695,7 @@
 开水瓶	kepv
 看视频	kep_
 看什么	kem_
+昆士兰	kelo
 抗衰老	kel_
 开始看	kek_
 跨世纪	kejo
@@ -27557,7 +27563,8 @@
 灰溜溜	hll_
 海陆空	hlka
 会来看	hlk_
-狐狸精	hlju
+狐狸精	hljuu
+很流畅	hlju
 黑龙江	hljiv
 回笼觉	hlji
 红领巾	hlja
@@ -27588,6 +27595,7 @@
 还可以	hky_
 很可惜	hkxu
 好可惜	hkxa
+很可爱	hkx'
 很开心	hkx_
 很宽松	hksu
 核扩散	hks_
@@ -56555,6 +56563,7 @@
 听骨	tggj
 听歌	tgge
 挺贵	tggb
+挺重	tgfyi
 听众	tgfy
 听装	tgfx
 停飞	tgfw
@@ -72523,6 +72532,7 @@
 没删	mwefa
 眉山	mwef
 每首	mwedu
+没受	mweda
 没收	mwed
 没睡	mweb
 每道	mwdzu
@@ -74458,9 +74468,9 @@
 麦种	mhfy
 埋桩	mhfx
 麦丰	mhfr
-卖房	mhfpuo
 卖方	mhfpu
 买方	mhfpa
+卖房	mhfp'
 买房	mhfp
 麦粉	mhfn
 埋桩	mhfm
