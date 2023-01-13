@@ -17149,7 +17149,8 @@
 犹豫了	yyl_
 一样坑	yykvv
 愿意看	yykv
-音乐课	yyko
+音乐课	yykou
+咬一口	yyko
 优衣库	yykio
 英语课	yyki
 也要看	yyka
@@ -20915,6 +20916,7 @@
 铜锣烧	tlei
 弹力绳	tlea
 套路深	tle_
+挺老的	tldiu
 挺累的	tldi
 屠龙刀	tlda
 弹力带	tld_
@@ -21001,6 +21003,7 @@
 坦诚的	tjdvo
 太简单	tjdv
 突击队	tjdo
+挺卷的	tjdio
 挺近的	tjdi
 台积电	tjda
 她觉得	tjd_
@@ -25975,6 +25978,7 @@
 奖学金	jxjo
 陈小春	jxja
 长安街	jxj_
+超喜欢	jxhv
 程序化	jxhu
 具现化	jxhi
 陈信宏	jxha
@@ -27176,9 +27180,10 @@
 黑眼睛	hyj_
 狠一狠	hyhuvu
 很硬核	hyhuv
-后援会	hyhui
+后援会	hyhuii
+很遗憾	hyhui
 很友好	hyhu'
-很遗憾	hyhu
+很要好	hyhu
 换一换	hyhi
 好与坏	hyhav
 欢迎会	hyha
@@ -27233,6 +27238,7 @@
 混血儿	hxxau
 海岸线	hxxa
 好消息	hxx_
+很希望	hxwu
 候选池	hxwi
 好新闻	hxwa
 候选窗	hxw_
@@ -27960,6 +27966,7 @@
 好彩头	hct_
 很脆弱	hcr_
 后才能	hcn_
+很匆忙	hcmu
 很聪明	hcm_
 核材料	hcl_
 很残酷	hck_
@@ -31991,9 +31998,10 @@
 党支部	dfbi
 对照表	dfba
 电饭煲	dfb_
-大手子	dezvi
-动手做	dezv
-独生子	dez_
+大手子	dezv
+独生子	dezu
+都是在	dez'
+动手做	dez_
 大少爷	deyv
 多少用	deyu
 倒是有	deyi
@@ -34672,6 +34680,7 @@
 人都	rd'
 人工	rg_
 如何	rh_
+人就	rj_
 人们	rm_
 人能	rn_
 日期	rq_
@@ -36502,6 +36511,7 @@
 再走	zhzdv
 在走	zhzd
 在最	zhzb
+再咬	zhyzv
 再要	zhyz
 再用	zhyyv
 在用	zhyy
@@ -56435,6 +56445,7 @@
 婷婷	tgtga
 听听	tgtg
 听头	tgtd
+挺挑	tgtc
 挺骚	tgsz
 挺松	tgsy
 停损	tgswi
@@ -72747,8 +72758,8 @@
 马克	mske
 马口	mskd
 马超	msjz
-麻酱	msjxo
-麻将	msjx
+麻将	msjxo
+麻酱	msjx
 马圈	msjt
 马甲	msjs
 麻城	msjr
