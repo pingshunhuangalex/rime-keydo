@@ -17417,9 +17417,10 @@
 亚太区	ytq_
 有头脑	ytn_
 云吞面	ytm_
+一条龙	ytlvu
 一条路	ytlv
 因陀罗	ytli
-一条龙	ytl_
+有条理	ytl_
 易通卡	ytk_
 犹太教	ytju
 一条街	ytj_
@@ -18179,6 +18180,7 @@
 压倒性	ydxvi
 一滴血	ydxva
 一点儿	ydxv
+腌笃鲜	ydxuu
 印第安	ydxu
 有点像	ydx_
 一到五	ydwvv
@@ -18920,9 +18922,9 @@
 想你了	xnl_
 虚拟机	xnji
 二年级	xnj_
-新农合	xnho
+新农合	xnhoo
+新年好	xnho
 小女孩	xnhi
-新年好	xnh'
 小男孩	xnh_
 小奶狗	xng_
 西南风	xnf_
@@ -20522,6 +20524,7 @@
 挺在意	tzyi
 替罪羊	tzy_
 太罪恶	tzxv
+挺仔细	tzxi
 投资额	tzx_
 太自私	tzs_
 挺自然	tzri
@@ -20578,8 +20581,8 @@
 太阳能	tyn_
 挺有名	tymi
 陶渊明	tym_
+图一乐	tyli
 体验了	tyl_
-图一乐	ytl_
 体育课	tyk_
 太阳镜	tyjv
 头一家	tyjo
@@ -21092,6 +21095,7 @@
 太行山	the_
 替换掉	thdv
 挺火的	thdio
+挺黑的	thdii
 挺好的	thdi
 体会到	thd_
 天花板	thbv
@@ -21302,8 +21306,9 @@
 特别大	tbdu
 听不到	tbdov
 听不懂	tbdo
-拖不动	tbdi
+挺白的	tbdi
 淘宝店	tbda
+拖不动	tbd'
 逃不掉	tbd_
 挺不错	tbc_
 图标包	tbb_
@@ -22479,6 +22484,7 @@
 欠你的	qndu
 去年底	qnd_
 真牛逼	qnb_
+取名字	qmzv
 全民族	qmzi
 前面在	qmz_
 却没有	qmy_
@@ -22668,6 +22674,7 @@
 请回来	qhlo
 张洪林	qhla
 亲和力	qhl_
+真好看	qhku
 迁户口	qhk_
 前后脚	qhjou
 券后价	qhjo
@@ -27405,7 +27412,8 @@
 火车上	hweo
 候车室	hwei
 和我说	hwe_
-很扯淡	hwdu
+很扯淡	hwdui
+很晚的	hwdu
 护卫队	hwdi
 汉武帝	hwdav
 好玩的	hwda'
@@ -27676,6 +27684,7 @@
 胡萝卜	hlb_
 还可以	hky_
 很可惜	hkxu
+好可爱	hkxa'
 好可惜	hkxa
 很可爱	hkx'
 很开心	hkx_
@@ -28311,8 +28320,9 @@
 给我们	gwm_
 更扯了	gwlv
 跟我来	gwlo
+拐弯了	gwli
 观察力	gwla
-拐弯了	gwl_
+归我了	gwl_
 购物狂	gwka
 给我看	gwk_
 拐弯处	gwj_
@@ -28666,6 +28676,7 @@
 过程中	gjf_
 工程师	gjevu
 工具书	gjevi
+更精神	gjev'
 更成熟	gjev
 贵金属	gjeii
 刚结束	gjeia
@@ -33171,7 +33182,8 @@
 扁平足	bpz_
 不便宜	bpyv
 被朋友	bpy_
-保平安	bpx_
+保平安	bpxi
+报平安	bpx_
 被评为	bpw_
 不怕死	bps_
 不骗人	bpr_
@@ -47574,7 +47586,8 @@
 安能	xfnr
 按钮	xfnq
 按年	xfnm
-安妮	xfnk
+安妮	xfnko
+按你	xfnk
 按耐	xfnh
 安宁	xfng
 安南	xfnf
@@ -49338,8 +49351,6 @@
 吵耳	wzxj
 超矮	wzxhv
 巢穴	wzxh
-潮型	wzxga
-吵醒	wzxg
 超暗	wzxf
 超额	wzxe
 抄写	wzxd
@@ -75327,6 +75338,7 @@
 庙里	mclk
 妙略	mclh
 妙龄	mclg
+描了	mclei
 秒了	mcle
 苗家	mcjs
 庙城	mcjr
@@ -92545,6 +92557,7 @@
 狠下	hnxs
 很咸	hnxm
 很虚	hnxl
+很稀	hnxku
 很细	hnxk
 很爱	hnxh
 很行	hnxg
@@ -105154,6 +105167,7 @@
 蔗糖	fetpi
 遮天	fetmo
 这天	fetm
+这图	fetj
 这台	feth
 这头	fetd
 这条	fetc
@@ -111656,8 +111670,9 @@
 锻打	dtdsi
 短打	dtds
 断档	dtdp
-断点	dtdmoi
-端点	dtdmo
+短点	dtdmu
+端点	dtdmoi
+断点	dtdmo
 断电	dtdm
 端底	dtdk
 缎带	dtdha
@@ -113970,6 +113985,7 @@
 毒虫	djwy
 独创	djwx
 杜威	djwwv
+都尉	djwwu
 读为	djww
 渡船	djwt
 笃哇	djwsu
@@ -115384,8 +115400,8 @@
 逗笑	ddxc
 都超	ddwz
 都冲	ddwy
-都尉	ddwwua
-都未	ddwwu
+爹味	ddwwu
+都未	ddww'
 都为	ddww
 跌穿	ddwto
 都穿	ddwt
