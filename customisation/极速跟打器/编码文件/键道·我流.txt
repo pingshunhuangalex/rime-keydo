@@ -5408,7 +5408,8 @@
 投资建议	tzjy
 天作之合	tzfhv
 天造地设	tzdev
-挺有意思	tyysi
+太有意思	tyysv
+挺有意思	tyys
 头晕眼花	tyyho
 同样也是	tyyei
 体育运动	tyydi
@@ -7892,6 +7893,7 @@
 农民起义	nmqy
 农民群众	nmqfo
 男默女泪	nmnl
+你忙你的	nmnd
 农民家庭	nmjt
 脑满肠肥	nmjfu
 纳米技术	nmje
@@ -17698,8 +17700,9 @@
 叶绿体	ylt_
 叶绿素	ylso
 医疗所	yls_
+月利润	ylru
 引路人	ylra
-月利润	ylr_
+一路人	ylr_
 叶利钦	ylqo
 摇篮曲	ylqi
 娱乐圈	ylq_
@@ -19577,11 +19580,12 @@
 而不要	xbyv
 先不用	xby'
 先不要	xby_
-想不想	xbxv
-饿不饿	xbxu
-像不像	xbxi
-信不信	xbx'
-行不行	xbx_
+香不香	xbxuv
+饿不饿	xbxu'
+行不行	xbxu
+信不信	xbxi
+像不像	xbx'
+想不想	xbx_
 二百五	xbwvv
 下班晚	xbwv
 小霸王	xbwi
@@ -19653,12 +19657,13 @@
 下半部	xbbv
 香饽饽	xbbuu
 凶巴巴	xbbu
+新版本	xbbo
 小本本	xbbiv
 小宝宝	xbbio
 小宝贝	xbbi
 细胞壁	xbbau
 洗白白	xbba
-新版本	xbb_
+下冰雹	xbb_
 我坐在	wzz_
 我早有	wzyu
 文字狱	wzy_
@@ -20749,6 +20754,8 @@
 听她说	tte'
 听他说	tte_
 妥妥的	ttdu
+挺痛的	ttdi'
+挺疼的	ttdi
 偷偷地	ttd_
 团体操	ttc_
 听听吧	ttb_
@@ -20840,8 +20847,9 @@
 土政策	tqc_
 挑战杯	tqb_
 汤婆子	tpz_
+太平洋	tpyv
 特派员	tpyu
-太平洋	tpy_
+谈朋友	tpy_
 头皮屑	tpxo
 突破性	tpx_
 偷拍图	tpt_
@@ -20867,6 +20875,7 @@
 太年轻	tnq_
 碳纳米	tnm_
 泰诺林	tnlvo
+太嫩了	tnlva
 太难了	tnlv
 兔女郎	tnlu
 太牛了	tnl_
@@ -20945,7 +20954,8 @@
 太冷清	tlqv
 铁路桥	tlq_
 塔罗牌	tlpv
-特朗普	tlp_
+特朗普	tlpu
+秃噜皮	tlp_
 挺礼貌	tlmi
 塔里木	tlm_
 太老了	tllvu
@@ -21782,7 +21792,8 @@
 荣誉感	ryg_
 燃油税	ryeo
 人与事	rye_
-热运动	ryd_
+热运动	rydi
+弱一点	ryd_
 热效应	rxy_
 乳腺癌	rxx_
 日下午	rxw_
@@ -23449,6 +23460,7 @@
 女同学	ntxa
 男同学	ntx_
 泥头车	ntw_
+南天寺	nts_
 牛头人	ntr_
 那天起	ntq_
 南天门	ntmu
@@ -25518,6 +25530,7 @@
 科主任	kqr_
 空气炮	kqp_
 扩展名	kqm_
+开起来	kqlv
 困住了	kqli
 看起来	kql_
 口腔科	kqko
@@ -27852,6 +27865,7 @@
 回国了	hgli
 红高粱	hgla
 活过来	hgl_
+烘干机	hgjo
 化工厂	hgj_
 会更好	hgh_
 很骨感	hggu
@@ -28119,6 +28133,7 @@
 恨不得	hbdo
 荷包蛋	hbdiu
 黑白的	hbdi
+活不到	hbda
 回不到	hbd_
 很不错	hbcu
 还不错	hbc_
@@ -28318,6 +28333,7 @@
 更完美	gwmv
 古文明	gwmu
 给我们	gwm_
+更差了	gwlvo
 更扯了	gwlv
 跟我来	gwlo
 拐弯了	gwli
@@ -31130,6 +31146,7 @@
 刹帝利	edluo
 受得了	edlu
 帅呆了	edli
+刷掉了	edla
 受到了	edl'
 收到了	edl_
 受打击	edju
@@ -32286,9 +32303,10 @@
 打摆子	dbzii
 代表作	dbzi
 都不在	dbz_
-大本营	dbyv
+地板油	dbyvva
+大本营	dbyvv
+大半夜	dbyv
 打不赢	dbyi
-大半夜	dby'
 但不要	dby_
 德彪西	dbxui
 多巴胺	dbxu
@@ -33859,7 +33877,8 @@
 被打破	bdp_
 帮到你	bdn_
 帮倒忙	bdm_
-不搭理	bdlv
+不搭理	bdlvi
+不堵了	bdlv
 八达岭	bdlu
 别打了	bdloi
 别等了	bdlo
@@ -33920,10 +33939,11 @@
 半辈子	bbz_
 北冰洋	bbyi
 不必要	bby_
-本报讯	bbxv
+本报讯	bbxvi
+百宝箱	bbxv
 宝贝儿	bbxo
 并不想	bbx_
-百宝箱	bbx'
+不保持	bbwv
 北部湾	bbwi
 帮帮我	bbw_
 不补贴	bbtv
@@ -34212,6 +34232,7 @@
 上去	iv
 上来	ivo
 继续	ja
+就又	ja'
 成绩	jaa
 除了	jai
 绝对	jao
@@ -35310,6 +35331,7 @@
 尊容	zwry
 贼人	zwrn
 尊然	zwrf
+贼热	zwre
 尊长	zwqp
 尊请	zwqg
 尊者	zwqe
@@ -44443,8 +44465,8 @@
 吓我	xswl
 瞎吃	xswk
 阿乌	xswj
-下完	xswfv
-瞎玩	xswf
+瞎玩	xswfi
+下完	xswf
 瞎扯	xswei
 下车	xswe
 下垂	xswb
@@ -56220,8 +56242,8 @@
 抬眼	thyfi
 太严	thyf
 太爷	thye
-太有	thydv
-太右	thyd
+太右	thydv
+太有	thyd
 太阴	thyb
 太凹	thxz
 太凶	thxy
@@ -71255,6 +71277,7 @@
 你妹	nkmw
 你妈	nkmsi
 你吗	nkms
+你忙	nkmp
 泥漠	nkml
 匿名	nkmg
 你老	nklz
@@ -71866,9 +71889,9 @@
 南非	nffw
 难赚	nfft
 南风	nffr
-男方	nffpi
+南方	nffpu
 女方	nffpa
-南方	nffp
+男方	nffp
 难分	nffn
 男装	nffm
 难治	nffka
@@ -98894,7 +98917,8 @@
 干过	gfgl
 干股	gfgj
 敢干	gfgf
-干戈	gfge
+干戈	gfgev
+干个	gfge
 干沟	gfgd
 赶鬼	gfgb
 感召	gffz
@@ -106433,6 +106457,7 @@
 砂锅	esgl
 杀怪	esgg
 傻干	esgf
+啥歌	esgeo
 杀个	esge
 傻狗	esgd
 杀招	esfzu
@@ -121240,10 +121265,10 @@
 不至	bjfkvv
 不支	bjfkvu
 不只	bjfkvo
-不值	bjfkvi
 不治	bjfkva
-布置	bjfkv
-不止	bjfk
+不值	bjfkv'
+不止	bjfkv
+布置	bjfk
 不复	bjfjvu
 不付	bjfjvi
 不负	bjfjv
