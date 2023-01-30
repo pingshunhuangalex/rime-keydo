@@ -11676,6 +11676,7 @@
 个体经济	gtjj
 狗头军师	gtjeuo
 共同进步	gtjbv
+共同话题	gtht
 光天化日	gthri
 改头换面	gthm
 钢铁洪流	gthli
@@ -13754,6 +13755,7 @@
 十里八乡	elbx
 生老病死	elbsu
 始料不及	elbja
+生理不适	elbeu
 说了白说	elbe
 水可载舟	ekzf
 深刻印象	ekyx
@@ -20236,7 +20238,8 @@
 文化牌	whp_
 茶花女	whni
 我和你	whn_
-完好率	whl_
+完好率	whlo
+我好了	whl_
 查户口	whkv
 文化课	whko
 往后看	whk_
@@ -20389,7 +20392,8 @@
 卫生部	weba
 为啥不	web_
 微电子	wdzu
-误当作	wdz_
+误当作	wdzo
+扯犊子	wdz_
 未定义	wdyvo
 查得严	wdyv
 差得远	wdy_
@@ -21093,6 +21097,7 @@
 糖葫芦	thlo
 弹回来	thla
 踢回来	thl_
+挺好哭	thki
 挺好看	thk_
 钛合金	thj_
 退换货	thh_
@@ -23428,6 +23433,7 @@
 哪儿去	nxq_
 那些年	nxn_
 娘儿们	nxm_
+弄醒了	nxlv
 纽西兰	nxla
 拿下了	nxl_
 闹笑话	nxho
@@ -23555,6 +23561,7 @@
 拿那个	nng_
 农奴制	nnf_
 南宁市	nne_
+粘粘的	nndo
 男女队	nndi
 奶奶的	nnda
 浓浓的	nnd_
@@ -24430,7 +24437,8 @@
 每分钟	mff_
 模范生	mfev
 魔法师	mfeo
-没法说	mfe_
+没法说	mfea
+明知是	mfe_
 冒犯到	mfdi
 明知道	mfd_
 猫抓板	mfbu
@@ -25939,6 +25947,7 @@
 交易额	jyxoo
 逞英雄	jyxoi
 记一下	jyxo
+挤一下	jyxi
 陈奕迅	jyxao
 经验性	jyxaao
 出洋相	jyxaa
@@ -26536,8 +26545,8 @@
 监控器	jkq_
 超宽频	jkpv
 进口品	jkp_
-就可能	jkno
-尽可能	jkn_
+尽可能	jkna
+就可能	jkn_
 进口量	jklv
 出口量	jkl_
 接口卡	jkk_
@@ -26891,6 +26900,7 @@
 监视下	jexi
 陈述信	jexav
 建设性	jexa
+就是些	jex'
 就是想	jex_
 晋升为	jewv
 爵士舞	jewuv
@@ -27622,7 +27632,8 @@
 画面感	hmgv
 很敏感	hmgu
 哈密瓜	hmgo
-红玫瑰	hmga
+红玫瑰	hmgav
+好敏感	hmga
 还没个	hmg_
 很麻烦	hmfu
 黑魔法	hmf_
@@ -28021,6 +28032,7 @@
 幻灯片	hdp_
 很多年	hdnu
 好多年	hdn_
+好点没	hdm_
 划得来	hdlvu
 耗电量	hdlvi
 划掉了	hdlv
@@ -29090,6 +29102,7 @@
 翻一下	fyxu
 冯玉祥	fyxovo
 这样想	fyxov
+这也行	fyxoa
 装一下	fyxo
 扎伊尔	fyxi
 防御性	fyxau
@@ -29238,7 +29251,8 @@
 嘸蝦米	fxmo
 防眩目	fxma
 转氨酶	fxm_
-周恩来	fxlu
+周恩来	fxlui
+种下了	fxlu
 福星楼	fxlo
 折现率	fxliv
 执行力	fxli
@@ -31250,6 +31264,7 @@
 神不知	ebfo
 少部分	ebfi
 书报费	ebfa
+伸不直	ebf'
 睡不着	ebf_
 爽不爽	ebev
 说不说	ebeov
@@ -33393,10 +33408,11 @@
 不可能	bkn_
 别开门	bkmo
 宝可梦	bkm_
+不考虑	bklvu
 不苦了	bklvi
-不考虑	bklv
+不肯来	bklv
 别哭了	bklo
-不肯来	bkl'
+不开了	bkl'
 不看了	bkl_
 不可考	bkkv
 不可控	bkk'
@@ -34201,6 +34217,7 @@
 还好	hau
 喝酒	hav
 好像	hi
+好上	hi'
 后果	hia
 黄金	hio
 好看	hiu
@@ -39394,10 +39411,11 @@
 鱼饵	ylxju
 育儿	ylxjo
 鱼儿	ylxj
+雨靴	ylxhvv
 雨雪	ylxhv
 瘀血	ylxho
-浴血	ylxha
-淤血	ylxh'
+浴血	ylxhau
+淤血	ylxha
 雨型	ylxgv
 鱼腥	ylxg
 预案	ylxf
@@ -44488,6 +44506,7 @@
 瞎听	xstg
 下探	xstf
 阿特	xste
+虾头	xstdi
 下头	xstd
 下跳	xstcv
 虾条	xstci
@@ -62528,6 +62547,7 @@
 全所	qtsli
 蜷缩	qtsl
 全司	qtsk
+全素	qtsji
 全速	qtsj
 圈赛	qtsh
 全散	qtsf
@@ -63158,8 +63178,10 @@
 征订	qrdg
 蒸蛋	qrdfi
 整单	qrdf
-争得	qrdeu
-征得	qrde
+整的	qrdev
+争得	qrdeuu
+征得	qrdeu
+整得	qrde
 争斗	qrdd
 征调	qrdc
 正对	qrdb
@@ -76581,6 +76603,7 @@
 累代	lwdh
 雷丁	lwdg
 雷德	lwdev
+累的	lwdei
 累得	lwde
 论调	lwdc
 累次	lwck
@@ -85193,8 +85216,9 @@
 纠错	jqcl
 九次	jqcku
 就此	jqck
+韭菜	jqchi
 酒菜	jqcha
-韭菜	jqch
+就猜	jqch
 就餐	jqcf
 酒保	jqbza
 旧报	jqbz
@@ -90717,7 +90741,7 @@
 好生	hzera
 好胜	hzer
 好耍	hzeq
-好上	hzep
+好伤	hzep
 豪绅	hzeno
 耗神	hzen
 好说	hzel
@@ -92597,6 +92621,7 @@
 恨我	hnwl
 很迟	hnwk
 很晚	hnwf
+很扯	hnweu
 很丑	hnwdu
 很臭	hnwd
 很讨	hntz
@@ -93704,7 +93729,8 @@
 还招	hhqz
 还强	hhqx
 海泉	hhqt
-还政	hhqr
+还政	hhqrv
+还整	hhqr
 海囚	hhqq
 还真	hhqn
 还去	hhql
@@ -96645,7 +96671,7 @@
 关进	gtjbo
 关紧	gtjb
 管好	gthz
-官宦	gtht
+官宦	gthto
 管桁	gthr
 官话	gthq
 关火	gthl
@@ -102463,8 +102489,8 @@
 放大	fpds
 方凳	fpdr
 放荡	fpdp
-放点	fpdmo
-放电	fpdm
+放电	fpdmo
+放点	fpdm
 放低	fpdko
 房地	fpdk
 放毒	fpdjo
@@ -113428,7 +113454,8 @@
 多环	dlht
 多哈	dlhs
 朵花	dlhqu
-多话	dlhq
+多话	dlhq'
+多花	dlhq
 多行	dlhp
 多活	dlhl
 多坏	dlhg
@@ -117598,7 +117625,8 @@
 才牛	chnq
 财年	chnm
 才女	chnl
-才拟	chnk
+才拟	chnkv
+猜你	chnk
 踩奶	chnh
 菜鸟	chnc
 财贸	chmz
@@ -121266,9 +121294,9 @@
 不支	bjfkvu
 不只	bjfkvo
 不治	bjfkva
-不值	bjfkv'
-不止	bjfkv
-布置	bjfk
+布置	bjfkv
+不值	bjfk'
+不止	bjfk
 不复	bjfjvu
 不付	bjfjvi
 不负	bjfjv
