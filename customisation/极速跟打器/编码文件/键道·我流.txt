@@ -9016,6 +9016,7 @@
 历史悠久	leyj
 老少咸宜	lexy
 来势汹汹	lexxv
+路上小心	lexx
 留守儿童	lext
 历史学家	lexjv
 历史小说	lexe
@@ -20242,7 +20243,8 @@
 茶花女	whni
 我和你	whn_
 完好率	whlo
-我好了	whl_
+我好了	whl'
+玩坏了	whl_
 查户口	whkv
 文化课	whko
 往后看	whk_
@@ -23348,8 +23350,9 @@
 拍巴掌	pbq_
 怕不怕	pbp_
 屏蔽门	pbm_
-碰不了	pblv
+碰壁了	pblv
 屏蔽了	pbla
+碰不了	pbl'
 跑不了	pbl_
 铺不开	pbki
 撇不开	pbk_
@@ -27761,7 +27764,8 @@
 好几天	hjt_
 婚介所	hjs_
 好几日	hjr_
-很精准	hjqu
+很精准	hjquo
+很紧张	hjqu
 获奖者	hjqi
 混进去	hjqa
 豁出去	hjq_
@@ -65857,7 +65861,7 @@
 确立	qhlk
 缺略	qhlhu
 却来	qhlh
-摘了	qhlei
+瘸了	qhleo
 缺了	qhle
 缺漏	qhld
 缺料	qhlc
@@ -79653,7 +79657,7 @@
 乐意	leyk
 乐业	leye
 乐友	leyd
-乐享	lexx
+乐享	lexxu
 了下	lexs
 乐儿	lexj
 乐安	lexf
@@ -112199,7 +112203,8 @@
 大军	dsjw
 答卷	dsjt
 大驾	dsjsv
-打假	dsjsi
+打假	dsjsii
+打架	dsjsi
 大加	dsjs
 大乘	dsjrvu
 大成	dsjrv
@@ -118543,6 +118548,7 @@
 宝蓝	bzlfo
 包揽	bzlf
 饱了	bzleu
+爆了	bzleo
 抱了	bzlei
 报了	bzle
 暴烈	bzldo
