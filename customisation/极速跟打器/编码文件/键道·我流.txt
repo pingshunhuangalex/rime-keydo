@@ -11435,6 +11435,7 @@
 虎背熊腰	hbxyi
 互不相容	hbxrv
 互不相让	hbxr
+喝不下去	hbxqo
 活不下去	hbxqa
 毫不相干	hbxgo
 毫不迟疑	hbwyo
@@ -14152,6 +14153,7 @@
 杀身成仁	eejru
 束手就擒	eejqv
 十室九空	eejkuo
+说啥就啥	eeje
 设身处地	eejdo
 水深火热	eehr
 双手合十	eehe
@@ -17029,6 +17031,7 @@
 赞比亚	zby_
 坐标系	zbxi
 再不行	zbx_
+钻被窝	zbwi
 做不完	zbw_
 嘴不甜	zbto
 走不通	zbt_
@@ -20455,9 +20458,10 @@
 卫道士	wdea
 我都是	wde'
 差多少	wde_
+无底洞	wddv
 我懂的	wddu
 伟大的	wddi
-无底洞	wdd_
+差得多	wdd_
 超短波	wdbv
 稳定币	wdbu
 充电宝	wdboi
@@ -22429,7 +22433,8 @@
 整张脸	qqlv
 准确率	qqlo
 卡住了	qqli
-站起来	qql_
+站起来	qql'
+整起来	qql_
 真勤快	qqk_
 主战场	qqjo
 蒸汽机	qqji
@@ -24599,12 +24604,13 @@
 两字词	lzc_
 老爷子	lyzu
 老样子	lyz_
-来源于	lyyv
 老爷爷	lyyu
+疗养院	lyyoo
+旅游业	lyyoa
 懒洋洋	lyyo
 绿油油	lyya
-疗养院	lyy'
-旅游业	lyy_
+来源于	lyy_
+列一下	lyxvv
 连一下	lyxv
 刘禹锡	lyxou
 旅游鞋	lyxoa
@@ -26319,14 +26325,15 @@
 几千年	jqn_
 机器猫	jqm_
 贾庆林	jqlv
+卷起来	jqlov
 竞争力	jqlou
-卷起来	jqlo
+记住了	jqlo
 坚强了	jqlia
 接起来	jqli'
 捡起来	jqli
 出勤率	jqlav
 加起来	jqla
-记住了	jql_
+就去了	jql_
 出气口	jqka
 急诊科	jqk_
 讲清楚	jqjoa
@@ -27417,6 +27424,7 @@
 哈尔滨	hxb_
 画外音	hwyv
 很诧异	hwy_
+很危险	hwxu
 海王星	hwxav
 好玩儿	hwxa
 红外线	hwx_
@@ -27867,7 +27875,8 @@
 很诡异	hgyu
 花岗岩	hgyi
 核工业	hgy_
-很感谢	hgxu
+很感谢	hgxuv
+很搞笑	hgxu
 花鼓戏	hgxiv
 回归线	hgxii
 黑格尔	hgxi
@@ -33541,6 +33550,7 @@
 北京城	bjji
 不仅仅	bjj_
 比较狠	bjhvv
+比较火	bjhv'
 比较好	bjhv
 保监会	bjhii
 北京话	bjhi
@@ -36777,7 +36787,8 @@
 再为	zhww
 在川	zhwt
 再差	zhws
-在望	zhwp
+在望	zhwpv
+再往	zhwp
 载文	zhwnu
 再问	zhwn
 再创	zhwm
@@ -40147,7 +40158,8 @@
 逸散	yksf
 异色	yksea
 一色	ykse
-一艘	yksd
+一艘	yksdv
+一搜	yksd
 一岁	yksbv
 易碎	yksb
 易容	ykryo
@@ -51340,8 +51352,8 @@
 望奎	wpkb
 王朝	wpjz
 望江	wpjx
-往家	wpjsu
-王家	wpjs
+王家	wpjsv
+往家	wpjs
 妄称	wpjr
 往常	wpjp
 王辰	wpjn
@@ -72669,9 +72681,9 @@
 没魂	mwhwa
 煤黑	mwhw
 没换	mwht
+梅花	mwhqv
 美化	mwhqo
-没话	mwhqa
-梅花	mwhq
+没话	mwhq
 每行	mwhp
 没黄	mwhm
 没货	mwhla
@@ -76327,6 +76339,7 @@
 量少	lxez
 两双	lxexv
 凉爽	lxex
+两升	lxerv
 两声	lxer
 梁上	lxep
 量身	lxen
@@ -87684,7 +87697,8 @@
 出墙	jjqx
 畜群	jjqw
 除权	jjqta
-出拳	jjqt
+出拳	jjqt'
+出圈	jjqt
 出征	jjqr
 初秋	jjqqo
 出糗	jjqq
@@ -92763,6 +92777,7 @@
 恨恨	hnhno
 狠狠	hnhn
 很火	hnhl
+很嗨	hnhh
 很坏	hnhg
 很合	hnhe
 很厚	hnhd
