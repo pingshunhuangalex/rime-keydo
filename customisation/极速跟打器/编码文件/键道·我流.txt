@@ -4962,7 +4962,7 @@
 无脸见人	wljrv
 万里长城	wljjvi
 万籁俱寂	wljjv
-网络技术	wljei
+网络技术	wlje
 物理化学	wlhx
 无力回天	wlhtv
 我勒个去	wlgqu
@@ -9181,6 +9181,7 @@
 可以确定	kyqd
 可以理解	kyljv
 可有可无	kykw
+可盐可甜	kykt
 开源节流	kyjlv
 可以解决	kyjjv
 科研机构	kyjguv
@@ -10825,7 +10826,7 @@
 何足挂齿	hzgw
 何罪之有	hzfyi
 胡作非为	hzfwu
-何足道哉	hzdzi
+何足道哉	hzdzio
 活在当下	hzdx
 还在不在	hzbzv
 火炎焱燚	hyyyo
@@ -12810,7 +12811,7 @@
 折节下士	fjxei
 朝九晚五	fjwwu
 非诚勿扰	fjwri
-至今为止	fjwfv
+至今为止	fjwf
 浙江卫视	fjwea
 装机容量	fjrlo
 浮尘如空	fjrka
@@ -16967,8 +16968,9 @@
 最动听	zdto
 早稻田	zdt_
 做敌人	zdr_
+左对齐	zdqv
 赚大钱	zdqa
-左对齐	zdq_
+早点去	zdq_
 紫貂皮	zdp_
 佐丹奴	zdni
 最多能	zdn_
@@ -17952,13 +17954,14 @@
 洋鬼子	ygza
 月工资	ygz'
 已各自	ygz_
+有感于	ygyvvv
 一共有	ygyvv
 一个样	ygyvi
 一个亿	ygyv'
 一个月	ygyv
 鱼肝油	ygyu
 摇滚乐	ygyi
-有感于	ygy'
+应该也	ygy'
 应该要	ygy_
 压根儿	ygxv
 粤港澳	ygxu
@@ -19726,6 +19729,7 @@
 伪阴性	wyxi
 查一下	wyx_
 巫妖王	wywva
+查一查	wywv'
 玩一玩	wywv
 我以为	wywu
 文言文	wywoo
@@ -19795,9 +19799,10 @@
 丑小鸭	wxya
 弯下腰	wxy_
 威尔逊	wxxv
-外向型	wxxu
+外向型	wxxuu
+危险性	wxxu
 持续性	wxxi
-危险性	wxx_
+温习下	wxx_
 沃尔沃	wxwa
 无线网	wxw_
 往下跳	wxt_
@@ -20337,10 +20342,11 @@
 吃饭饭	wffo
 握爪爪	wffi
 文绉绉	wff_
-五指山	wfev
+五指山	wfevi
+未知数	wfev
 温州市	wfea
-未知数	wfe'
 无非是	wfe_
+未知的	wfdv
 充分的	wfd_
 武装部	wfbvo
 无纺布	wfbv
@@ -20722,7 +20728,8 @@
 题外话	twh_
 天文馆	twg_
 逃亡者	twfu
-贪污犯	twf_
+贪污犯	twfi
+拖车费	twf_
 泰晤士	twev
 挺充实	twei
 台湾省	twea
@@ -20788,7 +20795,8 @@
 塔斯曼	tsm_
 太酸了	tslv
 特斯拉	tslu
-探索类	tsl_
+探索类	tsli
+退缩了	tsl_
 铁三角	tsj_
 他死后	tsh_
 碳酸钙	tsgv
@@ -20853,6 +20861,7 @@
 天气好	tqh_
 淘气鬼	tqg_
 挑战者	tqf_
+太正式	tqevv
 太真实	tqev
 特长生	tqeu
 提前说	tqe_
@@ -21087,6 +21096,7 @@
 统计表	tjb_
 偷汉子	thzi
 铁盒子	thz_
+土嗨摇	thyvo
 桃花源	thyvi
 桃花运	thyv
 同行业	thy_
@@ -22466,6 +22476,7 @@
 轻轻地	qqd'
 悄悄地	qqd_
 珍珠草	qqc_
+气泡音	qpyua
 真便宜	qpyu
 跷跷板	qqbo
 瞿秋白	qqbi
@@ -24238,7 +24249,8 @@
 每秒钟	mmf_
 明明是	mme_
 么么哒	mmdu
-盲目的	mmdo
+盲目的	mmdoi
+美美的	mmdo
 萌萌哒	mmdii
 莫名的	mmdi
 满面的	mmdav
@@ -25012,7 +25024,7 @@
 来看房	lkf_
 理科生	lkev
 流口水	lke_
-里看到	lkd_
+凉快点	lkd_
 零库存	lkc_
 铝扣板	lkb_
 陆家嘴	ljza
@@ -27774,7 +27786,7 @@
 好几日	hjr_
 很精准	hjquo
 很紧张	hjqu
-获奖者	hjqi
+火出圈	hjqo
 混进去	hjqa
 豁出去	hjq_
 海产品	hjp_
@@ -28122,6 +28134,7 @@
 很不幸	hbx_
 汉堡王	hbwa
 花不完	hbw_
+好变态	hbta
 好半天	hbt_
 灰白色	hbs_
 还不如	hbr_
@@ -30553,8 +30566,9 @@
 受托人	etr_
 衰退期	etq_
 使他们	etm_
+升天了	etlu
 首陀罗	etlo
-升天了	etl_
+试探了	etl_
 史塔克	etki
 实体卡	etk_
 石头记	etjv
@@ -32457,6 +32471,7 @@
 大白菜	dbcv
 第八次	dbc_
 东北部	dbbv
+蛋白棒	dbba
 都不必	dbb_
 从最早	czz_
 存在于	czyv
@@ -33217,6 +33232,7 @@
 不正确	bqqv
 不准去	bqq_
 比去年	bqn_
+不清凉	bqlva
 不准了	bqlv
 冰淇凌	bqloaa
 冰淇淋	bqloa
@@ -34029,6 +34045,7 @@
 不包括	bbk_
 半杯酒	bbjo
 办不成	bbj_
+不避讳	bbhv
 版本号	bbhu
 并不会	bbh_
 步步高	bbgi
@@ -34419,9 +34436,11 @@
 难以	nao
 能力	nau
 农民	nav
-你们	ni
+能上	ni
+能打	ni'
 哪里	nia
 哪个	nii
+你们	nio
 难看	niu
 哪些	niv
 难道	no
@@ -43963,14 +43982,15 @@
 向上	xxep
 乡绅	xxen
 想说	xxel
-想事	xxekv
+想事	xxekvv
+相识	xxekv
 香市	xxekuo
-向使	xxeku
+箱式	xxeku
 翔实	xxekoo
 详实	xxeko
 乡试	xxeka
-箱式	xxek'
-相识	xxek
+向使	xxek'
+像是	xxek
 相属	xxejv
 橡树	xxej'
 详述	xxej
@@ -50424,6 +50444,7 @@
 围攻	wwgy
 微光	wwgx
 未滚	wwgwv
+喂给	wwgwo
 为给	wwgw
 微观	wwgtu
 为官	wwgto
@@ -51933,7 +51954,8 @@
 戳我	wlwl
 我吃	wlwk
 我无	wlwj
-卧车	wlwe
+卧车	wlwev
+我车	wlwe
 窝逃	wltz
 我痛	wltyu
 我同	wlty
@@ -52032,7 +52054,6 @@
 我急	wljku
 戳记	wljk
 我处	wljj
-卧车	wlje
 我姐	wljd
 我叫	wljc
 握紧	wljb
@@ -56180,6 +56201,7 @@
 土黄	tjhm
 土货	tjhl
 屠户	tjhja
+土嗨	tjhh
 图后	tjhd
 图绘	tjhb
 土工	tjgyv
@@ -72629,6 +72651,7 @@
 没课	mwke
 美钞	mwjz
 梅江	mwjxv
+没讲	mwjxa
 没将	mwjx
 霉菌	mwjwv
 美军	mwjw
@@ -79148,7 +79171,8 @@
 来之	lhfkvo
 来支	lhfkv
 略知	lhfk
-来复	lhfj
+来复	lhfjv
+来付	lhfj
 赖债	lhfh
 来犯	lhff
 来者	lhfevu
@@ -83688,7 +83712,8 @@
 春玉	jwylvv
 唇语	jwylvo
 均与	jwylv
-君御	jwyla
+君御	jwylau
+纯欲	jwyla
 春雨	jwyl
 春意	jwykv
 军医	jwyko
@@ -85616,6 +85641,7 @@
 畅打	jpdsi
 长达	jpds
 长凳	jpdr
+长点	jpdm
 场地	jpdk
 长度	jpdj
 常戴	jpdhi
@@ -90800,6 +90826,7 @@
 豪奢	hzee
 好手	hzeda
 好受	hzed
+薅到	hzdzi
 好到	hzdz
 好动	hzdy
 好短	hzdt
@@ -96631,8 +96658,6 @@
 关情	gtqg
 关站	gtqfo
 观战	gtqf
-观者	gtqea
-关着	gtqe
 关切	gtqd
 官桥	gtqc
 官袍	gtpz
@@ -96772,8 +96797,9 @@
 管饭	gtffu
 官翻	gtffo
 惯犯	gtff
+关着	gtfeo
 观者	gtfea
-关着	gtfe
+惯着	gtfe
 惯杀	gtes
 官商	gtepo
 观赏	gtep
@@ -104286,8 +104312,9 @@
 扶持	fjwk
 服务	fjwj
 阜外	fjwh
+敷完	fjwfv
 服玩	fjwfu
-付完	fjwf
+付完	fjwfi
 辅车	fjwe
 腐臭	fjwdo
 复仇	fjwd

@@ -69,6 +69,7 @@ sort: original
 滨湖	bbhj
 不饱和脂肪酸	bbhs
 版本号	bbhu
+不避讳	bbhv
 办不成	bbj
 濒近	bbjb
 鬓角	bbjc
@@ -5004,6 +5005,7 @@ sort: original
 冰淇淋	bqloa
 冰淇凌	bqloaa
 不准了	bqlv
+不清凉	bqlva
 兵强马壮	bqmf
 比去年	bqn
 屏气凝神	bqne
@@ -9665,6 +9667,7 @@ sort: original
 草贼	czzw
 操纵	czzy
 都不必	dbb
+蛋白棒	dbba
 对标	dbbc
 对表	dbbca
 队标	dbbcav
@@ -23162,11 +23165,12 @@ sort: original
 实体卡	etk
 申通快递	etkd
 史塔克	etki
-升天了	etl
+试探了	etl
 水土流失	etle
 识途老马	etlm
 首陀罗	etlo
 视同路人	etlr
+升天了	etlu
 身体力行	etlx
 栓牢	etlz
 使他们	etm
@@ -26811,9 +26815,10 @@ sort: original
 腐臭	fjwdo
 辅车	fjwe
 浙江卫视	fjwea
-付完	fjwf
+至今为止	fjwf
+付完	fjwfi
 服玩	fjwfu
-至今为止	fjwfv
+敷完	fjwfv
 阜外	fjwh
 非常差	fjwi
 中纪委	fjwia
@@ -36907,8 +36912,9 @@ sort: original
 惯杀	gtes
 刮台风	gtf
 共同奋斗	gtfd
-关着	gtfe
+惯着	gtfe
 观者	gtfea
+关着	gtfeo
 惯犯	gtff
 官翻	gtffo
 管饭	gtffu
@@ -37085,8 +37091,6 @@ sort: original
 高铁站	gtq
 官桥	gtqc
 关切	gtqd
-关着	gtqe
-观者	gtqea
 观战	gtqf
 关站	gtqfo
 关情	gtqg
@@ -39136,6 +39140,7 @@ sort: original
 毁损	hbsw
 回送	hbsy
 好半天	hbt
+好变态	hbta
 回退	hbtb
 会挑	hbtc
 回调	hbtci
@@ -41396,7 +41401,6 @@ sort: original
 胡敲	hjqc
 护青	hjqg
 胡青	hjqgu
-获奖者	hjqi
 互助	hjqj
 护住	hjqji
 户主	hjqjo
@@ -41406,6 +41410,7 @@ sort: original
 虎躯	hjqli
 狐肷	hjqm
 湖镇	hjqn
+火出圈	hjqo
 虎丘	hjqq
 很紧张	hjqu
 很精准	hjquo
@@ -44995,7 +45000,8 @@ sort: original
 活在当下	hzdx
 好动	hzdy
 好到	hzdz
-何足道哉	hzdzi
+薅到	hzdzi
+何足道哉	hzdzio
 还在说	hze
 好受	hzed
 好手	hzeda
@@ -51977,6 +51983,7 @@ sort: original
 长度	jpdj
 场地	jpdk
 长篇大论	jpdl
+长点	jpdm
 长凳	jpdr
 长达	jpds
 畅打	jpdsi
@@ -54480,7 +54487,8 @@ sort: original
 军医	jwyko
 春意	jwykv
 春雨	jwyl
-君御	jwyla
+纯欲	jwyla
+君御	jwylau
 均与	jwylv
 唇语	jwylvo
 春玉	jwylvv
@@ -58846,6 +58854,7 @@ sort: original
 空阔	kykl
 空旷	kykm
 空卡	kyks
+可盐可甜	kykt
 可有可无	kykw
 空旷	kykx
 空空	kyky
@@ -60817,7 +60826,8 @@ sort: original
 来者	lhfevu
 来犯	lhff
 赖债	lhfh
-来复	lhfj
+来付	lhfj
+来复	lhfjv
 略知	lhfk
 来支	lhfkv
 来之	lhfkvo
@@ -61461,7 +61471,7 @@ sort: original
 里层	lkcr
 离层	lkcro
 黎村	lkcw
-里看到	lkd
+凉快点	lkd
 离队	lkdb
 丽调	lkdc
 丽都	lkdd
@@ -67854,7 +67864,8 @@ sort: original
 面点	mmdm
 缅甸	mmdma
 面店	mmdmv
-盲目的	mmdo
+美美的	mmdo
+盲目的	mmdoi
 冒名顶替	mmdt
 么么哒	mmdu
 明明是	mme
@@ -69306,6 +69317,7 @@ sort: original
 美军	mwjw
 霉菌	mwjwv
 没将	mwjx
+没讲	mwjxa
 梅江	mwjxv
 美味佳肴	mwjy
 美钞	mwjz
@@ -81292,6 +81304,7 @@ sort: original
 长牙	qpys
 张元	qpyt
 真便宜	qpyu
+气泡音	qpyua
 张勇	qpyy
 长腰	qpyz
 张嘴	qpzb
@@ -91230,6 +91243,7 @@ sort: original
 太原	thytv
 桃花运	thyv
 桃花源	thyvi
+土嗨摇	thyvo
 昙花一现	thyx
 太用	thyy
 太要	thyz
@@ -91385,6 +91399,7 @@ sort: original
 图绘	tjhb
 图后	tjhd
 堂吉诃德	tjhdi
+土嗨	tjhh
 讨价还价	tjhj
 屠户	tjhja
 土货	tjhl
@@ -92861,6 +92876,7 @@ sort: original
 提前说	tqe
 特长生	tqeu
 太真实	tqev
+太正式	tqevv
 谈情说爱	tqex
 挑战者	tqf
 探亲访友	tqfy
@@ -93161,11 +93177,12 @@ sort: original
 塔库	tskj
 甜酸苦辣	tskl
 踏空	tsky
-探索类	tsl
+退缩了	tsl
 塔林	tslb
 塔楼	tsld
 塌了	tsle
 塔陵	tslg
+探索类	tsli
 塔里	tslk
 塔罗	tsll
 他练	tslm
@@ -93477,10 +93494,11 @@ sort: original
 吞声	twer
 泰晤士	twev
 天文数字	twez
-贪污犯	twf
+拖车费	twf
 贪污腐败	twfb
 吞舟	twfd
 贪污腐化	twfh
+贪污犯	twfi
 吞服	twfj
 囤房	twfp
 屯扎	twfs
@@ -95316,13 +95334,13 @@ sort: original
 为之动容	wfdr
 万达	wfds
 万端	wfdt
+未知的	wfdv
 万吨	wfdw
 玩到	wfdz
 晚稻	wfdzo
 弯刀	wfdzoa
 弯道	wfdzoo
 无非是	wfe
-未知数	wfe
 温州市	wfea
 晚睡	wfeb
 玩水	wfebv
@@ -95344,7 +95362,8 @@ sort: original
 完胜	wfer
 万升	wferv
 玩啥	wfes
-五指山	wfev
+未知数	wfev
+五指山	wfevi
 婉顺	wfew
 晚霜	wfex
 无中生有	wfey
@@ -97359,8 +97378,7 @@ sort: original
 万里长征第一步	wljbv
 我叫	wljc
 我姐	wljd
-卧车	wlje
-网络技术	wljei
+网络技术	wlje
 握力计	wlji
 我处	wljj
 万籁俱寂	wljjv
@@ -97498,7 +97516,8 @@ sort: original
 万里挑一	wltyv
 窝逃	wltz
 闻了闻	wlw
-卧车	wlwe
+我车	wlwe
+卧车	wlwev
 五里雾中	wlwf
 持梁齿肥	wlwfi
 握了握	wlwi
@@ -99466,6 +99485,7 @@ sort: original
 微观	wwgtu
 我吃过	wwgu
 为给	wwgw
+喂给	wwgwo
 未滚	wwgwv
 微光	wwgx
 围攻	wwgy
@@ -100171,7 +100191,7 @@ sort: original
 床位	wxww
 痴心妄想	wxwxo
 文学创作	wxwz
-危险性	wxx
+温习下	wxx
 创新	wxxb
 创效	wxxc
 武侠小说	wxxe
@@ -100182,7 +100202,8 @@ sort: original
 创下	wxxs
 床下	wxxso
 窗下	wxxsov
-外向型	wxxu
+危险性	wxxu
+外向型	wxxuu
 威尔逊	wxxv
 弯下腰	wxy
 丑小鸭	wxya
@@ -100539,6 +100560,7 @@ sort: original
 重传	wywt
 我以为	wywu
 玩一玩	wywv
+查一查	wywv
 巫妖王	wywva
 重围	wyww
 无冤无仇	wywwv
@@ -108349,14 +108371,15 @@ sort: original
 学习实践	xxejoa
 新兴市场	xxejoo
 相属	xxejv
-相识	xxek
-箱式	xxek
+像是	xxek
+向使	xxek
 乡试	xxeka
 详实	xxeko
 翔实	xxekoo
-向使	xxeku
+箱式	xxeku
 香市	xxekuo
-想事	xxekv
+相识	xxekv
+想事	xxekvv
 想说	xxel
 洗洗睡了	xxela
 详细说明	xxem
@@ -112538,7 +112561,7 @@ sort: original
 迎向	ygxxu
 英雄	ygxy
 应该要	ygy
-有感于	ygy
+应该也	ygy
 影音	ygyb
 影印	ygybo
 应有	ygyd
@@ -112577,6 +112600,7 @@ sort: original
 一个亿	ygyv
 一个样	ygyvi
 一共有	ygyvv
+有感于	ygyvvv
 营运	ygyw
 莺歌燕舞	ygywi
 应运	ygywo
@@ -118608,7 +118632,7 @@ sort: original
 走坡	zdpl
 走偏	zdpm
 左道旁门	zdpmv
-左对齐	zdq
+早点去	zdq
 赚大钱	zdqa
 走禽	zdqb
 走俏	zdqc
@@ -118621,6 +118645,7 @@ sort: original
 走账	zdqp
 奏章	zdqpv
 走正	zdqr
+左对齐	zdqv
 最低气温	zdqw
 走强	zdqx
 做敌人	zdr
