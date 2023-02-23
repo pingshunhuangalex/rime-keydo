@@ -64641,6 +64641,7 @@
 取乐	qllev
 娶了	qlle'
 取了	qlle
+去喽	qlld
 去鳞	qllb
 取款	qlkt
 曲库	qlkj
