@@ -7999,6 +7999,7 @@
 凝神聚气	nejq
 难上加难	nejn
 拿手好戏	nehx
+你是和我	nehw
 能说会道	nehd
 南水北调	nebd
 难得一见	ndyj
@@ -23827,7 +23828,8 @@
 拿上来	nel_
 那时快	nek_
 脑神经	nej_
-农商行	neh_
+农商行	neho
+你是和	neh_
 那首歌	neg_
 闹事者	nef_
 嫩生生	neea
@@ -38032,6 +38034,7 @@
 咬定	yzdg
 要担	yzdf
 要的	yzdev
+咬的	yzdeo
 要得	yzde
 咬掉	yzdc
 要对	yzdb
@@ -56072,6 +56075,8 @@
 图床	tjwmi
 凸窗	tjwm
 突兀	tjwj
+涂完	tjwfa
+吐完	tjwf
 土豚	tjtw
 图腾	tjtr
 土堂	tjtp
@@ -93716,6 +93721,7 @@
 海员	hhyt
 海牙	hhysa
 嗨呀	hhys
+还痒	hhypv
 海洋	hhyp
 还与	hhylv
 嗨哟	hhylo
