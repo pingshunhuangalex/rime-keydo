@@ -157,6 +157,7 @@
 北京航空航天大学	bjhxi
 不知人间有羞耻事	bfre
 剥夺政治权利终身	bdqea
+自作孽，不可活	zznh
 宰相肚里能撑船	zxdw
 醉翁之意不在酒	zwfjv
 最高人民检察院	zgryo
@@ -3963,8 +3964,8 @@
 心理障碍	xlqx
 按劳取酬	xlqw
 笑了起来	xlqlu
-星罗棋布	xlqboi
-心理准备	xlqbo
+星罗棋布	xlqbo
+心理准备	xlqb
 奥林匹克	xlpk
 血流漂杵	xlpju
 心理平衡	xlph
@@ -6652,11 +6653,10 @@
 穷则思变	qzsb
 振作起来	qzqli
 逐字逐句	qzqjv
-正在这时	qzqev
 千载难逢	qznf
 起早摸黑	qzmh
 亲自出马	qzjmo
-正在这时	qzfev
+正在这时	qzfe
 千姿百态	qzbt
 诸子百家	qzbj
 七嘴八舌	qzbe
@@ -11185,6 +11185,7 @@
 环境因素	hjysv
 后继有人	hjyr
 很久以前	hjyq
+糊成一片	hjypo
 荒郊野岭	hjyli
 很久以后	hjyh
 耗尽余生	hjye
@@ -12272,7 +12273,7 @@
 志在四方	fzsf
 种族主义	fzqy
 志在千里	fzqlv
-种族歧视	fzqeu
+种族歧视	fzqe
 只字片语	fzpy
 发自内心	fznx
 纸醉金迷	fzjma
@@ -18787,10 +18788,11 @@
 奥斯曼	xsm_
 下三路	xslvv
 下三滥	xslv
-奥斯陆	xslu
+奥斯陆	xsluv
+饿死了	xslu
 新丝路	xsloa
 新思路	xslo
-饿死了	xsl'
+吓死了	xsl'
 笑死了	xsl_
 奥斯卡	xsk_
 新四军	xsj_
@@ -19735,7 +19737,8 @@
 问一下	wyxo
 伪阳性	wyxia
 伪阴性	wyxi
-查一下	wyx_
+查一下	wyx'
+吃一下	wyx_
 巫妖王	wywva
 查一查	wywv'
 玩一玩	wywv
@@ -20991,6 +20994,7 @@
 挺礼貌	tlmi
 塔里木	tlm_
 太老了	tllvu
+太辣了	tllvo
 太拉了	tllvi
 太乱了	tllv'
 太烂了	tllv
@@ -23005,11 +23009,12 @@
 主办方	qbf'
 却不知	qbf_
 赵本山	qbev
-真不是	qbeu
+长本事	qbeu
 齐白石	qbeou
 前半生	qbeo
 且不说	qbei
-岂不是	qbe_
+岂不是	qbe'
+真不是	qbe_
 长不大	qbdu
 全部的	qbdi
 撬不动	qbd'
@@ -23631,8 +23636,9 @@
 你们家	nmji
 那么长	nmja
 那么久	nmj_
-那么狠	nmhau
-那么坏	nmha
+那么糊	nmhau
+那么坏	nmha'
+那么狠	nmha
 难免会	nmh_
 南梦宫	nmgu
 农民工	nmgo
@@ -25060,6 +25066,7 @@
 流程图	ljta
 理解她	ljt'
 理解他	ljt_
+辣椒素	ljs_
 领军人	ljri
 绿巨人	ljra
 梁静茹	ljr_
@@ -25074,6 +25081,7 @@
 理解力	ljlvu
 零距离	ljlvo
 理解了	ljlv
+冷处理	ljlo
 蓝精灵	ljlio
 拉进来	ljli'
 拎出来	ljli
@@ -27265,7 +27273,8 @@
 合作组	hzz_
 黄宗羲	hzxv
 很罪恶	hzxu
-还在下	hzx_
+还在下	hzx'
+还在想	hzx_
 海贼王	hzw_
 孩子头	hzt_
 黄棕色	hzs_
@@ -27727,6 +27736,7 @@
 华丽丽	hlli
 火辣辣	hll'
 灰溜溜	hll_
+喉咙口	hlko
 海陆空	hlka
 会来看	hlk_
 狐狸精	hljuu
@@ -28922,8 +28932,9 @@
 感受性	gexvu
 共时性	gexv
 观赏性	gex_
+过山车	gewv
 古生物	gewu
-过山车	gew_
+刚说完	gew_
 更深入	gerv
 高收入	gero
 过生日	ger_
@@ -29167,7 +29178,8 @@
 这样想	fyxov
 这也行	fyxoa
 装一下	fyxo
-扎伊尔	fyxi
+扎伊尔	fyxii
+找一下	fyxi
 防御性	fyxau
 泛用性	fyxa
 转一下	fyx'
@@ -29246,6 +29258,7 @@
 这样说	fye_
 转移到	fydvu
 专业的	fydv
+重一点	fyduv
 反应堆	fyduo
 重要的	fydu
 这一代	fydov
@@ -29255,7 +29268,7 @@
 中移动	fydiu
 中意的	fydi
 发源地	fyda
-重一点	fyd_
+终于到	fyd_
 反义词	fycu
 中药材	fyci
 飞燕草	fyca
@@ -31407,13 +31420,14 @@
 顶一下	dyxv'
 带一下	dyxv
 第一下	dyxuvv
-多元性	dyxuvo
+多元性	dyxuvo'
+多样性	dyxuvo
 第一线	dyxuva
 第一项	dyxuv
-多样性	dyxu'
 多一些	dyxu
-电源线	dyxia
-打游戏	dyxi
+电源线	dyxiaa
+打游戏	dyxia
+点一下	dyxi
 兜一下	dyx'
 等一下	dyx_
 第一位	dywu
@@ -33584,7 +33598,8 @@
 不健康	bjkv
 补偿款	bjko
 不出口	bjk_
-比较急	bjjvvu
+比较近	bjjvvu
+比较急	bjjvv'
 比较紧	bjjvv
 不解决	bjjvu
 不将就	bjjvoo
@@ -35433,6 +35448,7 @@
 尊祟	zwsb
 尊容	zwry
 贼人	zwrn
+贼弱	zwrl
 尊然	zwrf
 贼热	zwre
 尊长	zwqp
@@ -42063,6 +42079,7 @@
 野鹅	yexe
 邪笑	yexcv
 夜校	yexco
+也小	yexca
 夜宵	yexc
 爷新	yexbu
 野心	yexb
@@ -42274,6 +42291,7 @@
 也得	yedw
 冶锻	yedto
 也短	yedt
+也大	yedsa
 夜大	yeds
 夜灯	yedr
 叶典	yedmo
@@ -45777,7 +45795,7 @@
 续战	xlqf
 续着	xlqe
 虚怯	xlqd
-许亲	xlqb
+许亲	xlqboo
 许配	xlpw
 虚胖	xlpp
 续篇	xlpm
@@ -47227,6 +47245,7 @@
 雪顶	xhdg
 爱的	xhdeu
 学的	xhdeo
+挨得	xhdei
 爱得	xhde'
 学得	xhde
 血斗	xhddu
@@ -47556,8 +47575,8 @@
 行事	xgeku
 兴师	xgeko
 姓氏	xgeka
-形式	xgek'
-形势	xgek
+形势	xgek'
+形式	xgek
 行署	xgeju
 行书	xgej
 兴衰	xgeg
@@ -48232,8 +48251,8 @@
 鞋帽	xdmz
 邪魅	xdmwv
 欧美	xdmw
-鞋码	xdmsv
-沤麻	xdms
+沤麻	xdmsa
+鞋码	xdms
 欧盟	xdmr
 偶们	xdmni
 邪门	xdmn
@@ -61955,8 +61974,6 @@
 昭苏	qzsj
 昭然	qzrf
 招惹	qzre
-照照	qzqzo
-找找	qzqz
 照墙	qzqx
 罩裙	qzqwi
 找准	qzqw
@@ -61970,10 +61987,6 @@
 罩住	qzqj
 肇庆	qzqg
 招展	qzqf
-照这	qzqeo
-罩着	qzqeio
-找着	qzqei
-照着	qzqe
 赵桥	qzqc
 招亲	qzqb
 找没	qzmw
@@ -62075,8 +62088,6 @@
 招干	qzgf
 找狗	qzgd
 招鬼	qzgb
-照照	qzfzo
-找找	qzfz
 朝中	qzfyu
 照中	qzfy
 招风	qzfr
@@ -62086,10 +62097,6 @@
 照拂	qzfjo
 照付	qzfj
 找烦	qzff
-照这	qzfeo
-罩着	qzfeio
-找着	qzfei
-照着	qzfe
 肇州	qzfd
 招赘	qzfb
 照烧	qzez
@@ -70479,6 +70486,7 @@
 哪位	nsww
 那串	nswt
 拿稳	nswn
+拿我	nswl
 那晚	nswf
 那车	nswe
 那套	nstz
@@ -85665,10 +85673,10 @@
 常熟	jpedi
 长寿	jped
 长岛	jpdzuu
-长刀	jpdzu
+长刀	jpdzua
+肠道	jpdzu
 唱道	jpdzo
 倡导	jpdzi
-肠道	jpdz
 尝到	jpdz
 长东	jpdy
 长短	jpdt
@@ -90783,8 +90791,8 @@
 耗尽	hzjb
 浩浩	hzhz
 好红	hzhy
-好慌	hzhxa
-好黄	hzhx
+好黄	hzhxa
+好慌	hzhx
 好黑	hzhw
 好换	hzht
 毫亨	hzhro
@@ -90792,9 +90800,8 @@
 豪华	hzhqo
 好话	hzhq
 好狠	hzhn
-好慌	hzhma
-好黄	hzhm
 好货	hzhl
+好糊	hzhj
 好还	hzhha
 好嗨	hzhh
 好坏	hzhg
@@ -95583,6 +95590,7 @@
 搞臭	gzwdi
 稿酬	gzwd
 告吹	gzwb
+睾酮	gztyu
 高通	gztyo
 搞通	gzty
 搞团	gztt
@@ -100015,8 +100023,6 @@
 找人	fzrn
 昭然	fzrf
 招惹	fzre
-照照	fzqzo
-找找	fzqz
 照墙	fzqx
 罩裙	fzqwi
 找准	fzqw
@@ -100030,10 +100036,6 @@
 罩住	fzqj
 肇庆	fzqg
 招展	fzqf
-照这	fzqeo
-罩着	fzqeio
-找着	fzqei
-照着	fzqe
 赵桥	fzqc
 招亲	fzqb
 罩袍	fzpz
@@ -100154,6 +100156,7 @@
 找狗	fzgd
 招鬼	fzgb
 照照	fzfzo
+找着	fzfzi
 找找	fzfz
 朝中	fzfyu
 照中	fzfy
