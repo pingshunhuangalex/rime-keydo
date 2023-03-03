@@ -3709,6 +3709,7 @@
 谢天谢地	xtxdo
 闲庭信步	xtxb
 儿童文学	xtwx
+心疼死了	xtsl
 按图索骥	xtsj
 削铁如泥	xtrni
 乡土气息	xtqx
@@ -11444,6 +11445,7 @@
 毫不迟疑	hbwyo
 候补委员	hbwyi
 画饼充饥	hbwjv
+很不稳定	hbwdu
 话不投机	hbtjo
 货比三家	hbsji
 很不容易	hbryu
@@ -17877,8 +17879,9 @@
 有价值	yjfvi
 研究者	yjfv
 移机费	yjfu
-演讲者	yjfa
-也就只	yjf_
+演讲者	yjfao
+也就只	yjfa
+硬撑着	yjf_
 研究室	yjevoo
 研究生	yjevo
 一件事	yjev
@@ -18230,6 +18233,7 @@
 有点腻	ydnv
 遇到你	ydn_
 源代码	ydma
+有点闷	ydm'
 有点慢	ydm_
 运动量	ydlvv
 一段路	ydlvu
@@ -18575,6 +18579,7 @@
 下一次	xyc_
 血液病	xybu
 下一步	xyb_
+下小雨	xxyvi
 二选一	xxyv
 小心眼	xxy_
 熙戏犀	xxxva
@@ -19025,14 +19030,15 @@
 线粒体	xlt_
 相类似	xlsv
 爱丽丝	xlsu
-祥林嫂	xlsov
-安乐死	xlso
-俄罗斯	xls_
-学龄前	xlqo
+祥林嫂	xlso
+俄罗斯	xlsi
+安乐死	xls_
 斜拉桥	xlqi
-阿联酋	xlq_
+阿联酋	xlqa
+学龄前	xlq_
+系列片	xlpu
 小老婆	xlpi
-系列片	xlp_
+写了篇	xlp_
 希腊奶	xlnu
 小龙女	xln_
 暹逻猫	xlmoi
@@ -19534,6 +19540,7 @@
 新德里	xdlou
 暗地里	xdlo
 按道理	xdli
+消毒了	xdla
 心动了	xdl'
 想多了	xdl_
 想得开	xdk_
@@ -19599,6 +19606,7 @@
 小辫子	xbzi
 下辈子	xbz_
 西班牙	xbyvv
+下暴雨	xbyvo
 而不要	xbyv
 先不用	xby'
 先不要	xby_
@@ -20681,6 +20689,7 @@
 天安门	txmv
 同学们	txmi
 条形码	txm_
+太虚了	txlvi
 太小了	txlv
 透心凉	txlu
 同性恋	txli
@@ -21313,6 +21322,7 @@
 调词频	tcp_
 她曾能	tcn_
 太聪明	tcm_
+太惨了	tcl_
 体操课	tck_
 太刺激	tcj_
 跳槽者	tcfo
@@ -24090,6 +24100,7 @@
 马嵬坡	mwp_
 每五年	mwnu
 魔物娘	mwn_
+忙完了	mwl_
 秒差距	mwj_
 没文化	mwha
 门外汉	mwh_
@@ -24330,6 +24341,7 @@
 马路上	mle_
 美丽的	mldov
 蛮累的	mldo
+没淋到	mldaa
 没料到	mlda
 买了点	mld_
 煤老板	mlbo
@@ -25085,8 +25097,9 @@
 蓝精灵	ljlio
 拉进来	ljli'
 拎出来	ljli
-拉出来	ljl'
-流出来	ljl_
+流出来	ljla
+列出来	ljl'
+拉出来	ljl_
 连城诀	ljjvvo'
 李嘉诚	ljjvvo
 零基础	ljjvv
@@ -25591,8 +25604,9 @@
 科主任	kqr_
 空气炮	kqp_
 扩展名	kqm_
-开起来	kqlv
+开整了	kqlv
 困住了	kqli
+开起来	kql'
 看起来	kql_
 口腔科	kqko
 看情况	kqk_
@@ -28315,6 +28329,7 @@
 更衣室	gyev
 贵阳市	gyei
 供应商	gye_
+感应灯	gydv
 古印度	gydu
 高压电	gydo
 过一段	gyd_
@@ -44325,7 +44340,7 @@
 宣腿	xttb
 选送	xtsy
 玄孙	xtsw
-悬索	xtsl
+悬索	xtsli
 玄思	xtsk
 旋塞	xtsh
 玄色	xtse
@@ -56204,7 +56219,8 @@
 图赖	tjlh
 图铃	tjlgi
 图灵	tjlg
-吐了	tjle
+吐了	tjleo
+涂了	tjle
 土楼	tjldv
 图列	tjld
 涂料	tjlc
@@ -80368,6 +80384,7 @@
 林杉	lbef
 邻舍	lbee
 临睡	lbeb
+淋到	lbdza
 临到	lbdz
 凛冬	lbdy
 琳达	lbdsv
@@ -93813,6 +93830,7 @@
 海豚	hhtw
 海獭	hhtsa
 害他	hhts
+还疼	hhtr
 海棠	hhtp
 海天	hhtma
 还添	hhtm

@@ -37797,6 +37797,7 @@ sort: original
 工大	gydsv
 工段	gydt
 古印度	gydu
+感应灯	gydv
 公吨	gydw
 拱动	gydy
 国有大中型企业	gydyi
@@ -39174,6 +39175,7 @@ sort: original
 滑板车	hbwa
 汉堡王	hbwai
 回抽	hbwd
+很不稳定	hbwdu
 回车	hbwe
 会玩	hbwf
 回我	hbwl
@@ -41028,6 +41030,7 @@ sort: original
 还添	hhtm
 海天	hhtma
 海棠	hhtp
+还疼	hhtr
 害他	hhts
 海獭	hhtsa
 很好听	hhtu
@@ -58073,11 +58076,12 @@ sort: original
 口腔溃疡	kqky
 跨考	kqkz
 看起来	kql
+开起来	kql
 垮了	kqle
 跨栏	kqlf
 困住了	kqli
 跨立	kqlk
-开起来	kqlv
+开整了	kqlv
 扩展名	kqm
 苛政猛于虎	kqmh
 跨马	kqms
@@ -59227,6 +59231,7 @@ sort: original
 聊不到	lbdv
 凛冬	lbdy
 临到	lbdz
+淋到	lbdza
 连不上	lbe
 临睡	lbeb
 邻舍	lbee
@@ -61275,8 +61280,9 @@ sort: original
 路况	ljkx
 陆空	ljky
 路考	ljkz
-流出来	ljl
 拉出来	ljl
+列出来	ljl
+流出来	ljla
 绿林	ljlb
 炉料	ljlc
 撸了	ljle
@@ -67468,6 +67474,7 @@ sort: original
 墨村	mlcw
 买了点	mld
 没料到	mlda
+没淋到	mldaa
 莫对	mldb
 抹掉	mldc
 魔豆	mldd
@@ -69361,6 +69368,7 @@ sort: original
 美控	mwkyoi
 美恐	mwkyov
 没考	mwkz
+忙完了	mwl
 美林	mwlb
 梅林	mwlbv
 没聊	mwlc
@@ -89403,6 +89411,7 @@ sort: original
 条款	tckt
 调控	tcky
 跳空	tckyo
+太惨了	tcl
 调料	tclc
 跳楼	tcld
 跳了	tcle
@@ -91494,7 +91503,8 @@ sort: original
 涂料	tjlc
 图列	tjld
 土楼	tjldv
-吐了	tjle
+涂了	tjle
+吐了	tjleo
 图灵	tjlg
 图铃	tjlgi
 图赖	tjlh
@@ -93675,6 +93685,7 @@ sort: original
 同性恋	txli
 透心凉	txlu
 太小了	txlv
+太虚了	txlvi
 塔希里亚	txly
 条形码	txm
 同学们	txmi
@@ -101553,6 +101564,7 @@ sort: original
 心愿	xbyt
 信鸢	xbyti
 而不要	xbyv
+下暴雨	xbyvo
 西班牙	xbyvv
 新韵	xbyw
 信用	xbyy
@@ -102416,6 +102428,7 @@ sort: original
 斜靠	xdkz
 想多了	xdl
 心动了	xdl
+消毒了	xdla
 卸料	xdlc
 泄露	xdld
 泄漏	xdld
@@ -105874,7 +105887,7 @@ sort: original
 蓄能	xlnr
 煦暖	xlnt
 希腊奶	xlnu
-系列片	xlp
+写了篇	xlp
 续聘	xlpb
 心理平衡	xlph
 小老婆	xlpi
@@ -105883,8 +105896,10 @@ sort: original
 奥林匹克	xlpk
 续篇	xlpm
 虚胖	xlpp
+系列片	xlpu
 许配	xlpw
-阿联酋	xlq
+学龄前	xlq
+阿联酋	xlqa
 心理准备	xlqb
 星罗棋布	xlqbo
 许亲	xlqboo
@@ -105899,7 +105914,6 @@ sort: original
 圩区	xlqlv
 续签	xlqm
 圩镇	xlqn
-学龄前	xlqo
 虚张	xlqp
 需求	xlqq
 按劳取酬	xlqw
@@ -105913,14 +105927,14 @@ sort: original
 血流如注	xlrq
 熙来攘往	xlrw
 虚荣	xlry
-俄罗斯	xls
+安乐死	xls
 虚岁	xlsb
 心理素质	xlsf
+俄罗斯	xlsi
 阿拉斯加	xlsj
 俄罗斯方块	xlsk
 需索	xlsl
-安乐死	xlso
-祥林嫂	xlsov
+祥林嫂	xlso
 俄罗斯人	xlsr
 爱丽丝	xlsu
 相类似	xlsv
@@ -107918,7 +107932,8 @@ sort: original
 旋塞	xtsh
 按图索骥	xtsj
 玄思	xtsk
-悬索	xtsl
+心疼死了	xtsl
+悬索	xtsli
 玄孙	xtsw
 选送	xtsy
 儿童团	xtt
@@ -109011,6 +109026,7 @@ sort: original
 喜形于色	xxysv
 像元	xxyt
 二选一	xxyv
+下小雨	xxyvi
 二𫫇英	xxyvo
 祥云	xxyw
 玄而又玄	xxyx
@@ -110642,6 +110658,7 @@ sort: original
 游龙	ydly
 有劳	ydlz
 有点慢	ydm
+有点闷	ydm
 源代码	ydma
 游民	ydmb
 幼苗	ydmc
@@ -113114,8 +113131,9 @@ sort: original
 研究室	yjevoo
 一觉睡到自然醒	yjex
 研究生院	yjey
-也就只	yjf
-演讲者	yjfa
+硬撑着	yjf
+也就只	yjfa
+演讲者	yjfao
 有价值的	yjfd
 已经知道	yjfda
 远见卓识	yjfe
