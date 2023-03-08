@@ -22734,9 +22734,10 @@
 张惠妹	qhma
 取货码	qhm_
 去或留	qhlv
+亲和力	qhlou
 请回来	qhlo
 张洪林	qhla
-亲和力	qhl_
+签好了	qhl_
 真好看	qhku
 迁户口	qhk_
 前后脚	qhjou
@@ -23256,7 +23257,8 @@
 跑出来	pjlo
 批处理	pjliu
 拍出来	pjli
-潘金莲	pjla
+潘金莲	pjlai
+赔偿了	pjla
 跑出了	pjl'
 拍出了	pjl_
 皮夹克	pjk_
@@ -28825,6 +28827,7 @@
 刮胡子	ghz_
 各行业	ghy_
 过会儿	ghx_
+更好吃	ghw_
 规划图	ghtv
 搞糊涂	ght_
 搞黄色	ghs_
@@ -33300,7 +33303,8 @@
 补助款	bqk_
 标准件	bqjvo
 标准间	bqjv
-白切鸡	bqju
+白切鸡	bqjuv
+白斩鸡	bqju
 别着急	bqjo
 保证金	bqji
 不正经	bqj'
@@ -34956,6 +34960,8 @@
 平安	px_
 拼音	py_
 平在	pz_
+去不	qb_
+去吧	qb'
 去的	qd_
 去个	qg_
 去了	ql_
@@ -55722,6 +55728,7 @@
 托盘	tlpf
 脱贫	tlpb
 拖泥	tlnki
+拖你	tlnk'
 托你	tlnk
 鸵鸟	tlnc
 脱毛	tlmz
@@ -64388,6 +64395,7 @@
 千金	qmjbui
 千斤	qmjbu
 前进	qmjb
+签好	qmhz
 浅红	qmhy
 浅黄	qmhx
 遣还	qmht
@@ -72663,7 +72671,8 @@
 每米	mwmk
 每亩	mwmju
 眉目	mwmj
-没卖	mwmh
+没卖	mwmh'
+没买	mwmh
 每名	mwmgu
 没命	mwmga
 美名	mwmg
@@ -89645,7 +89654,8 @@
 角尺	jcwk
 教务	jcwj
 郊外	jcwh
-较晚	jcwf
+较晚	jcwfv
+交完	jcwf
 叫车	jcweo
 轿车	jcwe
 焦臭	jcwdi
@@ -133578,7 +133588,6 @@
 脬	pzuuoo
 匏	pzv
 匏	pzvuua
-亲	qb_
 沁	qba
 骎	qbaa
 骎	qbaaav
@@ -133609,7 +133618,8 @@
 揿	qbiui
 揿	qbiuio
 擒	qbiuio
-寝	qbo
+亲	qbo
+寝	qbo'
 噙	qboi
 噙	qboiov
 吣	qboo
