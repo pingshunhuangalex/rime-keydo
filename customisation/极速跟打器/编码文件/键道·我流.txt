@@ -5388,6 +5388,7 @@
 吃饱了撑	wblj
 微不可察	wbkwu
 臭不可闻	wbkw
+闻不出来	wbjl
 文不加点	wbjd
 吃饱喝足	wbhzo
 喘不过气	wbgqov
@@ -11282,6 +11283,7 @@
 浩浩荡荡	hhdda
 黑盒测试	hhce
 花花草草	hhcc
+荷荷巴油	hhby
 含糊不清	hhbq
 好坏不分	hhbf
 后悔不迭	hhbdu
@@ -20206,8 +20208,9 @@
 文件名	wjm_
 无纪律	wjlv
 冲击力	wjlov
-冲出来	wjloa
-完结了	wjlo
+完结了	wjloa
+冲出来	wjlo'
+闻出来	wjlo
 创纪录	wjli
 婉拒了	wjla
 误解了	wjl'
@@ -20652,6 +20655,7 @@
 太原市	tyev
 她也是	tye_
 特异度	tydu
+挺硬的	tydiv
 挺远的	tydi
 同样地	tyd_
 同义词	tyci
@@ -21042,7 +21046,8 @@
 土库曼	tkmv
 太空棉	tkm_
 太酷了	tklvv
-太亏了	tklv
+太亏了	tklv'
+太快了	tklv
 推开了	tkl_
 挺开阔	tkki
 偷窥狂	tkk_
@@ -21159,9 +21164,10 @@
 它会被	thbo
 她会被	thba
 他会被	thb_
-太过于	tgyv
+太隔应	tgyv
+铁观音	tgyia
 挺诡异	tgyi
-铁观音	tgy_
+太过于	tgy_
 腾格尔	tgxu
 台港澳	tgxa
 泰戈尔	tgx_
@@ -26624,11 +26630,11 @@
 出口货	jkh_
 进口国	jkgv
 长宽高	jkg_
-进口商	jkevo
-夹克衫	jkev
+进口商	jkev
 教科书	jkeu
 出口商	jkea
-就开始	jke_
+夹克衫	jke_
+健康的	jkdi
 寄快递	jkd_
 触控笔	jkb_
 仅仅在	jjzi
@@ -27280,7 +27286,8 @@
 即便是	jbe_
 基本点	jbdvv
 戒不掉	jbdv
-剪不断	jbdo
+剪不断	jbdov
+卷不动	jbdo
 见不得	jbdi
 记不得	jbd'
 见不到	jbd_
@@ -27345,11 +27352,12 @@
 欢迎您	hyna
 欢迎你	hyn_
 薅羊毛	hym_
-耗油率	hylv
+耗油率	hylva
+耗油量	hylv
 回忆录	hyli
-婚姻里	hyla
-耗油量	hyl'
-好眼力	hyl_
+好眼力	hylai
+好严厉	hyla
+婚姻里	hyl_
 很愉快	hyku
 会员卡	hyk_
 霍元甲	hyjv
@@ -41440,7 +41448,8 @@
 英里	yglki
 营利	yglk'
 盈利	yglk
-迎来	yglh
+迎来	yglhu
+硬来	yglh
 英灵	yglg
 硬了	yglev
 赢了	ygle
@@ -54078,7 +54087,7 @@
 吹了	wble
 吹开	wbkh
 垂成	wbjr
-炊具	wbjl
+炊具	wbjlo
 吹出	wbjj
 吹净	wbjg
 垂教	wbjc
@@ -63812,8 +63821,8 @@
 珍爱	qnxhv
 阵雪	qnxha
 真爱	qnxh
-真行	qnxguu
-真性	qnxgu
+真性	qnxguo
+真行	qnxgu
 阵型	qnxgav
 阵形	qnxga
 振兴	qnxg
@@ -98832,7 +98841,8 @@
 怪论	gglw
 怪脸	gglm
 乖戾	gglk
-怪了	ggle
+怪了	ggleo
+拐了	ggle
 怪客	ggke
 乖蹇	ggjm
 怪句	ggjl
@@ -99169,8 +99179,8 @@
 各做	gezl
 格子	gezkv
 阁子	gezko
-个字	gezki
-鸽子	gezk'
+个字	gezkio
+鸽子	gezki
 个子	gezk
 各组	gezju
 各族	gezj
@@ -111086,6 +111096,7 @@
 到哪	dznsv
 到那	dzns
 悼念	dznm
+到你	dznk
 导尿	dznc
 道貌	dzmz
 倒楣	dzmwiv
@@ -117676,6 +117687,7 @@
 猜贰	chxj
 采血	chxhu
 才学	chxh
+才醒	chxgv
 才行	chxg
 才按	chxf
 才饿	chxe
