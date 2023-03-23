@@ -2496,7 +2496,8 @@
 义正辞严	yqcy
 有求必应	yqby
 一窍不通	yqbt
-邮政编码	yqbm
+邮政编码	yqbmi
+欲求不满	yqbm
 移情别恋	yqbl
 一去不回	yqbhv
 运气不好	yqbh
@@ -3881,6 +3882,7 @@
 小农经济	xnjj
 雪泥鸿爪	xnhq
 雪泥鸿爪	xnhf
+小脑瓜子	xngz
 小牛辅码	xnfm
 小牛双拼	xnep
 婀娜多姿	xndz
@@ -7883,6 +7885,7 @@
 男女老幼	nnly
 男女老少	nnle
 难能可贵	nnkg
+粘粘滑滑	nnhh
 奶奶个熊	nngx
 男女之间	nnfj
 男女双方	nnef
@@ -10632,6 +10635,7 @@
 精神动力	jedlo
 绝世独立	jedla
 承受得了	jedl
+精神氮泵	jedb
 精神错乱	jecl
 精神财富	jecf
 成事不足	jebz
@@ -16657,7 +16661,8 @@
 怎么学	zmxu
 怎么行	zmx_
 怎么玩	zmw_
-自媒体	zmt_
+自媒体	zmtu
+怎么听	zmt_
 怎么算	zms_
 在默认	zmrv
 最磨人	zmr_
@@ -17754,8 +17759,9 @@
 原来叫	ylj_
 有理化	ylhv
 一路货	ylh_
+一两个	ylgv
 易拉罐	ylgo
-一两个	ylg_
+用了个	ylg_
 医疗费	ylfv
 养路费	ylfo
 一两周	ylf_
@@ -19107,7 +19113,8 @@
 许可证	xkq_
 辛苦你	xkn_
 奥卡姆	xkm_
-阿卡林	xkl_
+阿卡林	xkla
+辛苦了	xkl_
 想看看	xkk_
 新科技	xkj_
 新客户	xkho
@@ -20778,8 +20785,9 @@
 体温表	twb_
 唐太宗	ttz_
 体态语	tty_
-谈谈心	ttxo
-塔塔尔	ttx_
+塔塔尔	ttxv
+挺贴心	ttxi
+谈谈心	ttx_
 太透彻	ttwv
 抬头纹	ttwi
 踢踏舞	ttw_
@@ -20958,10 +20966,11 @@
 题目为	tmw_
 天目通	tmt_
 托马斯	tms_
-透明人	tmru
-特迷人	tmr_
+特迷人	tmru
+透明人	tmr_
 铁木真	tmq_
-甜蜜蜜	tmm_
+甜蜜蜜	tmmu
+贴面膜	tmm_
 太忙了	tmlv
 她们俩	tmla
 他们俩	tml_
@@ -21078,6 +21087,7 @@
 天秤座	tjzv
 土家族	tjz_
 唐继尧	tjyo
+挺解压	tjyi
 提建议	tjy_
 统计学	tjxa
 条件下	tjx_
@@ -21085,7 +21095,8 @@
 统计图	tjta
 弹吉他	tjt_
 田径赛	tjs_
-她居然	tjr_
+她居然	tjr'
+他居然	tjr_
 太极拳	tjqv
 跳进去	tjqo
 推出去	tjqi
@@ -21375,6 +21386,7 @@
 唐伯虎	tbho
 团拜会	tbhi
 特别好	tbh_
+听不够	tbgo
 逃不过	tbg_
 土拨鼠	tbevi
 太保守	tbev
@@ -21451,7 +21463,8 @@
 色香味	sxw_
 色氨酸	sxs_
 随想曲	sxq_
-四小龙	sxl_
+四小龙	sxli
+撕下来	sxl_
 思想库	sxk_
 三星级	sxjv
 四星级	sxjio
@@ -23002,8 +23015,9 @@
 区别于	qbyv
 请不要	qbyo
 准备要	qby_
+真不行	qbxu
 亲笔写	qbxo
-真不行	qbx_
+准备下	qbx_
 千百万	qbw_
 丘比特	qbt_
 乔布斯	qbsuv
@@ -29725,6 +29739,7 @@
 装门面	fmm_
 专门来	fmlv
 这么蓝	fmlou
+这么累	fmlo'
 这么拉	fmlo
 发明了	fml_
 房门口	fmko
@@ -31511,11 +31526,11 @@
 邓亚萍	dypa
 电影票	dyp_
 第一年	dyn_
-大沿帽	dymv
+大沿帽	dymva
+大姨妈	dymv
+第一名	dymu
 单韵母	dymo
-打疫苗	dymi
-大姨妈	dym'
-第一名	dym_
+打疫苗	dym_
 第一流	dyluv
 独眼龙	dylui
 等于零	dylu
@@ -31998,7 +32013,8 @@
 大佬们	dlm_
 大咧咧	dllv
 叮铃铃	dllo
-低利率	dlli
+低利率	dlliu
+打乱了	dlli
 带来了	dll_
 德鲁克	dlku
 灯笼裤	dlk_
@@ -32269,6 +32285,7 @@
 淀粉酶	dfma
 单方面	dfm_
 大招流	dflv
+打折了	dfli
 导致了	dfla
 到这里	dfl_
 打折扣	dfk_
@@ -32926,8 +32943,9 @@
 班组长	bzq_
 包租婆	bzp_
 不自量	bzlvu
-不租了	bzlv
-不早了	bzl_
+不租了	bzlv'
+不早了	bzlv
+白做了	bzl_
 波阻抗	bzk_
 不在场	bzjvv
 不自觉	bzjvu
@@ -34915,6 +34933,7 @@
 这不	fb_
 这才	fc_
 服从	fc'
+这都	fd_
 这个	fg_
 中国	fg'
 这和	fh_
@@ -34956,6 +34975,7 @@
 就去	jq_
 就他	jt_
 就我	jw_
+就一	jy_
 就在	jz_
 可不	kb_
 快餐	kc_
@@ -35051,6 +35071,7 @@
 同学	tx_
 他在	tz_
 我不	wb_
+我吧	wb'
 我才	wc_
 为此	wc'
 我的	wd_
@@ -42580,10 +42601,11 @@
 游艇	ydtg
 邮坛	ydtf
 尤特	ydte
+有头	ydtdv
 由头	ydtdi
 油贴	ydtdaa
 油头	ydtda
-有头	ydtd
+又贴	ydtd
 有条	ydtcv
 油条	ydtc
 右腿	ydtb
@@ -43777,9 +43799,9 @@
 相安	xxxfv
 想按	xxxf
 相偕	xxxdvi
-想些	xxxdv
+想写	xxxdv
 详写	xxxdo
-想写	xxxd
+想些	xxxd
 想笑	xxxc
 向心	xxxb
 想超	xxwz
@@ -55322,8 +55344,9 @@
 烫伤	tpep
 糖参	tpen
 糖霜	tpem
+唐诗	tpeko
 堂食	tpeki
-唐诗	tpek
+躺尸	tpek
 唐书	tpej
 唐筛	tpeh
 唐山	tpef
@@ -64578,6 +64601,7 @@
 前册	qmce
 签报	qmbzu
 钱包	qmbz
+千倍	qmbwu
 谦卑	qmbwo
 前辈	qmbw
 千把	qmbsu
@@ -69284,9 +69308,11 @@
 排定	phdg
 排弹	phdfi
 派单	phdf
-拍的	phdei
+拍的	phdei'
+排的	phdei
 派的	phdea
-拍得	phde
+拍得	phde'
+排得	phde
 拍掉	phdc
 派对	phdba
 排队	phdb
@@ -71155,6 +71181,7 @@
 年号	nmhz
 年画	nmhquv
 年化	nmhqu
+粘滑	nmhqo
 拈花	nmhqi
 年华	nmhq
 年货	nmhl
@@ -89120,7 +89147,6 @@
 扯淡	jedf
 车斗	jedd
 撤掉	jedc
-车队	jedb
 车次	jeck
 车把	jebs
 车帮	jebp
@@ -99338,9 +99364,9 @@
 各配	gepw
 格片	gepm
 割破	gepl
+各批	gepku
 嗝屁	gepko
-个屁	gepki
-各批	gepk
+个屁	gepk
 歌谱	gepj
 各派	gephu
 鸽派	geph
@@ -122029,8 +122055,9 @@
 白醋	bhcj
 白菜	bhch
 百宝	bhbz
+百倍	bhbwv
 败北	bhbwa
-百倍	bhbw
+白被	bhbw
 白榜	bhbp
 白本	bhbn
 百变	bhbmv
@@ -123296,7 +123323,6 @@
 槟	bgvo
 槟	bgvooa
 柄	bgvvia
-白	bh_
 败	bha
 败	bhaouv
 摆	bhi
@@ -123313,7 +123339,8 @@
 佰	bhivuo
 呗	bho
 呗	bhoaoo
-稗	bhu
+白	bhu
+稗	bhu'
 白	bhuiav
 稗	bhuvui
 百	bhv
