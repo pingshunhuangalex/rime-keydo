@@ -194,7 +194,7 @@
 玉不琢，不成器	ybfqv
 心有余而力不足	xyyz
 心有灵犀一点通	xylt
-行亦禅，坐亦禅	xyjj
+行亦禅，坐亦禅	xyjju
 小心驶得万年船	xxewi
 咸吃萝卜淡操心	xwlx
 挟天子以令诸侯	xtzhi
@@ -440,6 +440,7 @@
 一把屎一把尿	ybenv
 以不变应万变	ybbb
 摁在地上摩擦	xzdc
+想一出是一出	xyjj
 需要指出的是	xyfevv
 西安交通大学	xxjxv
 信息高速公路	xxgli
@@ -2613,17 +2614,18 @@
 一路走好	ylzh
 优良作风	ylzfi
 夜郎自大	ylzdo
-越来越远	ylyyvv
 一劳永逸	ylyyv
 咬了咬牙	ylyyo
+越来越远	ylyy
+越来越像	ylyxv
 越来越小	ylyx
 摇了摇头	ylyt
-越来越强	ylyqvv
 一来一去	ylyqv
 摇来摇去	ylyqi
 缘来缘去	ylyqav
-妖里妖气	ylyqa
-游来游去	ylyq
+妖里妖气	ylyqai
+游来游去	ylyqa
+越来越强	ylyq
 越来越难	ylyn
 一帘幽梦	ylym
 越来越快	ylykvv
@@ -19257,7 +19259,8 @@
 西葫芦	xhlv
 学会了	xhlo
 修好了	xhli
-消耗量	xhla
+消耗量	xhlav
+洗好了	xhla
 写好了	xhl'
 想好了	xhl_
 相互间	xhjv
@@ -19892,8 +19895,9 @@
 无限大	wxdv'
 无限的	wxdv
 外耳道	wxduv
+重新读	wxduo
 我爱的	wxdu
-重新读	wxd'
+充下电	wxdo
 往下跌	wxd_
 卫星舱	wxc_
 韦小宝	wxbvi
@@ -20290,7 +20294,8 @@
 文化牌	whp_
 茶花女	whni
 我和你	whn_
-完好率	whlo
+完好率	whloa
+吃好了	whlo
 我好了	whl'
 玩坏了	whl_
 查户口	whkv
@@ -21142,6 +21147,7 @@
 太简单	tjdv
 突击队	tjdo
 挺卷的	tjdio
+挺紧的	tjdi'
 挺近的	tjdi
 台积电	tjda
 她觉得	tjd_
@@ -25233,9 +25239,10 @@
 六合彩	lhc_
 两国在	lgzv
 两个字	lgz_
-李光耀	lgyv
+李光耀	lgyvi
+两个月	lgyv
 略高于	lgyi
-两个月	lgy_
+留个言	lgy_
 连贯性	lgxv
 劣根性	lgxi
 拉关系	lgx_
@@ -27863,6 +27870,7 @@
 糊口饭	hkfo
 黑咖啡	hkfi
 喝咖啡	hkf_
+喝口水	hkeo
 会客室	hkei
 海口市	hkea
 何况是	hke_
@@ -29092,6 +29100,8 @@
 高大上	gde'
 跟得上	gde_
 过多的	gddvv
+更多点	gddvv'
+更大点	gddvv
 更多的	gddv'
 更大的	gddv
 固定的	gddi
@@ -33595,7 +33605,8 @@
 别开门	bkmo
 宝可梦	bkm_
 不考虑	bklvu
-不苦了	bklvi
+不苦了	bklvia
+不困了	bklvi
 不肯来	bklv
 别哭了	bklo
 不开了	bkl'
@@ -39559,7 +39570,7 @@
 遇则	ylze
 预走	ylzd
 余姚	ylyz
-御用	ylyy
+御用	ylyyu
 芋圆	ylyti
 育秧	ylyp
 郁郁	ylylv
