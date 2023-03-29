@@ -3312,6 +3312,7 @@ sort: original
 必杀	bkes
 白开水	bkeu
 不肯说	bkev
+不吭声	bkevo
 本科生	bkevu
 比谁	bkew
 笔顺	bkewu
@@ -12253,11 +12254,11 @@ sort: original
 待诏	dhqz
 动画人	dhr
 带热	dhre
-带入	dhrj
-代入	dhrji
+代入	dhrj
+带入	dhrjv
 党和人民	dhrm
-带人	dhrn
-待人	dhrnu
+待人	dhrn
+带人	dhrnv
 对号入座	dhrz
 戴娆	dhrzu
 导火索	dhs
@@ -14602,13 +14603,13 @@ sort: original
 邓肯	drkn
 等宽	drkt
 等考	drkz
-当然了	drl
+打扰了	drl
 登临	drlb
 登楼	drld
 等了	drle
 登了	drlea
 等来	drlh
-打扰了	drli
+代入了	drli
 登录	drlj
 登陆	drlja
 等绿	drll
@@ -16640,11 +16641,12 @@ sort: original
 冬泳	dyyyua
 大言炎炎	dyyyv
 动摇	dyyz
-多音字	dyz
+都要在	dyz
 动嘴	dyzb
 冻灾	dyzh
 侗族	dyzj
 洞子	dyzk
+多音字	dyzu
 大有作为	dyzw
 冬枣	dyzz
 电子版	dzb
@@ -38356,6 +38358,7 @@ sort: original
 搞大	gzdsi
 高达	gzdso
 高端	gzdt
+过早的	gzdv
 高墩	gzdw
 跟踪调查	gzdwo
 工作单位	gzdwv
@@ -51868,7 +51871,7 @@ sort: original
 艰难困苦	jnkk
 陈坤	jnkw
 趁空	jnky
-近年来	jnl
+就能来	jnl
 陈琳	jnlb
 衬料	jnlc
 陈列	jnld
@@ -51882,7 +51885,8 @@ sort: original
 晨练	jnlm
 陈留	jnlq
 趁乱	jnlt
-几年来	jnlu
+近年来	jnlu
+几年来	jnluu
 超能力	jnlv
 沉沦	jnlw
 陈雷	jnlwa
@@ -56639,7 +56643,8 @@ sort: original
 看路	kflj
 看脸	kflm
 空置率	kflo
-戡乱	kflt
+跨服聊天	kflt
+戡乱	kfltv
 开放了	kflv
 开发利用	kfly
 看老	kflz
@@ -58095,8 +58100,8 @@ sort: original
 狂战士	kqeu
 挎着	kqfe
 空气炸锅	kqfg
-夸父	kqfj
-跨服	kqfjo
+跨服	kqfj
+夸父	kqfjv
 跨中	kqfy
 靠这个	kqg
 挎个	kqge
@@ -86526,6 +86531,7 @@ sort: original
 所使用	sey
 塞音	seyb
 色诱	seyd
+随手一放	seyf
 色影	seyg
 色艺	seyk
 色欲	seyl
@@ -88942,12 +88948,13 @@ sort: original
 送她	sytso
 松通	syty
 松涛	sytz
-三叶虫	syw
+私以为	syw
+送完	sywf
 松弛	sywk
 送我	sywl
 颂文	sywn
 送往	sywp
-私以为	sywu
+三叶虫	sywv
 肆意妄为	syww
 宋朝	sywz
 虽有些	syx
@@ -90314,6 +90321,7 @@ sort: original
 特听	tetg
 特提	tetk
 土生土长	tetq
+太上头	tetv
 投石车	tew
 特吹	tewb
 特车	tewe
@@ -91969,6 +91977,7 @@ sort: original
 提挈	tkqd
 提着	tkqe
 提请	tkqg
+挺夸张	tkqi
 题注	tkqj
 题主	tkqjo
 梯柱	tkqjv
@@ -93130,7 +93139,7 @@ sort: original
 藤牌	trph
 天然气	trq
 誊清	trqg
-体弱者	trqi
+挺认真	trqi
 腾起	trqk
 突如其来	trql
 藤球	trqq
@@ -94392,6 +94401,7 @@ sort: original
 天造地设	tzdev
 逃顶	tzdg
 天字第一号	tzdh
+挺脏的	tzdi
 掏底	tzdk
 陶笛	tzdka
 讨打	tzds
@@ -101421,6 +101431,7 @@ sort: original
 新料	xblc
 新楼	xbld
 信了	xble
+下不了手	xblev
 新兰	xblf
 心灵	xblg
 心领	xblgo
@@ -113722,7 +113733,8 @@ sort: original
 一分	ykfnv
 以防	ykfp
 乙方	ykfpa
-一方	ykfpv
+一放	ykfpv
+一方	ykfpvo
 一抓	ykfq
 一封	ykfr
 遗风	ykfri

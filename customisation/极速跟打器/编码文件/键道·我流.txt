@@ -4475,6 +4475,7 @@
 下不来台	xbltv
 鞍不离马	xblm
 爱别离苦	xblku
+下不了手	xblev
 西部开发	xbkfv
 安倍晋三	xbjso
 二八佳人	xbjrv
@@ -6219,6 +6220,7 @@
 随着时间	sfej
 四肢百骸	sfbhi
 三生有幸	seyx
+随手一放	seyf
 三十而立	sexl
 似是而非	sexfi
 随身携带	sexd
@@ -9410,6 +9412,7 @@
 刻舟求剑	kfqjo
 控制面板	kfmb
 开发利用	kfly
+跨服聊天	kflt
 空中楼阁	kflg
 狂蜂浪蝶	kfldu
 空中客车	kfkw
@@ -20629,6 +20632,7 @@
 团组织	tzfi
 投资者	tzf_
 投资商	tze_
+挺脏的	tzdi
 太子党	tzd_
 提一嘴	tyzi
 同音字	tyz_
@@ -20876,7 +20880,7 @@
 天然色	trs_
 太让人	trr_
 太认真	trqv
-体弱者	trqi
+挺认真	trqi
 天然气	trq_
 挺热闹	trn_
 腿软了	trl_
@@ -21078,6 +21082,7 @@
 填空题	tkt_
 太空梭	tks_
 太空人	tkr_
+挺夸张	tkqi
 叹口气	tkq_
 太可怕	tkpv
 特靠谱	tkp_
@@ -21286,6 +21291,7 @@
 同时向	tex_
 挺失望	tewi
 投石车	tew_
+太上头	tetv
 吐舌头	tet_
 铁砂掌	teqiv
 同时期	teqi
@@ -21442,8 +21448,8 @@
 所以要	syy_
 随意性	syxa
 虽有些	syx_
-私以为	sywu
-三叶虫	syw_
+三叶虫	sywv
+私以为	syw_
 死丫头	syt_
 三月三	sysvu
 三原色	sysv
@@ -26545,8 +26551,9 @@
 今年内	jnn_
 处女膜	jnm_
 超能力	jnlv
-几年来	jnlu
-近年来	jnl_
+几年来	jnluu
+近年来	jnlu
+就能来	jnl_
 纪念卡	jnk_
 九年级	jnju
 几年间	jnj_
@@ -28351,6 +28358,7 @@
 工作中	gzf_
 刽子手	gzei
 工作室	gze_
+过早的	gzdv
 该做的	gzdo
 狗仔队	gzd_
 工作餐	gzc_
@@ -31519,7 +31527,8 @@
 担责备	dzbiv
 电子表	dzbi
 电子版	dzb_
-多音字	dyz_
+多音字	dyzu
+都要在	dyz_
 第一眼	dyyu'
 第一页	dyyu
 电影院	dyyi
@@ -31879,8 +31888,8 @@
 电容器	drq_
 单人旁	drp_
 地热能	drn_
-打扰了	drli
-当然了	drl_
+代入了	drli
+打扰了	drl_
 狄仁杰	drj_
 大融合	drh_
 代入感	drgi
@@ -33639,6 +33648,7 @@
 不可知	bkfv
 半空中	bkf_
 本科生	bkevu
+不吭声	bkevo
 不肯说	bkev
 白开水	bkeu
 不愧是	bke_
@@ -40844,7 +40854,8 @@
 遗风	ykfri
 一封	ykfr
 一抓	ykfq
-一方	ykfpv
+一方	ykfpvo
+一放	ykfpv
 乙方	ykfpa
 以防	ykfp
 一分	ykfnv
@@ -58448,6 +58459,7 @@
 颂文	sywn
 送我	sywl
 松弛	sywk
+送完	sywf
 松涛	sytz
 松通	syty
 送她	sytso
@@ -81415,8 +81427,8 @@
 胯骨	kqgj
 挎个	kqge
 跨中	kqfy
-跨服	kqfjo
-夸父	kqfj
+夸父	kqfjv
+跨服	kqfj
 挎着	kqfe
 跨杀	kqes
 跨省	kqer
@@ -82517,7 +82529,7 @@
 看吗	kfms
 看门	kfmn
 看老	kflz
-戡乱	kflt
+戡乱	kfltv
 看脸	kflm
 看路	kflj
 砍了	kflev
@@ -114662,10 +114674,10 @@
 带伞	dhsf
 带色	dhse
 戴娆	dhrzu
-待人	dhrnu
-带人	dhrn
-代入	dhrji
-带入	dhrj
+带人	dhrnv
+待人	dhrn
+带入	dhrjv
+代入	dhrj
 带热	dhre
 待诏	dhqz
 带枪	dhqx
