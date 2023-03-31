@@ -12548,7 +12548,7 @@
 发散思维	fssw
 朝思暮想	fsmx
 朝三暮四	fsmsu
-指桑骂槐	fsmhi
+指桑骂槐	fsmh
 副司令员	fsly
 至死方休	fsfx
 飞速发展	fsfq
@@ -13242,6 +13242,7 @@
 这段日子	fdrz
 值得注意	fdqy
 值得庆幸	fdqx
+照单全收	fdqe
 值得期待	fdqd
 风度翩翩	fdpp
 指点迷津	fdmji
@@ -27878,6 +27879,7 @@
 虹口区	hkq_
 很靠谱	hkpu
 很可怕	hkp_
+很困难	hknu
 很可能	hkn_
 好看吗	hkm_
 好可怜	hkla
@@ -28423,8 +28425,9 @@
 高压电	gydo
 过一段	gyd_
 搞一次	gyc_
+工业部	gybv
 雇佣兵	gybo
-工业部	gyb_
+过一遍	gyb_
 干儿子	gxzv
 工薪族	gxz_
 工学院	gxyvo
@@ -29659,7 +29662,8 @@
 找窍门	fqm_
 辅助轮	fqlvi
 夫妻俩	fqlv
-周期里	fqlu
+周期里	fqluv
+支起来	fqlu
 中签率	fqliu
 非主流	fqli
 皱起了	fql'
@@ -31487,7 +31491,8 @@
 说不定	ebd_
 是不错	ebc_
 上半部	ebb_
-刀子嘴	dzz_
+刀子嘴	dzza
+多走走	dzz_
 打字员	dzyi
 电子烟	dzy'
 但总有	dzy_
@@ -36305,7 +36310,7 @@
 作歹	zldh
 坐定	zldg
 做单	zldf
-坐的	zldeiu
+坐的	zldei'
 做的	zldei
 坐得	zlde'
 做得	zlde
@@ -38058,6 +38063,7 @@
 要漏	yzld
 药料	yzlci
 要聊	yzlc
+腰靠	yzkzu
 要靠	yzkz
 遥控	yzky
 要况	yzkx
@@ -74120,10 +74126,11 @@
 磨面	mlmm
 馍馍	mlmluu
 脉脉	mlmlu
+磨墨	mlmlo
 墨墨	mlmli
+陌陌	mlmlaa
 嬷嬷	mlmla
-陌陌	mlml'
-磨墨	mlml
+摸摸	mlml
 磨米	mlmk
 嫫母	mlmj
 莫明	mlmgi
@@ -85128,9 +85135,9 @@
 就曾	jqzro
 就增	jqzr
 久坐	jqzlu
-就坐	jqzlo
+就座	jqzlo
 旧作	jqzli
-就座	jqzl
+就坐	jqzl
 九族	jqzj
 救灾	jqzhv
 就再	jqzh
@@ -101802,7 +101809,7 @@
 发迷	fsmka
 轧米	fsmk
 伐木	fsmj
-发卖	fsmh
+发卖	fsmha
 发明	fsmg
 扎牢	fslzi
 法老	fslz
@@ -103927,8 +103934,8 @@
 之乱	fklto
 治乱	fklt
 支楞	fklruv
-支棱	fklru
-制冷	fklr
+制冷	fklru
+支棱	fklr
 支流	fklqua
 直流	fklqu
 之流	fklqo
@@ -105787,9 +105794,6 @@
 皱起	fdqku
 周期	fdqk
 洲渚	fdqj
-皱褶	fdqeuo
-皱着	fdqeu
-周折	fdqe
 舟桥	fdqc
 昼寝	fdqb
 皱皮	fdpk
@@ -105866,8 +105870,8 @@
 周知	fdfk
 州府	fdfj
 皱褶	fdfeuo
-皱着	fdfeu
-周折	fdfe
+周折	fdfeu
+皱着	fdfe
 绉纱	fdes
 骤升	fder
 周深	fdenu
@@ -121247,7 +121251,8 @@
 不吞	bjtw
 布团	bjtt
 不疼	bjtr
-部堂	bjtp
+部堂	bjtpo
+不躺	bjtp
 不甜	bjtmv
 补天	bjtmo
 不填	bjtm

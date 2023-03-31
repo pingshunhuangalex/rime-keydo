@@ -2985,7 +2985,8 @@ sort: original
 不填	bjtm
 补天	bjtmo
 不甜	bjtmv
-部堂	bjtp
+不躺	bjtp
+部堂	bjtpo
 不疼	bjtr
 不见天日	bjtrv
 布团	bjtt
@@ -17044,7 +17045,8 @@ sort: original
 盗用	dzyy
 倒要	dzyz
 到要	dzyzv
-刀子嘴	dzz
+多走走	dzz
+刀子嘴	dzza
 到嘴	dzzb
 盗走	dzzd
 导则	dzze
@@ -24582,8 +24584,8 @@ sort: original
 反倒是	fdeu
 知多少	fdeuu
 这顿饭	fdf
-周折	fdfe
-皱着	fdfeu
+皱着	fdfe
+周折	fdfeu
 皱褶	fdfeuo
 州府	fdfj
 周知	fdfk
@@ -24712,9 +24714,7 @@ sort: original
 昼寝	fdqb
 舟桥	fdqc
 值得期待	fdqd
-周折	fdqe
-皱着	fdqeu
-皱褶	fdqeuo
+照单全收	fdqe
 中队长	fdqi
 指导棋	fdqia
 洲渚	fdqj
@@ -27512,8 +27512,8 @@ sort: original
 之流	fklqo
 直流	fklqu
 支流	fklqua
-制冷	fklr
-支棱	fklru
+支棱	fklr
+制冷	fklru
 支楞	fklruv
 治乱	fklt
 之乱	fklto
@@ -29463,7 +29463,8 @@ sort: original
 抓烂	fqlf
 非主流	fqli
 中签率	fqliu
-周期里	fqlu
+支起来	fqlu
+周期里	fqluv
 夫妻俩	fqlv
 辅助轮	fqlvi
 抓牢	fqlz
@@ -30214,8 +30215,8 @@ sort: original
 扎牢	fslzi
 粉丝们	fsm
 发明	fsmg
-发卖	fsmh
-指桑骂槐	fsmhi
+指桑骂槐	fsmh
+发卖	fsmha
 伐木	fsmj
 轧米	fsmk
 发迷	fsmka
@@ -37777,7 +37778,7 @@ sort: original
 广增	gxzr
 干儿子	gxzv
 广宗	gxzy
-工业部	gyb
+过一遍	gyb
 公表	gybc
 公办	gybf
 工兵	gybg
@@ -37795,6 +37796,7 @@ sort: original
 孤阴不生，独阳不长	gybqa
 拱坝	gybs
 各有不同	gybt
+工业部	gybv
 拱北	gybw
 过一辈子	gybz
 宫保	gybzo
@@ -41667,6 +41669,7 @@ sort: original
 很可能	hkn
 很可能是	hkne
 很可能就	hknj
+很困难	hknu
 很可怕	hkp
 很靠谱	hkpu
 虹口区	hkq
@@ -52985,9 +52988,9 @@ sort: original
 就再	jqzh
 救灾	jqzhv
 九族	jqzj
-就座	jqzl
+就坐	jqzl
 旧作	jqzli
-就坐	jqzlo
+就座	jqzlo
 久坐	jqzlu
 就增	jqzr
 就曾	jqzro
@@ -67739,10 +67742,11 @@ sort: original
 美轮美奂	mlmh
 嫫母	mlmj
 磨米	mlmk
-磨墨	mlml
-陌陌	mlml
+摸摸	mlml
 嬷嬷	mlmla
+陌陌	mlmlaa
 墨墨	mlmli
+磨墨	mlmlo
 脉脉	mlmlu
 馍馍	mlmluu
 磨面	mlmm
@@ -118113,6 +118117,7 @@ sort: original
 要况	yzkx
 遥控	yzky
 要靠	yzkz
+腰靠	yzkzu
 亚足联	yzl
 要聊	yzlc
 药料	yzlci
@@ -120497,7 +120502,7 @@ sort: original
 做得	zlde
 坐得	zlde
 做的	zldei
-坐的	zldeiu
+坐的	zldei
 做单	zldf
 坐定	zldg
 作歹	zldh
