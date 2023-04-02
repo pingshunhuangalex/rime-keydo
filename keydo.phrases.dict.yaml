@@ -3010,8 +3010,8 @@ sort: original
 不外	bjwh
 不无	bjwj
 不误	bjwjv
-不迟	bjwk
-不吃	bjwkv
+不吃	bjwk
+不迟	bjwkv
 不齿	bjwkvi
 不啻	bjwkvo
 不耻	bjwkvv
@@ -5876,7 +5876,7 @@ sort: original
 被控	bwky
 背靠	bwkz
 备考	bwkzu
-别忘了	bwl
+不吃了	bwl
 碑林	bwlb
 备料	bwlc
 北楼	bwld
@@ -5898,6 +5898,7 @@ sort: original
 倍率	bwlli
 百无聊赖	bwllv
 悲怜	bwlm
+别忘了	bwlo
 别问了	bwlo
 碑廊	bwlp
 北流	bwlq
@@ -17185,8 +17186,8 @@ sort: original
 水柜	ebgba
 事半功倍	ebgbv
 事倍功半	ebgbvi
-水沟	ebgd
-是不够的	ebgdo
+睡够	ebgd
+水沟	ebgda
 睡个	ebge
 少不更事	ebgei
 食不果腹	ebgf
@@ -19048,6 +19049,7 @@ sort: original
 甩开	egkh
 帅康	egkp
 受够了	egl
+睡够了	egl
 收购量	egla
 摔了	egle
 甩了	egleu
@@ -39404,6 +39406,7 @@ sort: original
 很大的	hddu
 很多的	hddu
 很低的	hddui
+很短的	hdduu
 黄赌毒	hddv
 后盾	hddw
 横刀夺爱	hddx
@@ -41389,6 +41392,7 @@ sort: original
 互夸	hjkq
 护矿	hjkx
 环境科学	hjkxv
+耗尽了	hjl
 活成了	hjl
 好久了	hjla
 好极了	hjlav
@@ -51153,11 +51157,13 @@ sort: original
 减掉	jmdc
 剪掉	jmdco
 间谍	jmdd
+煎得	jmde
 剪得	jmde
-剪的	jmde
+溅得	jmdea
+溅的	jmdeau
 见得	jmdei
-煎得	jmdeo
 煎的	jmdeo
+剪的	jmdeo
 兼得	jmdeou
 简单	jmdf
 煎蛋	jmdf
@@ -51429,6 +51435,7 @@ sort: original
 检漏	jmldv
 见了	jmle
 减了	jmle
+溅了	jmlea
 剪了	jmleo
 渐蓝	jmlfa
 剑灵	jmlg
@@ -55449,7 +55456,6 @@ sort: original
 超筋	jzjbv
 超缴	jzjc
 超解	jzjd
-超车	jzje
 超产	jzjf
 超静	jzjg
 超绝	jzjh
@@ -62526,6 +62532,7 @@ sort: original
 联审	lmen
 连上	lmep
 恋上	lmepo
+连刷	lmeq
 连声	lmer
 练声	lmera
 连胜	lmerv
@@ -62784,6 +62791,7 @@ sort: original
 联创	lmwx
 连闯	lmwxv
 连超	lmwz
+怜悯心	lmx
 连心	lmxb
 连笑	lmxc
 莲藕	lmxd
@@ -62802,7 +62810,7 @@ sort: original
 联席	lmxkv
 连续	lmxl
 连线	lmxm
-怜悯心	lmxo
+礼貌性	lmxo
 连休	lmxq
 连下	lmxs
 连选	lmxt
@@ -64783,8 +64791,8 @@ sort: original
 两重	lxwy
 两朝	lxwz
 练习下	lxx
-流线型	lxx
-流行性	lxxa
+流线型	lxxa
+流行性	lxxau
 良心	lxxb
 良宵	lxxc
 凉鞋	lxxd
@@ -66003,6 +66011,7 @@ sort: original
 名士风流	mefl
 媒妁之言	mefy
 没上过	meg
+没试过	meg
 没生过	mega
 名胜古迹	megj
 美术馆	mego
@@ -68559,11 +68568,12 @@ sort: original
 民主制度	mqfd
 民主法制	mqff
 谬种	mqfy
-煤气罐	mqg
+没去过	mqg
 明确规定	mqgd
 民主共和国	mqgg
 民主国家	mqgj
 民主革命	mqgm
+煤气罐	mqgo
 密切关注	mqgq
 密切关系	mqgx
 民主化	mqh
@@ -77655,9 +77665,10 @@ sort: original
 站码	qfmso
 展眉	qfmw
 毡帽	qfmz
-祝福你	qfn
+欺负你	qfn
 沾泥	qfnk
 千夫诺诺	qfnn
+祝福你	qfno
 詹纳	qfns
 青壮年	qfnv
 站内	qfnw
@@ -86115,6 +86126,7 @@ sort: original
 随地	sbdk
 斯巴达克	sbdkv
 岁多	sbdl
+赛博丁真 	sbdq
 算不得	sbdu
 三班倒	sbdv
 斯巴达	sbdva
@@ -90861,6 +90873,7 @@ sort: original
 挺冷	tglr
 挺乱	tglt
 太功利	tglv
+太干了	tglvv
 挺累	tglw
 挺亮	tglx
 听某	tgmd
@@ -91596,7 +91609,7 @@ sort: original
 塔吉克	tjk
 吐口	tjkd
 土块	tjkg
-停车库	tjki
+挺健康	tjki
 图库	tjkj
 图框	tjkm
 土炕	tjkp
@@ -94501,6 +94514,7 @@ sort: original
 逃开	tzkh
 套裤	tzkj
 掏空	tzky
+太早了	tzl
 桃林	tzlb
 套料	tzlc
 逃漏	tzld
@@ -94534,7 +94548,7 @@ sort: original
 桃浦	tzpj
 陶片	tzpm
 逃跑	tzpz
-投资者	tzq
+踢足球	tzq
 讨亲	tzqb
 天纵奇才	tzqc
 套着	tzqe
@@ -94547,7 +94561,6 @@ sort: original
 套取	tzql
 逃去	tzqlu
 掏钱	tzqm
-踢足球	tzqo
 套账	tzqp
 逃证	tzqr
 套圈	tzqt
@@ -94988,8 +95001,9 @@ sort: original
 绸绢	wdjt
 稳定剂	wdju
 舞蹈家	wdjuo
-臭椿	wdjw
+弯道超车	wdjw
 船到江心补漏迟	wdjwu
+臭椿	wdjwuv
 抽奖	wdjx
 岔道口	wdk
 愁苦	wdkj
@@ -95502,9 +95516,9 @@ sort: original
 未知的	wfdv
 万吨	wfdw
 玩到	wfdz
-晚稻	wfdzo
+弯道	wfdzo
 弯刀	wfdzoa
-弯道	wfdzoo
+晚稻	wfdzou
 无非是	wfe
 温州市	wfea
 晚睡	wfeb
@@ -100760,6 +100774,7 @@ sort: original
 重现	wyxm
 无一幸免	wyxmv
 问一下	wyxo
+冲一下	wyxo
 差异性	wyxoa
 重修	wyxq
 冲下	wyxs
@@ -100937,8 +100952,6 @@ sort: original
 超缴	wzjc
 超解	wzjd
 传宗接代	wzjdi
-我自己的	wzjdu
-超车	wzje
 超产	wzjf
 超静	wzjg
 超绝	wzjh
@@ -101071,7 +101084,6 @@ sort: original
 超藤	wztr
 超痛	wzty
 潮吹	wzwb
-超车	wzwe
 超玩	wzwf
 朝外	wzwh
 超误	wzwj
@@ -102883,8 +102895,8 @@ sort: original
 消逝的	xeda
 恶斗	xedd
 信誓旦旦	xeddi
-饿的	xede
-饿得	xedeu
+饿得	xede
+饿的	xedeu
 鹅蛋	xedf
 蓄势待发	xedfi
 兴师动众	xedfo
@@ -113605,7 +113617,8 @@ sort: original
 一刀	ykdzv
 要开始	yke
 也开始	ykea
-易水	ykeb
+一睡	ykeb
+易水	ykebo
 一首	yked
 一手	yked
 已收	ykeda

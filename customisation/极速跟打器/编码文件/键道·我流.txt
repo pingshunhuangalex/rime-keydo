@@ -4516,7 +4516,6 @@
 创造出了	wzjliu
 创造出来	wzjli
 创造机会	wzjhi
-我自己的	wzjdu
 传宗接代	wzjdi
 赤子之心	wzfx
 无字之书	wzfe
@@ -5350,6 +5349,7 @@
 王道乐土	wdlt
 往大了算	wdls
 往大了说	wdleu
+弯道超车	wdjw
 五毒俱全	wdjq
 伟大成就	wdjj'
 为的就是	wdjeo
@@ -6279,6 +6279,7 @@
 俗不可耐	sbkn
 死不悔改	sbhg
 损兵折将	sbfji
+赛博丁真 	sbdq
 斯巴达克	sbdkv
 认贼作父	rzzf
 荣宗耀祖	rzyz
@@ -14323,7 +14324,6 @@
 事不关己	ebgjv
 食不果腹	ebgf
 少不更事	ebgei
-是不够的	ebgdo
 事倍功半	ebgbvi
 事半功倍	ebgbv
 恕不奉陪	ebfpa
@@ -19773,6 +19773,7 @@
 外语系	wyxuo
 我也想	wyxu
 差异性	wyxoa
+冲一下	wyxo'
 问一下	wyxo
 伪阳性	wyxia
 伪阴性	wyxi
@@ -20612,11 +20613,11 @@
 太自私	tzs_
 挺自然	tzri
 投资人	tzr_
-踢足球	tzqo
 投资区	tzqi
-投资者	tzq_
+踢足球	tzq_
 天作孽	tznv
 童子尿	tzn_
+太早了	tzl_
 童子鸡	tzjoa
 它自己	tzjo
 她自己	tzja
@@ -21138,7 +21139,7 @@
 退潮了	tjla
 脱节了	tjl'
 提出了	tjl_
-停车库	tjki
+挺健康	tjki
 塔吉克	tjk_
 挺持久	tjji
 退出键	tjjaa
@@ -21224,6 +21225,7 @@
 他告诉	tgs_
 托管人	tgr_
 弹钢琴	tgq_
+太干了	tglvv
 太功利	tglv
 提供了	tgli
 提高了	tgl'
@@ -22888,7 +22890,8 @@
 住宅区	qfq_
 针织品	qfp_
 青壮年	qfnv
-祝福你	qfn_
+祝福你	qfno
+欺负你	qfn_
 黔之驴	qflio
 住宅楼	qfli
 强制力	qfla
@@ -24277,7 +24280,8 @@
 民政局	mqj_
 母亲河	mqha
 民主化	mqh_
-煤气罐	mqg_
+煤气罐	mqgo
+没去过	mqg_
 民主制	mqf_
 门诊室	mqe_
 明确的	mqdo
@@ -24605,6 +24609,7 @@
 没睡好	meh_
 美术馆	mego
 没生过	mega
+没试过	meg'
 没上过	meg_
 魔术师	mee_
 陌生的	med_
@@ -24808,8 +24813,8 @@
 流星雨	lxya
 理学院	lxy_
 连续性	lxxv
-流行性	lxxa
-流线型	lxx'
+流行性	lxxau
+流线型	lxxa
 练习下	lxx_
 旅行车	lxw_
 龙傲天	lxtv
@@ -25032,8 +25037,9 @@
 罗马音	lmyi
 了没有	lmy_
 两面性	lmxv
-怜悯心	lmxo
+礼貌性	lmxo
 罗密欧	lmxi
+怜悯心	lmx_
 李莫愁	lmw_
 流媒体	lmt_
 链霉素	lms_
@@ -27931,7 +27937,8 @@
 含金量	hjli
 好极了	hjlav
 好久了	hjla
-活成了	hjl_
+活成了	hjl'
+耗尽了	hjl_
 好健康	hjka
 还借款	hjk_
 很接近	hjjui
@@ -28235,6 +28242,7 @@
 活动室	hdea
 还得是	hde_
 黄赌毒	hddv
+很短的	hdduu
 很低的	hddui
 很多的	hddu'
 很大的	hddu
@@ -31206,6 +31214,7 @@
 时光里	eglo
 上岗了	egli
 收购量	egla
+睡够了	egl'
 受够了	egl_
 时光机	egjo
 收割机	egja
@@ -33243,9 +33252,10 @@
 把我们	bwm_
 霸王龙	bwlv
 备忘录	bwlu
-别问了	bwlo
+别问了	bwlo'
+别忘了	bwlo
 报酬率	bwli
-别忘了	bwl_
+不吃了	bwl_
 保卫科	bwk_
 别忘记	bwj_
 病虫害	bwho
@@ -40987,7 +40997,8 @@
 已收	ykeda
 一手	yked'
 一首	yked
-易水	ykeb
+易水	ykebo
+一睡	ykeb
 一刀	ykdzv
 胰岛	ykdzuu
 移到	ykdzu
@@ -48234,8 +48245,8 @@
 额度	xedj
 额定	xedg
 鹅蛋	xedf
-饿得	xedeu
-饿的	xede
+饿的	xedeu
+饿得	xede
 恶斗	xedd
 俄从	xecy
 恶报	xebz
@@ -49679,7 +49690,6 @@
 超误	wzwj
 朝外	wzwh
 超玩	wzwf
-超车	wzwe
 潮吹	wzwb
 超痛	wzty
 超藤	wztr
@@ -49783,7 +49793,6 @@
 超绝	wzjh
 超静	wzjg
 超产	wzjf
-超车	wzje
 超解	wzjd
 超缴	wzjc
 超筋	wzjbv
@@ -53751,9 +53760,9 @@
 晚熟	wfed
 玩水	wfebv
 晚睡	wfeb
-弯道	wfdzoo
+晚稻	wfdzou
 弯刀	wfdzoa
-晚稻	wfdzo
+弯道	wfdzo
 玩到	wfdz
 万吨	wfdw
 万端	wfdt
@@ -54075,7 +54084,7 @@
 抽卡	wdks
 愁苦	wdkj
 抽奖	wdjx
-臭椿	wdjw
+臭椿	wdjwuv
 绸绢	wdjt
 仇家	wdjs
 抽成	wdjr
@@ -78144,6 +78153,7 @@
 连胜	lmerv
 练声	lmera
 连声	lmer
+连刷	lmeq
 恋上	lmepo
 连上	lmep
 联审	lmen
@@ -83480,7 +83490,6 @@
 超绝	jzjh
 超静	jzjg
 超产	jzjf
-超车	jzje
 超解	jzjd
 超缴	jzjc
 超筋	jzjbv
@@ -86382,6 +86391,7 @@
 剑灵	jmlg
 渐蓝	jmlfa
 剪了	jmleo
+溅了	jmlea
 减了	jmle'
 见了	jmle
 检漏	jmldv
@@ -86614,11 +86624,13 @@
 煎蛋	jmdf'
 简单	jmdf
 兼得	jmdeou
-煎的	jmdeo'
-煎得	jmdeo
+剪的	jmdeo'
+煎的	jmdeo
 见得	jmdei
-剪的	jmde'
-剪得	jmde
+溅的	jmdeau
+溅得	jmdea
+剪得	jmde'
+煎得	jmde
 间谍	jmdd
 剪掉	jmdco
 减掉	jmdc
@@ -111024,7 +111036,8 @@
 水改	ebgh
 水怪	ebgg
 睡个	ebge
-水沟	ebgd
+水沟	ebgda
+睡够	ebgd
 水柜	ebgba
 水鬼	ebgb
 睡着	ebfz
@@ -121232,8 +121245,8 @@
 不耻	bjwkvv
 不啻	bjwkvo
 不齿	bjwkvi
-不吃	bjwkv
-不迟	bjwk
+不迟	bjwkv
+不吃	bjwk
 不误	bjwjv
 不无	bjwj
 不外	bjwh
