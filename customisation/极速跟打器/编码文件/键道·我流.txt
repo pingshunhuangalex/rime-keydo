@@ -156,7 +156,7 @@
 百尺竿头更进一步	bwgb
 北京航空航天大学	bjhxi
 不知人间有羞耻事	bfre
-剥夺政治权利终身	bdqea
+剥夺政治权利终身	bdqe
 自作孽，不可活	zznh
 宰相肚里能撑船	zxdw
 醉翁之意不在酒	zwfjv
@@ -8121,6 +8121,7 @@
 命悬一线	mxyx
 卖儿鬻女	mxyn
 木秀于林	mxyl
+猛吸一口	mxyk
 毛细血管	mxxg
 名下无虚	mxwx
 某些问题	mxwt
@@ -11634,7 +11635,7 @@
 公安机关	gxjgu
 高新技术	gxje
 工薪阶层	gxjcv
-更新换代	gxhdv
+更新换代	gxhd
 改弦更张	gxgqa
 改邪归正	gxgq
 孤儿寡母	gxgm
@@ -12532,6 +12533,7 @@
 织田信长	ftxja
 肥田沃地	ftwd
 风土人情	ftrq
+废铜烂铁	ftlt
 反托拉斯	ftls
 分庭抗礼	ftkl
 奉天承运	ftjy
@@ -16936,8 +16938,9 @@
 坐飞机	zfj_
 总指挥	zfh_
 在这个	zfg_
+自治州	zffu
 组织者	zffa
-自治州	zff_
+再找找	zff_
 增值税	zfev
 杂志社	zfeu
 组织上	zfea
@@ -18555,7 +18558,8 @@
 新一轮	xylo
 吸引了	xyl_
 下一刻	xykv
-信用卡	xyk_
+信用卡	xyki
+吸一口	xyk_
 下页键	xyjvv
 西游记	xyjv
 血压计	xyju
@@ -18743,11 +18747,12 @@
 二维码	xwm_
 宣传栏	xwlo
 学完了	xwl_
-二重唱	xwjv
+二重唱	xwjvu
+相差近	xwjv
 新闻界	xwjoo
 显微镜	xwjo
+小玩具	xwji
 洗碗机	xwja
-相差近	xwj'
 想忘记	xwj_
 下午好	xwhvu
 相吻合	xwhv
@@ -19214,6 +19219,7 @@
 二极管	xjg_
 二进制	xjfv
 选举法	xjfu
+小脚趾	xjfi
 行程中	xjf_
 笑出声	xjeu
 性成熟	xjeo
@@ -20472,6 +20478,7 @@
 无底线	wdxv
 稳定性	wdxu
 冲动型	wdxov
+充电线	wdxoia
 差点儿	wdxoi
 炒刀削	wdxoai
 误导性	wdxoa
@@ -23732,8 +23739,8 @@
 你妈的	nmdi
 那么地	nmdau
 那么短	nmda
-那么大	nmd'
-那么多	nmd_
+那么多	nmd'
+那么大	nmd_
 糯米糍	nmc_
 你妈逼	nmbi
 弄明白	nmb_
@@ -24090,8 +24097,10 @@
 眉宇间	myja
 没意见	myj_
 某一个	mygv
+卖一个	myguv
 每一个	mygu
 磨洋工	mygo
+买一个	mygav
 没眼光	mygai
 没游过	myga
 没用过	myg'
@@ -24149,6 +24158,7 @@
 明星们	mxmo
 迈阿密	mxm_
 默许了	mxli
+没戏了	mxla
 买下来	mxl_
 冒险家	mxj_
 没信号	mxha
@@ -28981,6 +28991,7 @@
 赶过来	ggl'
 搞过来	ggl_
 公共课	ggk_
+更高级	ggjv
 光棍节	ggji
 骨骼肌	ggj'
 呱呱叫	ggj_
@@ -30919,10 +30930,10 @@
 书名号	emha
 沙漠化	emh'
 什么话	emh_
-审美观	emgo
-使命感	emgii
-什么鬼	emgi
-神秘感	emg_
+审美观	emgoo
+神秘感	emgo
+使命感	emgi
+什么鬼	emg_
 时髦值	emfo
 上门费	emfi
 实名制	emf'
@@ -33652,6 +33663,7 @@
 不困了	bklvi
 不肯来	bklv
 别哭了	bklo
+崩溃了	bkli
 不开了	bkl'
 不看了	bkl_
 不可考	bkkv
@@ -73355,8 +73367,9 @@
 蒙羞	mrxq
 孟恩	mrxn
 孟县	mrxm
+蒙西	mrxkiv
 萌系	mrxki
-蒙西	mrxk
+猛吸	mrxk
 萌二	mrxji
 梦儿	mrxj
 猛学	mrxh
@@ -85401,7 +85414,8 @@
 酒精	jqjga
 究竟	jqjg
 纠缠	jqjf
-纠结	jqjd
+纠结	jqjda
+就借	jqjd
 就叫	jqjc
 就近	jqjb
 酒红	jqhy
@@ -96619,7 +96633,6 @@
 光火	gxhl
 光合	gxhei
 光和	gxhe
-广厚	gxhd
 光辉	gxhb
 广工	gxgy
 光棍	gxgw
@@ -101008,9 +101021,6 @@
 装束	fxej
 撞衫	fxef
 装设	fxee
-装到	fxdzo
-撞倒	fxdzi
-撞到	fxdz
 装懂	fxdy
 撞断	fxdt
 壮大	fxds
@@ -122850,8 +122860,6 @@
 别摘	bdqh
 别请	bdqg
 别占	bdqf
-别着	bdqeo
-憋着	bdqe
 别切	bdqd
 别瞧	bdqc
 别跑	bdpz
