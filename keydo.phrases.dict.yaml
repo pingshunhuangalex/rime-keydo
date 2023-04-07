@@ -6367,8 +6367,8 @@ sort: original
 毕业后	byhv
 不一会	byhvv
 不一会儿	byhx
+不要急	byj
 不要紧	byj
-不要接	byj
 不宜久留	byjl
 半音阶	byjo
 闭音节	byjoo
@@ -6377,7 +6377,8 @@ sort: original
 表演唱	byjva
 不夜城	byjvo
 不用急	byjvu
-不研究	byjvv
+不要接	byjvv
+不研究	byjvvo
 不遗巨细	byjx
 不愉快	byk
 不用客气	bykq
@@ -11101,7 +11102,7 @@ sort: original
 德川	dewt
 的船	dewtu
 得宠	dewy
-大师兄	dex
+但是想	dex
 对手戏	dexa
 的心	dexb
 德性	dexg
@@ -11116,6 +11117,7 @@ sort: original
 东施效颦	dexp
 低声下气	dexq
 德选	dext
+大师兄	dexv
 电视新闻	dexw
 得像	dexx
 都是要	dey
@@ -26310,6 +26312,7 @@ sort: original
 纸胶带	fjdau
 浮雕	fjdc
 负的	fjde
+付的	fjdei
 福德	fjdeo
 负担	fjdf
 复旦	fjdfu
@@ -41213,6 +41216,7 @@ sort: original
 扈从	hjcy
 何出此言	hjcyi
 会觉得	hjd
+会记得	hjd
 互怼	hjdb
 蝴蝶	hjdd
 虎斗	hjddi
@@ -41222,7 +41226,6 @@ sort: original
 胡蝶	hjddui
 糊的	hjde
 虎胆	hjdf
-会记得	hjdi
 弧度	hjdj
 忽地	hjdk
 湖底	hjdka
@@ -41234,6 +41237,7 @@ sort: original
 很长的	hjdu
 很僵的	hjdui
 很简单	hjduu
+还觉得	hjdv
 还记得	hjdv
 护盾	hjdw
 互动	hjdy
@@ -61357,7 +61361,7 @@ sort: original
 陆空	ljky
 路考	ljkz
 拉出来	ljl
-列出来	ljl
+溜出来	ljl
 流出来	ljla
 绿林	ljlb
 炉料	ljlc
@@ -61381,6 +61385,7 @@ sort: original
 冷处理	ljlo
 旅进旅退	ljlt
 理解了	ljlv
+列出来	ljlva
 零距离	ljlvo
 理解力	ljlvu
 卢雷	ljlw
@@ -90790,13 +90795,14 @@ sort: original
 听装	tgfx
 听众	tgfy
 挺重	tgfyi
-头盖骨	tgg
+贴个够	tgg
 挺贵	tggb
 听歌	tgge
 听骨	tggj
 同甘共苦	tggk
 听过	tggl
 停过	tggli
+头盖骨	tggo
 挺括	tggq
 停更	tggr
 挺嘎	tggs
@@ -95120,6 +95126,7 @@ sort: original
 丑娃	wdwsa
 抽插	wdwsi
 臭味	wdww
+问东问西	wdwx
 臭虫	wdwy
 吃得下	wdx
 抽心	wdxb
@@ -103920,13 +103927,14 @@ sort: original
 型煤	xgmw
 恶贯满盈	xgmy
 形貌	xgmz
-小姑娘	xgn
-新功能	xgn
+先给你	xgn
 型男	xgnf
 兴宁	xgng
 姓佴	xgnh
+小姑娘	xgni
 腥腻	xgnk
-新概念	xgno
+新功能	xgno
+新概念	xgnov
 行囊	xgnp
 性能	xgnr
 行内	xgnw
@@ -111056,6 +111064,7 @@ sort: original
 幼虫	ydwy
 远渡重洋	ydwyv
 油炒	ydwz
+有点想	ydx
 有点像	ydx
 有心	ydxb
 忧心	ydxbo
@@ -111105,7 +111114,8 @@ sort: original
 腌笃鲜	ydxuu
 一点儿	ydxv
 一滴血	ydxva
-压倒性	ydxvi
+有点小	ydxvi
+压倒性	ydxvio
 运动鞋	ydxvv
 运动学	ydxvvo
 又讯	ydxw
@@ -112742,6 +112752,7 @@ sort: original
 应同	ygtyo
 樱桃	ygtz
 也给我	ygw
+又给我	ygw
 应酬	ygwd
 莹澈	ygwe
 以攻为守	ygwea
@@ -118018,6 +118029,7 @@ sort: original
 要饭	yzffv
 要债	yzfh
 瑶寨	yzfhv
+要付	yzfj
 腰肢	yzfk
 要职	yzfkv
 要旨	yzfkvu
@@ -118223,8 +118235,6 @@ sort: original
 腰斩	yzqf
 要占	yzqfv
 邀请	yzqg
-要债	yzqh
-瑶寨	yzqhv
 咬住	yzqj
 摇珠	yzqji
 一字千金	yzqjv
@@ -119221,6 +119231,7 @@ sort: original
 攒钱	zfqm
 总方针	zfqo
 自治区	zfqu
+走之前	zfqv
 咱群	zfqw
 尊夫人	zfr
 早知如此	zfrc
@@ -121817,6 +121828,7 @@ sort: original
 总重	zyfy
 左右逢源	zyfyv
 总有个	zyg
+总应该	zyg
 总归	zygb
 纵沟	zygd
 总格	zyge
