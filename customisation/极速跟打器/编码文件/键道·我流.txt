@@ -229,6 +229,7 @@
 跳进黄河洗不清	tjhqo
 偷鸡不着蚀把米	tjbmi
 跳到黄河洗不清	tdhqo
+偷得浮生半日闲	tdfx
 色字头上一把刀	sztdu
 死猪不怕开水烫	sqbt
 三句话不离本行	sjhh
@@ -8047,6 +8048,7 @@
 那不勒斯	nbls
 鸟不拉屎	nble
 怒不可遏	nbkx
+能帮就帮	nbjb
 牛逼哄哄	nbhh
 民族自治	mzzf
 民族音乐	mzyya
@@ -8687,8 +8689,8 @@
 力挽狂澜	lwkla
 联吴抗曹	lwkc
 临床经验	lwjy
-六朝金粉	lwjf
-另外还有	lwhyo
+撩完就跑	lwjp
+另外还有	lwhy
 列文虎克	lwhk
 了无痕迹	lwhj
 漏网之鱼	lwfya
@@ -19148,8 +19150,9 @@
 新科技	xkj_
 新客户	xkho
 小括号	xkh_
+欣快感	xkgu
 新课改	xkgo
-欣快感	xkg_
+下苦功	xkg_
 许可法	xkf_
 新快报	xkb_
 阿昌族	xjza
@@ -19788,7 +19791,8 @@
 我也要	wyy_
 玩意儿	wyxvo
 玩艺儿	wyxvi
-玩游戏	wyxv
+玩游戏	wyxva
+玩一下	wyxv
 外语系	wyxuo
 我也想	wyxu
 差异性	wyxoa
@@ -20251,7 +20255,8 @@
 未结算	wjs_
 为己任	wjro
 我承认	wjr_
-望出去	wjqo
+望出去	wjqoa
+冲进去	wjqo
 持久战	wjqi
 我就去	wjq_
 违禁品	wjp_
@@ -21071,6 +21076,7 @@
 塔里木	tlm_
 太老了	tllvu'
 太乱了	tllvu
+太亮了	tllvo'
 太辣了	tllvo
 太累了	tllvi
 太烂了	tllv'
@@ -22338,12 +22344,13 @@
 张馨予	qxyav
 张学友	qxya
 倾向于	qxy_
+气昂昂	qxxu
 情形下	qxxo
 哲学系	qxxio
 倾向性	qxxi
 张小娴	qxxai
 障碍性	qxxa
-气昂昂	qxx_
+清醒下	qxx_
 障碍物	qxw_
 气象台	qxtu
 这些天	qxtoiv
@@ -23484,6 +23491,7 @@
 怕不怕	pbp_
 屏蔽门	pbm_
 碰壁了	pblv
+拍不了	pbli
 屏蔽了	pbla
 碰不了	pbl'
 跑不了	pbl_
@@ -31730,7 +31738,8 @@
 堆雪人	dxr_
 大而全	dxqv
 第二针	dxquv
-第二章	dxqu
+第二章	dxqu'
+第二张	dxqu
 打雪仗	dxqi
 打下去	dxq'
 待下去	dxq_
@@ -32397,6 +32406,7 @@
 对这个	dfg_
 地方债	dffv
 豆腐渣	dff_
+豆知识	dfev
 电风扇	dfe_
 东方的	dfdvo
 大幅度	dfdvi
@@ -33785,6 +33795,7 @@
 补偿款	bjko
 不出口	bjk_
 比较近	bjjvvu
+比较僵	bjjvvi
 比较急	bjjvv'
 比较紧	bjjvv
 不解决	bjjvu
@@ -45806,9 +45817,9 @@
 线装	xmfxa
 现状	xmfx
 现转	xmft
-先发	xmfsua
 鲜榨	xmfsu
-宪法	xmfs
+宪法	xmfso
+先发	xmfs
 咸丰	xmfrv
 先锋	xmfr
 先抓	xmfq
@@ -57075,7 +57086,8 @@
 停过	tggli
 听过	tggl
 听骨	tggj
-听歌	tgge
+听歌	tggeo
+听个	tgge
 挺贵	tggb
 挺重	tgfyi
 听众	tgfy
@@ -57876,7 +57888,6 @@
 头罩	tdfz
 贴重	tdfya
 头中	tdfy
-头状	tdfx
 铁法	tdfsi
 铁栅	tdfs'
 铁闸	tdfs
@@ -69340,6 +69351,7 @@
 拍录	phlj
 派来	phlh
 派了	phlea
+排了	phle'
 拍了	phle
 牌楼	phldu
 排列	phld
@@ -69423,11 +69435,11 @@
 排定	phdg
 排弹	phdfi
 派单	phdf
-拍的	phdei'
-排的	phdei
+排的	phdei'
+拍的	phdei
 派的	phdea
-拍得	phde'
-排得	phde
+排得	phde'
+拍得	phde
 拍掉	phdc
 派对	phdba
 排队	phdb
@@ -76838,7 +76850,7 @@
 累加	lwjs
 垒成	lwjr
 雷场	lwjpv
-伦常	lwjp
+伦常	lwjpi
 累臣	lwjn
 论剑	lwjmo
 累减	lwjmi
@@ -76860,7 +76872,7 @@
 累进	lwjbi
 泪尽	lwjba
 勒紧	lwjb
-雷轰	lwhy
+雷轰	lwhyv
 轮换	lwht
 论衡	lwhr
 轮滑	lwhqv
@@ -80341,6 +80353,7 @@
 瞭望	lcwp
 料持	lcwk
 了无	lcwj
+撩完	lcwfi
 聊完	lcwf
 料车	lcwe
 聊天	lctm
@@ -82027,8 +82040,8 @@
 枯涸	kjhe
 酷猴	kjhd
 枯槁	kjgz
-苦功	kjgyi
-苦工	kjgy
+苦工	kjgyi
+苦功	kjgy
 裤管	kjgt
 苦瓜	kjgq
 苦根	kjgn
@@ -109074,8 +109087,8 @@
 事故	ekgj
 是该	ekgh
 石拐	ekgg
-实感	ekgfo
-实干	ekgf
+实干	ekgfo
+实感	ekgf
 事隔	ekgev
 失格	ekgeuv
 十个	ekgeu

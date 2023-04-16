@@ -2690,6 +2690,7 @@ sort: original
 不解决	bjjvu
 比较紧	bjjvv
 比较急	bjjvv
+比较僵	bjjvvi
 比较近	bjjvvu
 不均	bjjw
 不纯	bjjwv
@@ -11252,6 +11253,7 @@ sort: original
 东方神起	dfeqv
 诞生	dfer
 丹砂	dfes
+豆知识	dfev
 单双	dfex
 斗折蛇行	dfexo
 豆腐渣	dff
@@ -16132,6 +16134,7 @@ sort: original
 打下去	dxq
 大行其道	dxqd
 打雪仗	dxqi
+第二张	dxqu
 第二章	dxqu
 第二针	dxquv
 大而全	dxqv
@@ -20235,8 +20238,8 @@ sort: original
 十个	ekgeu
 失格	ekgeuv
 事隔	ekgev
-实干	ekgf
-实感	ekgfo
+实感	ekgf
+实干	ekgfo
 石拐	ekgg
 是该	ekgh
 事故	ekgj
@@ -57367,8 +57370,8 @@ sort: original
 科技馆	kjgui
 恐惧感	kjgv
 可见光	kjgvi
-苦工	kjgy
-苦功	kjgyi
+苦功	kjgy
+苦工	kjgyi
 枯槁	kjgz
 客家话	kjh
 酷猴	kjhd
@@ -59666,6 +59669,7 @@ sort: original
 另存为	lcw
 料车	lcwe
 聊完	lcwf
+撩完	lcwfi
 了无	lcwj
 料持	lcwk
 瞭望	lcwp
@@ -64199,8 +64203,8 @@ sort: original
 轮滑	lwhqv
 论衡	lwhr
 轮换	lwht
-雷轰	lwhy
-另外还有	lwhyo
+另外还有	lwhy
+雷轰	lwhyv
 论文集	lwj
 勒紧	lwjb
 泪尽	lwjba
@@ -64209,7 +64213,6 @@ sort: original
 勒绞	lwjc
 雷劫	lwjd
 轮车	lwje
-六朝金粉	lwjf
 论处	lwjj
 累积	lwjk
 累计	lwjki
@@ -64224,7 +64227,8 @@ sort: original
 累减	lwjmi
 论剑	lwjmo
 累臣	lwjn
-伦常	lwjp
+撩完就跑	lwjp
+伦常	lwjpi
 雷场	lwjpv
 垒成	lwjr
 累加	lwjs
@@ -70204,6 +70208,7 @@ sort: original
 弄不好	nbhv
 您好	nbhz
 难不成	nbj
+能帮就帮	nbjb
 拿不出	nbji
 您家	nbjs
 牛板筋	nbju
@@ -73471,6 +73476,7 @@ sort: original
 跑不了	pbl
 碰不了	pbl
 屏蔽了	pbla
+拍不了	pbli
 拼了	pble
 品蓝	pblf
 品令	pblg
@@ -74262,11 +74268,11 @@ sort: original
 排队	phdb
 派对	phdba
 拍掉	phdc
-排得	phde
 拍得	phde
+排得	phde
 派的	phdea
-排的	phdei
 拍的	phdei
+排的	phdei
 派单	phdf
 排弹	phdfi
 排定	phdg
@@ -74357,6 +74363,7 @@ sort: original
 排列	phld
 牌楼	phldu
 拍了	phle
+排了	phle
 派了	phlea
 派来	phlh
 拍录	phlj
@@ -83281,7 +83288,7 @@ sort: original
 千恩万谢	qxwx
 确信无疑	qxwy
 政协委员	qxwyv
-气昂昂	qxx
+清醒下	qxx
 障碍性	qxxa
 张小娴	qxxai
 强心	qxxb
@@ -83299,6 +83306,7 @@ sort: original
 情形下	qxxo
 抢修	qxxq
 枪下	qxxs
+气昂昂	qxxu
 强项	qxxx
 障碍性贫血	qxxxa
 枪响	qxxxv
@@ -89786,7 +89794,7 @@ sort: original
 铁闸	tdfs
 铁栅	tdfs
 铁法	tdfsi
-头状	tdfx
+偷得浮生半日闲	tdfx
 头中	tdfy
 贴重	tdfya
 同等重要	tdfyi
@@ -90805,7 +90813,8 @@ sort: original
 挺重	tgfyi
 贴个够	tgg
 挺贵	tggb
-听歌	tgge
+听个	tgge
+听歌	tggeo
 听骨	tggj
 同甘共苦	tggk
 听过	tggl
@@ -92263,6 +92272,7 @@ sort: original
 太烂了	tllv
 太累了	tllvi
 太辣了	tllvo
+太亮了	tllvo
 太乱了	tllvu
 太老了	tllvu
 拖累	tllw
@@ -96866,7 +96876,8 @@ sort: original
 无前	wjqmvo
 误诊	wjqn
 乌镇	wjqnu
-望出去	wjqo
+冲进去	wjqo
+望出去	wjqoa
 无章	wjqp
 务求	wjqq
 无求	wjqqv
@@ -100807,7 +100818,8 @@ sort: original
 望洋兴叹	wyxto
 我也想	wyxu
 外语系	wyxuo
-玩游戏	wyxv
+玩一下	wyxv
+玩游戏	wyxva
 玩艺儿	wyxvi
 玩意儿	wyxvo
 我也要	wyy
@@ -105422,7 +105434,7 @@ sort: original
 西装	xkfx
 戏中	xkfy
 夕照	xkfz
-欣快感	xkg
+下苦功	xkg
 西归	xkgb
 西沟	xkgd
 析构	xkgdv
@@ -105446,6 +105458,7 @@ sort: original
 西瓜	xkgq
 习惯	xkgt
 吸管	xkgto
+欣快感	xkgu
 吸光	xkgx
 西贡	xkgy
 西高	xkgz
@@ -106367,9 +106380,9 @@ sort: original
 恶名昭彰	xmfqv
 先锋	xmfr
 咸丰	xmfrv
-宪法	xmfs
+先发	xmfs
+宪法	xmfso
 鲜榨	xmfsu
-先发	xmfsua
 现转	xmft
 现状	xmfx
 线装	xmfxa
