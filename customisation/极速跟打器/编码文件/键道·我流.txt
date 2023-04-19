@@ -15,6 +15,7 @@
 吃得苦中苦，方为人上人	wdkr
 万般皆下品，唯有读书高	wbjgv
 天王盖地虎，宝塔镇河妖	twgy
+人有多大胆，地有多大产	rydj
 人生不如意事，十有八九	rebj
 宁可信其有，不可信其无	nkxw
 面前心连心，背后动脑筋	mqxj
@@ -9155,6 +9156,7 @@
 乐此不疲	lcbp
 聊表谢意	lbxy
 蜡笔小新	lbxxi
+拉不下脸	lbxli
 留不下来	lbxl
 狼狈为奸	lbwj
 乐不思蜀	lbseu
@@ -9382,6 +9384,7 @@
 抗坏血酸	khxs
 科幻小说	khxe
 苦海无崖	khwy
+可好吃了	khwl
 苦海无边	khwb
 狂轰滥炸	khlf
 抗洪救灾	khjz
@@ -12365,6 +12368,7 @@
 知音难觅	fynmu
 这也难怪	fyngo
 朝云暮雨	fymy
+转移矛盾	fymd
 专有名词	fymc
 重要目标	fymb
 专业领域	fyly
@@ -16678,7 +16682,7 @@
 怎么也	zmyu
 怎么用	zmy'
 怎么样	zmy_
-怎么爱	zmxuu
+怎么爱	zmxu'
 怎么学	zmxu
 怎么行	zmx_
 怎么玩	zmw_
@@ -18044,6 +18048,7 @@
 应该说	ygeo
 一共是	yge'
 一个是	yge_
+一个多	ygdviu
 远光灯	ygdvio
 一锅端	ygdvi
 有关的	ygdv
@@ -18313,6 +18318,7 @@
 一等功	ydgv
 遇到过	ydg_
 运动服	ydfvv
+有的赚	ydfvu
 一顿饭	ydfv
 羊癫疯	ydfoo
 夜店风	ydfo
@@ -19975,6 +19981,7 @@
 无谓的	wwdv
 臭臭的	wwdu'
 微微地	wwdu
+闻味道	wwdooo
 充充电	wwdoo
 弯弯的	wwdo
 往往都	wwd_
@@ -19987,8 +19994,8 @@
 闯天下	wtx_
 我替我	wtw_
 赤条条	wtt_
-我突然	wtru
 委托人	wtr_
+我替你	wtn_
 威妥玛	wtmv
 我他妈	wtmu
 维他命	wtm_
@@ -20297,11 +20304,12 @@
 无间道	wjdvo
 赤诚的	wjdv'
 无尽的	wjdv
-我决定	wjdu
+完成度	wjdov
 炒鸡蛋	wjdoa
-完成度	wjdo
-胃肠道	wjdi
-察觉到	wjd'
+察觉到	wjdo
+胃肠道	wjdiu
+握紧点	wjdi
+我决定	wjd'
 我记得	wjd_
 午加餐	wjc_
 物价表	wjbu
@@ -20518,6 +20526,7 @@
 微电脑	wdnu
 我都能	wdn_
 乌冬面	wdmu
+吃得慢	wdmo
 我都没	wdm_
 武大郎	wdlvv
 玩得来	wdlv
@@ -20566,7 +20575,8 @@
 午餐肉	wcr_
 喘粗气	wcq_
 我才能	wcn_
-我错了	wcl_
+我错了	wclu
+吃醋了	wcl_
 万策尽	wcj_
 午餐会	wchu
 我才好	wch_
@@ -20611,7 +20621,8 @@
 筹备会	wbhu
 未必会	wbh_
 吴邦国	wbgo
-丑八怪	wbg_
+丑八怪	wbga
+我不管	wbg_
 外包装	wbfu
 崇拜者	wbf_
 无不是	wbevv
@@ -20823,7 +20834,8 @@
 挺充实	twei
 台湾省	twea
 听我说	twe_
-挺愁的	twdiu
+挺迟钝	twdia
+挺愁的	twdi'
 挺晚的	twdi
 台湾岛	twda
 听我的	twd_
@@ -21104,6 +21116,7 @@
 汤料包	tlb_
 钛空银	tkyi
 碳烤鱼	tky_
+太开心	tkxv
 挺开心	tkxi
 脱口秀	tkx_
 太空船	tkw_
@@ -21257,6 +21270,7 @@
 提高了	tgl'
 提过了	tgl_
 同甘苦	tgk_
+挺干净	tgji
 退格键	tgja
 铁公鸡	tgj_
 糖果盒	tgh_
@@ -21774,9 +21788,10 @@
 送给你	sgn_
 宋公明	sgmo
 塑钢门	sgm_
+苏格兰	sgliv
 岁高龄	sglio
 撒狗粮	sgli
-苏格兰	sgl_
+送过来	sgl_
 死规矩	sgj_
 死光光	sgg_
 三个钟	sgfv
@@ -22367,6 +22382,7 @@
 千禧年	qxnu
 前些年	qxn_
 曲线美	qxm_
+取下来	qxlv
 气消了	qxlu
 主旋律	qxlo
 折现率	qxli
@@ -22836,7 +22852,8 @@
 召唤回	qhha
 气呼呼	qhh_
 诸侯国	qhg_
-全画幅	qhf_
+全画幅	qhfi
+真好赚	qhf_
 秦河胜	qhevau
 青海省	qheva
 正合适	qhev
@@ -23074,7 +23091,8 @@
 真不行	qbxu
 亲笔写	qbxo
 准备下	qbx_
-千百万	qbw_
+千百万	qbwu
+准备完	qbw_
 丘比特	qbt_
 乔布斯	qbsuv
 真不算	qbsu
@@ -23616,7 +23634,8 @@
 泥腿子	ntz_
 女同学	ntxa
 男同学	ntx_
-泥头车	ntw_
+泥头车	ntwa
+你替我	ntw_
 南天寺	nts_
 牛头人	ntr_
 那天起	ntq_
@@ -23863,6 +23882,7 @@
 那会儿	nhx_
 您还未	nhwi
 你和我	nhw_
+你和他	nht_
 牛磺酸	nhs_
 那火热	nhr_
 奈何桥	nhq_
@@ -23983,6 +24003,7 @@
 拿得起	ndqi
 尿毒症	ndqa
 拿得准	ndq_
+你都能	ndn_
 年代末	ndm_
 尼德兰	ndla
 拿到了	ndl_
@@ -25800,7 +25821,8 @@
 昆仑山	kleo
 看来是	kle_
 开绿灯	kldva
-可聊的	kldv
+可聊的	kldv'
+可怜的	kldv
 克林顿	kldu
 颗粒度	kldi
 考虑到	kld_
@@ -26065,8 +26087,9 @@
 恐怖片	kbp_
 可不能	kbn_
 跨部门	kbm_
+酷弊了	kblv
 卡巴拉	kbli
-酷弊了	kbl_
+看不了	kbl_
 开不开	kbkv
 快不快	kbko
 肯不肯	kbki
@@ -27672,7 +27695,8 @@
 回头看	htk_
 黄庭坚	htjv
 航天局	htjuv
-很坦诚	htju
+很坦诚	htju'
+很投机	htju
 回趟家	htji
 火腿肠	htj_
 合同号	hthi
@@ -28362,7 +28386,8 @@
 还不是	hbe_
 还不到	hbdv
 很棒的	hbdu
-宏病毒	hbdoo
+宏病毒	hbdoov
+烘焙店	hbdoo
 恨不得	hbdo
 荷包蛋	hbdiu
 黑白的	hbdi
@@ -28407,6 +28432,7 @@
 刽子手	gzei
 工作室	gze_
 过早的	gzdv
+古早的	gzdu
 该做的	gzdo
 狗仔队	gzd_
 工作餐	gzc_
@@ -29075,6 +29101,7 @@
 高中生	gfeo
 贵州省	gfei
 广州市	gfe_
+过分的	gfdv
 鬼知道	gfdu
 刚知道	gfd_
 寡妇村	gfc_
@@ -29798,6 +29825,7 @@
 中南海	fnhi
 智能化	fnh_
 只能够	fngo
+只能搞	fng'
 只能给	fng_
 追女生	fneu
 只能说	fne_
@@ -30255,7 +30283,8 @@
 中招了	ffli
 附着力	ffla
 丰富了	ffl_
-负反馈	ffk_
+负反馈	ffku
+找找看	ffk_
 转折处	ffjvi
 榨汁机	ffjv
 反封建	ffjuva
@@ -31013,9 +31042,9 @@
 十六开	elk_
 生力军	elju
 数量级	eljo
-手里剑	elji
+手里剑	eljii
+睡懒觉	elji
 收录机	elja
-睡懒觉	elj'
 说两句	elj_
 实例化	elhoi
 数理化	elho
@@ -31230,6 +31259,7 @@
 是好的	ehd_
 上海菜	ehc_
 神话般	ehb_
+上馆子	egz_
 手工艺	egyiv
 上个月	egyi
 双关语	egya
@@ -31992,10 +32022,11 @@
 大趋势	dqev
 低情商	dqei
 地球上	dqe_
-地震带	dqdv
+地震带	dqdvv
+毒气弹	dqdv
 多渠道	dqdu
 吊着打	dqdo
-毒气弹	dqd_
+多长点	dqd_
 地球村	dqcv
 大气层	dqc_
 但却被	dqb_
@@ -32532,6 +32563,7 @@
 到底了	ddl'
 到顶了	ddl_
 打底裤	ddki
+打打看	ddk_
 道德经	ddjo
 电动机	ddji
 待多久	ddj_
@@ -33505,7 +33537,8 @@
 被评为	bpw_
 不怕死	bps_
 不骗人	bpr_
-被派去	bpq_
+被派去	bpqo
+不平整	bpq_
 不匹配	bpp_
 背叛你	bpn_
 不碰面	bpm_
@@ -34103,7 +34136,9 @@
 变声器	beqo
 别生气	beq_
 保守派	bep_
+不是你	ben_
 比什么	bem_
+不顺路	belvu
 不上路	belvi
 不睡了	belv'
 不说了	belv
@@ -35100,7 +35135,8 @@
 可靠	kk_
 开门	km_
 可能	kn_
-了吧	lb_
+了不	lb_
+了吧	lb'
 了个	lg_
 了没	lm_
 了嘛	lm'
@@ -40112,6 +40148,7 @@
 于丹	yldfv
 鱼胆	yldfu
 鱼蛋	yldf
+鱼的	yldeu
 欲得	ylde
 玉牒	yldd
 玉雕	yldcv
@@ -45884,7 +45921,8 @@
 先到	xmdz
 线段	xmdt
 贤达	xmds
-先登	xmdr
+先登	xmdru
+先等	xmdr
 先垫	xmdmu
 限电	xmdma
 先点	xmdm
@@ -48656,6 +48694,7 @@
 携带	xddh
 谢顶	xddgo
 协定	xddg
+谢的	xddeou
 写的	xddeo
 偶得	xddei
 写得	xdde
@@ -52006,8 +52045,8 @@
 文首	wned
 温水	wneb
 闻道	wndzoo
-闻到	wndzo
-问道	wndz
+问道	wndzo
+闻到	wndz
 文段	wndt
 闻达	wndso
 问答	wnds
@@ -60805,7 +60844,7 @@
 荣登	rydr
 熔点	rydm
 戎狄	rydk
-溶度	rydj
+溶度	rydja
 容得	ryde
 溶斗	rydd
 溶槽	rycz
@@ -62450,8 +62489,8 @@
 强自	qxzka
 强子	qxzk
 羌族	qxzj
-抢在	qxzhi
-强在	qxzh
+强在	qxzha
+抢在	qxzh
 抢走	qxzd
 强醉	qxzb
 强要	qxyz
@@ -62524,8 +62563,6 @@
 枪战	qxqfv
 强占	qxqfa
 抢占	qxqf
-抢着	qxqei
-强者	qxqe
 抢亲	qxqb
 枪炮	qxpz
 强迫	qxpl
@@ -62626,8 +62663,8 @@
 强制	qxfk
 抢摘	qxfh
 抢饭	qxff
-抢着	qxfei
-强者	qxfe
+强者	qxfea
+抢着	qxfe
 枪栓	qxet
 强杀	qxesa
 枪杀	qxes
@@ -64428,6 +64465,7 @@
 前体	qmtko
 前提	qmtk
 前途	qmtj
+前台	qmth
 前庭	qmtgo
 前厅	qmtg'
 潜艇	qmtg
@@ -67309,6 +67347,7 @@
 窃夺	qddl
 切度	qddj
 挈带	qddh
+切丁	qddg
 切掉	qddc
 切磋	qdcl
 切菜	qdch
@@ -69522,8 +69561,8 @@
 平沼	pgqz
 平准	pgqw
 凭券	pgqt
-平整	pgqrv
-凭证	pgqr
+凭证	pgqri
+平整	pgqr
 评球	pgqq
 屏障	pgqp
 平浅	pgqm
@@ -73030,8 +73069,9 @@
 没法	mwfs
 每逢	mwfr
 没抓	mwfq
+每方	mwfpu
 美方	mwfpo
-每方	mwfp
+没放	mwfp
 每分	mwfnu
 美分	mwfno
 每份	mwfn
@@ -79365,6 +79405,7 @@
 来着	lhqe
 莱切	lhqd
 来瞧	lhqc
+来陪	lhpw
 赖皮	lhpk
 来拍	lhph
 来评	lhpg
@@ -80441,7 +80482,8 @@
 料堆	lcdb
 潦草	lccz
 料仓	lccp
-撂包	lcbz
+撂包	lcbzi
+料包	lcbz
 辽北	lcbw
 聊吧	lcbs
 聊遍	lcbm
@@ -96844,9 +96886,9 @@
 惯贼	gtzw
 棺葬	gtzp
 管座	gtzlu
-罐子	gtzkua
-管子	gtzku
+罐子	gtzku
 关子	gtzko
+管子	gtzk'
 馆子	gtzk
 关在	gtzh
 灌醉	gtzb
@@ -98415,8 +98457,8 @@
 国别	glbd
 国标	glbc
 国宾	glbb
-古早	gjzzu
-鼓噪	gjzz
+鼓噪	gjzzv
+古早	gjzz
 古棕	gjzy
 故作	gjzl
 股子	gjzku
@@ -112837,10 +112879,10 @@
 大棒	dsbpv
 打榜	dsbp
 大本	dsbn
-大变	dsbmvo
-大便	dsbmv
+大变	dsbmv
+答辩	dsbmu
 搭边	dsbmi
-答辩	dsbm
+大便	dsbm
 大波	dsblv
 大伯	dsbl
 大笔	dsbk
@@ -112905,9 +112947,9 @@
 蹬踹	drwg
 等车	drwe
 等同	drty
-等他	drtsui
-等她	drtsu
-灯塔	drts
+灯塔	drtso
+等她	drts'
+等他	drts
 登天	drtm
 登台	drth
 灯头	drtd
@@ -115613,6 +115655,7 @@
 得宠	dewy
 的船	dewtu
 德川	dewt
+的娃	dews
 的网	dewp
 德文	dewn
 得无	dewj
@@ -121729,9 +121772,10 @@
 不睡	bjebv
 补水	bjebo
 补税	bjeb
-布道	bjdzv
+布道	bjdzvo
+不倒	bjdzv
 补刀	bjdzo
-不倒	bjdz
+补到	bjdz
 不动	bjdyv
 补洞	bjdyo
 不懂	bjdy
@@ -130978,7 +131022,6 @@
 犒	kzuvov
 栲	kzv
 栲	kzvuov
-林	lb_
 淋	lba
 潾	lbao
 潾	lbaouv
@@ -131023,7 +131066,8 @@
 膦	lbuouv
 箖	lbuv
 箖	lbuvvv
-琳	lbv
+林	lbv
+琳	lbv'
 辚	lbva
 辚	lbvaou
 霖	lbvo
