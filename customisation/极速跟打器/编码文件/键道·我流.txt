@@ -7606,6 +7606,7 @@
 培训机构	pxjg
 培训中心	pxfx
 贫下中农	pxfn
+平安顺利	pxel
 平行世界	pxej
 披星戴月	pxdy
 破涕为笑	ptwx
@@ -17073,6 +17074,7 @@
 在不在	zbz_
 滋补药	zbya
 赞比亚	zby_
+最保险	zbxo
 坐标系	zbxi
 再不行	zbx_
 钻被窝	zbwi
@@ -20267,7 +20269,8 @@
 持久战	wjqi
 我就去	wjq_
 违禁品	wjp_
-未成年	wjn_
+未成年	wjnv
+我就能	wjn_
 无记名	wjmv
 外经贸	wjmu
 文件名	wjm_
@@ -21597,8 +21600,9 @@
 诉讼权	ssq_
 碎碎念	ssn_
 孙思邈	ssm_
-搜索栏	ssli
-搜索论	ssl_
+搜索论	ssli
+搜索令	ssl'
+搜索栏	ssl_
 搜索框	sski
 算算看	ssk_
 耸耸肩	ssji
@@ -23200,7 +23204,8 @@
 跑外勤	pwqo
 喷雾器	pwq_
 评委们	pwm_
-喷雾剂	pwj_
+喷雾剂	pwjo
+陪我进	pwj_
 评委会	pwh_
 排污费	pwfi
 盼望着	pwf_
@@ -24626,6 +24631,7 @@
 每分钟	mff_
 模范生	mfev
 魔法师	mfeo
+没发生	mfeaa
 没法说	mfea
 明知是	mfe_
 冒犯到	mfdi
@@ -24836,8 +24842,9 @@
 晾衣杆	lygo
 另一个	lyg_
 来一份	lyfv
+六月份	lyfou
 刘亦菲	lyfoo
-六月份	lyfo
+晾衣服	lyfo
 另一方	lyf'
 另一种	lyf_
 露一手	lyev
@@ -25158,7 +25165,8 @@
 流浪汉	llha
 老龄化	llh_
 伦理观	llgi
-流浪狗	llg_
+流浪狗	llga
+连了个	llg_
 连理枝	llfvv
 李林甫	llfv
 卵磷脂	llfu
@@ -26562,6 +26570,7 @@
 景颇族	jpz_
 成品油	jpyv
 捡便宜	jpyi
+接朋友	jpy'
 交朋友	jpy_
 键盘侠	jpxiu
 紧迫性	jpxi
@@ -27499,8 +27508,9 @@
 会员卡	hyk_
 霍元甲	hyjv
 很异常	hyju
+黑眼睛	hyji
 活页夹	hyja
-黑眼睛	hyj_
+烘衣机	hyj_
 狠一狠	hyhuvu
 很硬核	hyhuv
 后援会	hyhuii
@@ -27831,10 +27841,11 @@
 很满意	hmyu
 鸿门宴	hmya
 还没有	hmy_
-很明显	hmxuo
-毁灭性	hmxu
+黄梅戏	hmxv
+毁灭性	hmxuv
+很明显	hmxu
 黑木耳	hmxi
-黄梅戏	hmx_
+还没下	hmx_
 海明威	hmwa
 还没完	hmw_
 红霉素	hms_
@@ -30328,10 +30339,11 @@
 知识性	fexuo
 分数线	fexu
 放射线	fexou
-放射性	fexo
-腐蚀性	fex'
+放射性	fexo'
+腐蚀性	fexo
 只剩下	fex_
-至少我	few_
+至少我	fewv
+这是我	few_
 富士通	fet_
 肇事人	fer_
 副省长	feqv
@@ -31700,6 +31712,7 @@
 第一份	dyfuv
 德意志	dyfuo
 得益者	dyfu
+叠衣服	dyfa
 第一周	dyf'
 第一种	dyf_
 带钥匙	dyevi
@@ -40779,6 +40792,7 @@
 一聚	ykjlvv
 一举	ykjlvo
 一具	ykjlvi
+一句	ykjlv'
 一局	ykjlv
 移居	ykjlu
 义举	ykjlo
@@ -44196,8 +44210,9 @@
 想出	xxjj
 香精	xxjg
 响彻	xxje
+相接	xxjdv
 详解	xxjdo
-相接	xxjd
+想接	xxjd
 相较	xxjcvv
 橡胶	xxjcv
 香蕉	xxjcu
@@ -61002,6 +61017,7 @@
 仍很	rrhn
 仍会	rrhb
 扔给	rrgw
+扔个	rrge
 扔飞	rrfw
 扔着	rrfe
 仍是	rrek
@@ -85560,7 +85576,8 @@
 救治	jqfk
 舅父	jqfj
 九寨	jqfh
-就范	jqff
+就范	jqffo
+就烦	jqff
 九折	jqfe
 九州	jqfd
 就少	jqez
@@ -108666,8 +108683,8 @@
 试穿	ekwto
 失传	ekwt
 失察	ekwsu
-视察	ekwso
-时差	ekws'
+视察	ekwsoo
+时差	ekwso
 是哇	ekws
 石翁	ekwr
 驶往	ekwpa
@@ -114169,7 +114186,8 @@
 抵赖	dklh
 低龄	dklg
 底栏	dklf
-低了	dkle
+低了	dklei
+递了	dkle
 地漏	dkldv
 底楼	dkldo
 低劣	dkld
