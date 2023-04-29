@@ -22040,9 +22040,10 @@
 仍然会	rrh_
 荣辱观	rrg_
 惹人烦	rrf_
-融入到	rrdv
-弱弱的	rrda
-弱弱地	rrd_
+软软的	rrdv
+弱弱的	rrda'
+弱弱地	rrda
+融入到	rrd_
 绕圈子	rqz_
 惹争议	rqy_
 人情味	rqw_
@@ -25613,7 +25614,8 @@
 轮不到	lbd_
 凉拌菜	lbc_
 李冰冰	lbbv
-拉粑粑	lbbi
+拉粑粑	lbbio
+拉㞎㞎	lbbi
 冷冰冰	lbb_
 抠字眼	kzy_
 孔子庙	kzm_
@@ -27917,9 +27919,10 @@
 很忙的	hmdu
 黑名单	hmd_
 花名册	hmc_
-坏毛病	hmbv
+很明白	hmbu
 毫米波	hmbo
-很明白	hmb_
+黑面包	hmbi
+坏毛病	hmb_
 滑轮组	hlza
 哈喇子	hlz_
 回良玉	hlyio
@@ -63296,7 +63299,7 @@
 诤言	qryfoo
 证言	qryfo
 睁眼	qryf
-正邪	qryev
+正业	qryev
 整夜	qrye
 正由	qrydvi
 正有	qrydv
@@ -86874,6 +86877,7 @@
 剧院	jlyt
 拘押	jlys
 鞠养	jlyp
+龃龉	jlyli
 居于	jlyla
 局域	jlyl
 聚义	jlykv
@@ -87277,10 +87281,10 @@
 集显	jkxmio
 集线	jkxmi
 极限	jkxm
-几许	jkxlu
+几许	jkxluo
+积蓄	jkxlu
 记叙	jkxlo
 亟需	jkxla
-积蓄	jkxl'
 急需	jkxl
 极细	jkxkv
 鸡西	jkxka
@@ -102552,8 +102556,8 @@
 风灯	frdr
 疯癫	frdm
 封底	frdk
-酆都	frdjvu
 封堵	frdjv
+酆都	frdjiu
 峰度	frdji
 风度	frdj
 峰顶	frdgi
@@ -107239,7 +107243,7 @@
 盛况	erkx
 声卡	erks
 声抗	erkp
-盛况	erkm
+生啃	erkn
 盛开	erkh
 生快	erkg
 生客	erke
@@ -110950,7 +110954,8 @@
 手袋	eddh
 收订	eddg
 寿诞	eddf
-瘦的	eddeo
+瘦的	eddeo'
+熟的	eddeo
 瘦得	edde'
 受得	edde
 手抖	eddd
@@ -119895,6 +119900,7 @@
 霸霸	bsbsv
 叭叭	bsbso
 拔拔	bsbsi
+㞎㞎	bsbsaa
 巴巴	bsbsa
 粑粑	bsbs'
 把把	bsbs
@@ -124032,6 +124038,8 @@
 妭	bsau
 妭	bsauvu
 灞	bsav
+㞎	bsava
+㞎	bsavai
 灞	bsavoa
 拔	bsi
 罢	bsia
@@ -124569,6 +124577,8 @@
 对	dbaovi
 镦	dbi
 镦	dbioov
+㨃	dbiu
+㨃	dbiuov
 兑	dbo
 祋	dboa
 祋	dboaua
@@ -125276,8 +125286,6 @@
 镦	dwio
 镦	dwioov
 钝	dwiova
-㨃	dwiu
-㨃	dwiuov
 吨	dwo
 蹲	dwoi
 蹾	dwoio
@@ -126926,6 +126934,8 @@
 锋	frio
 锋	frioua
 俸	friv
+酆	friva
+酆	frivai
 俸	frivvv
 疯	fro
 讽	froa
@@ -126952,8 +126962,6 @@
 砜	frvuu
 砜	frvuua
 奉	frvv
-酆	frvva
-酆	frvvai
 丰	frvvvi
 奉	frvvvv
 发	fs_
@@ -129219,6 +129227,8 @@
 车	je_
 澈	jea
 澈	jeaova
+尺	jeav
+尺	jeavuo
 撤	jei
 扯	jeiu
 扯	jeiuiv
@@ -136661,6 +136671,8 @@
 车	we_
 澈	wea
 澈	weaova
+尺	weav
+尺	weavuo
 撤	wei
 扯	weiu
 扯	weiuiv
@@ -137122,9 +137134,7 @@
 王	wpvviv
 枉	wpvvvi
 欻	wqo
-歘	wqou
 欻	wqouua
-歘	wqouua
 翁	wr_
 滃	wra
 滃	wrauoa
