@@ -1,6 +1,6 @@
 # 键道·我流
 
-[![星空键道](https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2023.04.23%20--%20d35eba2-orange)](https://github.com/xkinput/Rime_JD/commits/master)
+[![星空键道](https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2023.04.27%20--%20ab996c7-orange)](https://github.com/xkinput/Rime_JD/commits/master)
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
 
