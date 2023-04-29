@@ -591,8 +591,8 @@
 好男不跟女斗	hnbd
 很长一段时间	hjyj
 惶惶不可终日	hhbr
+宏观调控体系	hgtx
 化干戈为玉帛	hggb
-宏观调控体系	hgdx
 化腐朽为神奇	hfxqi
 还治其人之身	hfqev
 华中科技大学	hfkx
@@ -880,7 +880,6 @@
 万万没想到	wwmdv
 唯物辩证法	wwbfo
 文体两开花	wtlho
-问题的关键	wtdj
 为人民服务	wrmw
 吃软不吃硬	wrby
 无政府主义	wqfy
@@ -937,6 +936,7 @@
 天高皇帝远	tghy
 躺着也中枪	tfyq
 弹指一挥间	tfyj
+调制解调器	tfjqou
 特殊情况下	teqxu
 碳水化合物	tehwv
 天上掉馅饼	tedbv
@@ -1386,7 +1386,6 @@
 灯火阑珊处	dhljo
 顶功输入法	dgef
 大中型企业	dfxyv
-调制解调器	dfjqo
 洞房花烛夜	dfhya
 大风刮来的	dfgdv
 党支部书记	dfbji
@@ -9770,8 +9769,8 @@
 警察叔叔	jweei
 居无定所	jwdsa
 久闻大名	jwdmu
-降维打击	jwdja
-坚持到底	jwddi
+降维打击	jwdj
+坚持到底	jwdd
 金屋藏娇	jwcj
 坚持不懈	jwbx
 成王败寇	jwbkv
@@ -12571,8 +12570,8 @@
 中途折返	ftff
 翻天覆地	ftfd
 肥头大耳	ftdx
-赴汤蹈火	ftdhva
-志同道合	ftdhv
+赴汤蹈火	ftdhv
+志同道合	ftdh
 粪土不如	ftbro
 遮天蔽日	ftbr
 风俗习惯	fsxgu
@@ -13420,7 +13419,7 @@
 说也奇怪	eyqgo
 数易其稿	eyqg
 谁与争锋	eyqfo
-使用频率	eype
+使用频率	eypl
 使用年限	eynx
 沙扬娜拉	eynl
 谁也没有	eymy
@@ -15017,7 +15016,7 @@
 道德品质	ddpfo
 大吊萌妹	ddmmv
 弟弟妹妹	ddmmo
-达到目的	ddmdv
+达到目的	ddmd
 道德沦丧	ddlso
 大大咧咧	ddllv
 大刀阔斧	ddkfv
@@ -16070,7 +16069,7 @@
 百货商店	bhed'
 保护动物	bhdwi
 不遑多让	bhdrv
-变化多端	bhddo
+变化多端	bhdd
 白盒测试	bhce
 不慌不忙	bhbm
 不好不坏	bhbhv
@@ -22631,7 +22630,8 @@
 主战派	qqp_
 求求你	qqn_
 真奇妙	qqm_
-整张脸	qqlv
+整张脸	qqlva
+正确率	qqlv
 准确率	qqlo
 全去了	qqliv
 卡住了	qqli
@@ -22655,7 +22655,6 @@
 清政府	qqfa
 区政府	qqf_
 正确率	qqev
-真正是	qqeu
 恰恰是	qqeo
 站起身	qqe_
 正确的	qqdvv
@@ -23059,7 +23058,6 @@
 求生者	qef_
 怯生生	qeeou
 齐刷刷	qeeo
-折射率	qeei
 战术上	qee_
 牵涉到	qed_
 青石板	qebv
@@ -28160,7 +28158,8 @@
 还好吗	hhm_
 黄鹤楼	hhlv
 很好了	hhlu
-好好练	hhla
+好好练	hhla'
+好好聊	hhla
 后悔了	hhl_
 很好看	hhk_
 黑胡椒	hhji
@@ -29874,7 +29873,6 @@
 发展中	fqfa
 追求着	fqf'
 分期付	fqf_
-负债率	fqeu
 非正式	fqei
 发展商	fqea
 发展史	fqe'
@@ -30392,6 +30390,7 @@
 皱着眉	ffmu
 这方面	ffm_
 夫妇俩	fflv
+负债率	fflui
 反重力	fflu
 粉转路	fflov
 方法论	fflo
@@ -30419,7 +30418,6 @@
 知之者	fffu
 执法者	fffi
 分分钟	fff_
-负债率	ffeu
 福州市	ffeo
 中专生	ffei
 这种事	ffe_
@@ -30467,6 +30465,7 @@
 番石榴	feluv
 分水岭	felua
 凡士林	felu
+折射率	feli
 发生率	fela
 发生了	fel_
 富士康	feko
@@ -30496,7 +30495,6 @@
 富士山	feeov
 这首诗	feeoo
 这世上	feeo
-折射率	feei
 防晒霜	feea
 只是说	fee_
 副食店	fedv
@@ -37549,7 +37547,6 @@
 赞美	zfmw
 暂免	zfmm
 暂名	zfmg
-咱俩	zflx
 咱俩	zfls
 暂留	zflq
 赞礼	zflk
@@ -51239,6 +51236,7 @@
 穿给	wtgwo
 传给	wtgw
 传观	wtgt
+传过	wtgli
 穿过	wtgl
 串改	wtgh
 传感	wtgf
@@ -51284,6 +51282,7 @@
 穿点	wtdm
 船底	wtdku
 传递	wtdk
+传代	wtdhi
 穿戴	wtdh
 穿钉	wtdg
 传单	wtdf
@@ -51721,8 +51720,8 @@
 望窗	wpwx
 王维	wpwwv
 王位	wpww
-网传	wpwti
-望穿	wpwt
+望穿	wpwto
+网传	wpwt
 望望	wpwpoo
 旺旺	wpwpo
 汪汪	wpwpa
@@ -51900,7 +51899,6 @@
 网飞	wpfwia
 网费	wpfwi
 王妃	wpfw
-网传	wpft
 枉法	wpfsv
 王法	wpfs
 汪峰	wpfra
@@ -62407,7 +62405,6 @@
 赵王	qzwp
 昭武	qzwj
 找踹	qzwg
-照彻	qzwe
 找抽	qzwd
 昭通	qzty
 找她	qztsi
@@ -62437,8 +62434,6 @@
 招亲	qzqb
 找没	qzmw
 找嘛	qzms
-罩门	qzmni
-找门	qzmn
 照面	qzmm
 着魔	qzml
 着迷	qzmk
@@ -62496,7 +62491,6 @@
 照出	qzjjo
 找出	qzjj
 找经	qzjg
-照彻	qzje
 赵姐	qzjd
 照进	qzjbo
 招进	qzjb
@@ -63066,7 +63060,6 @@
 全新	qtxb
 劝慰	qtwwa
 权威	qtww
-全传	qtwt
 拳王	qtwpo
 全网	qtwpi
 全往	qtwp
@@ -63262,6 +63255,7 @@
 圈中	qtfyi
 权重	qtfy
 全费	qtfw
+全传	qtft
 权诈	qtfsv
 全发	qtfsi
 拳法	qtfs
@@ -67287,13 +67281,10 @@
 浙南	qenf
 这枚	qemw
 遮蒙	qemr
-着忙	qemp
 这门	qemn
 这面	qemm
 遮瞒	qemf
 折拢	qely
-这俩	qelxo
-这辆	qelx
 这乱	qelt
 折柳	qelq
 遮脸	qelm
@@ -67319,7 +67310,6 @@
 这集	qejko
 这几	qejk
 这出	qejj
-着车	qejeo
 这节	qejdo
 这届	qejd
 这叫	qejc
@@ -68271,7 +68261,6 @@
 配的	pwdev
 赔得	pwdea
 配得	pwde
-陪都	pwdd
 赔掉	pwdc
 配对	pwdb
 陪从	pwcy
@@ -78572,7 +78561,6 @@
 吕赤	llwk
 落伍	llwj
 驴车	llwe
-率同	llty
 旅团	lltt
 洛塘	lltp
 吕脱	lltlo
@@ -79225,6 +79213,7 @@
 立地	lkdko
 里地	lkdki
 离地	lkdk
+丽都	lkdjv
 粒度	lkdjo
 力度	lkdj
 历代	lkdh
@@ -79233,9 +79222,9 @@
 理的	lkdev
 立的	lkdeou
 离的	lkdeo
-离得	lkde'
-里的	lkde
-离跌	lkddo
+里的	lkdei
+离得	lkde
+离跌	lkdd
 丽都	lkdd
 丽调	lkdc
 离队	lkdb
@@ -80066,7 +80055,6 @@
 篮坛	lftf
 烂铁	lftdo
 揽头	lftd
-蓝调	lftci
 览眺	lftc
 兰荪	lfsw
 缆索	lfsl
@@ -80195,6 +80183,7 @@
 懒蛋	lfdf
 蓝的	lfdei
 烂的	lfde
+蓝调	lfdci
 烂掉	lfdc
 兰草	lfcz
 烂村	lfcw
@@ -84569,7 +84558,8 @@
 纯当	jwdp
 纯电	jwdm
 军地	jwdk
-纯度	jwdj
+春都	jwdjv
+纯度	jwdja
 纯顶	jwdg
 蠢蛋	jwdf
 君德	jwdea
@@ -85442,7 +85432,6 @@
 承办	jrbf
 酒糟	jqzza
 九宗	jqzy
-就曾	jqzro
 就增	jqzr
 久坐	jqzlu
 就座	jqzlo
@@ -85815,7 +85804,8 @@
 九队	jqdbu
 就对	jqdb
 久存	jqcw
-九层	jqcr
+九层	jqcru
+就曾	jqcr
 纠错	jqcl
 九次	jqcku
 就此	jqck
@@ -95366,7 +95356,6 @@
 后心	hdxb
 后窗	hdwx
 后卫	hdww
-后传	hdwt
 后查	hdws
 猴王	hdwpu
 厚望	hdwp
@@ -100531,6 +100520,7 @@
 照吃	fzwk
 昭武	fzwj
 找踹	fzwg
+着车	feweo
 照彻	fzwe
 找抽	fzwd
 昭通	fzty
@@ -100576,6 +100566,7 @@
 找虐	fznh
 找没	fzmw
 找嘛	fzms
+着忙	fzmp
 罩门	fzmni
 找门	fzmn
 照面	fzmm
@@ -100639,7 +100630,6 @@
 照出	fzjjo
 找出	fzjj
 找经	fzjg
-照彻	fzje
 赵姐	fzjd
 照进	fzjbo
 招进	fzjb
@@ -101879,7 +101869,6 @@
 转给	ftgw
 专管	ftgt
 转岗	ftgp
-传过	ftgli
 转过	ftgl
 转股	ftgjv
 转鼓	ftgj
@@ -101924,8 +101913,7 @@
 赚点	ftdm
 砖垛	ftdl
 专递	ftdk
-传代	ftdhi
-转贷	ftdh
+转贷	ftdhvi
 转的	ftdev
 赚的	ftdea
 转得	ftde'
@@ -102475,12 +102463,12 @@
 蜂巢	frwzi
 风潮	frwz
 风窗	frwx
+奉为	frwwvo
 封为	frwwv
 讽为	frwwo
-奉为	frww'
 风味	frww
-疯传	frwto
-风传	frwt
+风传	frwtu
+疯传	frwt
 奉茶	frws
 蜂王	frwpi
 封网	frwp
@@ -102666,7 +102654,6 @@
 凤爪	frfz
 风中	frfy
 封装	frfx
-疯传	frft
 封发	frfsv
 风闸	frfs
 风风	frfr
@@ -105853,7 +105840,6 @@
 这屋	fewj
 这碗	fewfo
 折弯	fewf
-着车	feweo
 这车	fewe
 遮丑	fewd
 这套	fetz
@@ -105907,7 +105893,6 @@
 着呢	fene
 这枚	femw
 遮蒙	femr
-着忙	femp
 这门	femn
 这面	femm
 折磨	feml
@@ -105915,11 +105900,11 @@
 这名	femg
 遮瞒	femf
 折拢	fely
-这俩	felxo
 这辆	felx
 这轮	felwo
 这类	felw
 这乱	felt
+这俩	fels
 折柳	felq
 遮脸	felm
 啫喱	felko
@@ -105952,7 +105937,6 @@
 这集	fejko
 这几	fejk
 这出	fejj
-着车	fejeo
 这节	fejdo
 这届	fejd
 这叫	fejc
@@ -110059,6 +110043,7 @@
 衰旺	egwpo
 衰亡	egwp
 甩车	egwe
+率同	egty
 率团	egtt
 甩脱	egtl
 衰替	egtk
@@ -114602,11 +114587,12 @@
 低点	dkdmi
 地点	dkdm
 嘀嘀	dkdko
+低低	dkdkii
 低地	dkdki
 滴滴	dkdka
-低低	dkdk'
 地底	dkdk
-低度	dkdj
+低度	dkdji
+帝都	dkdj
 地带	dkdh
 滴定	dkdga
 抵顶	dkdg
@@ -114784,6 +114770,7 @@
 独木	djmj
 读卖	djmh
 赌命	djmg
+都某	djmdu
 杜某	djmd
 独苗	djmc
 赌民	djmb
@@ -121815,8 +121802,8 @@
 不利	bjlk
 布鲁	bjljv
 不露	bjlj
-不赖	bjlhvv
-布莱	bjlhv
+布莱	bjlhvi
+不赖	bjlhv
 不来	bjlh
 不灵	bjlg
 不烂	bjlf
@@ -122497,6 +122484,7 @@
 百多	bhdl
 白底	bhdk
 百度	bhdjv
+白都	bhdju
 拜读	bhdji
 百毒	bhdj'
 摆渡	bhdj

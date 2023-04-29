@@ -1854,8 +1854,7 @@ sort: original
 百草	bhcz
 不好的	bhd
 白对	bhdb
-白都	bhdd
-变化多端	bhddo
+变化多端	bhdd
 白得	bhde
 败得	bhdea
 白的	bhdeu
@@ -1866,6 +1865,7 @@ sort: original
 摆渡	bhdj
 百毒	bhdj
 拜读	bhdji
+白都	bhdju
 百度	bhdjv
 白底	bhdk
 百多	bhdl
@@ -2756,8 +2756,8 @@ sort: original
 不烂	bjlf
 不灵	bjlg
 不来	bjlh
-布莱	bjlhv
-不赖	bjlhvv
+不赖	bjlhv
+布莱	bjlhvi
 不露	bjlj
 布鲁	bjljv
 不利	bjlk
@@ -10669,9 +10669,8 @@ sort: original
 都老	ddlz
 多打磨	ddm
 豆苗	ddmc
-都某	ddmd
+达到目的	ddmd
 兜鍪	ddmdu
-达到目的	ddmdv
 都目	ddmj
 豆面	ddmm
 弟弟妹妹	ddmmo
@@ -11402,7 +11401,6 @@ sort: original
 单场	dfjp
 单就	dfjq
 但就	dfjqi
-调制解调器	dfjqo
 单程	dfjr
 单价	dfjs
 弹夹	dfjsa
@@ -12677,6 +12675,7 @@ sort: original
 赌民	djmb
 独苗	djmc
 杜某	djmd
+都某	djmdu
 赌命	djmg
 读卖	djmh
 独木	djmj
@@ -12902,7 +12901,6 @@ sort: original
 敌对	dkdb
 抵掉	dkdc
 低调	dkdci
-帝都	dkdd
 低得	dkde
 低的	dkdei
 地的	dkdev
@@ -12911,11 +12909,12 @@ sort: original
 滴定	dkdga
 地带	dkdh
 大开大合	dkdhv
-低度	dkdj
+帝都	dkdj
+低度	dkdji
 地底	dkdk
-低低	dkdk
 滴滴	dkdka
 低地	dkdki
+低低	dkdkii
 嘀嘀	dkdko
 地点	dkdm
 低点	dkdmi
@@ -19177,6 +19176,7 @@ sort: original
 衰替	egtk
 甩脱	egtl
 率团	egtt
+率同	egty
 收个尾	egw
 甩车	egwe
 尸骨未寒	egwh
@@ -23966,8 +23966,8 @@ sort: original
 摄影棚	eyp
 双眼皮	eyp
 双音频	eypa
-使用频率	eype
 上眼皮	eypi
+使用频率	eypl
 实验品	eypo
 试验品	eypoa
 视音频	eypoo
@@ -24997,7 +24997,6 @@ sort: original
 折扇	feef
 这山	feefo
 这扇	feefoo
-折射率	feei
 这书	feej
 中枢神经	feeji
 谪戍	feejo
@@ -25109,7 +25108,6 @@ sort: original
 这节	fejdo
 转瞬即逝	feje
 俯拾皆是	fejei
-着车	fejeo
 知识结构	fejg
 中世纪	feji
 这出	fejj
@@ -25159,12 +25157,14 @@ sort: original
 遮拦	felf
 风水轮流转	felfu
 这来	felh
+折射率	feli
 这路	felj
 哲理	felk
 啫喱	felko
 转身离开	felkv
 遮脸	felm
 折柳	felq
+这俩	fels
 这乱	felt
 凡士林	felu
 分水岭	felua
@@ -25172,7 +25172,6 @@ sort: original
 这类	felw
 这轮	felwo
 这辆	felx
-这俩	felxo
 折拢	fely
 翻什么	fem
 遮瞒	femf
@@ -25183,7 +25182,6 @@ sort: original
 找上门来	femli
 这面	femm
 这门	femn
-着忙	femp
 知识盲区	femq
 遮蒙	femr
 朝生暮死	fems
@@ -25268,7 +25266,6 @@ sort: original
 这是我	few
 遮丑	fewd
 这车	fewe
-着车	feweo
 折弯	fewf
 这碗	fewfo
 这山望着那山高	fewg
@@ -25453,7 +25450,6 @@ sort: original
 反杀	ffes
 烦啥	ffeso
 犯傻	ffesu
-负债率	ffeu
 饭勺	ffez
 分分钟	fff
 泛泛之辈	fffb
@@ -25657,6 +25653,7 @@ sort: original
 烦啦	ffls
 烦乱	fflt
 反重力	fflu
+负债率	fflui
 夫妇俩	fflv
 泛论	fflw
 烦累	fflwo
@@ -29483,7 +29480,6 @@ sort: original
 执政水平	fqepi
 发展时期	fqeq
 发展势头	fqet
-负债率	fqeu
 分期付	fqf
 追求着	fqf
 发展中	fqfa
@@ -29759,7 +29755,6 @@ sort: original
 妇人之仁	frfra
 风闸	frfs
 封发	frfsv
-疯传	frft
 防人之心不可无	frfw
 封装	frfx
 知人知面不知心	frfxu
@@ -29967,13 +29962,13 @@ sort: original
 封网	frwp
 蜂王	frwpi
 奉茶	frws
-风传	frwt
-疯传	frwto
+疯传	frwt
+风传	frwtu
 风味	frww
-奉为	frww
 置若罔闻	frwwi
 讽为	frwwo
 封为	frwwv
+奉为	frwwvo
 风窗	frwx
 风潮	frwz
 蜂巢	frwzi
@@ -30572,10 +30567,9 @@ sort: original
 转得	ftde
 赚的	ftdea
 转的	ftdev
-转贷	ftdh
-传代	ftdhi
-志同道合	ftdhv
-赴汤蹈火	ftdhva
+志同道合	ftdh
+赴汤蹈火	ftdhv
+转贷	ftdhvi
 专递	ftdk
 砖垛	ftdl
 赚点	ftdm
@@ -30628,7 +30622,6 @@ sort: original
 转鼓	ftgj
 转股	ftgjv
 转过	ftgl
-传过	ftgli
 只提供	ftgo
 转岗	ftgp
 债台高筑	ftgq
@@ -32465,7 +32458,6 @@ sort: original
 招进	fzjb
 照进	fzjbo
 赵姐	fzjd
-照彻	fzje
 找经	fzjg
 奉子成婚	fzjh
 找出	fzjj
@@ -32546,6 +32538,7 @@ sort: original
 照面	fzmm
 找门	fzmn
 罩门	fzmni
+着忙	fzmp
 找嘛	fzms
 找没	fzmw
 找虐	fznh
@@ -32610,6 +32603,7 @@ sort: original
 指责为	fzw
 找抽	fzwd
 照彻	fzwe
+着车	feweo
 找踹	fzwg
 昭武	fzwj
 照吃	fzwk
@@ -39798,7 +39792,6 @@ sort: original
 厚望	hdwp
 猴王	hdwpu
 后查	hdws
-后传	hdwt
 很到位	hdwu
 后卫	hdww
 后窗	hdwx
@@ -40764,7 +40757,6 @@ sort: original
 哈根达斯	hgds
 很贵的	hgdu
 韩国队	hgdui
-宏观调控体系	hgdx
 坏道	hgdz
 回过神	hge
 回过身	hge
@@ -40864,6 +40856,7 @@ sort: original
 宏观调控	hgtk
 回过头来	hgtl
 回过头去	hgtq
+宏观调控体系	hgtx
 还给我	hgw
 怀揣	hgwg
 淮委	hgww
@@ -41092,6 +41085,7 @@ sort: original
 海况	hhkx
 海空	hhky
 后悔了	hhl
+好好聊	hhla
 好好练	hhla
 海林	hhlb
 害了	hhle
@@ -52663,7 +52657,8 @@ sort: original
 九次	jqcku
 纠错	jqcl
 建筑材料	jqcla
-九层	jqcr
+就曾	jqcr
+九层	jqcru
 久存	jqcw
 居住地	jqd
 建筑队	jqda
@@ -53171,7 +53166,6 @@ sort: original
 就座	jqzlo
 久坐	jqzlu
 就增	jqzr
-就曾	jqzro
 成竹在胸	jqzx
 九宗	jqzy
 出去走走	jqzz
@@ -54324,14 +54318,14 @@ sort: original
 绝望的	jwda
 经纬度	jwdaa
 军队	jwdb
-春都	jwdd
-坚持到底	jwddi
+坚持到底	jwdd
 春的	jwde
 君德	jwdea
 蠢蛋	jwdf
 纯顶	jwdg
-纯度	jwdj
-降维打击	jwdja
+降维打击	jwdj
+纯度	jwdja
+春都	jwdjv
 军地	jwdk
 纯电	jwdm
 久闻大名	jwdmu
@@ -60487,6 +60481,7 @@ sort: original
 兰草	lfcz
 理发店	lfd
 烂掉	lfdc
+蓝调	lfdci
 烂的	lfde
 蓝的	lfdei
 懒蛋	lfdf
@@ -60664,7 +60659,6 @@ sort: original
 兰荪	lfsw
 立方体	lft
 览眺	lftc
-蓝调	lftci
 揽头	lftd
 烂铁	lftdo
 篮坛	lftf
@@ -61772,10 +61766,9 @@ sort: original
 凉快点	lkd
 离队	lkdb
 丽调	lkdc
-丽都	lkdd
-离跌	lkddo
-里的	lkde
+离跌	lkdd
 离得	lkde
+里的	lkdei
 离的	lkdeo
 立的	lkdeou
 理的	lkdev
@@ -61784,6 +61777,7 @@ sort: original
 历代	lkdh
 力度	lkdj
 粒度	lkdjo
+丽都	lkdjv
 离地	lkdk
 里地	lkdki
 立地	lkdko
@@ -62560,7 +62554,6 @@ sort: original
 理论体系	lltx
 勠力同心	lltxa
 流落他乡	lltxai
-率同	llty
 兰陵王	llw
 两肋插刀	llwd
 绫罗绸缎	llwda
@@ -76170,7 +76163,6 @@ sort: original
 陪我到	pwd
 配对	pwdb
 赔掉	pwdc
-陪都	pwdd
 配得	pwde
 赔得	pwdea
 配的	pwdev
@@ -77404,7 +77396,6 @@ sort: original
 折扇	qeef
 这山	qeefo
 这扇	qeefoo
-折射率	qeei
 这书	qeej
 谪戍	qeejo
 着说	qeel
@@ -77487,7 +77478,6 @@ sort: original
 全世界的	qejdi
 这节	qejdo
 前世今生	qeje
-着车	qejeo
 这出	qejj
 这几	qejk
 这集	qejko
@@ -77524,15 +77514,12 @@ sort: original
 启示录	qelo
 折柳	qelq
 这乱	qelt
-这辆	qelx
-这俩	qelxo
 折拢	qely
 切身利益	qelyv
 真善美	qem
 遮瞒	qemf
 这面	qemm
 这门	qemn
-着忙	qemp
 掌上明珠	qemq
 遮蒙	qemr
 朝生暮死	qems
@@ -81785,8 +81772,6 @@ sort: original
 求生	qqer
 求胜	qqerv
 站着说话不腰疼	qqet
-真正是	qqeu
-正确率	qqev
 七窍生烟	qqey
 娶妻生子	qqez
 区政府	qqf
@@ -81921,7 +81906,8 @@ sort: original
 准确率	qqlo
 秋冷	qqlr
 正气凛然	qqlrv
-整张脸	qqlv
+正确率	qqlv
+整张脸	qqlva
 球类	qqlw
 秋粮	qqlx
 七窍流血	qqlxv
@@ -82703,6 +82689,7 @@ sort: original
 拳法	qtfs
 全发	qtfsi
 权诈	qtfsv
+全传	qtft
 全费	qtfw
 权重	qtfy
 圈中	qtfyi
@@ -82933,7 +82920,6 @@ sort: original
 全往	qtwp
 全网	qtwpi
 拳王	qtwpo
-全传	qtwt
 权威	qtww
 劝慰	qtwwa
 千头万绪	qtwx
@@ -83908,7 +83894,6 @@ sort: original
 招进	qzjb
 照进	qzjbo
 赵姐	qzjd
-照彻	qzje
 找经	qzjg
 找出	qzjj
 照出	qzjjo
@@ -83971,8 +83956,6 @@ sort: original
 着迷	qzmk
 着魔	qzml
 照面	qzmm
-找门	qzmn
-罩门	qzmni
 找嘛	qzms
 找没	qzmw
 欠阻尼	qzn
@@ -84014,7 +83997,6 @@ sort: original
 昭通	qzty
 千字文	qzw
 找抽	qzwd
-照彻	qzwe
 找踹	qzwg
 昭武	qzwj
 赵王	qzwp
@@ -90783,6 +90765,7 @@ sort: original
 弹唱	tfjp
 探究	tfjq
 头重脚轻	tfjqo
+调制解调器	tfjqou
 弹成	tfjr
 坦诚	tfjrv
 坦承	tfjrva
@@ -98679,7 +98662,6 @@ sort: original
 汪峰	wpfra
 王法	wpfs
 枉法	wpfsv
-网传	wpft
 王妃	wpfw
 网费	wpfwi
 网飞	wpfwia
@@ -98868,8 +98850,8 @@ sort: original
 汪汪	wpwpa
 旺旺	wpwpo
 望望	wpwpoo
-望穿	wpwt
-网传	wpwti
+网传	wpwt
+望穿	wpwto
 王位	wpww
 王维	wpwwv
 望窗	wpwx
@@ -99515,7 +99497,7 @@ sort: original
 传单	wtdf
 穿钉	wtdg
 穿戴	wtdh
-问题的关键	wtdj
+传代	wtdhi
 传递	wtdk
 船底	wtdku
 穿点	wtdm
@@ -99572,6 +99554,7 @@ sort: original
 传感	wtgf
 串改	wtgh
 穿过	wtgl
+传过	wtgli
 传统观念	wtgn
 传观	wtgt
 传给	wtgw
@@ -119557,7 +119540,6 @@ sort: original
 最疯狂	zfko
 暂留	zflq
 咱俩	zfls
-咱俩	zflx
 祖父母	zfm
 最终目标	zfmb
 最终目的	zfmd
