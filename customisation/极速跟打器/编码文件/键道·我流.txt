@@ -27520,6 +27520,7 @@
 会议厅	hyt_
 汉元素	hysa
 好意思	hys_
+好诱人	hyra
 黑衣人	hyr_
 后遗症	hyqui
 很有钱	hyqu'
@@ -63757,6 +63758,7 @@
 秋裤	qqkj
 求快	qqkg
 丘克	qqke
+秋葵	qqkb
 求降	qqjx
 球菌	qqjw
 求成	qqjr
@@ -82262,6 +82264,7 @@
 凯文	khwn
 开窗	khwmv
 开创	khwm
+开吃	khwk
 开悟	khwj
 开外	khwh
 开完	khwf
@@ -116517,8 +116520,8 @@
 队伍	dbwj
 对外	dbwh
 对车	dbwe
-对它	dbtsao
-对她	dbtsa
+对它	dbtsa
+对她	dbts'
 对他	dbts
 对天	dbtm
 堆土	dbtj
