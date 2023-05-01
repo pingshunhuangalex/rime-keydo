@@ -19191,8 +19191,9 @@
 新课题	xkt_
 向客人	xkr_
 相控阵	xkqv
-辛苦钱	xkqo
-许可证	xkq_
+许可证	xkqo
+辛苦钱	xkq_
+小卡片	xkp_
 辛苦你	xkn_
 奥卡姆	xkm_
 阿卡林	xkla
@@ -22528,6 +22529,7 @@
 翘尾巴	qwb_
 正体字	qtzv
 铅体字	qtz_
+真讨厌	qtyu
 正投影	qty_
 整体性	qtxv
 全天下	qtxi
@@ -26874,7 +26876,8 @@
 经济学	jjxaao
 阶级性	jjxaa
 经常性	jjxa
-纠结下	jjx_
+纠结下	jjx'
+将就下	jjx_
 计程车	jjwo
 沉积物	jjwa
 常常为	jjw_
@@ -28483,11 +28486,12 @@
 核爆炸	hbfv
 好办法	hbf_
 后半生	hbeu
+红宝石	hbeao
+湖北省	hbeai'
 河北省	hbeai
-湖北省	hbea'
 好帮手	hbea
-红宝石	hbe'
 还不是	hbe_
+还不对	hbdvv
 还不到	hbdv
 后半段	hbduo
 很棒的	hbdu
@@ -30337,6 +30341,7 @@
 中国画	fghi'
 中国话	fghi
 这个好	fgh_
+发广告	fgga
 直勾勾	fgg_
 分隔符	fgfu
 遮光罩	fgfo
@@ -31938,7 +31943,8 @@
 大学生	dxe_
 地下党	dxdvv
 档案袋	dxdv
-第二点	dxduv
+多写点	dxduo
+第二点	dxdu'
 第二代	dxdu
 单行道	dxdo
 代销店	dxdii
@@ -32330,6 +32336,7 @@
 大溃败	dkbv
 地矿部	dkb_
 带节奏	djz_
+到处用	djyv
 多见于	djyui
 都江堰	djyu
 斗鸡眼	djyo
@@ -32470,6 +32477,7 @@
 独个儿	dgxu
 电工学	dgxi
 大关系	dgx_
+多给我	dgw_
 点歌台	dgti
 掉过头	dgt_
 大公司	dgsv
@@ -48840,8 +48848,9 @@
 写大	xdds
 蟹等	xddr
 邪典	xddmvi
-鞋店	xddmv
-鞋垫	xddm
+鞋店	xddmv'
+鞋垫	xddmv
+写点	xddm
 懈惰	xddl
 鞋底	xddkv
 欧弟	xddk
@@ -50084,8 +50093,6 @@
 超值	wzfk
 朝服	wzfj
 超拽	wzfg
-炒饭	wzffo
-超凡	wzff
 潮州	wzfd
 炒勺	wzez
 超爽	wzex
@@ -52860,9 +52867,9 @@
 池水	wkeba
 吃水	wkeb
 赤道	wkdzv
-吃到	wkdzo
 持刀	wkdzi
-迟到	wkdz
+迟到	wkdza
+吃到	wkdz
 吃顿	wkdwo
 迟钝	wkdw
 迟点	wkdma
@@ -78419,7 +78426,8 @@
 联众	lmfy
 连庄	lmfx
 连发	lmfs
-联防	lmfp
+联防	lmfpv
+连放	lmfp
 连庄	lmfm
 炼制	lmfk
 连负	lmfj
@@ -83825,8 +83833,8 @@
 超值	jzfk
 朝服	jzfj
 超拽	jzfg
-炒饭	jzffo
-超凡	jzff
+超凡	jzffv
+炒饭	jzff
 吵着	jzfe'
 朝着	jzfe
 潮州	jzfd
@@ -84085,8 +84093,8 @@
 降价	jxjs
 将成	jxjro
 奖惩	jxjr
-将就	jxjqo
-讲究	jxjq
+讲究	jxjqo
+将就	jxjq
 疆场	jxjp
 将陈	jxjn
 将建	jxjm
@@ -102358,8 +102366,9 @@
 发达	fsds
 罚丢	fsdq
 发癫	fsdmao
-法典	fsdma
-发电	fsdm
+法典	fsdmai
+发电	fsdma
+发点	fsdm
 炸堤	fsdko
 发地	fsdk
 法度	fsdj
@@ -116372,8 +116381,8 @@
 跌水	ddebo
 都睡	ddeb
 跌倒	dddzo
-跌到	dddz'
-都到	dddz
+都到	dddz'
+跌到	dddz
 抖动	dddy
 都得	dddw
 豆大	dddsv
