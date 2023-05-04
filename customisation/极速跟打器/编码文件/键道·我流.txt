@@ -3205,6 +3205,7 @@
 鱼水之欢	yefh
 由始至终	yeffi
 有识之士	yefev
+一生之敌	yefd
 原始社会	yeeh
 以身试法	yeefa
 艺术手法	yeef
@@ -17071,6 +17072,7 @@
 最多的	zddo'
 最大的	zddo
 做得到	zddi
+贼地道	zdda
 做得多	zdd'
 做得大	zdd_
 最底层	zdc_
@@ -17312,7 +17314,8 @@
 一样多	yydv'
 一样大	yydv
 永远的	yydov
-应有的	yydo
+应有的	yydo'
+晕晕的	yydo
 偃月刀	yydiu
 优雅的	yydi'
 优雅地	yydi
@@ -19428,7 +19431,8 @@
 相关的	xgdv
 饿鬼道	xgdu
 性感的	xgdo
-按规定	xgd_
+按规定	xgdi
+先搞点	xgd_
 乡干部	xgb_
 想法子	xfz_
 小肥羊	xfyi
@@ -22354,7 +22358,8 @@
 区域性	qyxv
 请允许	qyxo
 睁眼瞎	qyxi
-注意下	qyx_
+注意下	qyxa
+清一下	qyx_
 正因为	qywv
 窃以为	qywo
 前一晚	qyw_
@@ -23131,6 +23136,7 @@
 清单上	qdea
 注定是	qde'
 全都是	qde_
+真地道	qddu
 恰当地	qddo
 潜到底	qddav
 强大的	qdda
@@ -23553,6 +23559,7 @@
 碰到你	pdn_
 跑得慢	pdm_
 判断力	pdlo
+频道里	pdli
 潘多拉	pdla
 疲掉了	pdl_
 跑得快	pdk_
@@ -26993,6 +27000,7 @@
 就会有	jhy_
 几何学	jhxu
 计划性	jhxo
+激化下	jhxa
 交换下	jhx_
 聚合物	jhwvi
 救护车	jhwv
@@ -28417,10 +28425,12 @@
 获得者	hdfi
 很多种	hdf_
 很多事	hdeu
+喝点水	hdeo
 活动室	hdea
 还得是	hde_
 黄赌毒	hddv
-很大度	hdduvo
+很大度	hdduvo'
+很地道	hdduvo
 很顶的	hdduv
 很短的	hdduu
 很低的	hddui
@@ -29517,10 +29527,11 @@
 副院长	fyqv
 服役期	fyqu
 方言区	fyqo
-防疫针	fyqao
-防疫站	fyqa
+防疫针	fyqao'
+防疫站	fyqao
+发言权	fyqa
 这一站	fyq'
-发言权	fyq_
+这一阵	fyq_
 负一屏	fypu
 翻译片	fyp_
 这一年	fyn_
@@ -30175,6 +30186,7 @@
 分居了	fjlu
 房间里	fjloo
 放出来	fjlo
+招进来	fjliv
 折旧率	fjlii
 非常冷	fjli'
 非常累	fjli
@@ -30269,6 +30281,7 @@
 转化率	fhlv
 风火轮	fhluo
 肺活量	fhlu
+着火了	fhlo
 找回来	fhlii
 找好了	fhli
 防护林	fhlaiv
@@ -30805,6 +30818,7 @@
 使用者	eyfi
 邵逸夫	eyfa
 十月份	eyf_
+顺一顺	eyeuv
 生意上	eyeu
 首映式	eyeoo
 实验室	eyeoa
@@ -37261,10 +37275,12 @@
 再差	zhws
 在望	zhwpv
 再往	zhwp
+再问	zhwnv
 载文	zhwnu
-再问	zhwn
+在问	zhwn
 再创	zhwm
-再吃	zhwk
+再吃	zhwkv
+在吃	zhwk
 再无	zhwj
 在外	zhwh
 再晚	zhwfv
@@ -37425,8 +37441,9 @@
 在乎	zhhj
 灾害	zhhh
 在怀	zhhg
+再喝	zhhev
 载荷	zhheu
-再喝	zhhe
+在喝	zhhe
 在喉	zhhdv
 灾后	zhhdo
 在后	zhhd
@@ -37466,7 +37483,8 @@
 载着	zhfe
 在州	zhfdv
 在否	zhfd
-再追	zhfb
+再追	zhfbv
+在追	zhfb
 再少	zhezv
 在少	zhez
 宰杀	zhes
@@ -39413,7 +39431,8 @@
 鸭肉	ysrd
 压强	ysqx
 鸭群	ysqw
-压账	ysqp
+压账	ysqpv
+鸭掌	ysqp
 压阵	ysqn
 牙签	ysqm
 雅趣	ysql
@@ -69622,8 +69641,8 @@
 排挤	phjk
 排除	phjji
 派出	phjja
-排出	phjj'
-拍出	phjj
+拍出	phjj'
+排出	phjj
 派车	phje
 排解	phjd
 拍好	phhzi
@@ -73902,8 +73921,9 @@
 莽汉	mphf
 盲盒	mphe
 忙工	mpgy
+杧果	mpglv
 芒果	mpgli
-杧果	mpgl
+忙过	mpgl
 盲谷	mpgj
 盲干	mpgf
 忙个	mpge
@@ -77621,7 +77641,9 @@
 拉丁	lsdg
 拉丹	lsdf
 辣的	lsdeo
-拉的	lsde
+拉的	lsdei
+辣得	lsde'
+拉得	lsde
 蜡层	lscr
 腊八	lsbsu
 喇叭	lsbs
@@ -104675,10 +104697,11 @@
 指点	fkdm
 之多	fkdlo
 至多	fkdl
+知底	fkdkuo
+直抵	fkdku
+之敌	fkdko'
 之地	fkdko
-知底	fkdku
 置地	fkdki
-直抵	fkdk'
 质地	fkdk
 制度	fkdju
 之都	fkdjo
@@ -115539,7 +115562,8 @@
 定单	dgdfo
 订单	dgdf
 顶的	dgdev
-定的	dgde
+定的	dgde'
+订的	dgde
 定调	dgdc
 丁对	dgdb
 定从	dgcy
