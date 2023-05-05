@@ -8221,6 +8221,7 @@
 毛遂自荐	mszju
 摩斯密码	msmm
 莫斯利安	mslxi
+马苏里拉	mslla
 冥思苦想	mskx
 免死金牌	msjp
 茅塞顿开	msdk
@@ -13305,6 +13306,7 @@
 重点高中	fdgf
 重点中学	fdfxu
 指导方针	fdfq
+这都是些	fdex
 中低收入	fderi
 值得商榷	fdeq
 制度设计	fdeju
@@ -19321,11 +19323,12 @@
 相呼应	xhyv
 新花样	xhyo
 歇后语	xhy_
-西海岸	xhxv
+西海岸	xhxva
+下划线	xhxv
 小户型	xhxio
 小孩儿	xhxia
 俄亥俄	xhxi
-下划线	xhx_
+歇会儿	xhx_
 新华网	xhwo
 小黄车	xhwiv
 小黑屋	xhwi
@@ -19374,9 +19377,9 @@
 蟹黄包	xhbu
 小伙伴	xhb_
 矮个子	xgzu
-阿共仔	xgzav
-洗个澡	xgza
-小个子	xgz_
+小个子	xgzi
+阿共仔	xgza
+洗个澡	xgz_
 下个月	xgyv
 习惯于	xgyao
 洗个牙	xgya
@@ -20596,6 +20599,7 @@
 捂得紧	wdj_
 武道会	wdhv
 晚的话	wdh_
+吃得惯	wdgo
 传达给	wdgi
 差点给	wdg_
 五大洲	wdfv
@@ -20606,7 +20610,8 @@
 传递着	wdf_
 武当山	wdevi
 无敌手	wdev
-吃独食	wdeou
+吃独食	wdeoui
+吃的啥	wdeou
 问的是	wdeo'
 为的是	wdeo
 传达室	wdei
@@ -22075,6 +22080,7 @@
 柔韧性	rrx_
 人人网	rrwi
 软任务	rrw_
+人人买	rrmi
 让人们	rrm_
 热容量	rrl_
 热熔胶	rrji
@@ -24348,7 +24354,8 @@
 茅台酒	mtji
 明天见	mtj_
 摩托化	mtho
-满堂红	mth_
+满堂红	mtha
+没停好	mth_
 米田共	mtgoi
 门头沟	mtgo
 没停过	mtga
@@ -28165,6 +28172,7 @@
 很好用	hhyu
 混合泳	hhya
 后花园	hhy_
+回回血	hhxi
 红孩儿	hhxaa
 好好笑	hhxa
 缓和下	hhx_
@@ -30014,7 +30022,8 @@
 这么久	fmj'
 这么长	fmj_
 专门化	fmhv
-芝麻糊	fmh_
+芝麻糊	fmhi
+这么火	fmh_
 父母官	fmgu
 芝麻官	fmgi
 这么搞	fmg_
@@ -30024,6 +30033,7 @@
 找麻烦	fmf_
 致命伤	fmev
 这么瘦	fmeou
+这么少	fmeo'
 这么爽	fmeo
 这么说	fme_
 专卖店	fmdvu
@@ -32628,6 +32638,7 @@
 都是要	dey_
 大师兄	dexv
 对手戏	dexa
+都是些	dex'
 但是想	dex_
 电视网	dewi
 都是我	dew'
@@ -33281,6 +33292,7 @@
 不用再	byz_
 毕业于	byyviv
 不押韵	byyvi
+不预约	byyvaa
 不游泳	byyva
 不愿意	byyv
 病怏怏	byyo
@@ -37542,8 +37554,10 @@
 在侧	zhcev
 在册	zhce
 再保	zhbz
+再被	zhbwv
 在被	zhbw
-再把	zhbs
+再把	zhbsv
+在把	zhbs
 在邦	zhbp
 在变	zhbmv
 灾变	zhbmo
@@ -46805,10 +46819,11 @@
 洗刷	xkeq
 袭上	xkepv
 膝上	xkepu
-席上	xkep
+席上	xkepo
+洗上	xkep
 洗肾	xken
-细说	xkela
-戏说	xkel
+戏说	xkela
+细说	xkel
 喜事	xkekvv
 西施	xkekvo
 西式	xkekv
@@ -57322,7 +57337,8 @@
 挺近	tgjbi
 听进	tgjb
 听好	tghzo
-挺好	tghz
+挺好	tghzi
+停好	tghz
 挺黑	tghw
 挺欢	tght
 廷珩	tghr
@@ -72303,8 +72319,9 @@
 南洋	nfyp
 难于	nfyl
 难易	nfyk
+南岳	nfyhuu
 南越	nfyhu
-南岳	nfyh
+难约	nfyh
 男婴	nfyg
 难言	nfyf
 难有	nfyda
@@ -73067,7 +73084,8 @@
 媒体	mwtk
 美图	mwtj
 每台	mwth
-没听	mwtg
+没听	mwtga
+没停	mwtg
 煤炭	mwtf
 眉头	mwtd
 每条	mwtc
@@ -101569,9 +101587,9 @@
 飞掠	fwlha
 飞来	fwlh
 非零	fwlg
-飞了	fwlev
 肥了	fwleu
-费了	fwlea
+飞了	fwlea
+费了	fwle'
 废了	fwle
 废料	fwlco
 肥料	fwlc

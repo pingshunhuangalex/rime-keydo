@@ -6510,6 +6510,7 @@ sort: original
 病怏怏	byyo
 不愿意	byyv
 不游泳	byyva
+不预约	byyvaa
 不押韵	byyvi
 毕业于	byyviv
 不要以为	byyw
@@ -11146,6 +11147,7 @@ sort: original
 的船	dewtu
 得宠	dewy
 但是想	dex
+都是些	dex
 对手戏	dexa
 的心	dexb
 德性	dexg
@@ -24677,6 +24679,7 @@ sort: original
 绉纱	fdes
 反倒是	fdeu
 知多少	fdeuu
+这都是些	fdex
 这顿饭	fdf
 皱着	fdfe
 周折	fdfeu
@@ -28458,6 +28461,7 @@ sort: original
 壮硕	fmelo
 装身	fmen
 这么爽	fmeo
+这么少	fmeo
 这么瘦	fmeou
 装上	fmep
 撞上	fmepi
@@ -28490,12 +28494,13 @@ sort: original
 中美关系	fmgx
 壮工	fmgy
 状告	fmgz
-芝麻糊	fmh
+这么火	fmh
 装和	fmhe
 这么回事	fmheo
 壮汉	fmhf
 撞坏	fmhg
 照猫画虎	fmhh
+芝麻糊	fmhi
 庄户	fmhj
 装货	fmhl
 装潢	fmhm
@@ -31073,9 +31078,9 @@ sort: original
 舟车劳顿	fwld
 风吹浪打	fwldu
 废了	fwle
-费了	fwlea
+费了	fwle
+飞了	fwlea
 肥了	fwleu
-飞了	fwlev
 非零	fwlg
 飞来	fwlh
 飞掠	fwlha
@@ -41270,6 +41275,7 @@ sort: original
 海岸	hhxf
 还行	hhxg
 海星	hhxga
+回回血	hhxi
 好好相处	hhxj
 孩儿	hhxja
 海尔	hhxjau
@@ -69258,6 +69264,7 @@ sort: original
 玛莉	mslkvi
 玛利	mslkvu
 码率	msll
+马苏里拉	mslla
 马脸	mslm
 蚂螂	mslp
 麻溜	mslq
@@ -69408,7 +69415,8 @@ sort: original
 瞒天过海	mtgh
 门头沟	mtgo
 米田共	mtgoi
-满堂红	mth
+没停好	mth
+满堂红	mtha
 摩托化	mtho
 明天见	mtj
 茅台酒	mtji
@@ -69814,7 +69822,8 @@ sort: original
 每条	mwtc
 眉头	mwtd
 煤炭	mwtf
-没听	mwtg
+没停	mwtg
+没听	mwtga
 每台	mwth
 美图	mwtj
 媒体	mwtk
@@ -71058,8 +71067,9 @@ sort: original
 难有	nfyda
 难言	nfyf
 男婴	nfyg
-南岳	nfyh
+难约	nfyh
 南越	nfyhu
+南岳	nfyhuu
 难易	nfyk
 难于	nfyl
 浓妆艳抹	nfym
@@ -85831,6 +85841,7 @@ sort: original
 扔了	rrle
 扔来	rrlh
 让人们	rrm
+人人买	rrmi
 热热闹闹	rrnn
 仍能	rrnr
 人人平等	rrpd
@@ -91111,7 +91122,8 @@ sort: original
 挺欢	tght
 挺黑	tghw
 天高皇帝远	tghy
-挺好	tghz
+停好	tghz
+挺好	tghzi
 听好	tghzo
 铁公鸡	tgj
 退格键	tgja
@@ -95247,7 +95259,8 @@ sort: original
 抽身	wden
 为的是	wdeo
 问的是	wdeo
-吃独食	wdeou
+吃的啥	wdeou
+吃独食	wdeoui
 酬赏	wdep
 仇杀	wdes
 无敌手	wdev
@@ -95282,6 +95295,7 @@ sort: original
 传达给	wdgi
 万达广场	wdgj
 抽过	wdgl
+吃得惯	wdgo
 晚的话	wdh
 抽回	wdhb
 仇和	wdhe
@@ -104432,13 +104446,13 @@ sort: original
 行云	xgywu
 行用	xgyy
 星耀	xgyz
-小个子	xgz
-洗个澡	xgza
-阿共仔	xgzav
+洗个澡	xgz
+阿共仔	xgza
 行走	xgzd
 刑责	xgze
 星在	xgzh
 行在	xgzhu
+小个子	xgzi
 星族	xgzj
 性子	xgzk
 星子	xgzko
@@ -105015,7 +105029,7 @@ sort: original
 爱虫	xhwyu
 爱巢	xhwz
 学潮	xhwzo
-下划线	xhx
+歇会儿	xhx
 爱心	xhxb
 学校	xhxc
 矮小	xhxcu
@@ -105049,7 +105063,8 @@ sort: original
 雪下	xhxs
 消化系统	xhxt
 循环系统	xhxtu
-西海岸	xhxv
+下划线	xhxv
+西海岸	xhxva
 挨训	xhxw
 薪火相传	xhxwi
 血象	xhxx
@@ -105690,11 +105705,12 @@ sort: original
 西式	xkekv
 西施	xkekvo
 喜事	xkekvv
-戏说	xkel
-细说	xkela
+细说	xkel
+戏说	xkela
 洗肾	xken
-席上	xkep
+洗上	xkep
 小康水平	xkepi
+席上	xkepo
 膝上	xkepu
 袭上	xkepv
 洗刷	xkeq
@@ -119759,8 +119775,10 @@ sort: original
 灾变	zhbmo
 在变	zhbmv
 在邦	zhbp
-再把	zhbs
+在把	zhbs
+再把	zhbsv
 在被	zhbw
+再被	zhbwv
 再保	zhbz
 在册	zhce
 在侧	zhcev
