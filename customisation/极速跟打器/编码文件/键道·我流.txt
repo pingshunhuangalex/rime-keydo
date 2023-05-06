@@ -3021,6 +3021,7 @@
 有朝一日	yfyr
 一分一秒	yfym
 言之有理	yfyloo
+一直以来	yfyl
 应知应会	yfyho
 愚夫愚妇	yfyfi
 由之引生	yfyei
@@ -7771,6 +7772,7 @@
 普遍意义	pbyyo
 喷薄欲出	pbyj
 普遍现象	pbxxo
+批不下来	pbxl
 朋比为奸	pbwj
 平白无故	pbwg
 普遍认为	pbrw
@@ -16926,13 +16928,15 @@
 走过来	zgl_
 在港口	zgk_
 走过场	zgjv
+足够久	zgjou'
+足够长	zgjou
 最高奖	zgjooo
 最高潮	zgjooa
 总冠军	zgjoo
 最高级	zgjo'
 最关键	zgjo
+坐公交	zgji
 子宫颈	zgja
-坐公交	zgj'
 总感觉	zgj_
 总工会	zgh_
 总供给	zggo
@@ -17325,7 +17329,8 @@
 隐隐的	yyda
 有一段	yyd'
 有一点	yyd_
-亚运村	yyc_
+亚运村	yycv
+用一次	yyc_
 语音包	yybo
 营业部	yybi
 验孕棒	yybaa
@@ -18263,6 +18268,7 @@
 以上的	yeda
 一收到	yed_
 原上草	yec_
+硬是被	yeb'
 硬是把	yeb_
 一档子	ydzv
 一肚子	ydz'
@@ -20725,10 +20731,10 @@
 田字格	tzgi
 太糟糕	tzg_
 太子妃	tzfv
-投资房	tzfioo
-投资方	tzfio
-团组织	tzfi
-投资者	tzf_
+团组织	tzfia
+投资方	tzfi'
+投资者	tzfi
+投资房	tzf_
 投资商	tze_
 挺脏的	tzdi
 太子党	tzd_
@@ -21193,6 +21199,7 @@
 土库曼	tkmv
 太空棉	tkm_
 太酷了	tklvv
+太宽了	tklvo
 太亏了	tklv'
 太快了	tklv
 推开了	tkl_
@@ -21959,8 +21966,9 @@
 扫把星	sbxii
 四边形	sbxi
 四不像	sbx_
+四步舞	sbwii
 搜捕网	sbwi
-四步舞	sbw_
+随便吃	sbw_
 死变态	sbtv
 所不同	sbt_
 算不算	sbs_
@@ -21978,8 +21986,9 @@
 三杯酒	sbjv
 所不及	sbju
 诉不尽	sbj_
+三把火	sbhv
 所捕获	sbhu
-三把火	sbh_
+随便喝	sbh_
 三不管	sbg_
 三板斧	sbfv
 三班制	sbf_
@@ -22932,8 +22941,9 @@
 战忽局	qhj_
 青海湖	qhhva
 秦淮河	qhhv
+气呼呼	qhhu
 召唤回	qhha
-气呼呼	qhh_
+整花活	qhh_
 诸侯国	qhg_
 全画幅	qhfi
 真好赚	qhf_
@@ -23274,7 +23284,8 @@
 普信女	pxno
 普信男	pxn_
 拼形码	pxm_
-破案率	pxl_
+破案率	pxlv
+批下来	pxl_
 普希金	pxj_
 培训会	pxh_
 培训费	pxf_
@@ -24597,6 +24608,7 @@
 慢镜头	mjto
 没几天	mjta
 麦金塔	mjt_
+卖出去	mjq_
 枚金牌	mjp_
 没几年	mjn_
 名场面	mjm_
@@ -24649,6 +24661,7 @@
 马后炮	mhp_
 梅花鹿	mhlv
 闷葫芦	mhlo
+买回来	mhla
 忙好了	mhl_
 蛮好看	mhk_
 麻黄碱	mhjo
@@ -24779,7 +24792,9 @@
 买的人	mdr_
 买得起	mdq_
 莫德纳	mdn_
-面对面	mdm_
+面对面	mdmv
+没得卖	mdm'
+没得买	mdm_
 麦当劳	mdlvi
 迈大了	mdlv
 曼德拉	mdlou
@@ -25143,6 +25158,7 @@
 灵长目	lqm_
 连起来	lqlv
 冷起来	lqlo
+拉起来	lqli
 灵长类	lqlau
 练起来	lqla
 聊起来	lql_
@@ -25692,6 +25708,7 @@
 可以用	kyyv
 看一眼	kyy_
 开一下	kyxv
+靠一下	kyxu
 快一些	kyxo
 抗药性	kyxii
 看一下	kyxi
@@ -27332,10 +27349,11 @@
 健身餐	jec_
 超声波	jebv
 九十八	jebu
-精神病	jebo
+精神病	jeboo
+记事本	jebo
 陈水扁	jebaa
 潮水般	jeba
-记事本	jeb'
+就是比	jeb'
 就是把	jeb_
 出点子	jdz_
 教导员	jdyu
@@ -28475,7 +28493,8 @@
 后半夜	hby_
 还必须	hbxvo
 还不行	hbxv
-很不幸	hbx_
+很不幸	hbxu
+很不想	hbx_
 汉堡王	hbwai
 滑板车	hbwa
 花不完	hbw_
@@ -28583,7 +28602,8 @@
 个原因	gyyi
 归因于	gyy_
 公益性	gyxu
-高压线	gyxov
+高压线	gyxova
+高一些	gyxov
 关一下	gyxo
 给一下	gyxav
 改一下	gyxa
@@ -29179,8 +29199,9 @@
 股骨头	ggt_
 贵公司	ggs_
 广告人	ggr_
-赶过去	ggqv
-尴尬症	ggq_
+尴尬症	ggqv
+改革前	ggqa
+赶过去	ggq_
 广告牌	ggp_
 肝功能	ggn_
 干革命	ggm_
@@ -30910,7 +30931,8 @@
 陕西省	exea
 首先是	exe_
 熟悉的	exdo
-少先队	exdi
+少先队	exdiu
+省心的	exdi
 师兄弟	exd_
 烧仙草	exc_
 事儿逼	exbv
@@ -30995,7 +31017,8 @@
 十四年	esn_
 伸缩门	esm_
 神速力	eslo
-十三经	esj_
+十三经	esju
+伸缩架	esj_
 世俗化	esh_
 生死观	esg_
 神思者	esf_
@@ -31983,7 +32006,8 @@
 大学生	dxe_
 地下党	dxdvv
 档案袋	dxdv
-多写点	dxduo
+多写点	dxduo'
+多炫点	dxduo
 第二点	dxdu'
 第二代	dxdu
 单行道	dxdo
@@ -34357,7 +34381,8 @@
 标识符	befv
 白蛇传	befu
 不设防	bef_
-不受伤	beev
+不受伤	beevu
+不少事	beev
 博士生	beeu
 不是说	bee_
 不舍得	bedv
@@ -37417,6 +37442,8 @@
 再扣	zhkd
 再亏	zhkb
 在朝	zhjz
+再讲	zhjxv'
+在讲	zhjxv
 再将	zhjx
 再均	zhjwv
 再纯	zhjw
@@ -42061,7 +42088,7 @@
 严于	yfylvv
 艳遇	yfylv
 烟雨	yfylov
-谚语	yfylo
+谚语	yfyl'
 言语	yfyl
 研一	yfykv
 演义	yfykao
@@ -42783,6 +42810,7 @@
 夜班	yebf
 也别	yebd
 油棕	ydzy
+有钻	ydzt
 又增	ydzr
 又脏	ydzp
 有座	ydzl
@@ -44930,7 +44958,8 @@
 宣东	xtdy
 选段	xtdt
 选登	xtdr
-选点	xtdm
+选点	xtdmu
+炫点	xtdm
 选读	xtdju
 宣读	xtdj
 悬带	xtdh
@@ -64274,10 +64303,10 @@
 真有	qnyd
 震音	qnyb
 真凶	qnxy
-真想	qnxxuv
-真香	qnxxuu
-真像	qnxxu
-真相	qnxx
+真相	qnxxuv
+真香	qnxxu
+真像	qnxx'
+真想	qnxx
 侦讯	qnxw
 甄选	qnxt
 真瞎	qnxs
@@ -64986,8 +65015,9 @@
 签定	qmdgu
 签订	qmdg
 签单	qmdf
+钱的	qmdei
 浅的	qmdea
-钱的	qmde
+签的	qmde
 浅碟	qmdda
 迁调	qmdc
 前队	qmdb
@@ -71296,6 +71326,7 @@
 能当	nrdp
 能夺	nrdl
 能抵	nrdk
+能贷	nrdha
 能带	nrdh
 能得	nrde
 能对	nrdb
@@ -72979,6 +73010,7 @@
 锚标	mzbc
 没造	mwzz
 每宗	mwzy
+没钻	mwzt
 每增	mwzr
 没做	mwzl
 媒资	mwzka
@@ -95963,6 +95995,7 @@
 会攻	hbgy
 辉光	hbgx
 回滚	hbgwi
+汇给	hbgwa
 会给	hbgw
 会馆	hbgt
 会更	hbgr
@@ -97449,8 +97482,8 @@
 灌顶	gtdg
 掼蛋	gtdfi
 关单	gtdf
-管得	gtdeu
-管的	gtde
+管的	gtdeu
+管得	gtde
 关掉	gtdc
 灌丛	gtcy
 关村	gtcw
@@ -109658,11 +109691,11 @@
 师伯	ekbli
 试播	ekbl
 石笔	ekbkvu
+石壁	ekbkva
 事逼	ekbkv
 时弊	ekbkoo
 试笔	ekbko
 势必	ekbki
-石壁	ekbk'
 是比	ekbk
 十步	ekbju
 誓不	ekbji
@@ -115301,7 +115334,8 @@
 待定	dhdg
 带的	dhdev
 戴的	dhdeu
-代的	dhdei
+代的	dhdeiu
+贷的	dhdei
 待得	dhde
 带调	dhdcv
 呆掉	dhdc
@@ -120034,8 +120068,8 @@
 八卷	bsjt
 八家	bsjs
 八成	bsjr
-把酒	bsjqi
-八九	bsjq
+八九	bsjqu
+把酒	bsjq
 靶场	bsjp
 拔剑	bsjmi
 拔尖	bsjm
