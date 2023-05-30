@@ -5067,7 +5067,8 @@ sort: original
 辩证统一	bqty
 标准差	bqw
 不求闻达	bqwd
-扮猪吃虎	bqwh
+扮猪吃老虎	bqwh
+扮猪吃虎	bqwhi
 霸气外露	bqwl
 辩证唯物主义	bqwy
 标注下	bqx
@@ -24697,7 +24698,7 @@ sort: original
 骤风	fdfr
 周转	fdft
 反对者	fdfu
-周庄	fdfx
+抓大放小	fdfx
 重点中学	fdfxu
 梵蒂冈	fdg
 周哥	fdge
@@ -37648,7 +37649,7 @@ sort: original
 光点	gxdmi
 广电	gxdmo
 高效的	gxdo
-高兴的	gxdoo
+高兴的	gxdo
 官二代	gxdov
 咣当	gxdp
 逛荡	gxdpu
@@ -37656,6 +37657,7 @@ sort: original
 光灯	gxdr
 广大	gxds
 光大	gxdsi
+感性点	gxdv
 共享单车	gxdw
 广东	gxdy
 广岛	gxdz
@@ -42831,6 +42833,7 @@ sort: original
 夯实	hpek
 很佩服	hpf
 杭州	hpfd
+和平分手	hpfe
 杭纺	hpfp
 和平发展	hpfq
 行风	hpfr
@@ -64685,8 +64688,9 @@ sort: original
 两端	lxdt
 两段	lxdtv
 理性的	lxdv
+理想的	lxdv
+理性点	lxdvo
 联系单	lxdvu
-理想的	lxdvv
 两顿	lxdw
 两栋	lxdy
 两道	lxdz
@@ -82755,6 +82759,7 @@ sort: original
 其他方面	qtfm
 其它方面	qtfmv
 圈粉	qtfn
+劝分	qtfna
 全份	qtfni
 全放	qtfp
 全封	qtfr
@@ -96908,11 +96913,11 @@ sort: original
 无故	wjgj
 无骨	wjgj
 五谷	wjgjv
-吴国	wjgl
+无果	wjgl
 误国	wjglo
-无果	wjglv
+吴国	wjgloi
+无过	wjglv
 五国	wjglvi
-无过	wjglvv
 无光	wjgm
 乌光	wjgmu
 无根	wjgn
@@ -104408,7 +104413,8 @@ sort: original
 行为	xgww
 兴味	xgwwo
 腥味	xgwwu
-星虫	xgwy
+性格差异	xgwy
+星虫	xgwyo
 下过雪	xgx
 习惯性	xgxa
 形心	xgxb
@@ -104664,7 +104670,7 @@ sort: original
 相互制约	xhfyv
 埃中	xhfyvi
 爱照	xhfz
-雪花膏	xhg
+喜欢过	xhg
 雪柜	xhgb
 矮柜	xhgbu
 血贵	xhgbui
@@ -104690,6 +104696,7 @@ sort: original
 血管	xhgt
 心怀鬼胎	xhgto
 爱管	xhgtu
+雪花膏	xhgv
 学棍	xhgw
 血光	xhgx
 挨光	xhgxi
@@ -104697,6 +104704,7 @@ sort: original
 雪糕	xhgz
 哀告	xhgzo
 笑呵呵	xhh
+笑哈哈	xhh
 学会	xhhb
 爱辉	xhhbu
 雪后	xhhd
@@ -104721,7 +104729,6 @@ sort: original
 艾哈	xhhs
 哀唤	xhht
 鲜活活	xhhu
-笑哈哈	xhhuo
 恶狠狠	xhhv
 唉嘿	xhhw
 挨黑	xhhwi

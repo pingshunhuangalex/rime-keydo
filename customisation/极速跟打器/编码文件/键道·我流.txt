@@ -1409,6 +1409,7 @@
 霸王硬上弓	bwygv
 不完全统计	bwqjv
 宝塔镇河妖	btqyo
+扮猪吃老虎	bqwh
 不确定因素	bqds
 不平等条约	bpdy
 饱暖思淫欲	bnsy
@@ -4196,6 +4197,7 @@
 下个星期	xgxqv
 形槁心灰	xgxhv
 相关系数	xgxev
+性格差异	xgwy
 相关问题	xgwtv
 先干为敬	xgwju
 寻根问底	xgwda
@@ -11137,6 +11139,7 @@
 和平共处	hpgj
 黄皮瓜瘦	hpgev
 和平发展	hpfq
+和平分手	hpfe
 患难与共	hnyg
 湖南卫视	hnwe
 汗牛充栋	hnwda
@@ -13307,6 +13310,7 @@
 制度改革	fdgg
 重点高中	fdgf
 重点中学	fdfxu
+抓大放小	fdfx
 指导方针	fdfq
 这都是些	fdex
 中低收入	fderi
@@ -15704,7 +15708,7 @@
 不战而胜	bqxev
 不欺暗室	bqxe
 霸气外露	bqwl
-扮猪吃虎	bqwh
+扮猪吃虎	bqwhi
 不求闻达	bqwd
 辩证统一	bqty
 保障体系	bqtx
@@ -19365,11 +19369,12 @@
 小黄车	xhji
 想回家	xhj_
 恶狠狠	xhhv
-笑哈哈	xhhuo
 鲜活活	xhhu
 心慌慌	xhho
+笑哈哈	xhh'
 笑呵呵	xhh_
-雪花膏	xhg_
+雪花膏	xhgv
+喜欢过	xhg_
 爱好者	xhf_
 安徽省	xheo
 小红书	xhei
@@ -25029,8 +25034,9 @@
 老先生	lxeu
 拉下水	lxei
 旅行社	lxe_
-理想的	lxdvv
 联系单	lxdvu
+理性点	lxdvo
+理想的	lxdv'
 理性的	lxdv
 录像带	lxda
 联想到	lxd_
@@ -28721,8 +28727,9 @@
 供销社	gxeii
 个小时	gxei
 刚想说	gxe_
+感性点	gxdv
 官二代	gxdov
-高兴的	gxdoo
+高兴的	gxdo'
 高效的	gxdo
 国奥队	gxdi
 关系到	gxd_
@@ -47847,7 +47854,7 @@
 行销	xgxc
 型芯	xgxbv
 形心	xgxb
-星虫	xgwy
+星虫	xgwyo
 腥味	xgwwu
 兴味	xgwwo
 行为	xgww
@@ -53431,11 +53438,11 @@
 无根	wjgn
 乌光	wjgmu
 无光	wjgm
-无过	wjglvv
 五国	wjglvi
-无果	wjglv
+无过	wjglv
+吴国	wjgloi
 误国	wjglo
-吴国	wjgl
+无果	wjgl
 五谷	wjgjv
 无骨	wjgj'
 无故	wjgj
@@ -63352,6 +63359,7 @@
 全封	qtfr
 全放	qtfp
 全份	qtfni
+劝分	qtfna
 圈粉	qtfn
 权值	qtfkv
 全脂	qtfki
@@ -106304,7 +106312,6 @@
 周港	fdgp
 昼光	fdgm
 周哥	fdge
-周庄	fdfx
 周转	fdft
 骤风	fdfr
 昼分	fdfn
