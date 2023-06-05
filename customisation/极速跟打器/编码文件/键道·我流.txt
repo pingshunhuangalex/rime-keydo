@@ -5883,6 +5883,7 @@
 突发事件	tfej
 统治地位	tfdw
 天翻地覆	tfdf
+天照大神	tfdev
 通风报信	tfbx
 停滞不前	tfbq
 特种部队	tfbd
@@ -16615,8 +16616,9 @@
 走私者	zsfv
 走私犯	zsf_
 在宿舍	zse_
+自私的	zsdu
 最骚的	zsdo
-自私的	zsd_
+紫色的	zsd_
 增速比	zsb_
 再融资	zrz_
 最容易	zry_
@@ -19069,7 +19071,8 @@
 小女孩	xnhi
 小男孩	xnh_
 小奶狗	xng_
-西南风	xnf_
+西南风	xnfv
+恶梦中	xnf_
 小女生	xne_
 爱你的	xndu
 学你的	xnd_
@@ -27875,6 +27878,7 @@
 毁三观	hsg_
 活塞式	hsea
 还算是	hse_
+黑色的	hsd_
 欢送词	hsc_
 贺岁版	hsb_
 混日子	hrza
@@ -28180,8 +28184,8 @@
 还觉得	hjdv
 很简单	hjduu
 很僵的	hjdui
-很长的	hjdu'
-很久的	hjdu
+很久的	hjdu'
+很长的	hjdu
 会记得	hjd'
 会觉得	hjd_
 好几次	hjca
@@ -28215,7 +28219,8 @@
 好好练	hhla'
 好好聊	hhla
 后悔了	hhl_
-很好看	hhk_
+很好看	hhku
+好好看	hhk_
 黑胡椒	hhji
 还好趁	hhj_
 吼吼吼	hhhoo
@@ -31980,8 +31985,8 @@
 第二名	dxm_
 第二轮	dxlu
 蹲下来	dxlo
-低效率	dxli
-打行李	dxl'
+低效率	dxlio
+打行李	dxli
 掉下来	dxl_
 单选框	dxko
 多学科	dxk_
@@ -33523,7 +33528,8 @@
 帮我啊	bwxv
 鲍威尔	bwxu
 不玩儿	bwx_
-布娃娃	bww_
+布娃娃	bwwv
+不枉我	bww_
 不冲突	bwt_
 不吃肉	bwr_
 不完整	bwqv
@@ -34446,7 +34452,8 @@
 不搭理	bdlvi
 不堵了	bdlv
 八达岭	bdlu
-别打了	bdloi
+变多了	bdlou
+别打了	bdlo'
 别等了	bdlo
 背地里	bdli
 不对了	bdl'
@@ -37030,6 +37037,7 @@
 自定	zkdg
 自担	zkdfu
 子弹	zkdf
+紫的	zkdei
 自得	zkde
 紫貂	zkdc
 紫草	zkcz
@@ -46543,9 +46551,10 @@
 西川	xkwt
 西洼	xkwsv
 细查	xkws
+细网	xkwp
+西文	xkwnvo
 喜闻	xkwnv
 细纹	xkwna
-西文	xkwn'
 细问	xkwn
 铣床	xkwm
 洗池	xkwk
@@ -54729,7 +54738,8 @@
 讨来	tzlho
 韬略	tzlh
 涛澜	tzlf
-逃了	tzle
+逃了	tzleu
+套了	tzle
 逃漏	tzld
 套料	tzlc
 桃林	tzlb
@@ -55907,7 +55917,6 @@
 天然	tmrf
 天热	tmre
 天瑞	tmrb
-天照	tmqz
 天穹	tmqy
 填权	tmqt
 天正	tmqr
@@ -57694,7 +57703,8 @@
 探底	tfdk
 碳带	tfdh
 谈定	tfdg
-谈的	tfde
+谈的	tfdeo
+谈得	tfde
 弹掉	tfdc
 弹词	tfck
 贪财	tfch
