@@ -3078,7 +3078,7 @@
 杨枝甘露	yfgl'
 一转攻势	yfgev
 疑犯追踪	yffzu
-由衷之言	yffyio
+由衷之言	yffyi
 研发中心	yffxva
 宇宙飞船	yffwo
 依法追究	yffji
@@ -3756,7 +3756,7 @@
 吓死我了	xswlo
 徇私枉法	xswfu
 徇私舞弊	xswbu
-爱思助手	xsqeu
+爱思助手	xsqe
 二三其德	xsqdv
 暗送秋波	xsqb
 阿司匹林	xspla
@@ -4583,6 +4583,7 @@
 物以类聚	wylju
 无与伦比	wylb
 无药可救	wykj
+彻夜长谈	wyjt
 茶余酒后	wyjhi
 我也觉得	wyjd
 毋庸讳言	wyhyao
@@ -13912,6 +13913,7 @@
 世界历史	ejlev
 上级领导	ejldia
 势均力敌	ejldi
+双肩挎包	ejkb
 生产经验	ejjyu
 实践检验	ejjyo
 生产经营	ejjy
@@ -19031,7 +19033,8 @@
 矮穷挫	xqc_
 学前班	xqbo
 安全部	xqb_
-芯片组	xpz_
+芯片组	xpzi
+小胖子	xpz_
 小便宜	xpyi
 小朋友	xpy_
 想屁吃	xpw_
@@ -20569,7 +20572,8 @@
 为啥不	web_
 微电子	wdzu
 误当作	wdzo
-扯犊子	wdz_
+扯犊子	wdzi
+完犊子	wdz_
 赤道仪	wdyvo
 未定义	wdyv
 查得严	wdy'
@@ -20808,9 +20812,9 @@
 同样地	tyd_
 同义词	tyci
 头一次	tyc_
-推一把	tybi
+掏腰包	tybi
 退一步	tyba
-掏腰包	tyb_
+推一把	tyb_
 土下座	txzvv
 天蝎座	txzv
 体现在	txzi
@@ -21193,7 +21197,9 @@
 汤料包	tlb_
 钛空银	tkyi
 碳烤鱼	tky_
+太可爱	tkxv'
 太开心	tkxv
+挺可爱	tkxi'
 挺开心	tkxi
 脱口秀	tkx_
 太空船	tkw_
@@ -25059,6 +25065,7 @@
 卢湾区	lwq_
 利物浦	lwp_
 龙王庙	lwm_
+理完了	lwlv
 里外里	lwli
 乱吃了	lwl_
 论文库	lwk_
@@ -25068,7 +25075,8 @@
 蓝筹股	lwgi
 老顽固	lwg_
 柳传志	lwfv
-劳务费	lwf_
+劳务费	lwfi
+理完发	lwf_
 两位数	lwe_
 理查德	lwdv
 卢旺达	lwdi
@@ -25461,9 +25469,10 @@
 老姑娘	lgnu
 理工男	lgn_
 老干妈	lgm_
+两国论	lglvi
 理工类	lglv
 利滚利	lglu
-两国论	lgl_
+路过了	lgl_
 理工科	lgk_
 老规矩	lgju
 类固醇	lgj_
@@ -26343,8 +26352,8 @@
 加一个	jyg_
 九月份	jyfu
 记忆中	jyfo
+经验值	jyfaa
 经营者	jyfa
-经验值	jyf'
 简言之	jyf_
 车钥匙	jyev
 教研室	jyeu
@@ -27352,6 +27361,7 @@
 金士顿	jedi
 出生地	jedau
 潮湿的	jeda
+见识到	jed'
 减少到	jed_
 基数词	jecv
 驾驶舱	jeca
@@ -27417,10 +27427,11 @@
 就对了	jdl_
 超低空	jdkv
 假大空	jdk_
+基督教	jdjvi
 机动车	jdjv
 教导处	jdju
 集大成	jdji
-基督教	jdj_
+挤得出	jdj_
 近代化	jdhui
 简单化	jdhu
 接电话	jdhi
@@ -27849,6 +27860,7 @@
 回头看	htk_
 黄庭坚	htjv
 航天局	htjuv
+很通畅	htjua
 很坦诚	htju'
 很投机	htju
 回趟家	htji
@@ -29583,7 +29595,8 @@
 这一类	fylov
 这一来	fylo
 非营利	fyli
-发芽率	fyla
+发芽率	fylai
+发炎了	fyla
 反映了	fyl_
 周永康	fykuo
 乍一看	fyku
@@ -30122,11 +30135,12 @@
 法轮功	flg_
 专利法	flfv
 翻两番	flfuv
-翻了翻	flfua
-皱了皱	flfu
+分类法	flfuo
+皱了皱	flfu'
+翻了翻	flfu
 眨了眨	flfia
 指了指	flfi
-分类法	flf_
+发了封	flf_
 分了手	fleu
 法律上	fle_
 反垄断	fldu
@@ -32423,7 +32437,8 @@
 打鸡血	djxi
 对角线	djxa
 当初想	djx_
-第几位	djw_
+第几位	djwu
+到处问	djw_
 大姐头	djtv
 底朝天	djto
 电吉他	djti
@@ -32658,6 +32673,7 @@
 对方的	dfda
 吊着打	dfd_
 贷转存	dfc_
+多方便	dfbu
 党支部	dfbi
 对照表	dfba
 电饭煲	dfb_
@@ -37512,7 +37528,8 @@
 在岗	zhgp
 再跟	zhgn
 再过	zhgl
-在该	zhgh
+在该	zhghv
+在改	zhgh
 再敢	zhgfv
 在赶	zhgf
 宰割	zhge
@@ -42417,10 +42434,10 @@
 烟鬼	yfgb
 艳照	yffzv
 眼罩	yffz
-言重	yffyou
-言中	yffyo
-眼中	yffyi
-严重	yffy
+严重	yffyv
+言重	yffyo
+言中	yffy'
+眼中	yffy
 盐庄	yffxv
 眼妆	yffx
 烟费	yffw
@@ -43442,7 +43459,8 @@
 邮包	ydbz
 有悖	ydbwvo
 有备	ydbwv
-又被	ydbw
+又被	ydbw'
+有被	ydbw
 又把	ydbs
 油泵	ydbr
 友邦	ydbp
@@ -45167,8 +45185,6 @@
 狭窄	xsqh
 下情	xsqg
 下站	xsqf
-吓着	xsqeo
-下着	xsqe
 下切	xsqd
 瞎敲	xsqc
 吓跑	xspz
@@ -45401,8 +45417,9 @@
 狭窄	xsfh
 下饭	xsffv
 下凡	xsff
+下着	xsfev
 吓着	xsfeo
-下着	xsfe
+啊这	xsfe
 下周	xsfd
 下坠	xsfb
 下勺	xsez
@@ -49477,9 +49494,10 @@
 校道	xcdzv
 孝道	xcdzuo
 笑道	xcdzu
+小道	xcdzio
 小刀	xcdzia
 小岛	xcdzi
-小道	xcdz
+笑到	xcdz
 校董	xcdyv
 小洞	xcdy
 小段	xcdt
@@ -79430,7 +79448,8 @@
 露台	ljthv
 炉台	ljth
 路摊	ljtf
-路透	ljtd
+路透	ljtdo
+撸铁	ljtd
 路条	ljtc
 芦笋	ljsw
 卢梭	ljsl
@@ -85619,6 +85638,7 @@
 旧恶	jqxe
 旧鞋	jqxd
 九霄	jqxcu
+就小	jqxc'
 就笑	jqxc
 揪心	jqxb
 九重	jqwy
@@ -98072,6 +98092,7 @@
 刚回	gphbi
 刚会	gphb
 刚攻	gpgy
+刚给	gpgw
 钢管	gpgt
 刚挂	gpgq
 刚跟	gpgn
@@ -109942,7 +109963,7 @@
 舒快	ejkg
 书刊	ejkf
 漱口	ejkd
-蜀葵	ejkb
+蜀葵	ejkbi
 书将	ejjx
 疏浚	ejjw
 书卷	ejjt
