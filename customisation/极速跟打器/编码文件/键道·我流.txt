@@ -21089,7 +21089,8 @@
 特难看	tnk_
 挺念旧	tnji
 同年级	tnj_
-太难喝	tnh_
+太难喝	tnhv
+挺暖和	tnh_
 它能够	tng_
 团年饭	tnf_
 太难受	tnev
@@ -25018,8 +25019,9 @@
 李小龙	lxlvi
 聊下来	lxlv
 留下来	lxlu
+离心力	lxloo
 离岸流	lxloi
-离心力	lxlo
+冷下来	lxlo
 拉下脸	lxli
 流下来	lxla
 流下了	lxl'
@@ -30338,7 +30340,8 @@
 转化率	fhlv
 风火轮	fhluo
 肺活量	fhlu
-着火了	fhlo
+着火了	fhloo
+放好了	fhlo
 找回来	fhlii
 找好了	fhli
 防护林	fhlaiv
@@ -75096,7 +75099,8 @@
 牡蛎	mjlk
 目录	mjlj
 木兰	mjlf
-穆勒	mjle
+穆勒	mjleu
+慕了	mjle
 木楼	mjld
 幕僚	mjlci
 木料	mjlc
@@ -97045,7 +97049,6 @@
 光路	gxlj
 广陵	gxlg
 光缆	gxlf
-光了	gxle
 光疗	gxlc
 光临	gxlb
 光靠	gxkz
@@ -98367,7 +98370,8 @@
 光路	gmlj
 广陵	gmlg
 光缆	gmlf
-光了	gmle
+光了	gmlei
+逛了	gmle
 光疗	gmlc
 光临	gmlb
 光靠	gmkz
