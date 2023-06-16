@@ -18827,7 +18827,8 @@
 想为你	xwn_
 二维码	xwm_
 宣传栏	xwlo
-学完了	xwl_
+学完了	xwl'
+修完了	xwl_
 二重唱	xwjvu
 相差近	xwjv
 新闻界	xwjoo
@@ -22624,7 +22625,8 @@
 住宿费	qsf_
 起诉书	qse_
 乔斯达	qsdu
-张思德	qsda
+张思德	qsdai
+浅色的	qsda
 轻松点	qsd_
 全宋词	qsc_
 七色板	qsb_
@@ -24712,6 +24714,7 @@
 蒙古国	mgg_
 免冠照	mgfu
 没工夫	mgf_
+觅个食	mgeu
 没赶上	mge_
 敏感度	mgdu
 美国队	mgdo
@@ -30026,9 +30029,9 @@
 疯牛病	fnbo
 中南部	fnbi
 找你办	fnb_
-这么做	fmzou
-这么早	fmzo
-飞马座	fmz_
+这么做	fmzo
+飞马座	fmza
+这么早	fmz_
 这么样	fmyo
 织毛衣	fmya
 驸马爷	fmy_
@@ -31053,6 +31056,7 @@
 神思者	esf_
 上岁数	ese_
 十四大	esdu
+深色的	esda
 十三点	esd_
 沙泗浜	esb_
 食人族	erzi
@@ -48084,9 +48088,9 @@
 形状	xgfm
 形制	xgfkv
 行止	xgfku
-兴致	xgfko
+性质	xgfko
 婞直	xgfka
-性质	xgfk
+兴致	xgfk
 幸福	xgfj
 姓祭	xgfh
 型范	xgff
@@ -86839,6 +86843,7 @@
 监控	jmky
 简况	jmkx
 艰困	jmkw
+剪卡	jmks
 肩扛	jmkpo
 健康	jmkp
 简况	jmkm
@@ -121938,9 +121943,9 @@
 不论	bjlw
 不乱	bjlt
 不啦	bjlsvo
-不落	bjlsvi
-不拉	bjlsv
-不辣	bjls
+不辣	bjlsv
+不落	bjls'
+不拉	bjls
 不冷	bjlr
 不留	bjlqv
 不流	bjlq
