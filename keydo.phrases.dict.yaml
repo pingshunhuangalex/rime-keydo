@@ -2566,14 +2566,14 @@ sort: original
 比较烦	bjfv
 百家饭	bjfvo
 不称职	bjfvu
-不菲	bjfw
-不费	bjfwv
+不费	bjfw
+不菲	bjfwv
 不惊反喜	bjfx
 不重	bjfy
+不忠	bjfy
 补中	bjfyo
-不忠	bjfyv
+比较重要	bjfyv
 不解之缘	bjfyvu
-比较重要	bjfyvv
 不找	bjfz
 不超过	bjg
 边界感	bjga
@@ -7881,8 +7881,8 @@ sort: original
 采乐	chleuu
 菜篮	chlf
 彩铃	chlg
-才略	chlh
-才来	chlhv
+才来	chlh
+才略	chlhv
 财路	chlj
 财力	chlk
 彩礼	chlku
@@ -26176,12 +26176,10 @@ sort: original
 植根于	fgyv
 这个意义	fgyy
 这个原因	fgyyo
-这个样子	fgyz
-中国在	fgz
+放鸽子	fgz
 找工作	fgzi
 放歌纵酒	fgzj
 这个字	fgzo
-放鸽子	fgzoi
 中国足球	fgzq
 富贵在天	fgzt
 反躬自问	fgzw
@@ -37769,8 +37767,7 @@ sort: original
 广阔	gxkl
 光控	gxky
 光靠	gxkz
-高学历	gxl
-公信力	gxl
+更新了	gxl
 光临	gxlb
 光疗	gxlc
 光缆	gxlf
@@ -37780,6 +37777,7 @@ sort: original
 光鲜亮丽	gxll
 广联	gxlm
 高效率	gxlo
+高学历	gxlo
 惯性力	gxloo
 高下立判	gxlp
 桄榔	gxlpv
@@ -37787,6 +37785,7 @@ sort: original
 公序良俗	gxls
 狗血淋头	gxlt
 古希腊	gxlu
+公信力	gxlui
 光轮	gxlw
 光亮	gxlx
 哥儿们	gxm
@@ -41070,7 +41069,8 @@ sort: original
 海光	hhgm
 海港	hhgp
 还耕	hhgr
-海关	hhgt
+还管	hhgt
+海关	hhgta
 还给	hhgw
 海光	hhgx
 还供	hhgy
@@ -41358,7 +41358,8 @@ sort: original
 海藻	hhzz
 还早	hhzzv
 好几遍	hjb
-好几步	hjba
+好几步	hjb
+好几百	hjba
 恒久不变	hjbb
 湖滨	hjbba
 何尝不是	hjbe
@@ -69631,6 +69632,7 @@ sort: original
 美中	mwfyo
 没找	mwfz
 没招	mwfza
+没吃过	mwg
 没玩过	mwg
 没问过	mwga
 玫瑰	mwgb
@@ -78749,7 +78751,6 @@ sort: original
 这个意义	qgyyo
 这个原因	qgyyoi
 轻摇	qgyz
-这个样子	qgyzo
 涨工资	qgz
 潜规则	qgza
 请罪	qgzb
@@ -104532,6 +104533,7 @@ sort: original
 阿共仔的阴谋	xgzm
 姓曾	xgzr
 矮个子	xgzu
+下馆子	xgzv
 行踪	xgzy
 行灶	xgzz
 小伙伴	xhb
@@ -106682,6 +106684,7 @@ sort: original
 先订	xmdgu
 现代	xmdh
 先带	xmdhu
+小迷弟	xmdi
 限度	xmdj
 消磨殆尽	xmdja
 贤弟	xmdk
@@ -114025,11 +114028,11 @@ sort: original
 一丛	ykcyv
 一草	ykcz
 一刻都	ykd
+一对	ykdb
 一堆	ykdb
 已对	ykdba
 以对	ykdbaa
-一对	ykdbv
-一队	ykdbva
+一队	ykdbv
 一掉	ykdc
 一斗	ykdd
 一跌	ykddv
