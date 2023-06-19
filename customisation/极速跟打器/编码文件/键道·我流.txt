@@ -6515,6 +6515,7 @@
 扰乱视听	rlet
 如来神掌	rleq
 人类社会	rleh
+人脸识别	rleb
 燃料电池	rldw
 如临大敌	rldd
 如履薄冰	rlbb
@@ -20575,6 +20576,7 @@
 微电子	wdzu
 误当作	wdzo
 扯犊子	wdzi
+我都在	wdz'
 完犊子	wdz_
 赤道仪	wdyvo
 未定义	wdyv
@@ -27040,6 +27042,7 @@
 渐渐地	jjd_
 家常菜	jjco
 经济舱	jjc_
+超级棒	jjbv
 交接班	jjbo
 常见病	jjbi
 剧场版	jjba
@@ -28302,7 +28305,8 @@
 红高粱	hgla
 活过来	hgl_
 烘干机	hgjo
-化工厂	hgj_
+化工厂	hgji
+薅干净	hgj_
 会更好	hgh_
 很骨感	hggu
 好哥哥	hgg_
@@ -28925,8 +28929,9 @@
 高情商	gqeo
 感情上	gqe_
 过期的	gqdv
-关注度	gqdoa
-关注点	gqdo
+关注度	gqdoa'
+关注点	gqdoa
+高清的	gqdo
 高强度	gqd_
 隔气层	gqc_
 公主抱	gqbu
@@ -30601,14 +30606,14 @@
 这世上	feeo
 防晒霜	feea
 只是说	fee_
-副食店	fedv
+副食店	fedvi
+专属的	fedv
 知识点	fedu
 装睡的	fedo
 指示灯	fedi
 浮士德	fedav
 防水袋	feda
-装少点	fed'
-这时的	fed_
+装少点	fed_
 防水层	fec_
 封神榜	febv
 风湿病	febu
@@ -32540,6 +32545,7 @@
 打回票	dhpi
 蛋黄派	dhpa
 动画片	dhp_
+都和你	dhn_
 定淮门	dhm_
 大灰狼	dhlv
 德黑兰	dhlu
@@ -33583,10 +33589,11 @@
 不吃了	bwl_
 保卫科	bwk_
 别忘记	bwj_
+不外乎	bwhv
 病虫害	bwho
 把握好	bwhi
 编委会	bwha
-不外乎	bwh_
+比我还	bwh_
 不为过	bwgvo
 不超过	bwgv
 搬瓦工	bwgi
@@ -61719,7 +61726,7 @@
 弱手	rleda
 弱受	rled
 若水	rlebi
-弱水	rleb
+弱水	rleba
 弱电	rldma
 弱点	rldm
 弱敌	rldk
@@ -73437,6 +73444,8 @@
 没色	mweh
 没删	mwefa
 眉山	mwef
+没射	mweea
+没设	mwee
 每首	mwedu
 没受	mweda
 没收	mwed
@@ -86840,6 +86849,7 @@
 剑灵	jmlg
 渐蓝	jmlfa
 剪了	jmleo
+建了	jmlea'
 溅了	jmlea
 减了	jmle'
 见了	jmle
@@ -91551,7 +91561,8 @@
 好毒	hzdj'
 好堵	hzdj_
 好歹	hzdh
-薅的	hzde
+薅的	hzdei
+薅得	hzde
 好逗	hzdda
 好斗	hzdd
 好刁	hzdc
