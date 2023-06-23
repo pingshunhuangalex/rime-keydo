@@ -2105,7 +2105,8 @@
 永远不能	yybn
 营养不良	yybl
 犹豫不决	yybju
-源源不绝	yybja
+源源不绝	yybjaa
+油盐不进	yybja
 一言不合	yybhv
 永远不会	yybh
 远远不够	yybgv
@@ -5345,6 +5346,7 @@
 为时不晚	webw
 卫生部门	webma
 玩世不恭	webgv
+我是不是	webe
 为数不多	webd
 无地自容	wdzr
 稳定增长	wdzq
@@ -8041,6 +8043,7 @@
 拿手好戏	nehx
 你是和我	nehw
 能说会道	nehd
+你是不是	nebe
 南水北调	nebd
 难得一见	ndyj
 女大学生	ndxea
@@ -12763,6 +12766,7 @@
 指名道姓	fmdx
 这么多年	fmdn
 粉墨登场	fmdj
+这么多事	fmde
 执迷不悟	fmbwi
 捉摸不透	fmbt
 锋芒逼人	fmbr
@@ -14383,6 +14387,7 @@
 十八世纪	ebeju
 手不释卷	ebej
 适不适合	ebehu
+是不是会	ebeh'
 是不是和	ebeh
 数不胜数	ebeeo
 山崩地裂	ebdlii
@@ -16289,6 +16294,7 @@
 不识时务	beew
 不失时机	beej
 跋山涉水	beee
+避暑胜地	beed
 不识大体	bedt
 板上钉钉	bedd
 比上不足	bebz
@@ -16722,8 +16728,10 @@
 怎么也	zmyu
 怎么用	zmy'
 怎么样	zmy_
-怎么爱	zmxu'
-怎么学	zmxu
+怎么爱	zmxuu'
+怎么学	zmxuu
+怎么像	zmxu'
+怎么想	zmxu
 怎么行	zmx_
 怎么玩	zmw_
 自媒体	zmtu
@@ -16745,6 +16753,7 @@
 最美好	zmho
 怎么会	zmh_
 怎么搞	zmg_
+贼麻烦	zmfa
 怎么翻	zmf_
 怎么说	zme_
 自民党	zmdu
@@ -17321,6 +17330,7 @@
 阴阳师	yyea
 原因是	yye'
 永远是	yye_
+远一点	yydvvi
 远远的	yydvv
 有用的	yydvu
 有意的	yydvo
@@ -18072,9 +18082,10 @@
 硬骨头	ygt_
 英国人	ygri
 一个人	ygr_
+有感情	ygqvv
 一个准	ygqv
 荧光漆	ygqi
-有感情	ygq_
+晕过去	ygq_
 预告片	ygpa
 荧光屏	ygp_
 一古脑	ygnv
@@ -20970,6 +20981,7 @@
 听听吧	ttb_
 唐三藏	tszo
 菟丝子	tsz_
+挺随意	tsyi
 碳酸盐	tsy_
 投诉信	tsx_
 铁丝网	tsw_
@@ -22442,11 +22454,11 @@
 障眼法	qyfa
 却有着	qyf'
 却一直	qyf_
-却又是	qyev
+却又是	qyev'
+却越是	qyev
 请愿书	qyeo
 占优势	qyei
 潜意识	qyea
-却越是	qye'
 主要是	qye_
 轻一点	qydv
 长一点	qydu
@@ -27547,7 +27559,8 @@
 成比例	jblvv
 击败了	jblv
 几步路	jblu
-储备粮	jbli
+储备粮	jbliu
+撑不了	jbli
 驾崩了	jblai
 出不来	jbla
 成不了	jbl'
@@ -27723,6 +27736,7 @@
 华尔兹	hxz_
 还熬夜	hxyvv
 黄小玉	hxyvi
+还下雨	hxyv'
 还需要	hxyv
 胡雪岩	hxyuv
 很需要	hxyu
@@ -28175,14 +28189,16 @@
 横截面	hjmv
 好寂寞	hjma
 好姐妹	hjm_
-环境里	hjlv
-和解了	hjlu
+环境里	hjlvv
+耗尽了	hjlv
+很焦虑	hjlu
 黑加仑	hjlia
 含金量	hjli
 好极了	hjlav
-好久了	hjla
+好久了	hjla'
+好长了	hjla
 活成了	hjl'
-耗尽了	hjl_
+和解了	hjl_
 好健康	hjka
 还借款	hjk_
 很接近	hjjui
@@ -31417,7 +31433,8 @@
 生产队	ejdu
 时间段	ejdoo
 时间点	ejdo
-刷绩点	ejda
+刷绩点	ejdaa
+收集点	ejda
 涉及到	ejd_
 世界杯	ejbv
 时间表	ejboo
@@ -31692,8 +31709,9 @@
 睡大街	edji
 圣诞节	edj_
 说大话	edhov
+瘆得慌	edhou
 说的话	edho
-瘆得慌	edh'
+睡得好	edh'
 说得好	edh_
 十多个	edg_
 士大夫	edfv
@@ -32242,6 +32260,7 @@
 短期内	dqn_
 地球梦	dqm_
 大涨了	dqlva
+到站了	dqlv'
 到期了	dqlv
 丢弃了	dqlu
 吊起来	dqlo
@@ -34024,13 +34043,14 @@
 不仅要	bjy_
 不成想	bjxvv
 百家姓	bjxvo
+不承想	bjxva
+比较新	bjxv'
 比较小	bjxv
 补救下	bjxo
 北极熊	bjxiva
 北极星	bjxiv
 背景下	bjxio
 悲剧性	bjxi
-不承想	bjx'
 不进行	bjx_
 比较差	bjwvv
 不坚持	bjwvi
@@ -41537,6 +41557,7 @@
 乐音	yhyb
 越香	yhxxv
 月相	yhxxu
+越像	yhxx'
 越想	yhxx
 月下	yhxs
 越秀	yhxqvu
@@ -43449,6 +43470,7 @@
 有底	yddk
 有度	yddjv
 有毒	yddj
+有带	yddhv
 优待	yddhi
 有待	yddh
 又定	yddg
@@ -53008,8 +53030,8 @@
 持刀	wkdzi
 迟到	wkdza
 吃到	wkdz
-吃顿	wkdwo
-迟钝	wkdw
+迟钝	wkdwa
+吃顿	wkdw
 迟点	wkdma
 吃点	wkdm
 褫夺	wkdlo
@@ -61535,7 +61557,8 @@
 认老	rnlz
 人龙	rnly
 仁良	rnlx
-人伦	rnlw
+人伦	rnlwi
+人累	rnlw
 人浪	rnlp
 认脸	rnlmo
 人脸	rnlm
@@ -67391,8 +67414,6 @@
 折线	qexmi
 折现	qexm
 折行	qexg
-这茬	qewso
-这娃	qews
 这文	qewno
 哲文	qewn
 折尺	qewk
@@ -103817,8 +103838,8 @@
 装订	fmdg
 装弹	fmdfo
 壮胆	fmdf
-装的	fmdeo
-装得	fmde
+装的	fmdeo'
+装得	fmdeo
 庄村	fmcw
 装错	fmcl
 状词	fmck
@@ -106007,8 +106028,8 @@
 折行	fexg
 折冲	fewyi
 这位	feww
-这茬	fewso
-这娃	fews
+这娃	fewso
+这茬	fews
 这文	fewno
 哲文	fewn
 折床	fewm
@@ -115735,9 +115756,9 @@
 单眼	dfyf
 单页	dfyeo
 但也	dfye
-但有	dfydiv
-但又	dfydi
-担忧	dfyd
+担忧	dfydi
+但有	dfyd'
+但又	dfyd
 单音	dfybo
 但因	dfyb
 单熬	dfxz
@@ -116172,6 +116193,7 @@
 的汗	dehf
 德厚	dehd
 德棍	degw
+的梗	degr
 的根	degn
 德国	deglu
 的过	degl
