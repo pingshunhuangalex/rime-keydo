@@ -199,14 +199,15 @@ sort: original
 表层	bccr
 彼此都	bcd
 标调	bcdc
-标的	bcde
+标得	bcde
+标的	bcdev
 表单	bcdf
 标定	bcdg
 表带	bcdh
 标度	bcdj
-标的	bcdk
 表弟	bcdk
-标底	bcdkv
+标的	bcdkv
+标底	bcdkvo
 标点	bcdm
 别藏得	bcdo
 表达	bcds
@@ -678,7 +679,6 @@ sort: original
 北大西洋	bdxy
 别拗	bdxz
 不答应	bdy
-必定有	bdy
 别因	bdyb
 别有	bdyd
 别也	bdye
@@ -691,6 +691,7 @@ sort: original
 弊大于利	bdylo
 不得要领	bdylv
 必定要	bdyo
+必定有	bdyo
 别样	bdyp
 别的意思	bdys
 别呀	bdyso
@@ -872,9 +873,9 @@ sort: original
 背水一战	beyq
 不是冤家不聚头	beyt
 不适应	beyv
-不顺眼	beyv
+不适用	beyv
 不实用	beyvo
-不适用	beyvu
+不顺眼	beyvu
 不适宜	beyvuo
 不适用于	beyy
 巴山夜雨	beyya
@@ -1131,7 +1132,8 @@ sort: original
 版聊	bflcu
 板楼	bfld
 班列	bfldv
-办了	bfle
+拌了	bfle
+办了	bflea
 搬了	bflei
 斑斓	bflf
 巴甫洛夫	bflfa
@@ -12725,6 +12727,7 @@ sort: original
 肚皮	djpk
 杜鹏	djpr
 带进去	djq
+点进去	djq
 独占	djqf
 毒情	djqg
 赌债	djqh
@@ -20370,10 +20373,10 @@ sort: original
 石膏	ekgz
 深空灰	ekh
 是会	ekhb
-实惠	ekhb
 拾回	ekhbi
 莳绘	ekhbia
-时会	ekhbo
+实惠	ekhbo
+时会	ekhboi
 石灰	ekhbv
 事后	ekhd
 侍候	ekhdi
@@ -28548,7 +28551,8 @@ sort: original
 壮举	fmjl
 撞见	fmjm
 撞沉	fmjn
-方面军	fmjo
+这么卷	fmjo
+方面军	fmjov
 桩长	fmjp
 装成	fmjr
 庄家	fmjs
@@ -30352,7 +30356,8 @@ sort: original
 法拉	fsls
 发蜡	fslsa
 反思了	fslu
-副司令	fslv
+致死量	fslv
+副司令	fslva
 炸雷	fslw
 法轮	fslwa
 乏累	fslwu
@@ -31418,7 +31423,8 @@ sort: original
 壮歌	fxge
 装怪	fxgg
 忠心耿耿	fxggi
-执行官	fxgi
+折耳根	fxgi
+执行官	fxgiu
 庄股	fxgj
 装过	fxgl
 方向感	fxgo
@@ -34526,6 +34532,7 @@ sort: original
 勾魂摄魄	ghepu
 该省	gher
 该杀	ghes
+更合适	ghev
 过户费	ghf
 改锥	ghfb
 该州	ghfd
@@ -40112,6 +40119,7 @@ sort: original
 和缓	heht
 合欢	hehti
 很适合	hehu
+很实惠	hehu
 合婚	hehw
 和黄	hehx
 绘声绘影	hehy
@@ -42350,7 +42358,8 @@ sort: original
 画面感	hmgv
 黄光	hmgx
 皇宫	hmgy
-海马回	hmh
+还没和	hmh
+海马回	hmha
 皇后	hmhd
 黄河	hmhe
 黄褐	hmhev
@@ -43444,6 +43453,7 @@ sort: original
 花园	hqyt
 花苑	hqyti
 画圆	hqytv
+很强硬	hqyu
 华韵	hqyw
 好整以暇	hqyx
 花前月下	hqyxi
@@ -47814,8 +47824,6 @@ sort: original
 接受了	jeliu
 尘世里	jeliv
 车路	jelj
-撤离	jelk
-车里	jelkv
 军事力量	jell
 精神力量	jello
 军事理论	jellov
@@ -52881,8 +52889,7 @@ sort: original
 九宫	jqgy
 究其根源	jqgyo
 就高	jqgz
-长期化	jqh
-江浙沪	jqha
+成气候	jqh
 就会	jqhb
 酒会	jqhba
 酒后	jqhd
@@ -52899,11 +52906,10 @@ sort: original
 韭黄	jqhm
 就很	jqhn
 家长会	jqho
-记者会	jqhou
 九行	jqhp
 就换	jqht
-成气候	jqhv
-城镇化	jqhvi
+长期化	jqhu
+城镇化	jqhv
 就混	jqhw
 韭黄	jqhx
 酒红	jqhy
@@ -52988,9 +52994,9 @@ sort: original
 就里	jqlk
 酒力	jqlka
 就连	jqlm
-记住了	jqlo
+卷起来	jqlo
+记住了	jqloi
 竞争力	jqlou
-卷起来	jqlov
 久留	jqlq
 贾庆林	jqlv
 酒类	jqlw
@@ -53002,8 +53008,9 @@ sort: original
 就满	jqmf
 救命	jqmg
 就卖	jqmh
-舅母	jqmj
+居住面积	jqmj
 建筑面积	jqmja
+舅母	jqmju
 九米	jqmk
 啾咪	jqmko
 鸠摩	jqml
@@ -54969,8 +54976,9 @@ sort: original
 进行着	jxf
 紧挨着	jxf
 江州	jxfd
-江浙	jxfe
-讲着	jxfeo
+讲着	jxfe
+江浙	jxfea
+机械飞升	jxfev
 见血封喉	jxfh
 降幅	jxfj
 将至	jxfk
@@ -55156,8 +55164,6 @@ sort: original
 沉下去	jxqa
 江桥	jxqc
 春夏秋冬	jxqd
-江浙	jxqe
-讲着	jxqeo
 讲清	jxqg
 江青	jxqga
 讲情	jxqgo
@@ -55406,6 +55412,7 @@ sort: original
 交易中心	jyfx
 沉冤昭雪	jyfxa
 加一个	jyg
+出一个	jyg
 绩优股	jyga
 教育工作者	jygf
 教育改革	jygg
@@ -56754,6 +56761,7 @@ sort: original
 嗑药	keyzo
 磕药	keyzv
 开始做	kez
+开始造	kez
 苛责	keze
 可赞	kezf
 刻在	kezh
@@ -59048,7 +59056,7 @@ sort: original
 匡威	kxwwv
 矿床	kxwx
 狂潮	kxwz
-可行性	kxx
+快休息	kxx
 狂笑	kxxc
 狂泻	kxxd
 可想而知	kxxf
@@ -59058,6 +59066,7 @@ sort: original
 框线	kxxm
 框选	kxxt
 科学性	kxxu
+可行性	kxxv
 口耳相传	kxxw
 狂想	kxxx
 狂傲	kxxz
@@ -59163,7 +59172,8 @@ sort: original
 空港	kygp
 空关	kygt
 控管	kygti
-可远观	kygv
+开一个	kygv
+可远观	kygvv
 控告	kygz
 恐高	kygzv
 抗氧化	kyh
@@ -59295,6 +59305,7 @@ sort: original
 空锁	kysl
 空洒	kyss
 空送	kysy
+看一天	kyt
 空调	kytc
 空头	kytd
 空投	kytdo
@@ -64049,6 +64060,7 @@ sort: original
 蜡像	lsxx
 类似于	lsy
 理所应当	lsyd
+辣油	lsydo
 辣眼	lsyf
 腊月	lsyh
 拉秧	lsyp
@@ -67887,9 +67899,9 @@ sort: original
 莫大	mlds
 末端	mldt
 末顿	mldw
-磨刀	mldz
-摸到	mldzi
-魔道	mldzo
+摸到	mldz
+磨刀	mldzo
+魔道	mldzoo
 马路上	mle
 马铃薯	mlea
 墨水	mleb
@@ -68268,8 +68280,7 @@ sort: original
 磨磨蹭蹭	mmcc
 面层	mmcr
 免从	mmcy
-慢慢地	mmd
-默默地	mmd
+没摸到	mmd
 满满的	mmda
 满面的	mmdav
 免掉	mmdc
@@ -68279,7 +68290,8 @@ sort: original
 免单	mmdf
 面带	mmdh
 莫名的	mmdi
-萌萌哒	mmdii
+默默地	mmdii
+萌萌哒	mmdiio
 免读	mmdj
 面的	mmdk
 面点	mmdm
@@ -68287,6 +68299,7 @@ sort: original
 面店	mmdmv
 美美的	mmdo
 盲目的	mmdoi
+慢慢地	mmdoo
 冒名顶替	mmdt
 么么哒	mmdu
 明明是	mme
@@ -87115,6 +87128,7 @@ sort: original
 三超	sfjz
 散溃	sfkb
 三口	sfkd
+三刻	sfke
 三颗	sfke
 司法考试	sfkea
 散客	sfkev
@@ -89355,13 +89369,14 @@ sort: original
 三叶虫	sywv
 肆意妄为	syww
 宋朝	sywz
-虽有些	syx
+算一下	syx
 随意性	syxa
 送信	syxb
 松懈	syxd
 讼案	syxf
 送行	syxg
 宋学	syxh
+虽有些	syxi
 送戏	syxk
 松闲	syxm
 松下	syxs
@@ -90060,6 +90075,7 @@ sort: original
 偷菜	tdchi
 偷藏	tdcp
 头舱	tdcpo
+太多次	tdcv
 头寸	tdcw
 听得懂	tdd
 听得到	tdd
@@ -92435,6 +92451,7 @@ sort: original
 太空船	tkw
 痛苦万分	tkwf
 体外	tkwh
+挺开胃	tkwi
 体悟	tkwj
 体舞	tkwji
 替我	tkwl
@@ -95738,8 +95755,8 @@ sort: original
 车龄	welg
 车铃	welgv
 车路	welj
-撤离	welk
-车里	welkv
+车里	welk
+撤离	welki
 车链	welm
 车流	welq
 扯拉	wels
@@ -101985,6 +102002,7 @@ sort: original
 想不起来	xbql
 新区	xbqlo
 闲不住	xbqo
+新表情	xbqov
 新欠	xbqm
 心真	xbqn
 二逼青年	xbqnv
@@ -106778,7 +106796,8 @@ sort: original
 掀翻	xmffi
 闲饭	xmffo
 小米粥	xmfi
-县府	xmfj
+先付	xmfj
+县府	xmfji
 先父	xmfju
 限制	xmfk
 限值	xmfka
@@ -108234,9 +108253,9 @@ sort: original
 徇私枉法	xswfu
 阿乌	xswj
 瞎吃	xswk
-吓我	xswl
-吓死我了	xswlo
-笑死我了	xswlu
+吓死我了	xswl
+笑死我了	xswl
+吓我	xswlo
 下床	xswm
 下文	xswn
 阿文	xswna
@@ -108794,6 +108813,7 @@ sort: original
 鄂温克族	xwkzo
 修完了	xwl
 学完了	xwl
+洗完了	xwla
 新闻联播	xwlb
 巽寮	xwlc
 宣传力度	xwld
@@ -110925,6 +110945,7 @@ sort: original
 犹存	ydcwu
 又从	ydcy
 又糙	ydcz
+一点点	ydd
 一点都	ydd
 已达到	ydda
 又对	yddb
@@ -110964,7 +110985,7 @@ sort: original
 右端	yddtv
 用得到	yddu
 移动端	ydduv
-一点点	yddv
+一段段	yddv
 一代代	yddv
 一对对	yddva
 一滴滴	yddvaa
@@ -110974,7 +110995,6 @@ sort: original
 一道道	yddvo
 要懂得	yddvou
 一朵朵	yddvu
-一段段	yddvuu
 一大堆	yddvv
 一大段	yddvv
 运动队	yddvva
@@ -113133,13 +113153,14 @@ sort: original
 缨帽	ygmza
 应卯	ygmzo
 一个民族	ygmzv
-一股脑	ygn
+又给你	ygn
 嘤咛	ygng
 应拟	ygnk
 应诺	ygnl
 英年	ygnm
 应能	ygnr
 应纳	ygns
+一股脑	ygnv
 一古脑	ygnv
 一股脑儿	ygnx
 荧光屏	ygp
@@ -114201,7 +114222,8 @@ sort: original
 一声	ykervv
 一霎	ykes
 一刹	ykesv
-一口水	ykev
+有空时	ykev
+一口水	ykevo
 一棵树	ykevv
 一瞬	ykew
 一双	ykex
@@ -114491,8 +114513,8 @@ sort: original
 一开口	ykk
 一篑	ykkb
 一口	ykkd
-一颗	ykke
 一刻	ykke
+一颗	ykke
 已可	ykkea
 亦可	ykkeo
 一棵	ykkev
@@ -115469,8 +115491,9 @@ sort: original
 玉盘	ylpfv
 玉屏	ylpg
 欲派	ylph
-雨披	ylpk
+预批	ylpk
 鱼皮	ylpku
+雨披	ylpkv
 渔婆	ylpl
 余篇	ylpm
 鱼片	ylpmu
@@ -115888,7 +115911,8 @@ sort: original
 一模一样	ymyy
 也没有用	ymyya
 有模有样	ymyyv
-夜猫子	ymz
+也没做	ymz
+夜猫子	ymzo
 要面子	ymzv
 一年半	ynb
 一年比一年	ynbn
@@ -116394,7 +116418,8 @@ sort: original
 云遮雾绕	yqwr
 怨气冲天	yqwt
 一千万	yqwv
-压强差	yqwva
+一张床	yqwva
+压强差	yqwvao
 一千五	yqwvu
 与其为伍	yqww
 言者无罪	yqwz
@@ -120063,6 +120088,7 @@ sort: original
 再讲	zhjxv
 在朝	zhjz
 最好看	zhk
+贼好看	zhka
 再亏	zhkb
 再扣	zhkd
 载客	zhke
@@ -121585,6 +121611,7 @@ sort: original
 增长了	zql
 坐起来	zqli
 躁起来	zqlo
+造起来	zqlu
 增长率	zqlv
 最起码	zqm
 自取灭亡	zqmw
