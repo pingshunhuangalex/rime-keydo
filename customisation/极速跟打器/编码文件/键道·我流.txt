@@ -9419,6 +9419,7 @@
 开怀畅饮	khjy
 客户经理	khjlo
 开花结果	khjg
+恐慌发作	khfz
 开怀大笑	khdx
 宽宏大量	khdl
 宽宏大度	khdd
@@ -19321,8 +19322,8 @@
 洗洁净	xjjaao
 戏剧家	xjjaa
 洗洁精	xjja
-小姐姐	xjj'
-小舅舅	xjj_
+小舅舅	xjj'
+小姐姐	xjj_
 相结合	xjhv
 徐家汇	xjhu
 宣讲会	xjho
@@ -21197,7 +21198,8 @@
 塔里木	tlm_
 太老了	tllvu'
 太乱了	tllvu
-太亮了	tllvo'
+太亮了	tllvoa
+太冷了	tllvo'
 太辣了	tllvo
 太累了	tllvi
 太烂了	tllv'
@@ -22636,6 +22638,7 @@
 涨停板	qtba
 桥头堡	qtb_
 清算组	qsz_
+全素宴	qsy_
 牵丝戏	qsx_
 正所谓	qsw_
 前三天	qst_
@@ -24004,7 +24007,8 @@
 那几句	njja
 农机具	njj_
 那句话	njha
-你将会	njh_
+你将会	njh'
+你就和	njh_
 哪几个	njg_
 年产值	njfuo
 南极洲	njfu
@@ -24374,7 +24378,8 @@
 墨尔本	mxbi
 慢性病	mxb_
 冥王星	mwx_
-莫文蔚	mww_
+莫文蔚	mwwi
+没吃完	mww_
 麦维他	mwt_
 马嵬坡	mwp_
 魔物娘	mwno
@@ -26047,6 +26052,7 @@
 开车门	kjmv
 卡介苗	kjm_
 酷极了	kjlv
+空出来	kjlo
 看出来	kjl_
 会计科	kjki
 锟斤拷	kjk_
@@ -28349,6 +28355,7 @@
 薅干净	hgj_
 会更好	hgh_
 很骨感	hggu
+好尴尬	hgga
 好哥哥	hgg_
 很过分	hgfu
 华国锋	hgfii
@@ -33279,6 +33286,7 @@
 参观团	cgt_
 参观者	cgq_
 才怪呢	cgn_
+凑够了	cgl'
 错过了	cgl_
 擦干净	cgji
 踩过界	cgj_
@@ -110948,10 +110956,10 @@
 首冲	edwyo
 手冲	edwyi
 受宠	edwy
-首尾	edwwoa
 守卫	edwwo
 手尾	edwwi
 收尾	edwwa
+首尾	edww'
 首位	edww
 寿川	edwt
 守望	edwp
