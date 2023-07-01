@@ -575,7 +575,7 @@
 九九八十一难	jjbnu
 计划经济体制	jhjfo
 陈芝麻烂谷子	jfmza
-精神文明建设	jeweoo
+精神文明建设	jeweo
 决胜千里之外	jeqw
 几十年如一日	jenr
 建设社会主义	jeey
@@ -7185,6 +7185,7 @@
 迁客骚人	qksr
 睁开了眼	qkly
 穷困潦倒	qkldo
+巧克力棒	qklb
 张口就来	qkjla
 张口结舌	qkje
 睁开双眼	qkey
@@ -10589,7 +10590,7 @@
 金石为开	jewk
 精神文化	jewho
 成熟稳重	jewfv
-举世无双	jeweo
+举世无双	jewe
 举手投足	jetz
 即时通讯	jetx
 初始条件	jetj
@@ -10637,7 +10638,7 @@
 城市建设	jejev
 长生久视	jejeu
 精神矍铄	jejeo
-今生今世	jejei
+今生今世	jeje
 成双成对	jejdv
 积少成多	jejdu
 初始阶段	jejdoa
@@ -14221,7 +14222,7 @@
 闪烁其词	eeqco
 闪烁其辞	eeqc
 世事难料	eenl
-少数民族	eemzi
+少数民族	eemz
 神神秘秘	eemmo
 说什么好	eemho
 是什么事	eeme
@@ -14889,7 +14890,6 @@
 地广人稀	dgrx
 帝国主义	dgqy
 多管齐下	dgqxu
-打个招呼	dgqhi
 得过且过	dgqgu
 渡过难关	dgnga
 道格拉斯	dgls
@@ -14899,7 +14899,7 @@
 达官贵人	dggrv
 德国骨科	dggk
 大功告成	dggjv
-打个招呼	dgfhi
+打个招呼	dgfh
 电光石火	dgeh
 打过电话	dgdhi
 打个电话	dgdh
@@ -19730,6 +19730,7 @@
 现代的	xddvi
 相对的	xddv'
 相当的	xddv
+先垫垫	xddu
 羞答答	xddou
 响叮当	xddoo
 响当当	xddo
@@ -19900,7 +19901,8 @@
 玩游戏	wyxva
 玩一下	wyxv
 外语系	wyxuo
-我也想	wyxu
+我也想	wyxu'
+我又想	wyxu
 差异性	wyxoa
 冲一下	wyxo'
 问一下	wyxo
@@ -20114,6 +20116,7 @@
 我同事	wteu
 传统上	wte_
 稳妥点	wtdu
+吃太多	wtd'
 差太多	wtd_
 乌托邦	wtbu
 吃太饱	wtb_
@@ -20576,13 +20579,14 @@
 穿山甲	wejo
 抽水机	wejiav
 茶水间	wejia
-挖数据	weji'
-抽时间	weji
+挖数据	weji
 卫生局	wejau
-卫生巾	weja
-卫生间	wej_
+卫生巾	weja'
+卫生间	weja
+抽时间	wej_
 晚上好	weh_
-无数个	weg_
+无数个	wegv
+我是个	weg_
 冲水阀	wefa
 卫生纸	wef'
 传说中	wef_
@@ -21500,8 +21504,10 @@
 他的人	tdr_
 推动者	tdq_
 替代品	tdp_
+土豆泥	tdnvv
 太多年	tdnv
-土豆泥	tdn_
+她带你	tdn'
+他带你	tdn_
 挺倒霉	tdm_
 太顶了	tdlvv
 太短了	tdlvu
@@ -22758,7 +22764,8 @@
 轻飘飘	qpp_
 强迫你	qpn_
 主屏幕	qpm_
-七匹狼	qpl_
+七匹狼	qplv
+起皮了	qpl_
 招聘会	qphi
 俏皮话	qph_
 青苹果	qpg_
@@ -22878,10 +22885,10 @@
 这口气	qkqo
 准考证	qkq_
 真可怕	qkp_
+区块链	qklvv
 逐客令	qklvo
-区块链	qklv
+巧克力	qklv
 睁开了	qkli
-巧克力	qkl'
 去考虑	qkl_
 去看看	qkk_
 顷刻间	qkj_
@@ -23206,7 +23213,8 @@
 真地道	qddu
 恰当地	qddo
 潜到底	qddav
-强大的	qdda
+强大的	qdda'
+清淡的	qdda
 强大到	qdd_
 助动词	qdc_
 振荡波	qdbi
@@ -24000,6 +24008,7 @@
 年产量	njlu
 农家乐	njloo
 凝聚力	njlo
+念出来	njli
 拿出来	njl'
 弄出来	njl_
 能解开	njk_
@@ -24639,6 +24648,7 @@
 马路边	mlb_
 麦卡锡	mkxvi
 麦肯锡	mkxv
+蛮可爱	mkxo
 迈克尔	mkx_
 马克思	mks_
 马克沁	mkqa
@@ -26341,6 +26351,7 @@
 炒鱿鱼	jyy_
 基因型	jyxvi
 聚乙烯	jyxva
+聚一下	jyxv'
 进一下	jyxv
 教育学	jyxu
 交易额	jyxoo
@@ -27866,8 +27877,9 @@
 毫微秒	hwm_
 很吃力	hwluo
 很晚了	hwlu
-婚外恋	hwla
-好无聊	hwl_
+婚外恋	hwlau
+好无聊	hwla
+回我了	hwl_
 好望角	hwja
 回车键	hwj_
 缓冲行	hwha
@@ -28277,8 +28289,10 @@
 红孩儿	hhxaa
 好好笑	hhxa
 缓和下	hhx_
+化合物	hhwi
 混合物	hhwa
-化合物	hhw_
+好好玩	hhw'
+好好吃	hhw_
 很好听	hhtu
 滑滑梯	hht_
 胡汉三	hhsu
@@ -28312,7 +28326,7 @@
 狠狠地	hhduu
 很好的	hhdu
 糊糊的	hhdo
-好很多	hhda
+憨憨的	hhda
 缓缓地	hhd'
 好好地	hhd_
 黄花菜	hhc_
@@ -28390,6 +28404,7 @@
 黄种人	hfr_
 很赚钱	hfqu
 花粉症	hfq_
+护肤品	hfpi
 化妆品	hfp_
 黄蜂女	hfn_
 霍夫曼	hfmv
@@ -32715,7 +32730,8 @@
 等着瞧	dfqu
 大发展	dfq_
 豆制品	dfp_
-豆腐脑	dfn_
+豆腐脑	dfnv
+大直男	dfn_
 东直门	dfmv
 多方面	dfmuo
 等方面	dfmu
@@ -35570,6 +35586,7 @@
 我去	wq_
 完全	wq'
 我人	wr_
+我一	wy_
 我在	wz_
 而是	xe_
 而你	xn_
@@ -46303,8 +46320,10 @@
 咸淡	xmdf'
 咸蛋	xmdf
 咸的	xmdev
-闲的	xmdeo
-闲得	xmde'
+鲜的	xmdeu
+闲的	xmdeo'
+闲得	xmdeo
+鲜得	xmde'
 咸得	xmde
 掀掉	xmdc
 线槽	xmcza
@@ -48957,14 +48976,12 @@
 携号	xdhzi
 写好	xdhz
 泄洪	xdhy
-蟹黄	xdhxu
-欧皇	xdhx
+欧皇	xdhxv
+蟹黄	xdhx
 欧化	xdhqv
 写话	xdhq
 颉颃	xdhp
 泄恨	xdhn
-欧皇	xdhmv
-蟹黄	xdhm
 邪火	xdhlv
 卸货	xdhlu
 偶或	xdhl
@@ -54386,7 +54403,6 @@
 车技	wejk
 撤除	wejji
 撤出	wejj
-车车	weje
 扯筋	wejb
 车号	wehz
 扯谎	wehx
@@ -55552,6 +55568,8 @@
 他练	tslm
 塔罗	tsll
 塔里	tslk
+她来	tslh'
+他来	tslh
 塔陵	tslg
 塌了	tsle
 塔楼	tsld
@@ -65701,7 +65719,8 @@
 奇葩	qkps
 欺骗	qkpm
 气魄	qkpl
-漆皮	qkpk
+漆皮	qkpka
+起皮	qkpk
 棋谱	qkpj
 起拍	qkphvi
 棋牌	qkphv
@@ -65779,7 +65798,7 @@
 骑楼	qklda
 七楼	qkld
 岂料	qklc
-麒麟	qklb
+麒麟	qklbo
 弃考	qkkzo
 期考	qkkz
 气孔	qkky
@@ -78667,6 +78686,7 @@
 练声	lmera
 连声	lmer
 连刷	lmeq
+脸上	lmepu
 恋上	lmepo
 连上	lmep
 联审	lmen
@@ -83694,7 +83714,8 @@
 口授	kded
 扣税	kdeb
 叩打	kdds
-扣抵	kddk
+扣抵	kddki
+抠地	kddk
 口袋	kddh
 口淡	kddf
 口德	kddeo
@@ -89646,7 +89667,6 @@
 车外	jewh
 车万	jewfvv
 撤完	jewf
-车车	jewe
 车钿	jetm
 车体	jetk
 车胎	jeth
@@ -89712,7 +89732,6 @@
 车技	jejk
 撤除	jejji
 撤出	jejj
-车车	jeje
 扯筋	jejb
 车号	jehz
 扯谎	jehx
@@ -94632,7 +94651,8 @@
 还卖	hhmh
 海明	hhmga
 害命	hhmg
-海满	hhmf
+海满	hhmfa
+还蛮	hhmf
 海庙	hhmc
 害民	hhmb
 海龙	hhly
@@ -104465,9 +104485,9 @@
 之怒	fknjo
 制怒	fknj
 至宁	fkng
-直男	fknfu
 之难	fknfo
-指南	fknf
+指南	fknfi
+直男	fknf
 只鸟	fknco
 鸷鸟	fknc
 只猫	fkmzo
@@ -110741,7 +110761,7 @@
 涉农	eeny
 社牛	eenq
 蛇年	eenm
-蛇矛	eemz
+蛇矛	eemzi
 蛇莓	eemw
 蛇麻	eems
 设盲	eemp
@@ -115589,7 +115609,6 @@
 定助	dgqjo
 盯住	dgqji
 叮嘱	dgqj
-丁寨	dgqhv
 丁炔	dgqh
 定情	dgqg
 订展	dgqf
@@ -115704,7 +115723,7 @@
 订制	dgfkou
 定值	dgfko
 定制	dgfk
-丁寨	dgfh
+丁寨	dgfhv
 定番	dgffo
 订饭	dgff
 顶着	dgfev
@@ -121964,7 +121983,8 @@
 不缺	bjqh
 不轻	bjqgv
 不清	bjqg
-不占	bjqf
+不占	bjqfv
+不蘸	bjqf
 不切	bjqd
 不巧	bjqc
 不侵	bjqbv
@@ -123430,6 +123450,7 @@
 别往	bdwp
 别问	bdwn
 别创	bdwm
+别吃	bdwk
 别无	bdwj
 别歪	bdwh
 别玩	bdwf

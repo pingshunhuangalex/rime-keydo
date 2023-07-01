@@ -637,6 +637,7 @@ sort: original
 别玩	bdwf
 别歪	bdwh
 别无	bdwj
+别吃	bdwk
 不得无礼	bdwl
 别创	bdwm
 别问	bdwn
@@ -2880,7 +2881,8 @@ sort: original
 不切	bjqd
 并肩战斗	bjqdo
 不计其数	bjqe
-不占	bjqf
+不蘸	bjqf
+不占	bjqfv
 不清	bjqg
 不轻	bjqgv
 不缺	bjqh
@@ -11491,7 +11493,7 @@ sort: original
 但没	dfmw
 耽美	dfmwv
 独夫民贼	dfmz
-豆腐脑	dfn
+大直男	dfn
 单宁	dfng
 瘅疟	dfnh
 蛋奶	dfnha
@@ -11500,6 +11502,7 @@ sort: original
 胆囊	dfnp
 但能	dfnr
 但那	dfns
+豆腐脑	dfnv
 豆制品	dfp
 蛋品	dfpb
 单凭	dfpg
@@ -11763,8 +11766,8 @@ sort: original
 顶着	dgfev
 订饭	dgff
 定番	dgffo
-丁寨	dgfh
-打个招呼	dgfhi
+打个招呼	dgfh
+丁寨	dgfhv
 打工者	dgfi
 定制	dgfk
 定值	dgfko
@@ -11918,8 +11921,6 @@ sort: original
 定情	dgqg
 得过且过	dgqgu
 丁炔	dgqh
-打个招呼	dgqhi
-丁寨	dgqhv
 叮嘱	dgqj
 盯住	dgqji
 定助	dgqjo
@@ -18481,8 +18482,8 @@ sort: original
 设盲	eemp
 蛇麻	eems
 蛇莓	eemw
-蛇矛	eemz
-少数民族	eemzi
+少数民族	eemz
+蛇矛	eemzi
 数十年	een
 世事难料	eenl
 蛇年	eenm
@@ -27698,9 +27699,9 @@ sort: original
 鸷鸟	fknc
 只鸟	fknco
 这可能是	fkne
-指南	fknf
+直男	fknf
+指南	fknfi
 之难	fknfo
-直男	fknfu
 至宁	fkng
 制怒	fknj
 之怒	fknjo
@@ -40657,6 +40658,7 @@ sort: original
 函聘	hfpb
 旱坪	hfpg
 汉俳	hfph
+护肤品	hfpi
 魂飞魄散	hfps
 花粉症	hfq
 寒峭	hfqc
@@ -41003,7 +41005,7 @@ sort: original
 海草	hhcz
 好好地	hhd
 缓缓地	hhd
-好很多	hhda
+憨憨的	hhda
 还对	hhdb
 海钓	hhdc
 还都	hhdd
@@ -41194,7 +41196,8 @@ sort: original
 还好吗	hhm
 害民	hhmb
 海庙	hhmc
-海满	hhmf
+还蛮	hhmf
+海满	hhmfa
 害命	hhmg
 海明	hhmga
 还卖	hhmh
@@ -41294,11 +41297,13 @@ sort: original
 海涛	hhtz
 海淘	hhtza
 嗨淘	hhtzo
-化合物	hhw
+好好吃	hhw
+好好玩	hhw
 混合物	hhwa
 挥霍无度	hhwd
 海湾	hhwf
 海外	hhwh
+化合物	hhwi
 害我	hhwl
 还问	hhwn
 还望	hhwp
@@ -44250,8 +44255,9 @@ sort: original
 浑括	hwkl
 黑框	hwkm
 黑框	hwkx
-好无聊	hwl
-婚外恋	hwla
+回我了	hwl
+好无聊	hwla
+婚外恋	hwlau
 黑了	hwle
 混了	hwlea
 黑兰	hwlf
@@ -47767,8 +47773,7 @@ sort: original
 初始阶段	jejdoa
 积少成多	jejdu
 成双成对	jejdv
-车车	jeje
-今生今世	jejei
+今生今世	jeje
 精神矍铄	jejeo
 长生久视	jejeu
 城市建设	jejev
@@ -47938,9 +47943,8 @@ sort: original
 就是我	jew
 就是玩	jew
 居首位	jewa
-车车	jewe
-举世无双	jeweo
-精神文明建设	jeweoo
+举世无双	jewe
+精神文明建设	jeweo
 撤完	jewf
 成熟稳重	jewfv
 车万	jewfvv
@@ -55567,6 +55571,7 @@ sort: original
 春意盎然	jyxr
 教育学	jyxu
 进一下	jyxv
+聚一下	jyxv
 聚乙烯	jyxva
 基因型	jyxvi
 窘相	jyxx
@@ -56160,7 +56165,8 @@ sort: original
 快递单号	kddho
 看得多	kddi
 看得淡	kddi
-扣抵	kddk
+抠地	kddk
+扣抵	kddki
 快得多	kddo
 空荡荡	kddoi
 叩打	kdds
@@ -62832,6 +62838,7 @@ sort: original
 联审	lmen
 连上	lmep
 恋上	lmepo
+脸上	lmepu
 连刷	lmeq
 连声	lmer
 练声	lmera
@@ -67813,6 +67820,7 @@ sort: original
 米尔	mkxjo
 米稀	mkxk
 米线	mkxm
+蛮可爱	mkxo
 密修	mkxq
 米虾	mkxs
 麦肯锡	mkxv
@@ -71542,6 +71550,7 @@ sort: original
 驽劣	njld
 怒了	njle
 尼加拉瓜	njlg
+念出来	njli
 努力	njlk
 奴隶	njlka
 凝聚力	njlo
@@ -77271,6 +77280,7 @@ sort: original
 切菜	qdch
 切磋	qdcl
 强大到	qdd
+清淡的	qdda
 强大的	qdda
 潜到底	qddav
 切掉	qddc
@@ -79973,8 +79983,8 @@ sort: original
 期考	qkkz
 弃考	qkkzo
 去考虑	qkl
-巧克力	qkl
-麒麟	qklb
+巧克力棒	qklb
+麒麟	qklbo
 岂料	qklc
 七楼	qkld
 骑楼	qklda
@@ -80005,8 +80015,9 @@ sort: original
 气流	qklq
 凄冷	qklr
 齐拉	qkls
-区块链	qklv
+巧克力	qklv
 逐客令	qklvo
+区块链	qklvv
 棋类	qklw
 汽轮	qklwa
 七轮	qklwv
@@ -80059,7 +80070,8 @@ sort: original
 棋牌	qkphv
 起拍	qkphvi
 棋谱	qkpj
-漆皮	qkpk
+起皮	qkpk
+漆皮	qkpka
 气魄	qkpl
 欺骗	qkpm
 奇葩	qkps
@@ -81716,7 +81728,7 @@ sort: original
 账款	qpkt
 张狂	qpkx
 掌控	qpky
-七匹狼	qpl
+起皮了	qpl
 张楼	qpld
 长了	qple
 涨了	qplea
@@ -81730,6 +81742,7 @@ sort: original
 长脸	qplm
 蟑螂	qplp
 张拉	qpls
+七匹狼	qplv
 张雷	qplw
 丈量	qplx
 张良	qplxa
@@ -90348,7 +90361,8 @@ sort: original
 铁马	tdmsi
 投袂	tdmw
 铁猫	tdmz
-土豆泥	tdn
+他带你	tdn
+她带你	tdn
 铁鸟	tdnc
 头难	tdnf
 铁凝	tdng
@@ -90358,6 +90372,7 @@ sort: original
 头牛	tdnqo
 偷拿	tdns
 太多年	tdnv
+土豆泥	tdnvv
 替代品	tdp
 投票	tdpc
 骰盘	tdpf
@@ -93792,6 +93807,8 @@ sort: original
 塔楼	tsld
 塌了	tsle
 塔陵	tslg
+他来	tslh
+她来	tslh
 探索类	tsli
 塔里	tslk
 塔罗	tsll
@@ -95703,12 +95720,13 @@ sort: original
 车匪	wefwv
 车中	wefy
 车照	wefz
-无数个	weg
+我是个	weg
 车钩	wegd
 车盖	wegh
 彻骨	wegj
 车岗	wegp
 车管	wegt
+无数个	wegv
 网上购物	wegw
 车工	wegy
 为时过早	wegz
@@ -95724,13 +95742,12 @@ sort: original
 撤换	weht
 扯谎	wehx
 车号	wehz
-卫生间	wej
+抽时间	wej
+卫生间	weja
 卫生巾	weja
 卫生局	wejau
 扯筋	wejb
 万事俱备	wejbv
-车车	weje
-抽时间	weji
 挖数据	weji
 茶水间	wejia
 抽水机	wejiav
@@ -99675,6 +99692,7 @@ sort: original
 舛错	wtcl
 船舱	wtcp
 差太多	wtd
+吃太多	wtd
 船队	wtdb
 穿得	wtde
 传得	wtde
@@ -101255,6 +101273,7 @@ sort: original
 重下	wyxsu
 重选	wyxt
 望洋兴叹	wyxto
+我又想	wyxu
 我也想	wyxu
 外语系	wyxuo
 玩一下	wyxv
@@ -102867,6 +102886,7 @@ sort: original
 阿迪达斯	xddsa
 殴打	xddsv
 闲得蛋疼	xddt
+先垫垫	xddu
 相当的	xddv
 相对的	xddv
 现代的	xddvi
@@ -102990,16 +103010,14 @@ sort: original
 偶或	xdhl
 卸货	xdhlu
 邪火	xdhlv
-蟹黄	xdhm
-欧皇	xdhmv
 泄恨	xdhn
 颉颃	xdhp
 写话	xdhq
 欧化	xdhqv
 爱德华	xdhu
 现代化	xdhv
-欧皇	xdhx
-蟹黄	xdhxu
+蟹黄	xdhx
+欧皇	xdhxv
 泄洪	xdhy
 现代汉语	xdhyv
 写好	xdhz
@@ -106735,8 +106753,10 @@ sort: original
 鲜明对比	xmdb
 掀掉	xmdc
 咸得	xmde
-闲得	xmde
+鲜得	xmde
+闲得	xmdeo
 闲的	xmdeo
+鲜的	xmdeu
 咸的	xmdev
 咸蛋	xmdf
 咸淡	xmdf
