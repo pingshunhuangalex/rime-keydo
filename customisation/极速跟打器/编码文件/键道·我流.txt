@@ -885,6 +885,7 @@
 吃软不吃硬	wrby
 无政府主义	wqfy
 无巧不成书	wqbe
+完美主义者	wmqf
 无论怎么样	wlzyvo
 温良恭俭让	wlgra
 无立锥之地	wlfd
@@ -1507,6 +1508,7 @@
 资源共享	zygx
 载誉归来	zyglu
 资源管理	zygl
+纵欲过度	zygd
 左右逢源	zyfyv
 造谣中伤	zyfeu
 自有分寸	zyfc
@@ -2720,7 +2722,7 @@
 一鳞半甲	ylbjvu
 医疗保健	ylbjv
 焉了吧唧	ylbj
-一口咬死	ykyzv
+一口咬死	ykyzvo
 越快越好	ykyhv
 也可以说	ykyeav
 也可以是	ykyea
@@ -4928,7 +4930,7 @@
 完美主义	wmqy
 万木争荣	wmqr
 臭名昭著	wmqq
-寤寐求之	wmqf
+寤寐求之	wmqfo
 吹毛求疵	wmqc
 文明礼貌	wmlmo
 五麻六道	wmld
@@ -9010,6 +9012,7 @@
 联合公报	lhgbv
 联合声明	lhem
 灵魂深处	lheja
+连环杀手	lhee
 梨花带雨	lhdyu
 灵活多样	lhdya
 连哄带骗	lhdp
@@ -13692,6 +13695,7 @@
 胜券在握	eqzw
 神情自若	eqzro
 顺其自然	eqzr
+社区医院	eqyy
 身轻言微	eqyw
 首屈一指	eqyf
 失去信心	eqxx
@@ -18384,8 +18388,11 @@
 一等奖	ydjvuo
 要多急	ydjvuu'
 有多急	ydjvuu
+要多撑	ydjvui'
+有多撑	ydjvui
 要多久	ydjvu'
 要多长	ydjvu
+有点撑	ydjvi'
 有点急	ydjvi
 有多久	ydjv'
 有多长	ydjv
@@ -19233,13 +19240,14 @@
 阿里山	xlea
 按理说	xle_
 爱劳动	xldu
+性冷淡	xldoo
 效率低	xldo
 修罗道	xldii
-小浪底	xldi
+小浪底	xldia
+小老弟	xldi
 阿拉丁	xldai
 巡逻队	xlda
-小老弟	xld'
-性冷淡	xld_
+小了点	xld_
 欧罗巴	xlbv
 饿了吧	xlbua
 行了吧	xlbu
@@ -19873,7 +19881,8 @@
 我早有	wzyu
 文字狱	wzy_
 晚自习	wzxo
-创造性	wzx_
+创造性	wzxi
+我在想	wzx_
 蚊子腿	wzti
 武则天	wzt_
 温子仁	wzra
@@ -19908,8 +19917,9 @@
 无异于	wyyv
 我愿意	wyyu
 炒鱿鱼	wyyo
+常用语	wyyiu
 网易云	wyyio
-常用语	wyyi
+瞅一眼	wyyi
 我也要	wyy_
 玩意儿	wyxvo
 玩艺儿	wyxvi
@@ -20717,9 +20727,9 @@
 吃不消	wbxo
 吃不下	wbx_
 五百万	wbw_
-无补贴	wbtv
-我不听	wbtu
-无标题	wbt_
+无补贴	wbtvo
+无标题	wbtv
+我不听	wbt_
 创办人	wbri
 为别人	wbr_
 玩不起	wbqv
@@ -22142,8 +22152,8 @@
 热腾腾	rtt_
 人托人	rtr_
 热天气	rtq_
-让她们	rtmo
 人头马	rtmi
+让她们	rtm'
 让他们	rtm_
 入托率	rtl_
 若听见	rtj_
@@ -22848,6 +22858,7 @@
 詹姆士	qme_
 起码的	qmdv
 前面的	qmdo
+缜密的	qmda
 驻马店	qmd_
 正离子	qlz_
 秦良玉	qlyv
@@ -22885,7 +22896,8 @@
 展览馆	qlgai
 潜力股	qlgaa
 清理过	qlga
-整了个	qlg_
+整了个	qlg'
+去了个	qlg_
 情侣装	qlfo
 侵略者	qlfi
 争论中	qlf_
@@ -23183,11 +23195,12 @@
 猪队友	qdyu
 全都要	qdy'
 真的要	qdy_
+确定性	qdxv
 长点心	qdxui
 长得像	qdxu
 主动性	qdxo
 针对性	qdxi
-确定性	qdx_
+期待下	qdx_
 针对他	qdt_
 招待所	qds_
 掌舵人	qdr_
@@ -24198,6 +24211,7 @@
 拿得准	ndq_
 你都能	ndn_
 年代末	ndm_
+拧掉了	ndli
 尼德兰	ndla
 拿到了	ndl_
 尿道口	ndk_
@@ -25043,7 +25057,8 @@
 老员工	lygu
 晾衣杆	lygo
 另一个	lyg_
-来一份	lyfv
+来一份	lyfv'
+来一发	lyfv
 六月份	lyfou
 刘亦菲	lyfoo
 晾衣服	lyfo
@@ -25843,8 +25858,9 @@
 可移动	kydv
 裤腰带	kydo
 看一道	kydiv
-苦一点	kydi
-看一点	kyd_
+看一点	kydi
+苦一点	kyd'
+快一点	kyd_
 可以从	kyc_
 快一步	kybo
 看一部	kybiv
@@ -27356,6 +27372,7 @@
 出生于	jeya
 就是由	jey'
 就是要	jey_
+解释下	jexu
 就是小	jexo
 技术性	jexiv
 监视下	jexio
@@ -27942,9 +27959,11 @@
 绘图员	htya
 航天员	hty_
 护套线	htxiv
-回调线	htxi
+回调线	htxio
+黑天鹅	htxi
 活太小	htxa
-黑天鹅	htx_
+还挺像	htx'
+还挺想	htx_
 还贪吃	htwv
 糊涂虫	htw_
 候梯厅	htti
@@ -28109,6 +28128,7 @@
 毁灭性	hmxuv
 很明显	hmxu
 黑木耳	hmxi
+还没洗	hmx'
 还没下	hmx_
 海明威	hmwa
 还没完	hmw_
@@ -29021,6 +29041,7 @@
 钢琴谱	gqp_
 歌曲名	gqm_
 公主岭	gqlu
+刚起来	gqli
 鼓起了	gql_
 个情况	gqk_
 公证处	gqju
@@ -30178,7 +30199,8 @@
 发明权	fmqa
 这么强	fmq_
 非卖品	fmpi
-这么偏	fmp_
+这么偏	fmp'
+这么拼	fmp_
 啄木鸟	fmno
 这么难	fmn_
 敷面膜	fmmv
@@ -31304,6 +31326,7 @@
 是哪种	enf_
 少年时	enei
 神农氏	ene_
+烧脑的	endo
 是你的	end_
 是那次	enc_
 水泥板	enb_
@@ -32329,8 +32352,9 @@
 多任务	drwu
 单人床	drwo
 大人物	drw_
-电热汀	drti
-电热毯	drt_
+电热汀	drtii
+电热毯	drti
+大热天	drt_
 电热丝	drs_
 电容器	drq_
 单人旁	drp_
@@ -32738,6 +32762,7 @@
 倒过来	dgli
 递过来	dgl'
 带过来	dgl_
+打个孔	dgki
 得赶快	dgk_
 胆固醇	dgju
 大工程	dgj_
@@ -33131,7 +33156,8 @@
 才有用	cyy_
 猜一下	cyxu
 测一下	cyx_
-测验题	cyt_
+测验题	cyta
+搓一天	cyt_
 曾有人	cyr_
 才要去	cyq_
 蔡元培	cyp_
@@ -33602,9 +33628,10 @@
 保险业	bxyi
 必须要	bxy'
 不想要	bxy_
-不信邪	bxxv
+不想洗	bxxv
 保险箱	bxxia
 便携性	bxxi
+不信邪	bxx'
 不小心	bxx_
 表现为	bxwvv
 不爱我	bxwvu
@@ -34161,10 +34188,9 @@
 背景下	bjxio
 悲剧性	bjxi
 不进行	bjx_
-比较差	bjwvv
-不坚持	bjwvi
-不成文	bjwv
-被称为	bjw_
+比较差	bjwv
+被称为	bjwo
+不成文	bjw_
 比较疼	bjtv
 贝吉塔	bjta
 班集体	bjt_
@@ -34532,6 +34558,7 @@
 别生气	beq_
 保守派	bep_
 不是你	ben_
+帮上忙	bemv
 比什么	bem_
 不顺路	belvu
 不上路	belvi
@@ -36003,7 +36030,7 @@
 总该	zygh
 纵隔	zygea
 总格	zyge
-纵沟	zygd
+纵沟	zygda
 总归	zygb
 总重	zyfy
 总装	zyfx
@@ -40637,7 +40664,8 @@
 一走	ykzdv
 移走	ykzd
 一嘴	ykzb
-医药	ykyz
+医药	ykyzv
+一要	ykyz
 医用	ykyyv
 义勇	ykyyo
 易用	ykyy
@@ -43245,7 +43273,6 @@
 又欠	ydqmau
 油钱	ydqma
 有钱	ydqm
-有去	ydqlvv
 幽趣	ydqliv
 邮去	ydqli
 游去	ydqlav
@@ -55317,8 +55344,9 @@
 通风	tyfr
 同方	tyfpi
 同房	tyfp
+统分	tyfnau
 通分	tyfna
-统分	tyfn
+同分	tyfn
 桶装	tyfmv
 童装	tyfm
 铜佛	tyfli
@@ -61390,6 +61418,7 @@
 软泥	rtnk
 软毛	rtmz
 软妹	rtmw
+软萌	rtmr
 软磨	rtml
 软木	rtmj
 软肋	rtlw
@@ -94573,7 +94602,8 @@
 海子	hhzk
 还在	hhzh
 还用	hhyy
-海运	hhyw
+海运	hhywa
+还晕	hhyw
 海员	hhyt
 海牙	hhysa
 嗨呀	hhys
@@ -94790,8 +94820,9 @@
 海怪	hhgg
 还敢	hhgf
 海沟	hhgd
+海龟	hhgbau
 海归	hhgba
-海龟	hhgb
+还贵	hhgb
 还招	hhfz
 还重	hhfyvu
 还中	hhfyv
@@ -115063,8 +115094,8 @@
 毒气	djqkv
 肚脐	djqku
 赌气	djqk
-堵住	djqjv
-赌注	djqj
+赌注	djqja
+堵住	djqj
 赌债	djqh
 毒情	djqg
 独占	djqf
@@ -120582,8 +120613,8 @@
 帮着	bpfe
 棒杀	bpes
 磅刷	bpeq
-帮上	bpepv
-榜上	bpep
+榜上	bpepv
+帮上	bpep
 傍身	bpen
 棒式	bpek
 磅数	bpej
@@ -121903,7 +121934,6 @@
 不消	bjxcv
 不小	bjxc
 不信	bjxb
-不超	bjwz
 补充	bjwy
 不韪	bjwwvo
 不畏	bjwwv
@@ -122162,6 +122192,7 @@
 不扣	bjkd
 不亏	bjkbv
 不愧	bjkb
+不吵	bjjzv
 不超	bjjz
 不讲	bjjxv
 不将	bjjx
