@@ -2722,7 +2722,7 @@
 一鳞半甲	ylbjvu
 医疗保健	ylbjv
 焉了吧唧	ylbj
-一口咬死	ykyzvo
+一口咬死	ykys
 越快越好	ykyhv
 也可以说	ykyeav
 也可以是	ykyea
@@ -4741,7 +4741,7 @@
 文武双全	wweq
 查无实据	wwejv
 唯物史观	wweg
-唯我独尊	wwdzo
+唯我独尊	wwdzou
 娓娓动听	wwdt
 娓娓道来	wwdla
 哇哇大叫	wwdjo
@@ -16724,7 +16724,8 @@
 在旁边	zpb_
 最难做	znz_
 在哪儿	znxv
-灾难性	znxo
+灾难性	znxoa
+最难熬	znxo
 在那儿	znx_
 自难忘	znw_
 灾难片	znp_
@@ -18885,9 +18886,10 @@
 新文化	xwho
 奥委会	xwh_
 新闻稿	xwg_
+而为之	xwfv
 辛烷值	xwfoo
 宣传周	xwfo
-而为之	xwf_
+嫌我烦	xwf_
 二传手	xwev
 衔尾蛇	xweu
 响尾蛇	xweo
@@ -19684,10 +19686,11 @@
 消毒药	xdya
 相当有	xdy'
 相当于	xdy_
-现代戏	xdxv
+现代戏	xdxvi
+相对性	xdxv
 薛定谔	xdxi
 习得性	xdxa
-相对性	xdx_
+小点心	xdx_
 现代舞	xdwv
 蓄电池	xdwii
 小动物	xdwi
@@ -19985,7 +19988,7 @@
 无意的	wydv'
 无用的	wydv
 闻一多	wydov
-惟一的	wydo'
+吃一点	wydo
 茶叶蛋	wydi
 晚一点	wyd'
 差一点	wyd_
@@ -20075,7 +20078,8 @@
 往往有	wwy_
 维吾尔	wwx_
 勿忘我	wwwu
-汪汪汪	www_
+汪汪汪	wwwa
+喂我吃	www_
 慰问团	wwta
 问问题	wwt_
 万万岁	wwsv
@@ -20411,7 +20415,8 @@
 婉拒了	wjla
 误解了	wjl'
 吃撑了	wjl_
-差价款	wjk_
+差价款	wjko
+吃几口	wjk_
 五角场	wjjv
 外交家	wjjuo
 物价局	wjju
@@ -21496,9 +21501,10 @@
 台上盆	tep_
 同事们	tem_
 太顺了	telvu
-太神了	telv
-太爽了	tel'
-太少了	tel_
+太神了	telvo
+太爽了	telv'
+太少了	telv
+退烧了	tel_
 投石机	tejiv
 停尸间	teji
 台式机	tej_
@@ -24438,6 +24444,7 @@
 每五年	mwn_
 忙忘了	mwlo
 忙完了	mwl_
+没胃口	mwk_
 秒差距	mwj_
 没文化	mwha
 门外汉	mwh_
@@ -26063,7 +26070,8 @@
 考虑好	klh_
 开了个	klg_
 颗粒状	klf_
-昆仑山	kleo
+昆仑山	kleoi
+快乐水	kleo
 看来是	kle_
 开绿灯	kldva
 可聊的	kldv'
@@ -27210,10 +27218,11 @@
 加工业	jgya
 几个月	jgy_
 及格线	jgxu
+产供销	jgxo
 金龟婿	jgxi
 陈冠希	jgxao
 结构性	jgxa
-产供销	jgx_
+尝个鲜	jgx_
 超高温	jgwv
 甲骨文	jgwi
 就给我	jgw_
@@ -28011,6 +28020,7 @@
 换算器	hsq_
 贺岁片	hsp_
 哈萨克	hsk_
+好随机	hsja
 红四军	hsj_
 毁三观	hsg_
 活塞式	hsea
@@ -30565,7 +30575,8 @@
 转过来	fglv
 翻过来	fgluv
 反过来	fglu
-钟鼓楼	fgli
+钟鼓楼	fgliv
+拽过来	fgli
 发过来	fgla
 这个了	fgl_
 这关口	fgko
@@ -40679,7 +40690,7 @@
 亿元	ykyti
 意愿	ykyt'
 医院	ykyt
-咿呀	ykys
+咿呀	ykyso
 弋阳	ykypva
 医养	ykypv
 益阳	ykypo
@@ -42019,7 +42030,8 @@
 硬闯	ygwm
 硬卧	ygwl
 影驰	ygwko
-英尺	ygwk
+英尺	ygwki
+硬吃	ygwk
 鹦鹉	ygwj
 莹澈	ygwe
 应酬	ygwd
@@ -50920,7 +50932,8 @@
 维稳	wwwna
 慰问	wwwn
 微创	wwwm
-唯我	wwwlo
+喂我	wwwlo
+唯我	wwwl'
 为我	wwwl
 维持	wwwk
 为伍	wwwjoi
@@ -51328,6 +51341,7 @@
 为首	wwed
 未睡	wweb
 未到	wwdzv
+喂到	wwdzo
 卫道	wwdza
 味道	wwdz
 委顿	wwdw
@@ -52053,6 +52067,7 @@
 网通	wpty
 望天	wptm
 罔替	wptk
+网图	wptji
 妄图	wptj
 王台	wpth
 网厅	wptg
@@ -52527,6 +52542,7 @@
 温水	wneb
 闻道	wndzoo
 问道	wndzo
+吻到	wndz'
 闻到	wndz
 文段	wndt
 闻达	wndso
@@ -57901,9 +57917,9 @@
 坦率	tfeg
 弹射	tfee
 摊手	tfed
-碳水	tfebv
-摊水	tfebi
-贪睡	tfeb
+摊水	tfebia
+贪睡	tfebi
+碳水	tfeb
 瘫倒	tfdzoi
 叹道	tfdzo
 谈到	tfdz
@@ -86211,8 +86227,8 @@
 尝下	jpxsi
 场下	jpxs
 长袖	jpxq
-尝鲜	jpxmi
-长线	jpxm
+长线	jpxmu
+尝鲜	jpxm
 长须	jpxlu
 畅叙	jpxli
 长续	jpxl
@@ -100111,8 +100127,8 @@
 格片	gepm
 割破	gepl
 各批	gepku
-嗝屁	gepko
-个屁	gepk
+个屁	gepki
+嗝屁	gepk
 歌谱	gepj
 各派	gephu
 鸽派	geph
