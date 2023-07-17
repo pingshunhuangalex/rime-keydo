@@ -4101,6 +4101,7 @@
 安居乐业	xjlyo
 喜结连理	xjll
 安家落户	xjlho
+小机灵鬼	xjlg
 欧几里得	xjldvu
 形迹可疑	xjkyv
 相继出现	xjjxv
@@ -17211,6 +17212,7 @@
 有资格	yzg_
 原作者	yzfv
 有组织	yzf_
+椅子上	yzev
 原则上	yze_
 原子弹	yzdv
 一再的	yzd_
@@ -18332,6 +18334,7 @@
 也都有	ydya
 一点也	ydy'
 一定要	ydy_
+运动型	ydxvvv
 运动学	ydxvvo
 运动鞋	ydxvv
 压倒性	ydxvio
@@ -21467,6 +21470,7 @@
 体脂称	tfj_
 同质化	tfh_
 统治者	tff_
+太丰盛	tfev
 团支书	tfei
 通知书	tfe_
 挺肥的	tfdiu
@@ -22738,10 +22742,11 @@
 请注意	qqy_
 鹊桥仙	qqxvv
 正确性	qqxv
-前瞻性	qqxoi
+请珍惜	qqxov
+前瞻性	qqxo'
 准确性	qqxo
 全球性	qqxi
-请珍惜	qqx_
+争取下	qqx_
 千千万	qqwu
 亲情网	qqwo
 沼气池	qqw_
@@ -23625,7 +23630,8 @@
 判官笔	pgb_
 票贩子	pfz_
 偏重于	pfy_
-皮脂腺	pfx_
+皮脂腺	pfxa
+平复下	pfx_
 碰中我	pfwv
 陪着我	pfw_
 胼胝体	pft_
@@ -25458,7 +25464,8 @@
 梁静茹	ljr_
 老城区	ljqu
 量角器	ljqou
-立交桥	ljqo
+立交桥	ljqoo
+冷静期	ljqo
 拉锯战	ljqi
 溜出去	ljq_
 老唱片	ljp_
@@ -26988,6 +26995,7 @@
 结了婚	jlhaa
 建立后	jlha
 交流会	jlh_
+机灵鬼	jlgv
 脊梁骨	jlgo
 经历过	jlga
 接了个	jlg_
@@ -28075,6 +28083,7 @@
 婚前房	hqf_
 很强势	hqeu
 红旗手	hqe_
+好清淡	hqda
 何其多	hqd_
 华强北	hqbi
 后勤部	hqb_
@@ -28432,10 +28441,13 @@
 合格率	hgliv
 回归了	hglii
 回国了	hgli
-红高粱	hgla
-活过来	hgl_
+红高粱	hglao
+活过来	hgla
+换过来	hgl'
+缓过来	hgl_
 烘干机	hgjo
 化工厂	hgji
+好干净	hgja
 薅干净	hgj_
 会更好	hgh_
 很骨感	hggu
@@ -28667,6 +28679,7 @@
 后半夜	hby_
 还必须	hbxvo
 还不行	hbxv
+后备箱	hbxuu
 很不幸	hbxu
 很不想	hbx_
 汉堡王	hbwai
@@ -28700,6 +28713,7 @@
 后半句	hbju
 后半场	hbj_
 还不好	hbhv
+很彪悍	hbhu'
 很不好	hbhu
 慌不慌	hbho
 好不好	hbh'
@@ -29963,7 +29977,8 @@
 追问了	fwluo
 支持率	fwlui
 翻车了	fwlu
-中文里	fwli
+中文里	fwlio
+付完了	fwli
 赚完了	fwla
 只为了	fwl_
 蜂王浆	fwjiv
@@ -30798,8 +30813,9 @@
 值得你	fdn_
 防盗门	fdma
 知道吗	fdm_
-费德勒	fdla
-发电量	fdl_
+费德勒	fdlau
+发电量	fdla
+付掉了	fdl_
 放得开	fdko
 分得开	fdk_
 复读机	fdju
@@ -35540,7 +35556,8 @@
 赶快	gk_
 光明	gm_
 个人	gr_
-好吧	hb_
+好吧	hb'
+好不	hb_
 花草	hc_
 好的	hd_
 和好	hh_
@@ -44456,7 +44473,8 @@
 祥物	xxwj
 想歪	xxwhv
 向外	xxwh
-想玩	xxwf
+想玩	xxwfv
+想完	xxwf
 响彻	xxwe
 乡愁	xxwd
 想逃	xxtz
@@ -47307,7 +47325,7 @@
 二路	xjlj
 二来	xjlhv
 而来	xjlh
-二陵	xjlg
+二陵	xjlgv
 而乐	xjle
 二列	xjldv
 二楼	xjld
@@ -54544,6 +54562,7 @@
 车灯	wedr
 撤档	wedpi
 车挡	wedp
+车点	wedmv
 车垫	wedm
 车底	wedkv
 彻底	wedk
@@ -73527,7 +73546,6 @@
 美差	mwjh
 美景	mwjg
 没掺	mwjf
-没车	mwje
 每届	mwjdua
 每节	mwjdu
 媒介	mwjda
@@ -81833,7 +81851,8 @@
 困顿	kwdw
 坤奠	kwdm
 昆迪	kwdk
-困的	kwde
+困的	kwdei
+困得	kwde
 困惫	kwbw
 困吧	kwbs
 捆绑	kwbp
@@ -89872,7 +89891,6 @@
 车灯	jedr
 撤档	jedpi
 车挡	jedp
-车垫	jedm
 车贷	jedhv
 车带	jedh
 车顶	jedg
@@ -92762,7 +92780,8 @@
 换号	hthzi
 换好	hthz
 还魂	hthw
-换换	htht
+换换	hthti
+缓缓	htht
 幻化	hthq
 换行	hthp
 换货	hthl
@@ -97878,6 +97897,7 @@
 更妙	grmc
 耕民	grmb
 更老	grlz
+更靓	grlx
 鲠论	grlwu
 更累	grlw
 更乱	grlt
@@ -128580,7 +128600,6 @@
 槁	gzvovo
 槔	gzvu
 槔	gzvuia
-会	hb_
 汇	hba
 绘	hbaa
 缋	hbaai
@@ -128598,7 +128617,8 @@
 翚	hbaooa
 贿	hbaovu
 汇	hbavaa
-回	hbi
+会	hbi
+回	hbi'
 蛔	hbia
 翙	hbiaa
 翙	hbiaao
