@@ -219,6 +219,7 @@
 我命由我不由天	wmyt
 屋漏偏逢连夜雨	wlpy
 万里长征第一步	wljbv
+吃了上顿没下顿	wledo
 无可奈何花落去	wknq
 赤橙黄绿青蓝紫	wjhz
 船到桥头自然直	wdqfu
@@ -4714,9 +4715,9 @@
 吵吵嚷嚷	wwrr
 万物起源	wwqyv
 唯物主义	wwqy
-完完全全	wwqqoo
-完完整整	wwqqoo
 弯弯曲曲	wwqqo
+完完整整	wwqq'
+完完全全	wwqq
 望穿秋水	wwqeoo
 插翅难逃	wwnt
 歪歪扭扭	wwnnv
@@ -17155,10 +17156,10 @@
 在比赛	zbs_
 则不然	zbra
 再不然	zbr_
-遭不住	zbqv
 自闭症	zbqu
 坐便器	zbqi
-坐不住	zbq_
+坐不住	zbq'
+遭不住	zbq_
 滋补品	zbp_
 再不能	zbnv
 早八年	zbno
@@ -18788,7 +18789,8 @@
 信息量	xxli
 消消乐	xxlaa
 阿修罗	xxla
-下下来	xxl_
+下下来	xxl'
+写下来	xxl_
 想想看	xxkv
 徐霞客	xxkuv
 选修课	xxku
@@ -19843,6 +19845,7 @@
 相比较	xbjv
 香槟酒	xbjuv
 矮半截	xbju
+写不出	xbj'
 想不出	xbj_
 耳鼻喉	xbhv
 徐悲鸿	xbhu
@@ -24116,6 +24119,7 @@
 黏糊糊	nhhu
 闹哄哄	nhho
 你好坏	nhhi
+你好好	nhh'
 你会很	nhh_
 你还敢	nhgi
 逆回购	nhg_
@@ -24137,7 +24141,7 @@
 你跟他	ngt_
 你告诉	ngs_
 脑瓜仁	ngru
-那个女	ngn_
+你管你	ngn_
 闹革命	ngm_
 弄过来	nglv
 尼古拉	ngl_
@@ -27565,11 +27569,11 @@
 教导处	jdju
 集大成	jdji
 挤得出	jdj_
+机顶盒	jdhv
 近代化	jdhui
 简单化	jdhu
-接电话	jdhi
 绝对化	jdha
-机顶盒	jdh_
+接电话	jdh_
 记大过	jdgo
 见到过	jdgi
 鸡蛋羹	jdga
@@ -28033,6 +28037,7 @@
 毁三观	hsg_
 活塞式	hsea
 还算是	hse_
+划算的	hsdv
 黑色的	hsd_
 欢送词	hsc_
 贺岁版	hsb_
@@ -29976,7 +29981,8 @@
 中文名	fwm_
 追问了	fwluo
 支持率	fwlui
-翻车了	fwlu
+翻车了	fwlu'
+翻完了	fwlu
 中文里	fwlio
 付完了	fwli
 赚完了	fwla
@@ -30419,7 +30425,8 @@
 直接莽	fjm_
 副经理	fjlv
 周杰伦	fjluv
-分居了	fjlu
+分居了	fjlua
+翻出来	fjlu
 房间里	fjloo
 放出来	fjlo
 招进来	fjliv
@@ -30915,7 +30922,8 @@
 分不开	fbk_
 制表键	fbjuv
 周笔畅	fbjuu
-直播间	fbju
+直播间	fbjui
+翻不出	fbju
 找不出	fbji
 织布机	fbjav
 发报机	fbjai
@@ -35527,7 +35535,7 @@
 是个	eg_
 是和	eh_
 是没	em_
-说明	em'
+是嘛	em'
 是你	en_
 是能	en'
 是去	eq_
@@ -35563,7 +35571,8 @@
 和好	hh_
 好好	hh'
 好了	hl_
-好嘛	hm_
+好嘛	hm'
+好没	hm_
 和你	hn_
 和能	hn'
 好人	hr_
@@ -45667,6 +45676,7 @@
 吓倒	xsdzo
 吓到	xsdz
 瞎动	xsdy
+下顿	xsdwv
 下蹲	xsdw
 下段	xsdtv
 下端	xsdt
@@ -51024,7 +51034,7 @@
 为证	wwqroo
 为政	wwqro
 伪证	wwqr
-为求	wwqq
+为求	wwqqov
 微张	wwqpu
 帷帐	wwqpii
 胃胀	wwqpi
@@ -60260,7 +60270,8 @@
 四残	skcf
 四册	skce
 丝宝	skbz
-四倍	skbw
+四倍	skbwi
+死背	skbw
 死吧	skbs
 四榜	skbp
 私奔	skbn
@@ -72283,6 +72294,7 @@
 泥工	nkgy
 逆光	nkgx
 你给	nkgw
+你管	nkgt
 你刚	nkgp
 你跟	nkgn
 逆光	nkgm
@@ -91561,7 +91573,6 @@
 毫毛	hzmz
 好美	hzmw
 号码	hzmso
-好嘛	hzmsa
 好吗	hzms
 好萌	hzmra
 好梦	hzmr
@@ -105863,8 +105874,8 @@
 反诬	ffwju
 凡物	ffwj'
 番外	ffwh
-翻完	ffwfu
-饭碗	ffwf
+饭碗	ffwfu
+翻完	ffwf
 翻车	ffwe
 犯愁	ffwdu
 范畴	ffwd
@@ -109043,6 +109054,7 @@
 说媒	elmw
 说嘛	elms
 朔漠	elml
+说明	elmg
 说满	elmf
 说么	elme
 硕民	elmb
