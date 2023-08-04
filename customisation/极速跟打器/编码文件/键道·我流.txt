@@ -28410,8 +28410,9 @@
 狠狠地	hhduu
 很好的	hhdu
 糊糊的	hhdo
-憨憨的	hhda
-缓缓地	hhd'
+憨憨的	hhdaa
+缓缓地	hhda
+好好的	hhd'
 好好地	hhd_
 黄花菜	hhc_
 汉化版	hhba
@@ -30208,9 +30209,10 @@
 这么早	fmzo
 飞马座	fmza
 这么做	fmz_
-这么样	fmyo
+这么远	fmyo
+驸马爷	fmyaa
 织毛衣	fmya
-驸马爷	fmy_
+这么样	fmy_
 父母心	fmxu
 这么小	fmxo'
 这么些	fmxo
@@ -32609,6 +32611,7 @@
 抵抗力	dklii
 打开来	dkli
 多亏了	dkl_
+多看看	dkk_
 地矿局	dkjvv
 大卡车	dkjv
 读卡机	dkjo
@@ -33944,11 +33947,12 @@
 不准去	bqq_
 比去年	bqn_
 不清凉	bqlva
-不准了	bqlv
+比起来	bqlv
 冰淇凌	bqloaa
 冰淇淋	bqloa
 别劝了	bqlo
-比起来	bql_
+不准了	bql'
+不去了	bql_
 不展开	bqkv
 补助款	bqk_
 标准件	bqjvo
@@ -35659,6 +35663,7 @@
 人都	rd'
 人工	rg_
 如何	rh_
+人好	rh'
 人就	rj_
 人们	rm_
 人能	rn_
@@ -35729,6 +35734,7 @@
 在这	zf_
 做饭	zf'
 字根	zg_
+在和	zh_
 在吗	zm_
 在你	zn_
 在啊	zo_
@@ -98745,8 +98751,8 @@
 过氧	glyp
 国语	glyli
 过于	glyl
-过意	glykv
-过亿	glyk
+过亿	glykv
+过意	glyk
 郭跃	glyho
 果蝇	glygii
 国营	glygi
