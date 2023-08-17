@@ -26,6 +26,7 @@
 静中见真境，淡中识本然	jfjr
 建设有中国特色社会主义	jeyyao
 公说公有理，婆说婆有理	geglu
+是福不是祸，是祸躲不过	efbg
 本来无一物，何处染尘埃	blwxv
 我不入地狱，谁入地狱	wbry
 科学技术是第一生产力	kxjlu
@@ -15434,6 +15435,7 @@
 不择手段	bzedv
 不在此列	bzclv
 不早不晚	bzbwv
+不醉不归	bzbg
 不由自主	byzq
 不言自明	byzm
 别有用心	byyx
@@ -16760,9 +16762,10 @@
 姊妹篇	zmp_
 怎么弄	zmn_
 做买卖	zmm_
+怎么来	zmlu
 祖母绿	zmlo
 子目录	zmla
-怎么来	zml_
+怎么啦	zml_
 字码块	zmko
 怎么看	zmk_
 怎么讲	zmj_
@@ -18899,11 +18902,12 @@
 衔尾蛇	xweu
 响尾蛇	xweo
 二叉树	xwe_
+爱吃的	xwdu'
 爱我的	xwdu
-宣传队	xwdo
+宣传队	xwdoi
+学我的	xwdo
 小吃店	xwdi
-性冲动	xwd'
-学我的	xwd_
+性冲动	xwd_
 宣传册	xwc_
 巡查表	xwba
 哮喘病	xwb_
@@ -20183,7 +20187,8 @@
 吃人肉	wrr_
 围绕着	wrqi
 无人区	wrq_
-无人能	wrn_
+无人能	wrnv
+我让你	wrn_
 万人迷	wrmv
 为人民	wrm_
 污染了	wrl_
@@ -20902,10 +20907,11 @@
 通信网	txwa
 他希望	txw_
 托儿所	txs_
+天鹅肉	txrvui
 天鹅绒	txrvu
-天鹅肉	txrv
-贴心人	txra
-挺吓人	txr_
+太吓人	txrv
+挺吓人	txri
+贴心人	txr_
 天线阵	txqva
 土耳其	txqv
 通行证	txq_
@@ -21319,7 +21325,8 @@
 他居然	tjr_
 太极拳	tjqv
 跳进去	tjqo
-推出去	tjqi
+挺紧张	tjqi
+推出去	tjq'
 拖出去	tjq_
 停机坪	tjp_
 停车难	tjn_
@@ -21440,8 +21447,9 @@
 贴个够	tgg_
 太过分	tgf_
 提供商	tge_
-挺贵的	tgdi
-挺高的	tgd_
+挺贵的	tgdi'
+挺高的	tgdi
+提供点	tgd_
 泰国菜	tgc_
 团干部	tgb_
 土肥圆	tfyvu
@@ -21615,6 +21623,7 @@
 特别篇	tbpu
 天不怕	tbp_
 她不能	tbn_
+特别慢	tbmu
 同胞们	tbm_
 太饱了	tblv
 谈不拢	tblo
@@ -23104,9 +23113,9 @@
 泣鬼神	qgea
 主观上	qge_
 切割垫	qgdvo
-整个的	qgdvi
 奇怪的	qgdv
-主干道	qgdo
+主干道	qgdov
+主观的	qgdo
 掌柜的	qgdi
 屈光度	qgda
 穷光蛋	qgd_
@@ -25590,6 +25599,7 @@
 两国论	lglvi
 理工类	lglv
 利滚利	lglu
+绿咖喱	lgla
 路过了	lgl_
 理工科	lgk_
 老规矩	lgju
@@ -27245,7 +27255,7 @@
 常规赛	jgs_
 机关枪	jgqvo
 成功者	jgqv
-监管者	jgqi
+寄过去	jgqo
 激光器	jgqai
 尽管去	jgqa
 紧跟着	jgq_
@@ -31112,7 +31122,8 @@
 烧下去	exqo
 上学期	exqio
 上星期	exqi
-睡下去	exq_
+睡下去	exq'
+说下去	exq_
 试销品	exp_
 时限内	exn_
 事儿妈	exm_
@@ -32759,6 +32770,7 @@
 都会使	dhe'
 都会是	dhe_
 大坏蛋	dhdv
+多喝点	dhd'
 多花点	dhd_
 大荟萃	dhc_
 定活宝	dhbo
@@ -33133,7 +33145,6 @@
 敌不过	dbguv
 躲不过	dbgu
 抵不过	dbgi
-打不过	dbg'
 大半个	dbg_
 地板砖	dbfvv
 大爆炸	dbfvo
@@ -35922,7 +35933,8 @@
 造地	zzdk
 早读	zzdj
 凿定	zzdg
-早的	zzde
+早的	zzdeo
+造的	zzde
 早都	zzdd
 早操	zzcz
 枣村	zzcw
@@ -52426,7 +52438,8 @@
 文裘	wnqq
 蚊帐	wnqpi
 文章	wnqp
-瘟疹	wnqn
+瘟疹	wnqno
+问诊	wnqn
 文钱	wnqm
 文曲	wnqlo
 吻去	wnql
@@ -57426,7 +57439,8 @@
 太深	then
 太师	thekvi
 态势	thekv
-台式	thek
+台式	theka
+泰式	thek
 台属	theja
 台数	thej
 太帅	theg
@@ -87932,8 +87946,8 @@
 记入	jkrj
 寂然	jkrfo
 既然	jkrf
-鸡肉	jkrda
-肌肉	jkrd
+肌肉	jkrdu
+鸡肉	jkrd
 姬芮	jkrb
 几招	jkqz
 技穷	jkqy
@@ -94792,6 +94806,7 @@
 还卖	hhmh
 海明	hhmga
 害命	hhmg
+还慢	hhmfv
 海满	hhmfa
 还蛮	hhmf
 海庙	hhmc
@@ -95663,8 +95678,8 @@
 何等	hedr
 何当	hedp
 核电	hedmv
-喝点	hedmo
-贺电	hedm
+贺电	hedmai
+喝点	hedm
 喝多	hedl
 盒底	hedki
 河堤	hedka
@@ -116152,6 +116167,7 @@
 单产	dfjf
 单车	dfje
 单节	dfjd
+蛋饺	dfjca
 单脚	dfjc
 单号	dfhz
 丹红	dfhyu
@@ -119307,7 +119323,8 @@
 崔橹	cblj
 翠岭	cblg
 翠蓝	cblf
-啐了	cble
+啐了	cbleo
+催了	cble
 脆裂	cbld
 催款	cbkt
 摧垮	cbkq
@@ -119804,7 +119821,7 @@
 薄壁	bzbki
 包庇	bzbk
 报部	bzbj
-薄饼	bzbg
+薄饼	bzbgi
 报班	bzbfiv
 薄板	bzbfi
 包办	bzbf

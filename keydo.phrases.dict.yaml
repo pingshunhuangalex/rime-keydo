@@ -6551,7 +6551,8 @@ sort: original
 包办	bzbf
 薄板	bzbfi
 报班	bzbfiv
-薄饼	bzbg
+不醉不归	bzbg
+薄饼	bzbgi
 报部	bzbj
 包庇	bzbk
 薄壁	bzbki
@@ -7135,7 +7136,8 @@ sort: original
 错不了	cbl
 财不露白	cblb
 脆裂	cbld
-啐了	cble
+催了	cble
+啐了	cbleo
 翠蓝	cblf
 残杯冷炙	cblfv
 翠岭	cblg
@@ -9863,7 +9865,6 @@ sort: original
 对中	dbfy
 对照	dbfz
 大半个	dbg
-打不过	dbg
 对勾	dbgd
 对歌	dbge
 对该	dbgh
@@ -11403,6 +11404,7 @@ sort: original
 单号	dfhz
 点缀出	dfj
 单脚	dfjc
+蛋饺	dfjca
 大放厥词	dfjcv
 单节	dfjd
 单车	dfje
@@ -12081,6 +12083,7 @@ sort: original
 待从	dhcy
 带操	dhcz
 多花点	dhd
+多喝点	dhd
 带队	dhdb
 呆掉	dhdc
 带调	dhdcv
@@ -18668,6 +18671,7 @@ sort: original
 山宾	efbb
 删表	efbc
 舢板	efbf
+是福不是祸，是祸躲不过	efbg
 十之八九	efbj
 尚方宝剑	efbji
 闪避	efbk
@@ -23802,6 +23806,7 @@ sort: original
 双排	exph
 双坡	expl
 爽片	expm
+说下去	exq
 睡下去	exq
 双亲	exqb
 双桥	exqc
@@ -40029,9 +40034,9 @@ sort: original
 河堤	hedka
 盒底	hedki
 喝多	hedl
-贺电	hedm
+喝点	hedm
 好事多磨	hedma
-喝点	hedmo
+贺电	hedmai
 核电	hedmv
 何当	hedp
 何等	hedr
@@ -41244,6 +41249,7 @@ sort: original
 海庙	hhmc
 还蛮	hhmf
 海满	hhmfa
+还慢	hhmfv
 害命	hhmg
 海明	hhmga
 还卖	hhmh
@@ -48803,7 +48809,6 @@ sort: original
 蟾宫折桂	jgqgi
 精确	jgqh
 京寨	jgqho
-监管者	jgqi
 竞逐	jgqj
 惊奇	jgqk
 经期	jgqka
@@ -48818,6 +48823,7 @@ sort: original
 经侦	jgqna
 颈枕	jgqnav
 荆榛	jgqni
+寄过去	jgqo
 警长	jgqp
 劲秋	jgqq
 竞争	jgqr
@@ -50725,8 +50731,8 @@ sort: original
 几招	jkqz
 健康人	jkr
 姬芮	jkrb
-肌肉	jkrd
-鸡肉	jkrda
+鸡肉	jkrd
+肌肉	jkrdu
 既然	jkrf
 寂然	jkrfo
 记入	jkrj
@@ -61043,6 +61049,7 @@ sort: original
 领空	lgky
 凌空	lgkyo
 路过了	lgl
+绿咖喱	lgla
 领料	lglc
 泠洌	lgld
 领了	lgle
@@ -78360,12 +78367,12 @@ sort: original
 清点	qgdm
 庆典	qgdmo
 轻点	qgdmv
-主干道	qgdo
+主观的	qgdo
+主干道	qgdov
 清党	qgdp
 请等	qgdr
 青大	qgds
 奇怪的	qgdv
-整个的	qgdvi
 切割垫	qgdvo
 轻动	qgdy
 全国第一	qgdyi
@@ -89802,6 +89809,7 @@ sort: original
 推磨	tbml
 退免	tbmm
 推门	tbmn
+特别慢	tbmu
 推煤	tbmw
 腿美	tbmwu
 腿毛	tbmz
@@ -91255,7 +91263,7 @@ sort: original
 铤刺	tgck
 听错	tgcl
 听从	tgcy
-挺高的	tgd
+提供点	tgd
 挺对	tgdb
 停兑	tgdbi
 停掉	tgdc
@@ -91267,6 +91275,7 @@ sort: original
 天罡地煞	tgdev
 天干地支	tgdf
 天高地厚	tgdh
+挺高的	tgdi
 挺贵的	tgdi
 听读	tgdj
 天高地阔	tgdk
@@ -91630,7 +91639,8 @@ sort: original
 同花顺	thei
 台数	thej
 台属	theja
-台式	thek
+泰式	thek
+台式	theka
 态势	thekv
 太师	thekvi
 太深	then
@@ -92226,9 +92236,10 @@ sort: original
 突破	tjpl
 图片	tjpm
 拖出去	tjq
+推出去	tjq
 涂着	tjqe
 吐着	tjqeo
-推出去	tjqi
+挺紧张	tjqi
 土著	tjqj
 屠猪	tjqja
 突起	tjqk
@@ -94404,11 +94415,12 @@ sort: original
 土耳其	txqv
 天线阵	txqva
 偷香窃玉	txqy
-挺吓人	txr
-贴心人	txra
+贴心人	txr
+挺吓人	txri
 推贤让能	txrn
-天鹅肉	txrv
+太吓人	txrv
 天鹅绒	txrvu
+天鹅肉	txrvui
 托儿所	txs
 托尔斯泰	txst
 忒修斯之船	txsw
@@ -98792,7 +98804,8 @@ sort: original
 吻去	wnql
 文曲	wnqlo
 文钱	wnqm
-瘟疹	wnqn
+问诊	wnqn
+瘟疹	wnqno
 文章	wnqp
 蚊帐	wnqpi
 文裘	wnqq
@@ -99357,9 +99370,10 @@ sort: original
 我人没了	wrml
 万人迷	wrmv
 为人民服务	wrmw
-无人能	wrn
+我让你	wrn
 外柔内刚	wrng
 无人能及	wrnj
+无人能	wrnv
 微软拼音	wrpy
 无人区	wrq
 污人清白	wrqb
@@ -108849,7 +108863,6 @@ sort: original
 殉财	xwch
 训词	xwck
 驯从	xwcy
-学我的	xwd
 性冲动	xwd
 寻得	xwde
 胸无大志	xwdf
@@ -108858,8 +108871,10 @@ sort: original
 寻敌	xwdk
 寻甸	xwdm
 胸无点墨	xwdmu
-宣传队	xwdo
+学我的	xwdo
+宣传队	xwdoi
 爱我的	xwdu
+爱吃的	xwdu
 寻道	xwdz
 寻到	xwdza
 训导	xwdzo
@@ -121613,9 +121628,10 @@ sort: original
 自谋出路	zmjl
 怎么看	zmk
 字码块	zmko
-怎么来	zml
+怎么啦	zml
 子目录	zmla
 祖母绿	zmlo
+怎么来	zmlu
 做买卖	zmm
 怎么弄	zmn
 姊妹篇	zmp
@@ -122817,7 +122833,8 @@ sort: original
 早操	zzcz
 在座的	zzd
 早都	zzdd
-早的	zzde
+造的	zzde
+早的	zzdeo
 凿定	zzdg
 早读	zzdj
 造地	zzdk
