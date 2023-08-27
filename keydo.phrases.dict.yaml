@@ -3943,8 +3943,7 @@ sort: original
 博卡	blks
 拨款	blkt
 播控	blky
-不聊了	bll
-不流了	bll
+不了了	bll
 剥离了	blla
 柏林	bllb
 波列	blld
@@ -3970,8 +3969,10 @@ sort: original
 波流	bllq
 拨楞	bllr
 波拉	blls
-不亮了	bllv
+不聊了	bllv
+不流了	bllv
 不浪了	bllva
+不亮了	bllvo
 波轮	bllw
 驳论	bllwa
 波累	bllwai
@@ -26140,6 +26141,7 @@ sort: original
 中国农业大学	fgnx
 放个屁	fgp
 周国平	fgpu
+发过去	fgq
 转过去	fgq
 中国青年报	fgqb
 中国政府	fgqf
@@ -26313,7 +26315,8 @@ sort: original
 废话连篇	fhlp
 肺活量	fhlu
 风火轮	fhluo
-转化率	fhlv
+转好了	fhlv
+转化率	fhlvi
 摘论	fhlw
 寨隆	fhly
 烽火狼烟	fhlyo
@@ -44804,9 +44807,10 @@ sort: original
 黄泉	hxqt
 皇权	hxqtu
 坏心情	hxqv
-候选人	hxr
-好心人	hxra
+好心人	hxr
+好吓人	hxra
 恍然	hxrf
+候选人	hxri
 恍如	hxrj
 含辛茹苦	hxrk
 恍若	hxrl
@@ -58451,6 +58455,7 @@ sort: original
 挎包	kqbz
 扩展槽	kqc
 跨村	kqcw
+可去的	kqd
 垮掉	kqdc
 挎斗	kqdd
 垮的	kqde
@@ -59553,7 +59558,8 @@ sort: original
 靠空	kzky
 考考	kzkz
 开走了	kzl
-考了	kzle
+靠了	kzle
+考了	kzleu
 烤蓝	kzlf
 烤炉	kzlj
 考虑	kzll
@@ -63129,6 +63135,7 @@ sort: original
 联赛	lmsh
 连死	lmsk
 连锁	lmsl
+两面宿傩	lmsn
 连算	lmst
 连送	lmsy
 流媒体	lmt
@@ -70182,6 +70189,7 @@ sort: original
 马戏团	mxt
 马耳他	mxta
 昴星团	mxto
+毛血旺	mxw
 面向未来	mxwl
 某些问题	mxwt
 名下无虚	mxwx
@@ -71475,6 +71483,7 @@ sort: original
 耐看	nhkf
 耐苦	nhkj
 弄好了	nhl
+你好了	nhl
 拿好了	nhli
 耐力	nhlk
 奈落	nhll
@@ -91411,7 +91420,8 @@ sort: original
 廷岚	tglf
 挺灵	tglg
 听来	tglh
-提供了	tgli
+挺过来	tgli
+提供了	tglii
 铤鹿	tglj
 谈古论今	tgljo
 听力	tglk

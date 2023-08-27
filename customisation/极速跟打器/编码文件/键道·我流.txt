@@ -8853,6 +8853,7 @@
 老牛舐犊	lned
 流年不利	lnbl
 两码一顶	lmydv
+两面宿傩	lmsn
 两面三刀	lmsdv
 浪漫主义	lmqy
 留名青史	lmqeu
@@ -21435,7 +21436,8 @@
 弹钢琴	tgq_
 太干了	tglvv
 太功利	tglv
-提供了	tgli
+提供了	tglii
+挺过来	tgli
 提高了	tgl'
 提过了	tgl_
 同甘苦	tgk_
@@ -24418,6 +24420,7 @@
 马歇尔	mxxao
 马鞍形	mxxa
 没信心	mxx_
+毛血旺	mxw_
 昴星团	mxto
 马耳他	mxta
 马戏团	mxt_
@@ -26025,6 +26028,7 @@
 靠这个	kqg_
 狂战士	kqeu
 矿泉水	kqe_
+可去的	kqd_
 扩展槽	kqc_
 狂犬病	kqbu
 看着办	kqb_
@@ -27888,8 +27892,9 @@
 花心思	hxs_
 很显然	hxru
 火星人	hxro
-好心人	hxra
-候选人	hxr_
+候选人	hxri
+好吓人	hxra
+好心人	hxr_
 坏心情	hxqv
 火刑柱	hxqo
 候选区	hxqiu
@@ -30533,7 +30538,8 @@
 翻回去	fhq_
 发货票	fhp_
 防火门	fhm_
-转化率	fhlv
+转化率	fhlvi
+转好了	fhlv
 风火轮	fhluo
 肺活量	fhlu
 着火了	fhloo
@@ -30594,7 +30600,8 @@
 这个人	fgr_
 副馆长	fgqv
 翻过去	fgqu
-转过去	fgq_
+转过去	fgq'
+发过去	fgq_
 周国平	fgpu
 放个屁	fgp_
 转给你	fgnv
@@ -34126,14 +34133,15 @@
 爆冷门	blmo
 波罗蜜	blma
 菠萝蜜	blm_
+不亮了	bllvo
 不浪了	bllva
-不亮了	bllv
+不流了	bllv'
+不聊了	bllv
 暴露了	bllov
 别漏了	blloa
 别来了	bllo
 剥离了	blla
-不流了	bll'
-不聊了	bll_
+不了了	bll_
 巴拉克	blka
 不离开	blk_
 碧螺春	bljvi
@@ -35571,6 +35579,7 @@
 这可	fk_
 这没	fm_
 父母	fm'
+这你	fn_
 这人	fr_
 这我	fw_
 这一	fy_
@@ -35614,6 +35623,7 @@
 可靠	kk_
 开门	km_
 可能	kn_
+可去	kq_
 了不	lb_
 了吧	lb'
 了个	lg_
@@ -81350,7 +81360,8 @@
 考虑	kzll
 烤炉	kzlj
 烤蓝	kzlf
-考了	kzle
+考了	kzleu
+靠了	kzle
 考考	kzkz
 靠空	kzky
 考卡	kzks
