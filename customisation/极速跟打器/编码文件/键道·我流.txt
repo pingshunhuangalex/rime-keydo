@@ -24123,6 +24123,7 @@
 脑回路	nhlui
 脑海里	nhlu
 拿好了	nhli
+你好了	nhl'
 弄好了	nhl_
 拿回扣	nhk_
 内环境	nhji
