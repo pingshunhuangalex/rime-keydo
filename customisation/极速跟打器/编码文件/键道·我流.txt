@@ -3895,7 +3895,8 @@
 西平中学	xpfx
 血盆大口	xpdk
 小鸟依人	xnyr
-虚拟仪器	xnyq
+虚拟仪器	xnyqi
+虚拟语气	xnyq
 新年伊始	xnyeo
 血浓于水	xnye
 喜怒哀乐	xnxl
@@ -7788,6 +7789,7 @@
 普遍意义	pbyyo
 喷薄欲出	pbyj
 普遍现象	pbxxo
+扑鼻而来	pbxli
 批不下来	pbxl
 朋比为奸	pbwj
 平白无故	pbwg
@@ -17914,8 +17916,9 @@
 已开票	ykp_
 也可能	ykna
 有困难	ykn_
-一口闷	ykmv
-有空吗	ykm_
+一口闷	ykmvo
+有空吗	ykmv
+一开门	ykm_
 亚克力	yklv
 油库里	ykla
 要考虑	ykl_
@@ -21649,7 +21652,8 @@
 特别大	tbdu
 听不到	tbdov
 听不懂	tbdo
-挺白的	tbdi
+挺白的	tbdi'
+挺饱的	tbdi
 淘宝店	tbda
 拖不动	tbd'
 逃不掉	tbd_
@@ -24014,6 +24018,7 @@
 那么大	nmd_
 糯米糍	nmc_
 你妈逼	nmbi
+那么饱	nmba
 弄明白	nmb_
 年龄在	nlz_
 牛郎星	nlxu
@@ -27755,7 +27760,8 @@
 画作品	hzp_
 换作你	hzn_
 孩子们	hzm_
-后坐力	hzl_
+后坐力	hzlu
+划走了	hzl_
 汉字库	hzk_
 画自己	hzjv
 喝醉酒	hzjo
@@ -27874,6 +27880,7 @@
 好像也	hxy'
 好像要	hxy_
 坏消息	hxxv
+很休闲	hxxu
 黑猩猩	hxxiu
 化学系	hxxio
 候选项	hxxi
@@ -27908,7 +27915,8 @@
 和稀泥	hxnu
 好想你	hxn_
 黄晓明	hxmv
-皇阿玛	hxmu
+皇阿玛	hxmua
+很邪门	hxmu
 荷尔蒙	hxm_
 核泄露	hxlv
 候选栏	hxliu
@@ -28341,6 +28349,7 @@
 和解了	hjl_
 好健康	hjka
 还借款	hjk_
+很积极	hjjuu
 很接近	hjjui
 很纠结	hjju
 火箭军	hjjo
@@ -34024,7 +34033,8 @@
 白娘子	bnzu
 不能再	bnz'
 不能在	bnz_
-不能用	bny_
+不能用	bny'
+不能要	bny_
 不耐心	bnxv
 不能按	bnx_
 不能吃	bnwv
@@ -82791,16 +82801,14 @@
 开行	khxg
 开泄	khxd
 开销	khxc
-开窗	khwxv
-开创	khwx
 开胃	khww
 开船	khwt
 开衩	khwsv
 开挖	khws
 开往	khwp
 凯文	khwn
-开窗	khwmv
-开创	khwm
+开创	khwmv
+开窗	khwm
 开吃	khwk
 开悟	khwj
 开外	khwh
@@ -93102,6 +93110,7 @@
 华兹	hqzk
 华族	hqzj
 花在	hqzh
+划走	hqzd
 华药	hqyz
 花用	hqyy
 华韵	hqyw

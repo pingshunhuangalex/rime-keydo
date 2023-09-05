@@ -4803,6 +4803,7 @@ sort: original
 奔向	bnxxv
 本乡	bnxxva
 笨熊	bnxy
+不能要	bny
 不能用	bny
 本因	bnyb
 本由	bnyd
@@ -41644,6 +41645,7 @@ sort: original
 护驾	hjjsi
 很纠结	hjju
 很接近	hjjui
+很积极	hjjuu
 弧菌	hjjw
 虎将	hjjx
 讳疾忌医	hjjy
@@ -43532,6 +43534,7 @@ sort: original
 花用	hqyy
 华药	hqyz
 互助组	hqz
+划走	hqzd
 花在	hqzh
 黄雀在后	hqzhv
 华族	hqzj
@@ -44759,7 +44762,8 @@ sort: original
 荒谬	hxmq
 皇马	hxms
 黄麻	hxmsv
-皇阿玛	hxmu
+很邪门	hxmu
+皇阿玛	hxmua
 黄晓明	hxmv
 黄梅	hxmw
 黄毛	hxmz
@@ -44893,6 +44897,7 @@ sort: original
 黄啊	hxxs
 黄癣	hxxt
 呼吸系统	hxxto
+很休闲	hxxu
 坏消息	hxxv
 黄兄	hxxy
 好像要	hxy
@@ -45546,7 +45551,7 @@ sort: original
 好卡	hzks
 好困	hzkw
 好空	hzky
-后坐力	hzl
+划走了	hzl
 好料	hzlc
 号楼	hzld
 好咧	hzlda
@@ -45563,6 +45568,7 @@ sort: original
 好冷	hzlr
 好啦	hzls
 好乱	hzlt
+后坐力	hzlu
 好嘞	hzlw
 好累	hzlwa
 毫伦	hzlwo
@@ -57565,16 +57571,14 @@ sort: original
 开悟	khwj
 开吃	khwk
 可好吃了	khwl
-开创	khwm
-开窗	khwmv
+开窗	khwm
+开创	khwmv
 凯文	khwn
 开往	khwp
 开挖	khws
 开衩	khwsv
 开船	khwt
 开胃	khww
-开创	khwx
-开窗	khwxv
 苦海无崖	khwy
 可还行	khx
 开销	khxc
@@ -72146,6 +72150,7 @@ sort: original
 女子	nlzk
 挪作	nlzl
 弄明白	nmb
+那么饱	nmba
 年表	nmbc
 年版	nmbf
 年半	nmbfu
@@ -73995,6 +74000,7 @@ sort: original
 贫血	pbxh
 品系	pbxk
 批不下来	pbxl
+扑鼻而来	pbxli
 贫下	pbxs
 聘选	pbxt
 品相	pbxx
@@ -89676,6 +89682,7 @@ sort: original
 退单	tbdf
 退订	tbdg
 推定	tbdgi
+挺饱的	tbdi
 挺白的	tbdi
 腿肚	tbdj
 螳臂当车	tbdji
@@ -107510,7 +107517,8 @@ sort: original
 新年伊始	xnyeo
 恩义	xnyk
 恩遇	xnyl
-虚拟仪器	xnyq
+虚拟语气	xnyq
+虚拟仪器	xnyqi
 小鸟依人	xnyr
 恩雅	xnys
 恩怨	xnyt
@@ -114796,7 +114804,7 @@ sort: original
 艺龙	yklyi
 亦老	yklz
 遗老	yklzi
-有空吗	ykm
+一开门	ykm
 移民	ykmb
 遗民	ykmbi
 一秒	ykmc
@@ -114833,7 +114841,8 @@ sort: original
 译码	ykmso
 一码	ykmsv
 一马	ykmsva
-一口闷	ykmv
+有空吗	ykmv
+一口闷	ykmvo
 一枚	ykmw
 姨妹	ykmwa
 溢美	ykmwao
