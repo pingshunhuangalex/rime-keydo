@@ -30642,7 +30642,8 @@
 中国化	fghii
 中国画	fghi'
 中国话	fghi
-这个好	fgh_
+这个好	fgh'
+这个和	fgh_
 发广告	fgga
 直勾勾	fgg_
 分隔符	fgfu
@@ -32699,6 +32700,7 @@
 豆浆机	djjvov
 大将军	djjvo
 大结局	djjv
+第几级	djju
 打基础	djji
 对讲机	djja
 大姐姐	djj_
@@ -34280,10 +34282,11 @@
 别紧张	bjqo
 北京站	bjqio
 报警器	bjqii
-背出去	bjqi
+背出去	bjqi'
+搬进去	bjqi
 编辑器	bjqa
-不进去	bjq'
-不出去	bjq_
+不出去	bjq'
+不进去	bjq_
 补给品	bjpoa
 半成品	bjpo
 保健品	bjp_

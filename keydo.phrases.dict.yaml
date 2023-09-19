@@ -2878,8 +2878,8 @@ sort: original
 不配	bjpw
 不赔	bjpwv
 不跑	bjpz
-不出去	bjq
 不进去	bjq
+不出去	bjq
 编辑器	bjqa
 不亲	bjqb
 不侵	bjqbv
@@ -2894,6 +2894,7 @@ sort: original
 不缺	bjqh
 补缺	bjqho
 不摘	bjqhv
+搬进去	bjqi
 背出去	bjqi
 报警器	bjqii
 北京站	bjqio
@@ -12668,6 +12669,7 @@ sort: original
 独家	djjs
 度假	djjso
 杜鹃	djjt
+第几级	djju
 大结局	djjv
 大将军	djjvo
 豆浆机	djjvov
@@ -26084,6 +26086,7 @@ sort: original
 中国共产党人	fggr
 中国国际广播电台	fggt
 中国工程院	fggy
+这个和	fgh
 这个好	fgh
 中国话	fghi
 中国画	fghi
