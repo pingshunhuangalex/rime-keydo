@@ -7266,7 +7266,6 @@
 倾家荡产	qjdji
 真金白银	qjby
 趋吉避凶	qjbx
-招架不住	qjbq
 奇经八脉	qjbmv
 千娇百媚	qjbmua
 千金不换	qjbhui
@@ -12957,7 +12956,8 @@
 风卷残云	fjcy
 非常必要	fjby
 非常抱歉	fjbqi
-招架不住	fjbq
+招架不住	fjbq'
+支撑不住	fjbq
 分久必合	fjbhu
 中和作用	fhzyi
 发挥作用	fhzy
@@ -17490,7 +17490,8 @@
 意外险	ywxo
 遗传学	ywxii
 遗传性	ywxi
-有危险	ywx_
+有危险	ywx'
+有味儿	ywx_
 一位位	ywwv
 鱼尾纹	ywwu
 洋娃娃	yww_
@@ -19245,7 +19246,8 @@
 俄勒冈	xlgi
 修理工	xlg_
 学雷锋	xlf_
-二郎神	xlev
+二郎神	xlevo
+夏令时	xlev
 血泪史	xleua
 鹅卵石	xleu
 训练师	xleoa
@@ -19282,6 +19284,7 @@
 小卡片	xkp_
 辛苦你	xkn_
 奥卡姆	xkm_
+下课了	xklv
 阿卡林	xkla
 辛苦了	xkl_
 想看看	xkk_
@@ -21273,6 +21276,7 @@
 弹力绳	tlea
 套路深	tle_
 挺老的	tldiu
+挺冷的	tldio
 挺累的	tldi
 屠龙刀	tlda
 弹力带	tld_
@@ -25436,7 +25440,8 @@
 劳力士	llei
 理论上	lle_
 啦啦队	lldoo
-凌厉的	lldo
+凌厉的	lldo'
+辣辣的	lldo
 拉拉队	lld_
 列联表	llbv
 流量包	llb_
@@ -28313,7 +28318,8 @@
 很亏的	hkdu'
 很快的	hkdu
 很快地	hkd_
-航空兵	hkbu
+航空兵	hkbuo
+很恐怖	hkbu
 户口簿	hkbo
 户口本	hkb_
 花架子	hjz_
@@ -28758,6 +28764,7 @@
 湖北省	hbeai'
 河北省	hbeai
 好帮手	hbea
+还不上	hbe'
 还不是	hbe_
 还不对	hbdvv
 还不到	hbdv
@@ -30135,6 +30142,7 @@
 皱着眉	fqmu
 找窍门	fqm_
 辅助轮	fqlvi
+专注力	fqlva
 夫妻俩	fqlv
 周期里	fqluv
 支起来	fqlu
@@ -30436,7 +30444,8 @@
 非常强	fjqii
 中长期	fjqi
 终觉浅	fjqao
-终结者	fjqa
+终结者	fjqaa
+发出去	fjqa
 这就去	fjq_
 椎间盘	fjpv
 制成品	fjpu
@@ -92759,7 +92768,6 @@
 还情	htqgv
 欢庆	htqga
 还清	htqg
-患者	htqe
 换亲	htqb
 环佩	htpw
 缓坡	htpl
@@ -92873,7 +92881,8 @@
 环志	htfk
 换肤	htfj
 还债	htfh
-患者	htfe
+患者	htfei
+换着	htfe
 浣纱	htes
 欢声	hter
 患上	htepi
@@ -96408,8 +96417,9 @@
 回收	hbed
 回水	hbebi
 会水	hbeb
-回道	hbdzi
-挥刀	hbdz
+回道	hbdzio
+挥刀	hbdzi
+会到	hbdz
 挥动	hbdy
 回灯	hbdr
 会丢	hbdq
@@ -105656,6 +105666,7 @@
 赋诗	fjeka
 俯视	fjek'
 腐蚀	fjek
+负鼠	fjejuu
 复数	fjejuo
 负数	fjeju
 富庶	fjejo
@@ -119410,6 +119421,7 @@
 宝座	bzzl
 刨子	bzzkua
 豹子	bzzku
+宝子	bzzko
 孢子	bzzka
 包子	bzzk
 包租	bzzj
