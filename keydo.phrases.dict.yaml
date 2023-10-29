@@ -1378,6 +1378,7 @@ sort: original
 不负责	bfz
 拌嘴	bfzb
 伴奏	bfzd
+办法总比困难多	bfzda
 搬走	bfzdi
 不知怎的	bfzdv
 办在	bfzh
@@ -1650,6 +1651,7 @@ sort: original
 并没	bgmw
 并茂	bgmz
 病猫	bgmzo
+不给你	bgn
 不管你	bgn
 冰鸟	bgnc
 并拟	bgnk
@@ -2867,6 +2869,7 @@ sort: original
 步频	bjpbi
 补票	bjpc
 不判	bjpf
+不拍	bjph
 布匹	bjpk
 不偏	bjpm
 不喷	bjpn
@@ -4851,7 +4854,7 @@ sort: original
 帮凑	bpcd
 棒材	bpch
 棒操	bpcz
-不平等	bpd
+不拍点	bpd
 绑得	bpde
 绑的	bpdea
 邦德	bpdev
@@ -4862,6 +4865,7 @@ sort: original
 棒读	bpdj
 邦迪	bpdk
 棒打	bpds
+不平等	bpdv
 不平等条约	bpdy
 帮到	bpdz
 白皮书	bpe
@@ -7099,6 +7103,7 @@ sort: original
 催熟	cbed
 催收	cbedi
 脆爽	cbem
+才不是你	cben
 催生	cber
 脆爽	cbex
 摧折	cbfe
@@ -9903,7 +9908,8 @@ sort: original
 对戒	dbjda
 得不偿失	dbje
 对决	dbjh
-低不就	dbji
+打边机	dbji
+低不就	dbjiv
 堆积	dbjk
 对局	dbjl
 对句	dbjla
@@ -13991,6 +13997,7 @@ sort: original
 都没了	dml
 电疗	dmlc
 点了	dmle
+垫了	dmlei
 电缆	dmlf
 电铃	dmlg
 当面锣对面鼓	dmlgi
@@ -21176,13 +21183,14 @@ sort: original
 实力派	elp
 十里坡剑神	elpe
 说破	elpl
-石榴裙	elq
+生理期	elq
 说亲	elqb
 说情	elqg
 说清	elqgo
 身临其境	elqj
 说起	elqk
 说钱	elqm
+石榴裙	elqv
 熟练掌握	elqw
 守林人	elr
 硕儒	elrj
@@ -33183,7 +33191,8 @@ sort: original
 构词法	gcf
 甘脆肥醲	gcfn
 光彩照人	gcfr
-更刺激	gcj
+割草机	gcj
+更刺激	gcjv
 供参考	gck
 搞错了	gcl
 干脆面	gcm
@@ -37590,12 +37599,13 @@ sort: original
 给我看	gwk
 购物狂	gwka
 滚开	gwkh
-归我了	gwl
+搞完了	gwl
+拐弯了	gwl
 观察力	gwla
 给了	gwle
 贯彻落实	gwlea
 滚来	gwlh
-拐弯了	gwli
+归我了	gwli
 给力	gwlk
 滚落	gwll
 给脸	gwlm
@@ -45359,7 +45369,8 @@ sort: original
 好辩	hzbm
 薅资本主义羊毛	hzbmi
 好棒	hzbp
-好报	hzbz
+好饱	hzbz
+好报	hzbza
 还在不在	hzbzv
 好脆	hzcb
 好惨	hzcf
@@ -46916,6 +46927,7 @@ sort: original
 轿车	jcwe
 叫车	jcweo
 交完	jcwf
+浇完	jcwfa
 较晚	jcwfv
 家财万贯	jcwg
 郊外	jcwh
@@ -47314,6 +47326,7 @@ sort: original
 解救	jdjq
 借酒	jdjqi
 解酒	jdjqu
+肠道菌群	jdjquo
 戒酒	jdjqv
 竭诚	jdjr
 结成	jdjra
@@ -54819,6 +54832,7 @@ sort: original
 超充站	jwqv
 检察长	jwqvo
 检查站	jwqvv
+菌群	jwqw
 均照	jwqz
 春招	jwqzv
 局外人	jwr
@@ -56184,6 +56198,7 @@ sort: original
 窥探	kbtf
 喟叹	kbtfo
 魁台	kbth
+看不太出	kbtj
 快半天	kbto
 馗塘	kbtp
 奎塔	kbts
@@ -56987,8 +57002,9 @@ sort: original
 勘校	kfjc
 勘界	kfjd
 砍柴	kfjh
-砍出	kfjj
-刊出	kfjjv
+看出	kfjj
+砍出	kfjjv
+刊出	kfjjvi
 看剧	kfjl
 跨凤乘鸾	kfjlo
 咖啡机	kfjo
@@ -66339,6 +66355,7 @@ sort: original
 没道理	mdl
 没动力	mdl
 买多了	mdla
+没电了	mdla
 马德里	mdlau
 灭了	mdle
 谋略	mdlh
@@ -68847,6 +68864,7 @@ sort: original
 门樘	mntp
 门童	mnty
 门套	mntz
+没弄完	mnw
 门齿	mnwk
 门窗	mnwm
 门王	mnwp
@@ -92042,6 +92060,7 @@ sort: original
 挺近的	tjdi
 挺紧的	tjdi
 挺卷的	tjdio
+挺简单	tjdiu
 挺成熟	tjdiv
 荼毒	tjdj
 天长地久	tjdjv
@@ -92229,6 +92248,7 @@ sort: original
 太旧了	tjlvia
 太卷了	tjlvo
 太近了	tjlvu
+太馋了	tjlvu
 图论	tjlw
 凸轮	tjlwi
 土类	tjlwv
@@ -103217,10 +103237,10 @@ sort: original
 写成	xdjr
 偶成	xdjri
 携程	xdjriu
-谢家	xdjs
+鞋架	xdjs
+谢家	xdjso
 卸甲	xdjsu
 欧佳	xdjsv
-鞋架	xdjsva
 携眷	xdjt
 二等奖	xdjv
 相抵触	xdjvi
@@ -108805,6 +108825,7 @@ sort: original
 喧腾	xttr
 选他	xtts
 宣统	xtty
+小推车	xtw
 悬垂	xtwb
 耳听为虚，眼见为实	xtwe
 悬腕	xtwf
@@ -118288,8 +118309,8 @@ sort: original
 有眼光	yygv
 用光	yygx
 一意孤行	yygxv
-用工	yygy
-用功	yygyu
+用功	yygy
+用工	yygyu
 远远高于	yygyv
 也要和	yyh
 用回	yyhb

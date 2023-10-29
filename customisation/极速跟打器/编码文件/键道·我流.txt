@@ -407,6 +407,7 @@
 饱汉不知饿汉饥	bhbj
 不敢越雷池一步	bgybv
 不管三七二十一	bgsy
+办法总比困难多	bfzda
 半殖民地半封建	bfmjo
 不是冤家不聚头	beyt
 不识庐山真面目	belm
@@ -9514,6 +9515,7 @@
 刻板印象	kbyx
 看不下去	kbxq
 恐怖袭击	kbxj
+看不太出	kbtj
 卡巴斯基	kbsj
 恐怖如斯	kbrs
 刻不容缓	kbrh
@@ -10749,6 +10751,7 @@
 绝对可以	jdkya
 监督检查	jdjw
 绝代佳人	jdjrai
+肠道菌群	jdjquo
 巨大成就	jdjjv
 亟待解决	jdjjau
 监督机制	jdjfi
@@ -15406,6 +15409,7 @@
 错不悔改	cbhg
 草本植物	cbfwi
 从本质上	cbfei
+才不是你	cben
 词不达意	cbdyo
 残编断简	cbdjv
 残暴不仁	cbbr
@@ -18923,6 +18927,7 @@
 小甜心	xtxiu
 小天鹅	xtxi
 系统性	xtx_
+小推车	xtw_
 儿童团	xtt_
 心太软	xtr_
 哮天犬	xtqov
@@ -21339,6 +21344,7 @@
 停机坪	tjp_
 停车难	tjn_
 堂姐妹	tjm_
+太馋了	tjlvu'
 太近了	tjlvu
 太卷了	tjlvo
 太旧了	tjlvia
@@ -21375,6 +21381,7 @@
 太简单	tjdv
 突击队	tjdo
 挺成熟	tjdiv
+挺简单	tjdiu
 挺卷的	tjdio
 挺紧的	tjdi'
 挺近的	tjdi
@@ -24613,6 +24620,7 @@
 闽南语	mnyo
 木乃伊	mny_
 美女秀	mnx_
+没弄完	mnw_
 模拟题	mnt_
 玛纳斯	mns_
 牦牛肉	mnr_
@@ -24949,6 +24957,7 @@
 曼德拉	mdlou
 明道楼	mdlo
 马德里	mdlau
+没电了	mdla'
 买多了	mdla
 没动力	mdl'
 没道理	mdl_
@@ -28989,9 +28998,10 @@
 更差了	gwlvo
 更扯了	gwlv
 跟我来	gwlo
-拐弯了	gwli
+归我了	gwli
 观察力	gwla
-归我了	gwl_
+拐弯了	gwl'
+搞完了	gwl_
 购物狂	gwka
 给我看	gwk_
 拐弯处	gwj_
@@ -29616,7 +29626,8 @@
 干脆面	gcm_
 搞错了	gcl_
 供参考	gck_
-更刺激	gcj_
+更刺激	gcjv
+割草机	gcj_
 构词法	gcf_
 高材生	gceo
 高才生	gce_
@@ -31468,7 +31479,8 @@
 深蓝色	els_
 十六日	elru
 守林人	elr_
-石榴裙	elq_
+石榴裙	elqv
+生理期	elq_
 实力派	elp_
 十六年	eln_
 耍流氓	elmv
@@ -33163,7 +33175,8 @@
 大堡礁	dbjv'
 大背景	dbjv
 道不尽	dbjo
-低不就	dbji
+低不就	dbjiv
+打边机	dbji
 达不成	dbj'
 等不及	dbj_
 东北虎	dbhv
@@ -34037,7 +34050,8 @@
 背叛者	bpf_
 鞭炮声	bpev
 白皮书	bpe_
-不平等	bpd_
+不平等	bpdv
+不拍点	bpd_
 被批捕	bpb_
 不难租	bnzva
 不能做	bnzv
@@ -34476,7 +34490,8 @@
 不该去	bgq_
 不公平	bgp_
 不怪你	bgnv
-不管你	bgn_
+不管你	bgn'
+不给你	bgn_
 不感冒	bgmv
 帮个忙	bgm_
 百公里	bglvu
@@ -39051,8 +39066,8 @@
 永和	yyhe
 用后	yyhd
 用回	yyhb
-用功	yygyu
-用工	yygy
+用工	yygyu
+用功	yygy
 用光	yygx
 用惯	yygt
 佣耕	yygri
@@ -49124,10 +49139,10 @@
 鞋匠	xdjxv
 谢军	xdjw
 携眷	xdjt
-鞋架	xdjsva
 欧佳	xdjsv
 卸甲	xdjsu
-谢家	xdjs
+谢家	xdjso
+鞋架	xdjs
 携程	xdjriu
 偶成	xdjri
 写成	xdjr
@@ -83296,8 +83311,9 @@
 看酒	kfjq
 看场	kfjp
 看剧	kfjl
-刊出	kfjjv
-砍出	kfjj
+刊出	kfjjvi
+砍出	kfjjv
+看出	kfjj
 砍柴	kfjh
 勘界	kfjd
 勘校	kfjc
@@ -84769,6 +84785,7 @@
 均热	jwre
 春招	jwqzv
 均照	jwqz
+菌群	jwqw
 军权	jwqt
 军政	jwqro
 纯正	jwqr
@@ -90561,6 +90578,7 @@
 教务	jcwj
 郊外	jcwh
 较晚	jcwfv
+浇完	jcwfa
 交完	jcwf
 叫车	jcweo
 轿车	jcwe
@@ -91845,7 +91863,8 @@
 耗材	hzch
 好惨	hzcf
 好脆	hzcb
-好报	hzbz
+好报	hzbza
+好饱	hzbz
 好棒	hzbp
 好辩	hzbm
 浩博	hzbl
@@ -114189,6 +114208,7 @@
 点来	dmlh
 电铃	dmlg
 电缆	dmlf
+垫了	dmlei
 点了	dmle
 电疗	dmlc
 电控	dmky
@@ -122196,6 +122216,7 @@
 不喷	bjpn
 不偏	bjpm
 布匹	bjpk
+不拍	bjph
 不判	bjpf
 补票	bjpc
 步频	bjpbi
