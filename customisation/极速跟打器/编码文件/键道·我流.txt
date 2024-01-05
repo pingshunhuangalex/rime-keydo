@@ -5114,6 +5114,7 @@
 未尝不可	wjbkv
 维基百科	wjbka
 愁肠百结	wjbju
+我就不和	wjbh
 万劫不复	wjbfv
 物极必反	wjbfu
 晚节不终	wjbfo
@@ -19373,7 +19374,8 @@
 相结合	xjhv
 徐家汇	xjhu
 宣讲会	xjho
-小家伙	xjhi
+小家伙	xjhio
+瞎掺和	xjhi
 戏剧化	xjha
 按计划	xjh_
 二极管	xjg_
@@ -21136,6 +21138,7 @@
 太正式	tqevv
 太真实	tqev
 特长生	tqeu
+挺准时	tqei
 提前说	tqe_
 太主动	tqdv
 跆拳道	tqd_
@@ -21438,10 +21441,11 @@
 铁观音	tgyia
 挺诡异	tgyi
 太过于	tgy_
+泰戈尔	tgxvv
 太狗血	tgxv
 腾格尔	tgxu
 台港澳	tgxa
-泰戈尔	tgx_
+听个响	tgx_
 体改委	tgw_
 剃光头	tgt_
 她告诉	tgsa
@@ -24491,7 +24495,8 @@
 没玩过	mwg'
 没吃过	mwg_
 门卫室	mwe_
-没吃的	mwd_
+没吃的	mwda
+没我的	mwd_
 马尾辫	mwb_
 明太祖	mtz_
 蛮讨厌	mtyo
@@ -25767,6 +25772,7 @@
 留的留	ldlu
 劳动力	ldliv
 累多了	ldli
+落地了	ldl'
 落到了	ldl_
 离得开	ldk_
 烂大街	ldjo
@@ -27732,7 +27738,8 @@
 挤不进	jbj_
 简笔画	jbhu
 决不会	jbho
-绝不会	jbh_
+绝不会	jbha
+就不和	jbh_
 几百个	jbgu
 基本功	jbg_
 基本法	jbfv
@@ -31050,7 +31057,8 @@
 实用性	eyxou
 商业性	eyxoi
 试一下	eyxo
-少一些	eyxi
+少一些	eyxiv
+睡一下	eyxi
 收一下	eyxa
 刷一下	eyx'
 说一下	eyx_
@@ -31144,7 +31152,6 @@
 十二月	exyu
 商学院	exyoo
 守信用	exyo
-睡一下	exyi
 受限于	exy'
 首先要	exy_
 时效性	exxo
@@ -31241,8 +31248,10 @@
 杀无赦	eweu
 手挽手	ewei
 十五时	ewe_
-十五大	ewdu
-失望到	ewd_
+十五大	ewduv
+失望到	ewdu
+少穿点	ewd'
+少吃点	ewd_
 商务部	ewbo
 数位板	ewb'
 尚未被	ewb_
@@ -35092,6 +35101,7 @@
 获得	huu
 回答	huv
 还有	hv
+好有	hv'
 回到	hva
 还要	hvi
 回来	hvo
@@ -37821,7 +37831,8 @@
 再敢	zhgfv
 在赶	zhgf
 宰割	zhge
-再找	zhfz
+再找	zhfzv
+在找	zhfz
 栽种	zhfyu
 载重	zhfy
 再发	zhfs
@@ -53928,7 +53939,7 @@
 无补	wjbjvo
 无不	wjbjv
 舞步	wjbj
-五百	wjbh
+五百	wjbhv
 无病	wjbg
 舞伴	wjbf
 无表	wjbc
@@ -86219,7 +86230,6 @@
 就少	jqez
 就剩	jqero
 救生	jqer
-就上	jqep
 酒神	jqen
 就说	jqel
 救世	jqekvv
@@ -87504,10 +87514,11 @@
 具体	jltk
 巨图	jltj
 巨贪	jltf
-聚头	jltdv
+聚头	jltdvo
+巨头	jltdv
 举头	jltdo
 剧透	jltda
-巨头	jltd
+举铁	jltd
 锯条	jltc
 举腿	jltb
 巨松	jlsy
@@ -96440,6 +96451,7 @@
 挥刀	hbdzi
 会到	hbdz
 挥动	hbdy
+会打	hbds
 回灯	hbdr
 会丢	hbdq
 回档	hbdpi
