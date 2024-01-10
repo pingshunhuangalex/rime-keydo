@@ -16479,6 +16479,7 @@
 做自己	zzj_
 最糟糕	zzg_
 曾祖父	zzf_
+脏脏的	zzdu
 在座的	zzd_
 自造词	zzc_
 纵坐标	zzb_
@@ -18708,7 +18709,8 @@
 奥运会	xyhu
 下一回	xyh_
 想一个	xygv
-爱一个	xygu
+爱一个	xyguv
+选一个	xygu
 炫一个	xygov
 学一个	xygo
 眩晕感	xygio
@@ -29631,6 +29633,7 @@
 改错题	gct_
 观测站	gcq_
 干脆面	gcm_
+更苍老	gclv
 搞错了	gcl_
 供参考	gck_
 更刺激	gcjv
@@ -34124,6 +34127,7 @@
 白忙活	bmhu
 伯明翰	bmhi
 爆米花	bmh_
+不敏感	bmgv
 白玫瑰	bmgu
 闭门羹	bmg_
 白魔法	bmfu
@@ -35605,6 +35609,7 @@
 是这	ef_
 是个	eg_
 是和	eh_
+是了	el_
 是没	em_
 是嘛	em'
 是你	en_
@@ -36651,6 +36656,7 @@
 葬地	zpdk
 藏独	zpdj
 脏弹	zpdf
+脏的	zpdeu
 脏得	zpde
 藏胞	zpbz
 谮言	znyf
@@ -53770,6 +53776,7 @@
 武功	wjgy
 乌光	wjgxui
 无光	wjgx
+武馆	wjgtvu
 武官	wjgtvo
 五官	wjgtv
 无关	wjgt
