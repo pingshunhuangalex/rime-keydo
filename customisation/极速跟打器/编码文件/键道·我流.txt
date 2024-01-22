@@ -3759,6 +3759,7 @@
 耳听八方	xtbf
 迅速增加	xszja
 奥斯维辛	xswxu
+饿死我了	xswlu
 笑死我了	xswl'
 吓死我了	xswl
 徇私枉法	xswfu
@@ -17511,8 +17512,9 @@
 一万年	ywnv
 一刹那	ywn_
 英文名	ywm_
-业务量	ywli
-英文里	ywl_
+业务量	ywliu
+英文里	ywli
+压弯了	ywl_
 语文课	ywko
 依我看	ywk_
 云玩家	ywjv
@@ -22212,7 +22214,8 @@
 润色下	rsx_
 染色体	rst_
 肉丝面	rsm_
-认死理	rsl_
+认死理	rslo
+热死了	rsl_
 乳酸菌	rsj_
 如斯般	rsb_
 惹人醉	rrz_
@@ -54347,7 +54350,8 @@
 玩烂	wflf
 玩乐	wflevu
 玩了	wflev
-晚了	wfleo
+弯了	wfleo
+晚了	wfle'
 完了	wfle
 顽劣	wfld
 万卡	wfks
@@ -79318,6 +79322,7 @@
 离异	lkykoa
 礼仪	lkyko
 利益	lkyk
+礼乐	lkyho
 里约	lkyhi
 立约	lkyh
 丽影	lkygv
@@ -79528,7 +79533,6 @@
 醴陵	lklgv
 立领	lklgo
 离另	lklg
-礼乐	lkleou
 离了	lkleo
 里了	lkle
 理疗	lklc
