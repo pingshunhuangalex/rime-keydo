@@ -1144,9 +1144,9 @@ sort: original
 搬来	bflh
 播放量	bfli
 半路	bflj
-板栗	bflk
-办理	bflka
+办理	bflk
 班里	bflkv
+板栗	bflkvv
 伴侣	bfll
 半裸	bfllo
 兵分两路	bfllu
@@ -2765,6 +2765,7 @@ sort: original
 边角料	bjla
 不吝	bjlb
 不料	bjlc
+补料	bjlco
 布料	bjlcv
 捕猎	bjld
 补漏	bjldo
@@ -4105,7 +4106,8 @@ sort: original
 波恩	blxn
 伯恩	blxni
 半老徐娘	blxno
-病理学	blxo
+补料信	blxo
+病理学	blxov
 剥下	blxs
 播下	blxsi
 布莱恩特	blxt
@@ -7508,6 +7510,7 @@ sort: original
 参数	cfej
 蚕食	cfek
 参事	cfeka
+餐食	cfeki
 参审	cfen
 参上	cfep
 残生	cfer
@@ -10101,6 +10104,7 @@ sort: original
 对曰	dbyh
 对月	dbyha
 打不赢	dbyi
+大病一场	dbyj
 对弈	dbyk
 对呀	dbys
 队员	dbyt
@@ -16360,8 +16364,8 @@ sort: original
 动地	dydk
 懂点	dydm
 动荡	dydp
-东等	dydr
-大鱼大肉	dydrv
+大鱼大肉	dydr
+东等	dydrv
 东大	dyds
 东段	dydt
 都有点	dydu
@@ -21581,7 +21585,8 @@ sort: original
 神盾	endwo
 深冬	endy
 伸到	endz
-神道	endzo
+审到	endzo
+神道	endzoo
 神农氏	ene
 深水	eneb
 渗水	eneba
@@ -39925,6 +39930,7 @@ sort: original
 后凸	hdtju
 厚涂	hdtjv
 后天	hdtm
+齁甜	hdtmu
 后臀	hdtw
 后同	hdty
 换电池	hdw
@@ -51281,7 +51287,6 @@ sort: original
 巨佬	jllz
 见了面	jlm
 出了名	jlma
-讲礼貌	jlmo
 居民	jlmb
 出了名的	jlmd
 出了明的	jlmda
@@ -51294,7 +51299,8 @@ sort: original
 句末	jlml
 巨魔	jlmlv
 局面	jlmm
-卷帘门	jlmo
+讲礼貌	jlmo
+卷帘门	jlmoo
 巨蟒	jlmp
 聚吗	jlms
 局麻	jlmsa
@@ -67269,7 +67275,8 @@ sort: original
 卖卡	mhks
 卖空	mhky
 买空	mhkya
-忙好了	mhl
+买好了	mhl
+卖好了	mhl
 买回来	mhla
 买了	mhle
 卖了	mhleu
@@ -67278,7 +67285,8 @@ sort: original
 麦粒	mhlkv
 脉络	mhll
 卖脸	mhlm
-闷葫芦	mhlo
+忙好了	mhlo
+闷葫芦	mhloi
 麦浪	mhlp
 梅花鹿	mhlv
 麦类	mhlw
@@ -71011,7 +71019,8 @@ sort: original
 南斗	nfdd
 男的	nfde
 男单	nfdf
-男丁	nfdg
+难订	nfdg
+男丁	nfdgi
 难戴	nfdh
 难度	nfdj
 男滴	nfdk
@@ -72773,6 +72782,7 @@ sort: original
 能举	nrjl
 能剧	nrjla
 能见	nrjm
+能减	nrjma
 能成	nrjr
 能加	nrjs
 能将	nrjx
@@ -72883,7 +72893,8 @@ sort: original
 那顶	nsdga
 纳斯达克	nsdk
 拿多	nsdl
-那点	nsdm
+拿点	nsdm
+那点	nsdma
 哪点	nsdmo
 暖色调	nsdo
 那等	nsdr
@@ -79241,6 +79252,7 @@ sort: original
 宅院	qhyt
 漆黑一团	qhyta
 缺员	qhytu
+真好用	qhyu
 其含义	qhyv
 却要	qhyz
 却还在	qhz
@@ -93686,11 +93698,12 @@ sort: original
 探亲假	tqjio
 天主教	tqjv
 投亲靠友	tqky
-通胀率	tql
+听起来	tql
+通胀率	tqla
 同气连枝	tqlf
+推起来	tqli
 天真烂漫	tqlm
-听起来	tqlo
-跳起来	tqlov
+跳起来	tqlo
 太强了	tqlv
 她岂能	tqn
 提前批	tqp
