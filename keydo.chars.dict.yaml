@@ -3410,7 +3410,6 @@ sort: original
 状	fmovvu
 桩	fmv
 桩	fmvovu
-分	fn
 纷	fna
 纷	fnaauo
 瀵	fnao
@@ -3439,6 +3438,7 @@ sort: original
 吩	fnouoa
 粉	fnouuo
 粪	fnouvi
+分	fnu
 氛	fnu
 鲼	fnua
 鲼	fnuauo

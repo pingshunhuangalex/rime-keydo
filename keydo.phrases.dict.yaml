@@ -2616,6 +2616,7 @@ sort: original
 不及格	bjgv
 比较高	bjgvv
 不给	bjgw
+补给	bjgwo
 不光	bjgx
 北京国安	bjgxi
 白驹过隙	bjgxu
@@ -3782,9 +3783,10 @@ sort: original
 抱了抱	blbi
 波澜不惊	blbj
 波比	blbk
-哔哩哔哩	blbl
+叭啦叭啦	blbl
 巴拉巴拉	blbla
 伯伯	blbli
+哔哩哔哩	blblo
 勃勃	blblu
 饽饽	blbluu
 不伦不类	blblv
@@ -13858,6 +13860,8 @@ sort: original
 点错	dmcl
 典藏	dmcp
 垫草	dmcz
+多买点	dmd
+多卖点	dmd
 大名鼎鼎	dmdd
 点的	dmde
 点单	dmdf
@@ -26036,16 +26040,17 @@ sort: original
 职官表	fgbv
 富贵不能淫	fgby
 中关村	fgc
-这个度	fgd
-中高档	fgd
+这个的	fgd
 法国的	fgda
 中国当代	fgdd
 种瓜得瓜	fgdg
 中国—东盟博览会	fgdh
+中高档	fgdi
 中高端	fgdi
 中国队	fgdii
 中国大陆	fgdl
 这个道理	fgdlo
+这个度	fgdo
 制高点	fgdu
 致公党	fgdv
 职工队伍	fgdw
@@ -34065,7 +34070,7 @@ sort: original
 敢装	gffx
 干重	gffy
 感召	gffz
-丐中丐	gfg
+搞这个	gfg
 赶鬼	gfgb
 干沟	gfgd
 干个	gfge
@@ -34083,7 +34088,8 @@ sort: original
 股份公司	gfgs
 感官	gfgt
 敢管	gfgta
-甘志国	gfgv
+丐中丐	gfgv
+甘志国	gfgvv
 各种各样	gfgy
 国防工业	gfgyi
 肝功	gfgyu
@@ -34692,6 +34698,7 @@ sort: original
 该款	ghkt
 概况	ghkx
 搞好了	ghl
+干活了	ghl
 改好了	ghla
 钙磷	ghlb
 盖了	ghlc
@@ -35153,7 +35160,6 @@ sort: original
 顾况	gjkx
 沽空	gjky
 搞出来	gjl
-构成了	gjl
 滚出来	gjla
 古蔺	gjlb
 骨料	gjlc
@@ -35187,8 +35193,10 @@ sort: original
 古浪	gjlp
 骨瘤	gjlq
 国家领导人	gjlr
-攻击力	gjlv
+过节了	gjlv
+构成了	gjlv
 工程量	gjlvu
+攻击力	gjlvv
 谷类	gjlw
 古论	gjlwu
 估量	gjlx
@@ -35285,17 +35293,17 @@ sort: original
 国家主席	gjqxi
 共产主义	gjqy
 国际主义	gjqyi
-工具人	gjr
+刚加入	gjr
 骨肉	gjrd
 固然	gjrf
 各级人民政府	gjrfu
 甘居人后	gjrh
-刚加入	gjri
 光洁如镜	gjrj
 顾若	gjrl
 古人	gjrn
 雇人	gjrno
 故人	gjrnu
+工具人	gjrv
 高级人民法院	gjry
 高加索	gjs
 港交所	gjsa
@@ -45303,7 +45311,7 @@ sort: original
 红虫	hywy
 洪朝	hywz
 洪潮	hywza
-还有些	hyx
+薅一下	hyx
 红心	hyxb
 哄笑	hyxc
 荒野行动	hyxd
@@ -45325,6 +45333,7 @@ sort: original
 红霞	hyxs
 哄啊	hyxso
 很有限	hyxu
+还有些	hyxv
 鸿勋	hyxw
 和衣而卧	hyxwu
 烘箱	hyxx
@@ -48483,7 +48492,7 @@ sort: original
 劲爆	jgbza
 京报	jgbzo
 惊爆	jgbzoo
-几个词	jgc
+除个草	jgc
 精粹	jgcb
 警策	jgce
 精彩	jgch
@@ -48494,6 +48503,7 @@ sort: original
 经此	jgcka
 敬辞	jgcki
 惊错	jgcl
+几个词	jgcu
 井村	jgcw
 竟从	jgcy
 劲草	jgcz
@@ -56817,8 +56827,8 @@ sort: original
 可玩	kewf
 课外	kewh
 可恶	kewj
-可耻	kewk
-可吃	kewkv
+可吃	kewk
+可耻	kewkv
 科创	kewm
 课文	kewn
 口说无凭	kewp
@@ -58894,6 +58904,7 @@ sort: original
 昆迪	kwdk
 坤奠	kwdm
 考察队	kwdu
+可吃的	kwdv
 困顿	kwdw
 可谓是	kwe
 困守	kwed
@@ -58932,9 +58943,10 @@ sort: original
 看网课	kwki
 困苦	kwkj
 困困	kwkw
-看穿了	kwl
+看完了	kwl
 困了	kwle
 坤伶	kwlg
+看穿了	kwli
 口齿伶俐	kwll
 困留	kwlq
 昆仑	kwlw
@@ -71019,7 +71031,8 @@ sort: original
 南斗	nfdd
 男的	nfde
 男单	nfdf
-难订	nfdg
+难顶	nfdg
+难订	nfdga
 男丁	nfdgi
 难戴	nfdh
 难度	nfdj
@@ -84926,6 +84939,7 @@ sort: original
 人贩子	rfz
 然则	rfze
 软骨病	rgb
+人工草坪	rgcp
 日光灯	rgd
 人工单	rgdi
 如果说	rge
@@ -89839,8 +89853,8 @@ sort: original
 听不出	tbjo
 退场	tbjp
 腿长	tbjpu
-推究	tbjq
-听不进去	tbjqo
+听不进去	tbjq
+推究	tbjqi
 推诚	tbjr
 特别奖	tbju
 退潮	tbjz
@@ -89851,6 +89865,8 @@ sort: original
 痛并快乐着	tbkf
 退开	tbkh
 退库	tbkj
+他不可能	tbkn
+她不可能	tbkn
 腿胯	tbkqu
 退坑	tbkr
 退卡	tbks
@@ -93382,6 +93398,7 @@ sort: original
 挺明显	tmxi
 天马行空	tmxk
 天线	tmxm
+甜咸	tmxmu
 天仙	tmxmv
 天恩	tmxn
 天下	tmxs
@@ -96569,8 +96586,10 @@ sort: original
 完足	wfzj
 闻者足戒	wfzjo
 丸子	wfzk
-绾作	wfzl
+无犯罪记录	wfzl
+绾作	wfzla
 完钻	wfzt
+无犯罪	wfzv
 挽尊	wfzw
 无副作用	wfzy
 晚造	wfzz
@@ -102707,7 +102726,7 @@ sort: original
 小孔	xcky
 小考	xckz
 校考	xckzv
-二层楼	xcl
+下次来	xcl
 小林	xclb
 肖林	xclbi
 肖琳	xclbiv
@@ -102737,6 +102756,7 @@ sort: original
 小刘	xclq
 笑啦	xcls
 萧鸾	xclt
+二层楼	xclv
 小类	xclw
 销量	xclx
 小龙	xcly

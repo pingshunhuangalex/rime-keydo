@@ -903,6 +903,7 @@
 外国语大学	wgyx
 无官一身轻	wgyqv
 无功不受禄	wgbl
+无犯罪记录	wfzl
 无招胜有招	wfefv
 无风不起浪	wfblv
 网上营业厅	weyti
@@ -5989,8 +5990,10 @@
 听不清楚	tbqj
 通报批评	tbpp
 挑拨离间	tblji
+她不可能	tbkn'
+他不可能	tbkn
 添兵减灶	tbjza
-听不进去	tbjqo
+听不进去	tbjq
 特别节目	tbjmu
 推杯换盏	tbhqi
 特别高兴	tbgxu
@@ -6611,6 +6614,7 @@
 人工智能	rgfn
 人格分裂	rgfl
 人工授精	rgej
+人工草坪	rgcp
 日复一日	rfyr
 仁至义尽	rfyj
 人浮于事	rfyei
@@ -15914,8 +15918,9 @@
 变来变去	blbqo
 搬来搬去	blbq
 不伦不类	blblv
+哔哩哔哩	blblo
 巴拉巴拉	blbla
-哔哩哔哩	blbl
+叭啦叭啦	blbl
 波澜不惊	blbj
 摆了摆手	blbe
 不理不睬	blbc
@@ -19805,7 +19810,8 @@
 瑕疵品	xcp_
 下次你	xcn_
 小聪明	xcm_
-二层楼	xcl_
+二层楼	xclv
+下次来	xcl_
 下次见	xcj_
 修辞格	xcg_
 幸存者	xcf_
@@ -20570,6 +20576,7 @@
 彻骨的	wgdu
 外国的	wgd_
 魏公村	wgc_
+无犯罪	wfzv
 重复做	wfz_
 为中心	wfxo
 我发现	wfx_
@@ -25980,7 +25987,8 @@
 看文章	kwq_
 开车门	kwmv
 靠我们	kwm_
-看穿了	kwl_
+看穿了	kwli
+看完了	kwl_
 看网课	kwki
 开窗口	kwk_
 开胃酒	kwjv
@@ -25989,6 +25997,7 @@
 矿物质	kwf_
 课外书	kweo
 可谓是	kwe_
+可吃的	kwdv
 考察队	kwdu
 快车道	kwd_
 开胃菜	kwc_
@@ -27341,7 +27350,8 @@
 成功的	jgdv
 唱高调	jgdo
 聚光灯	jgd_
-几个词	jgc_
+几个词	jgcu
+除个草	jgc_
 极个别	jgbv
 鸡公煲	jgba
 金箍棒	jgb_
@@ -27815,9 +27825,10 @@
 很愿意	hyyu
 黑黝黝	hyyi
 黑压压	hyy_
+还有些	hyxv
 很有限	hyxu
 回忆下	hyxi
-还有些	hyx_
+薅一下	hyx_
 火药味	hywo
 还以为	hyw_
 会议厅	hyt_
@@ -29338,8 +29349,8 @@
 冠军赛	gjso
 港交所	gjsa
 高加索	gjs_
-刚加入	gjri
-工具人	gjr_
+工具人	gjrv
+刚加入	gjr_
 攻坚战	gjqv
 高架桥	gjqoa
 关键帧	gjqo
@@ -29349,11 +29360,12 @@
 更加难	gjn_
 郭敬明	gjmo
 盖浇面	gjm_
+攻击力	gjlvv
 工程量	gjlvu
-攻击力	gjlv
+构成了	gjlv'
+过节了	gjlv
 供给量	gjli
 滚出来	gjla
-构成了	gjl'
 搞出来	gjl_
 公交卡	gjk_
 工程处	gjjvu
@@ -29427,6 +29439,7 @@
 赶回来	ghlv
 搞混了	ghli
 改好了	ghla
+干活了	ghl'
 搞好了	ghl_
 怪好看	ghko
 更何况	ghk_
@@ -29519,8 +29532,9 @@
 规范化	gfhv
 高峰会	gfho
 公众号	gfh_
-甘志国	gfgv
-丐中丐	gfg_
+甘志国	gfgvv
+丐中丐	gfgv
+搞这个	gfg_
 股份制	gff_
 高富帅	gfeoo
 高中生	gfeo
@@ -30696,11 +30710,12 @@
 这个是	fge_
 致公党	fgdv
 制高点	fgdu
+这个度	fgdo
 中国队	fgdii
-中高端	fgdi
+中高端	fgdi'
+中高档	fgdi
 法国的	fgda
-中高档	fgd'
-这个度	fgd_
+这个的	fgd_
 中关村	fgc_
 职官表	fgbv
 反光板	fgb_
@@ -32606,6 +32621,8 @@
 大明湖	dmh_
 大满贯	dmg_
 大拇指	dmf_
+多卖点	dmd'
+多买点	dmd_
 代名词	dmc_
 逗猫棒	dmb_
 等离子	dlzu
@@ -35642,6 +35659,7 @@
 这没	fm_
 父母	fm'
 这你	fn_
+这能	fn'
 这人	fr_
 这我	fw_
 这一	fy_
@@ -35713,6 +35731,7 @@
 你是	ne_
 你这	nf_
 你和	nh_
+你好	nh'
 能和	nh'
 你就	nj_
 你可	nk_
@@ -54203,7 +54222,7 @@
 晚造	wfzz
 挽尊	wfzw
 完钻	wfzt
-绾作	wfzl
+绾作	wfzla
 丸子	wfzk
 完足	wfzj
 万载	wfzh
@@ -56211,6 +56230,7 @@
 天下	tmxs
 天恩	tmxn
 天仙	tmxmv
+甜咸	tmxmu
 天线	tmxm
 天星	tmxgv
 天性	tmxg
@@ -58994,7 +59014,7 @@
 退朝	tbjzau
 退潮	tbjz
 推诚	tbjr
-推究	tbjq
+推究	tbjqi
 腿长	tbjpu
 退场	tbjp
 推荐	tbjm
@@ -72987,7 +73007,8 @@
 难度	nfdj
 难戴	nfdh
 男丁	nfdgi
-难订	nfdg
+难订	nfdga
+难顶	nfdg
 男单	nfdf
 男的	nfde
 南斗	nfdd
@@ -83500,8 +83521,8 @@
 可望	kewpv
 课文	kewn
 科创	kewm
-可吃	kewkv
-可耻	kewk
+可耻	kewkv
+可吃	kewk
 可恶	kewj
 课外	kewh
 可玩	kewf
@@ -122443,6 +122464,7 @@
 不恭	bjgyv
 不公	bjgy
 不光	bjgx
+补给	bjgwo
 不给	bjgw
 不惯	bjgtvo
 不关	bjgtv
@@ -127521,7 +127543,6 @@
 状	fmovvu
 桩	fmv
 桩	fmvovu
-分	fn_
 纷	fna
 纷	fnaauo
 瀵	fnao
@@ -127550,6 +127571,7 @@
 吩	fnouoa
 粉	fnouuo
 粪	fnouvi
+分	fnu
 氛	fnu
 鲼	fnua
 鲼	fnuauo
