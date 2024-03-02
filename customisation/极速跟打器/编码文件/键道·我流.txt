@@ -1021,7 +1021,6 @@
 青龙偃月刀	qlyd
 千里送鹅毛	qlsm
 权利的游戏	qldx
-睁开了眼睛	qklji
 珠江三角洲	qjsf
 全国总工会	qgzhi
 主观能动性	qgnx
@@ -8063,6 +8062,7 @@
 能说会道	nehd
 你是不是	nebe
 南水北调	nebd
+脑袋一拍	ndyp
 难得一见	ndyj
 女大学生	ndxea
 牛刀小试	ndxe
@@ -17183,7 +17183,9 @@
 再不能	zbnv
 早八年	zbno
 总不能	zbn_
-作弊码	zbm_
+作弊码	zbmi
+再不卖	zbm'
+再不买	zbm_
 走不了	zblv
 自变量	zblu
 资本论	zblo
@@ -17570,7 +17572,8 @@
 一条条	yttv
 姨太太	ytta
 一天天	ytt_
-犹太人	ytr_
+犹太人	ytru
+一头热	ytr_
 亚太区	ytq_
 有头脑	ytn_
 云吞面	ytm_
@@ -21467,8 +21470,10 @@
 弹钢琴	tgq_
 太干了	tglvv
 太功利	tglv
+挺过来	tgliv
 提供了	tglii
-挺过来	tgli
+推高了	tgli'
+抬高了	tgli
 提高了	tgl'
 提过了	tgl_
 同甘苦	tgk_
@@ -26553,7 +26558,8 @@
 救援队	jydv
 长一点	jyduv
 近一点	jydu
-常言道	jydi
+常言道	jydio
+尝一点	jydi
 加一点	jyda
 就一点	jyd_
 据预测	jyci
@@ -41176,9 +41182,9 @@
 一匹	ykpkv
 一批	ykpk
 译谱	ykpj
-一拍	ykphv
-一派	ykph'
-一排	ykph
+一派	ykphv'
+一排	ykphv
+一拍	ykph
 一瓶	ykpg
 一盘	ykpf
 一撇	ykpdvi
@@ -59040,6 +59046,7 @@
 颓坏	tbhg
 退后	tbhd
 退回	tbhb
+推高	tbgz
 推广	tbgx
 退给	tbgwa
 推给	tbgw
