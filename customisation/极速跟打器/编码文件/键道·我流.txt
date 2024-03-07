@@ -58332,8 +58332,8 @@
 透信	tdxbu
 贴心	tdxb
 铁窗	tdwx
-投喂	tdwwi
-头尾	tdww
+头尾	tdwwo
+投喂	tdww
 铁船	tdwti
 投传	tdwt
 铁叉	tdws
@@ -98792,6 +98792,7 @@
 光管	gmgt
 光光	gmgmi
 逛逛	gmgm
+逛过	gmgl
 光顾	gmgj
 光怪	gmgg
 光杆	gmgfi
