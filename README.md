@@ -1,6 +1,8 @@
 # 键道·我流
 
-[![星空键道](https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2023.04.29%20--%206175254-orange)](https://github.com/xkinput/Rime_JD/commits/master)
+<a href="https://github.com/xkinput/Rime_JD/commits/master"><img align="right" alt="星空键道" src="https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2023.04.29%20--%206175254-brightgreen" /></a>
+
+[![Rime Weasel](https://img.shields.io/badge/Rime%20Weasel-v0.15.0-blue)](https://rime.im/release/weasel/) [![Rime Squirrel](https://img.shields.io/badge/Rime%20Squirrel-v0.17.2-orange)](https://github.com/LEOYoon-Tsaw/squirrel/releases)
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
 
@@ -51,6 +53,8 @@
 - 避免将网络用语（例如烂梗，谐音和火星文等）和专有名词编入任意简码
 
 - 为特殊简码添加次选，且允许使用形码作为首码，从而将编码空间从630（`21 * 5 + 21 * 5 * 5 = 630`）扩充至1560（`(26 * 5 + 26 * 5 * 5) * 2 = 1560`）
+
+- 在简码后直接连接特殊简码情况下，可无需空格直接输入
 
 ## 词库删改逻辑
 

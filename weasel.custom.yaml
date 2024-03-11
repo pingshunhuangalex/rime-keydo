@@ -13,29 +13,36 @@ patch:
     hilited_candidate_text_color: 0xea92c7 # 高亮候选项字体颜色
     hilited_comment_text_color: 0x6bcbff # 高亮候选项编码提示字体颜色
     hilited_label_color: 0x6a8cf7 # 高亮候选项序号字体颜色
+    hilited_mark_color: 0x6a8cf7 # 高亮候选项标记字体颜色
     hilited_text_color: 0xea92c7 # 输入区高亮部分（编码）字体颜色
     label_color: 0x797979 # 候选项序号字体颜色
     name: 键道·我流／SPHS # 主题名称
     text_color: 0xffaa82 # 输入区字体颜色
   style: # 主题配置
     color_scheme: keydo # 当前主题
+    comment_font_point: 12 # 候选项编码提示字号
     display_tray_icon: false # [Win] 是否显示托盘图标（默认隐藏）
     font_face: "Sarasa Mono SC" # 主题字体样式
     font_point: 14 # 主题字体字号
     fullscreen: false # [Win] 是否在全屏显示输入窗口（默认隐藏）
     horizontal: true # 候选项是否横排（默认横排）
     inline_preedit: true # 是否开启输入区嵌入（默认开启）
+    label_font_point: 12 # 候选项序号字号
     label_format: "" # 候选项序号格式（`%s`为候选项序号）
     layout: # [Win] 主题布局配置
+      align_type: bottom # 候选区对齐方式
       border_height: 2 # 主题上下边框粗细（须与左右边框粗细同时使用）
       border_width: 2 # 主题左右边框粗细（须与上下边框粗细同时使用）
       candidate_spacing: 12 # 候选项间距
+      corner_radius: 6 # 候选区圆角半径
+      enhanced_position: true # 允许在光标位置获取失败时于窗口左上角绘制候选框（而不是桌面左上角）
+      hilited_corner_radius: 6 # 候选项圆角半径
       hilite_padding: 6 # 高亮候选项填充空间
       hilite_spacing: 6 # 高亮候选项间距
       margin_x: 8 # 主题左右边距
-      margin_y: -9999 # 主题上下边距（边距为负值时隐藏候选区）
+      margin_y: -1 # 主题上下边距（边距为负值时隐藏候选区）
       min_height: 0 # 主题最小高度
       min_width: 0 # 主题最小宽度
-      round_corner: 0 # 候选项圆角半径
       spacing: 8 # 输入区与候选区间距
-    preedit_type: preview # [Win] 输入区嵌入模式（默认预览编码）
+    mark_text: "" # 高亮候选项标记
+    preedit_type: preview_all # [Win] 输入区嵌入模式（默认预览编码）
