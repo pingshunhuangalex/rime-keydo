@@ -16896,8 +16896,9 @@
 紫荆花	zjhi
 走江湖	zjh_
 自己过	zjg_
+总产值	zjfoo
 总价值	zjfo
-总产值	zjf_
+自建房	zjf_
 增程式	zjevu
 再就是	zjev
 早就是	zjeo
@@ -22102,6 +22103,7 @@
 四次元	scyi
 三次元	scy_
 桑蚕丝	scs_
+搜错了	scl_
 素包子	sbzvu
 三步走	sbzv
 腮帮子	sbzu
@@ -23942,6 +23944,7 @@
 牛肉汤	nrt_
 暖融融	nrr_
 聂荣臻	nrq_
+牛肉末	nrmui
 牛肉面	nrmu
 女人们	nrma
 男人们	nrm_
@@ -27638,8 +27641,9 @@
 机顶盒	jdhv
 近代化	jdhui
 简单化	jdhu
+接电话	jdhi
 绝对化	jdha
-接电话	jdh_
+就都还	jdh_
 记大过	jdgo
 见到过	jdgi
 鸡蛋羹	jdga
@@ -29172,6 +29176,7 @@
 钢珠笔	gqbi
 公主病	gqb_
 高频字	gpz_
+更便宜	gpyv
 够朋友	gpy_
 公平性	gpx_
 跟屁虫	gpw_
@@ -75755,7 +75760,9 @@
 买者	mhfea
 迈着	mhfe
 麦粥	mhfd
-麦莎	mhes
+麦莎	mhesv
+卖啥	mhes'
+买啥	mhes
 迈上	mhep
 卖身	mhen
 埋尸	mhekv
@@ -91842,6 +91849,7 @@
 好找	hzfza
 号召	hzfz
 好重	hzfya
+好废	hzfwa
 耗费	hzfw
 好转	hzft
 毫发	hzfso
@@ -121813,7 +121821,8 @@
 必来	bklh
 比烂	bklfv
 碧蓝	bklf
-毙了	bkle
+毙了	bklev
+比了	bkle
 鄙陋	bkldo
 鄙劣	bkld
 碧聊	bklc
