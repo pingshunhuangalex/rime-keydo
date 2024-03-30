@@ -8223,7 +8223,6 @@
 眉头一皱	mtyf
 美图秀秀	mtxx
 明天下午	mtxw
-每天晚上	mtweu
 明天晚上	mtwe
 慢条斯理	mtsl
 门庭若市	mtre
@@ -16771,8 +16770,8 @@
 自媒体	zmtu
 怎么听	zmt_
 怎么算	zms_
-在默认	zmrv
-最磨人	zmr_
+最磨人	zmro
+怎么让	zmr_
 自贸区	zmqu
 奏鸣曲	zmq_
 姊妹篇	zmp_
@@ -20572,7 +20571,8 @@
 我估计	wgj_
 温哥华	wgha
 外国货	wgh_
-忘光光	wgg_
+忘光光	wggo
+吃个够	wgg_
 吃干饭	wgfo
 吃个饭	wgf_
 我敢说	wge_
@@ -24525,7 +24525,8 @@
 蛮讨厌	mtyo
 猫头鹰	mty_
 模特儿	mtxv
-满天星	mtx_
+满天星	mtxa
+没头绪	mtx_
 摩托车	mtw_
 慢腾腾	mtto
 马桶台	mtta
@@ -30985,6 +30986,7 @@
 封闭性	fbxv
 方便些	fbxo
 帆布鞋	fbxi
+装不下	fbx'
 放不下	fbx_
 转变为	fbwv
 赚不完	fbwa
@@ -31238,7 +31240,8 @@
 十二分	exf_
 寿喜烧	exev
 实习生	exeo
-山西省	exei
+山西省	exeiv
+摄像师	exei
 陕西省	exea
 首先是	exe_
 熟悉的	exdo
@@ -31796,7 +31799,9 @@
 时光机	egjo
 收割机	egja
 少根筋	egj_
-水果干	egg_
+水果干	egga
+睡个够	egg'
+说个够	egg_
 砂锅粥	egfv
 施工中	egf_
 韶关市	egeo
@@ -114538,7 +114543,8 @@
 多强	dlqx
 夺权	dlqt
 多征	dlqr
-多张	dlqp
+多张	dlqpu
+多长	dlqp
 多针	dlqn
 夺去	dlqlv
 夺取	dlql
