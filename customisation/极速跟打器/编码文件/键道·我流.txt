@@ -9673,6 +9673,7 @@
 经营不善	jybea
 进一步说	jybe
 甲乙丙丁	jybdi
+进一步的	jybd
 骄傲自满	jxzm
 骄傲自大	jxzd
 家学渊源	jxyyo
@@ -11034,7 +11035,8 @@
 毫无疑问	hwywo
 毫无疑问	hwyw
 混为一谈	hwyta
-毫无压力	hwylo
+毫无压力	hwyl'
+毫无由来	hwyl
 毫无用处	hwyj
 互为因果	hwygv
 户外运动	hwydo
@@ -12170,7 +12172,8 @@
 各个部分	ggbf
 亘古不变	ggbb
 个中滋味	gfzw
-孤芳自赏	gfze
+孤芳自赏	gfzea
+骨质增生	gfze
 各种原因	gfyyu
 广泛应用	gfyyo
 高职院校	gfyx
@@ -18442,7 +18445,8 @@
 也都会	ydha
 一定很	ydh'
 一定会	ydh_
-一等功	ydgv
+一等功	ydgvu
+有点怪	ydgv
 遇到过	ydg_
 运动服	ydfvv
 有的赚	ydfvu
@@ -20743,7 +20747,8 @@
 无底洞	wddv
 我懂的	wddu
 伟大的	wddi
-差得多	wdd_
+差得多	wdd'
+吃得多	wdd_
 稳定币	wdbu
 充电宝	wdboi
 吃得饱	wdbo
@@ -25904,7 +25909,8 @@
 靠自己	kzj_
 可再生	kze_
 快走吧	kzb_
-可以走	kyzv
+可以走	kyzv'
+可以做	kyzv
 看样子	kyz_
 可以用	kyyv
 看一眼	kyy_
@@ -27098,7 +27104,8 @@
 教科文	jkw_
 健康人	jkr_
 几块钱	jkqu
-监控器	jkq_
+监控器	jkqi
+尽快去	jkq_
 超宽频	jkpv
 进口品	jkp_
 尽可能	jkna
@@ -71446,7 +71453,8 @@
 拿稳	nswn
 拿我	nswl
 那晚	nswf
-那车	nswe
+那车	nswea
+拿车	nswe
 那套	nstz
 那同	nsty
 那它	nstsa
@@ -71538,7 +71546,6 @@
 那句	nsjl
 那处	nsjja
 拿出	nsjj
-那车	nsje
 那叫	nsjc
 拿好	nshzi
 那好	nshz
@@ -84446,7 +84453,7 @@
 窘乏	jyfso
 窘促	jycj
 窘败	jybh
-迥别	jybd
+迥别	jybdio
 降噪	jxzz
 江总	jxzy
 降尊	jxzw
@@ -92449,9 +92456,9 @@
 浑圆	hwyt
 混养	hwyp
 黑域	hwyliv
-黑阈	hwyli
+黑阈	hwylio
+黑鱼	hwyli
 婚育	hwyla
-黑鱼	hwyl
 浑仪	hwyka
 黑衣	hwyk
 婚约	hwyh
@@ -101530,9 +101537,10 @@
 中来	fylh
 钟灵	fylg
 中栏	fylf
-重了	fyleu
-中了	fylei
-种了	fyle
+重了	fyleu'
+种了	fyleu
+肿了	fyle'
+中了	fyle
 钟楼	fyldiv
 中列	fyldi
 忠烈	fyld
@@ -123784,6 +123792,7 @@
 憋屈	bdqlo
 别去	bdql
 憋气	bdqk
+别住	bdqjo
 憋住	bdqj
 别摘	bdqh
 别请	bdqg

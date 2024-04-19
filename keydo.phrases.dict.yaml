@@ -583,6 +583,7 @@ sort: original
 别请	bdqg
 别摘	bdqh
 憋住	bdqj
+别住	bdqjo
 憋气	bdqk
 别去	bdql
 剥夺政治权利	bdqla
@@ -32090,8 +32091,9 @@ sort: original
 中央领导	fyldii
 钟楼	fyldiv
 风雨雷电	fyldu
-种了	fyle
-中了	fylei
+中了	fyle
+肿了	fyle
+种了	fyleu
 重了	fyleu
 敷衍了事	fylev
 中栏	fylf
@@ -34359,7 +34361,8 @@ sort: original
 高分子	gfz
 赶嘴	gfzb
 赶走	gfzd
-孤芳自赏	gfze
+骨质增生	gfze
+孤芳自赏	gfzea
 赶在	gfzh
 干租	gfzj
 杆子	gfzk
@@ -44565,11 +44568,12 @@ sort: original
 毫无用处	hwyj
 黑衣	hwyk
 浑仪	hwyka
-黑鱼	hwyl
+毫无由来	hwyl
+毫无压力	hwyl
 婚育	hwyla
-黑阈	hwyli
+黑鱼	hwyli
+黑阈	hwylio
 黑域	hwyliv
-毫无压力	hwylo
 混养	hwyp
 浑圆	hwyt
 混为一谈	hwyta
@@ -50742,7 +50746,7 @@ sort: original
 超宽频	jkpv
 急跑	jkpz
 疾跑	jkpzo
-监控器	jkq
+尽快去	jkq
 技巧	jkqc
 讥诮	jkqco
 急切	jkqd
@@ -50755,6 +50759,7 @@ sort: original
 记清	jkqgoa
 基情	jkqgv
 急缺	jkqh
+监控器	jkqi
 记住	jkqj
 脊柱	jkqjo
 寄主	jkqjoo
@@ -55494,8 +55499,9 @@ sort: original
 降噪	jxzz
 进一步	jyb
 加一笔	jyba
-迥别	jybd
+进一步的	jybd
 甲乙丙丁	jybdi
+迥别	jybdio
 进一步说	jybe
 经营不善	jybea
 彻夜不归	jybg
@@ -59543,6 +59549,7 @@ sort: original
 空子	kyzko
 空坐	kyzl
 空增	kyzr
+可以做	kyzv
 可以走	kyzv
 快走吧	kzb
 考班	kzbf
@@ -72999,7 +73006,6 @@ sort: original
 男司机	nsj
 女司机	nsja
 那叫	nsjc
-那车	nsje
 您所处	nsji
 拿出	nsjj
 那处	nsjja
@@ -73094,7 +73100,8 @@ sort: original
 那它	nstsa
 那同	nsty
 那套	nstz
-那车	nswe
+拿车	nswe
+那车	nswea
 那晚	nswf
 你死我活	nswh
 拿我	nswl
@@ -95582,6 +95589,7 @@ sort: original
 抽彩	wdch
 尺短寸长	wdcj
 筹措	wdcl
+吃得多	wdd
 差得多	wdd
 酬对	wddb
 抽调	wddc
@@ -111436,7 +111444,8 @@ sort: original
 油管	ydgta
 油罐	ydgtau
 攸关	ydgti
-一等功	ydgv
+有点怪	ydgv
+一等功	ydgvu
 又给	ydgw
 有光	ydgx
 油光	ydgxa
