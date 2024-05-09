@@ -31226,7 +31226,6 @@
 时限内	exn_
 事儿妈	exm_
 升学率	exlu
-上床了	exli
 刷新率	exla
 生下来	exl'
 省下来	exl_
@@ -31285,8 +31284,9 @@
 奢侈品	ewp_
 十五年	ewn_
 视网膜	ewm_
+耍无赖	ewlv
 食物链	ewli
-耍无赖	ewl_
+上床了	ewl_
 生物课	ewku
 上网卡	ewk_
 税务局	ewjuu
