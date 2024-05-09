@@ -184,6 +184,7 @@
 一骑红尘妃子笑	yjhxv
 一将功成万骨枯	yjgk
 一觉睡到自然醒	yjex
+一觉睡到大天亮	yjel
 以公有制为主体	ygyta
 一个萝卜一个坑	yglkv
 有过之而无不及	ygfjv
@@ -17641,8 +17642,10 @@
 有人爱	yrx_
 羊肉串	yrwo
 又让我	yrw_
+有人听	yrtv
 羊肉汤	yrto
-有人听	yrt_
+要让她	yrt'
+要让他	yrt_
 易燃品	yrp_
 一日内	yrnv
 也让你	yrn_
@@ -20519,6 +20522,7 @@
 我和你	whn_
 完好率	whloa
 吃好了	whlo
+传好了	whli
 我好了	whl'
 玩坏了	whl_
 查户口	whkv
@@ -21655,6 +21659,7 @@
 太仓促	tcc_
 陶瓷杯	tcb_
 特别要	tby_
+特别香	tbxu
 替补席	tbx_
 淘宝网	tbw_
 太变态	tbtv
@@ -26622,6 +26627,7 @@
 觉醒了	jxlov
 产销量	jxloi
 记下来	jxlo
+撑下来	jxliv
 接下来	jxli
 纪晓岚	jxla
 就行了	jxl_
@@ -30318,6 +30324,7 @@
 皱眉头	fmtu
 飞毛腿	fmta
 抓苗头	fmt_
+这么素	fms_
 发明人	fmr_
 殖民者	fmqv
 反民主	fmqua
@@ -31219,6 +31226,7 @@
 时限内	exn_
 事儿妈	exm_
 升学率	exlu
+上床了	exli
 刷新率	exla
 生下来	exl'
 省下来	exl_
@@ -32063,7 +32071,8 @@
 上半场	ebji
 说不出	ebj_
 世博会	ebhv
-叔本华	ebhi
+叔本华	ebhiv
+睡不好	ebhi
 是不好	ebh_
 数百个	ebgo
 上百个	ebg_
@@ -33169,10 +33178,11 @@
 多蹭点	dcd_
 低层次	dcc_
 电磁波	dcb_
-带不走	dbzv
+大暴走	dbzv
 打摆子	dbzii
 代表作	dbzi
-都不在	dbz_
+都不在	dbz'
+带不走	dbz_
 地板油	dbyvva
 大本营	dbyvv
 大半夜	dbyv
@@ -33311,7 +33321,8 @@
 曾有人	cyr_
 才要去	cyq_
 蔡元培	cyp_
-曾用名	cym_
+曾用名	cymo
+葱油面	cym_
 采用了	cylu
 蔡依林	cyl_
 才有空	cyk_
@@ -50138,10 +50149,10 @@
 心流	xblq
 新郎	xblpo
 新浪	xblp
-心率	xblloo
 新罗	xblloi
-心律	xbllo
-新绿	xbll
+新绿	xbllo
+心律	xbll'
+心率	xbll
 心力	xblko
 信里	xblki
 心理	xblk
@@ -91709,6 +91720,7 @@
 好牌	hzpha
 号牌	hzph
 好评	hzpg
+好拼	hzpb
 好闹	hznz
 好浓	hzny
 号内	hznw
@@ -108252,7 +108264,6 @@
 上朝	epwzi
 商朝	epwz
 上冲	epwy
-上床	epwx
 伤胃	epwwii
 上尉	epwwia
 上位	epwwi
@@ -111970,9 +111981,9 @@
 水手	ebeda
 税收	ebed
 水水	ebeb
-睡到	ebdzi
-水道	ebdza
-水稻	ebdz
+水道	ebdzao
+水稻	ebdza
+睡到	ebdz
 水洞	ebdy
 水遁	ebdw
 水荡	ebdp
@@ -122393,7 +122404,8 @@
 不宽	bjkt
 补卡	bjkso
 不卡	bjks
-不吭	bjkr
+不吭	bjkrv
+不坑	bjkr
 不垮	bjkq
 不亢	bjkp
 不肯	bjkn
