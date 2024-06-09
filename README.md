@@ -2,7 +2,7 @@
 
 <a href="https://github.com/xkinput/Rime_JD/commits/master"><img align="right" alt="星空键道" src="https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2023.04.29%20--%206175254-brightgreen" /></a>
 
-[![小狼毫（Win）](https://img.shields.io/badge/%E5%B0%8F%E7%8B%BC%E6%AF%AB%EF%BC%88Win%EF%BC%89-v0.15.0-blue)](https://rime.im/release/weasel/) [![鼠须管（Mac）](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%EF%BC%88Mac%EF%BC%89-v0.17.2-orange)](https://github.com/LEOYoon-Tsaw/squirrel/releases)
+[![小狼毫（Win）](https://img.shields.io/badge/%E5%B0%8F%E7%8B%BC%E6%AF%AB%EF%BC%88Win%EF%BC%89-v0.16.1-blue)](https://rime.im/release/weasel/) [![鼠须管（Mac）](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%EF%BC%88Mac%EF%BC%89-v0.17.2-orange)](https://github.com/LEOYoon-Tsaw/squirrel/releases)
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
 
