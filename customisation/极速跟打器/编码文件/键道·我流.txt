@@ -10930,6 +10930,7 @@
 话音未落	hywlo
 好逸恶劳	hywla
 何以为继	hywji
+还以为是	hywe
 火影忍者	hyrfo
 怀疑人生	hyreo
 还有人说	hyre
@@ -11849,6 +11850,7 @@
 狗仗人势	gqre
 果真如此	gqrc
 孤掌难鸣	gqnma
+根正苗红	gqmh
 归去来兮	gqlx
 供求关系	gqgx
 各找各妈	gqgm
@@ -32394,6 +32396,7 @@
 当我们	dwm'
 但我们	dwm_
 等我来	dwlu
+订完了	dwlo
 打完了	dwli
 洞察力	dwlao
 淡忘了	dwla
@@ -33283,8 +33286,8 @@
 大把的	dbdv
 盗版的	dbdo
 代表队	dbdi
-对不对	dbdav
-对比度	dbda
+对比度	dbdav
+对不对	dbda
 懂不懂	dbd'
 动不动	dbd_
 大白菜	dbcv
@@ -34114,6 +34117,7 @@
 不匹配	bpp_
 背叛你	bpn_
 不碰面	bpm_
+不拍了	bpl_
 不怕苦	bpk_
 不排除	bpj_
 扁平化	bpho
@@ -56023,6 +56027,7 @@
 藤夹	trjs
 腾出	trjj
 藤井	trjg
+藤喼	trjd
 藤椒	trjc
 藤黄	trhx
 腾欢	trht
@@ -69747,6 +69752,7 @@
 批出	pkjj
 劈柴	pkjh
 僻静	pkjg
+皮喼	pkjd
 皮胶	pkjc
 皮筋	pkjb
 批号	pkhzi
@@ -90458,6 +90464,7 @@
 戒指	jdfkv
 截至	jdfkuv
 截肢	jdfku
+喼汁	jdfko
 节制	jdfki
 介质	jdfk'
 截止	jdfk
@@ -117311,7 +117318,8 @@
 对您	dbnb
 对美	dbmw
 对骂	dbmsa
-对吗	dbms
+对吗	dbms'
+对嘛	dbms
 对门	dbmn
 队名	dbmg
 堆满	dbmf
