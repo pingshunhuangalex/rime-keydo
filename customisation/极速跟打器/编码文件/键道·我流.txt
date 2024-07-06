@@ -7501,6 +7501,7 @@
 怯声怯气	qeqq
 真实情况	qeqku
 轻手轻脚	qeqjv
+去是去了	qeql
 欺善怕恶	qepx
 气势磅礴	qepb
 寝食难安	qenx
@@ -9722,6 +9723,7 @@
 钜细靡遗	jxmy
 教学目的	jxmd
 接二连三	jxls
+接下来会	jxlh
 敬贤礼士	jxlei
 尘埃落定	jxld
 绩效考评	jxkp
@@ -21650,6 +21652,7 @@
 头层皮	tcpo
 调词频	tcp_
 她曾能	tcn_
+太匆忙	tcmv
 太聪明	tcm_
 太惨了	tcl_
 体操课	tck_
@@ -27885,7 +27888,8 @@
 很严苛	hykuv
 很愉快	hyku
 会员卡	hyk_
-霍元甲	hyjv
+霍元甲	hyjvv
+还原剂	hyjv
 很异常	hyju
 黑眼睛	hyji
 活页夹	hyja
@@ -33788,9 +33792,10 @@
 不限于	bxyva'
 不屑于	bxyva
 不下雨	bxyv
+必须要	bxyou
 被吸引	bxyo
 保险业	bxyi
-必须要	bxy'
+不像样	bxy'
 不想要	bxy_
 不想洗	bxxv
 保险箱	bxxia
@@ -33954,7 +33959,8 @@
 标题栏	btlvo
 不痛了	btlv'
 不疼了	btlv
-变态辣	btlov
+变态辣	btlovo
+变天了	btlov
 别提了	btlo
 拜托了	btli
 不填了	btl'
@@ -34655,7 +34661,8 @@
 白富美	bfmu
 不知名	bfm_
 百分率	bflvu
-不费力	bflv
+不费力	bflva
+不翻了	bflv
 爆发力	bflo
 播放量	bfli
 板着脸	bfl_
@@ -35666,7 +35673,8 @@
 的我	dw_
 大小	dx_
 都在	dz_
-是吧	eb_
+是不	eb_
+是吧	eb'
 上次	ec_
 是的	ed_
 是都	ed'
@@ -35795,6 +35803,7 @@
 去的	qd_
 去个	qg_
 去了	ql_
+去去	qq_
 其他	qt_
 人不	rb_
 人才	rc_
@@ -37994,6 +38003,7 @@
 在编	zhbm
 载波	zhbl
 再比	zhbk
+再补	zhbjv
 再不	zhbj
 再拜	zhbh
 在办	zhbfv
@@ -84614,8 +84624,8 @@
 讲理	jxlko
 奖励	jxlk
 姜陆	jxlj
-将略	jxlho
-将来	jxlh
+将略	jxlhoi
+将来	jxlho
 江陵	jxlga
 将领	jxlg
 讲了	jxle
@@ -120252,7 +120262,8 @@
 倍和	bwhe
 背后	bwhd
 被毁	bwhb
-被告	bwgz
+被告	bwgzo
+被搞	bwgz
 被公	bwgy
 背光	bwgx
 悲观	bwgt
@@ -122579,8 +122590,9 @@
 不符	bjfj'
 不服	bjfj
 不摘	bjfhv
+不凡	bjffv
 补番	bjffo
-不凡	bjff
+不翻	bjff
 不折	bjfev
 不折	bjfe
 不周	bjfdv
