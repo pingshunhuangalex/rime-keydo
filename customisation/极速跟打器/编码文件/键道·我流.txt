@@ -1675,6 +1675,8 @@
 自卖自夸	zmzk
 字面意义	zmyy
 怎么样呢	zmyn
+怎么样都	zmyd'
+怎么样的	zmyd
 曾母暗沙	zmxe
 怎么忍心	zmrx
 自谋出路	zmjl
@@ -2654,6 +2656,7 @@
 有理有据	ylyj
 一来一回	ylyh'
 有来有回	ylyh
+越来越贵	ylyg'
 越来越高	ylyg
 越来越少	ylye
 越来越多	ylyd'
@@ -15247,6 +15250,7 @@
 从头到尾	ctdw
 从头到脚	ctdj
 寸土寸金	ctcjv
+草台班子	ctbz
 寸土不让	ctbrv
 寸土必争	ctbq
 才思敏捷	csmj
@@ -15962,6 +15966,7 @@
 不可缺少	bkqe
 不可偏废	bkpf
 不可逆转	bknfv
+不可能的	bknd
 不可磨灭	bkmmv
 不可枚举	bkmjv
 不可名状	bkmf
@@ -17998,8 +18003,9 @@
 有出入	yjr_
 有奸情	yjqva
 有激情	yjqv
+舀出去	yjqu
 游击战	yjqa
-舀出去	yjq'
+运出去	yjq'
 用出去	yjq_
 眼镜片	yjpi
 液晶屏	yjp_
@@ -18012,7 +18018,7 @@
 远距离	yjlv
 眼睛里	yjli
 预处理	yjla
-要超了	yjl_
+运进来	yjl_
 一场空	yjkvv
 亚健康	yjkvi
 要加快	yjkv
@@ -28944,10 +28950,11 @@
 更衣室	gyev
 贵阳市	gyei
 供应商	gye_
-感应灯	gydv
+感应灯	gydvo
+过一段	gydv
 古印度	gydu
 高压电	gydo
-过一段	gyd_
+高一点	gyd_
 搞一次	gyc_
 工业部	gybv
 雇佣兵	gybo
@@ -29416,7 +29423,8 @@
 国际化	gjh_
 哥几个	gjgv
 该成果	gjgo
-国际歌	gjgi
+国际歌	gjgia
+刚出锅	gjgi
 干成过	gjg_
 过几周	gjfv
 公检法	gjfu
@@ -32338,9 +32346,10 @@
 低消耗	dxh_
 档案馆	dxgvo
 大峡谷	dxgv
-胆小鬼	dxgu
+胆小鬼	dxgui
+第二个	dxgu
 电线杆	dxgi
-第二个	dxg_
+担心过	dxg_
 东西方	dxfv
 第二份	dxfu
 第二种	dxf_
@@ -32931,6 +32940,7 @@
 打个孔	dgki
 得赶快	dgk_
 胆固醇	dgju
+代工厂	dgji
 大工程	dgj_
 低功耗	dghi
 搭个话	dgh_
@@ -34260,6 +34270,7 @@
 别漏了	blloa
 别来了	bllo
 剥离了	blla
+不来了	bll'
 不了了	bll_
 巴拉克	blka
 不离开	blk_
@@ -40971,7 +40982,8 @@
 易行	ykxgo
 乙型	ykxgav
 异姓	ykxgaa
-异型	ykxga
+异型	ykxga'
+异形	ykxga
 异性	ykxg
 一案	ykxfv
 疑案	ykxfu
@@ -88985,9 +88997,10 @@
 出港	jjgp
 除根	jjgn
 楚国	jjglv
-除过	jjglav
-出过	jjgla
-出国	jjgl
+出锅	jjglai
+出国	jjgla
+除过	jjgl'
+出过	jjgl
 触感	jjgf
 出阁	jjgeao
 出个	jjgea

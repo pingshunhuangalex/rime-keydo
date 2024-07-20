@@ -3562,6 +3562,7 @@ sort: original
 鼻毛	bkmzu
 不可能	bkn
 不肯拿	bkn
+不可能的	bknd
 避难	bknf
 不可逆转	bknfv
 比你	bknk
@@ -3956,6 +3957,7 @@ sort: original
 拨款	blkt
 播控	blky
 不了了	bll
+不来了	bll
 剥离了	blla
 柏林	bllb
 波列	blld
@@ -9152,6 +9154,7 @@ sort: original
 寸土必争	ctbq
 蹿蹦	ctbr
 寸土不让	ctbrv
+草台班子	ctbz
 攒簇	ctcj
 寸土寸金	ctcjv
 从头到脚	ctdj
@@ -11868,6 +11871,7 @@ sort: original
 定结	dgjd
 定产	dgjf
 定睛	dgjg
+代工厂	dgji
 定出	dgjj
 顶级	dgjk
 定级	dgjko
@@ -16218,10 +16222,11 @@ sort: original
 第二份	dxfu
 东西方	dxfv
 定性分析	dxfx
-第二个	dxg
+担心过	dxg
 电线杆	dxgi
 电信公司	dxgs
-胆小鬼	dxgu
+第二个	dxgu
+胆小鬼	dxgui
 大峡谷	dxgv
 档案馆	dxgvo
 大喜过望	dxgw
@@ -35056,7 +35061,8 @@ sort: original
 古怪	gjgg
 股改	gjgh
 各家各户	gjghu
-国际歌	gjgi
+刚出锅	gjgi
+国际歌	gjgia
 姑姑	gjgj
 汩汩	gjgja
 咕咕	gjgjo
@@ -38101,7 +38107,7 @@ sort: original
 苟延残喘	gycwi
 共从	gycy
 功曹	gycz
-过一段	gyd
+高一点	gyd
 共调	gydc
 公爹	gydd
 公德	gyde
@@ -38130,7 +38136,8 @@ sort: original
 工大	gydsv
 工段	gydt
 古印度	gydu
-感应灯	gydv
+过一段	gydv
+感应灯	gydvo
 公吨	gydw
 拱动	gydy
 国有大中型企业	gydyi
@@ -49676,9 +49683,10 @@ sort: original
 触感	jjgf
 经济改革	jjgg
 蒋经国	jjgi
-出国	jjgl
-出过	jjgla
-除过	jjglav
+出过	jjgl
+除过	jjgl
+出国	jjgla
+出锅	jjglai
 经济管理	jjglaa
 犄角旮旯	jjglu
 楚国	jjglv
@@ -114240,7 +114248,7 @@ sort: original
 亚健康	yjkvi
 一场空	yjkvv
 有迹可循	yjkx
-要超了	yjl
+运进来	yjl
 预处理	yjla
 一举两得	yjld
 悠久历史	yjle
@@ -114262,13 +114270,14 @@ sort: original
 液晶屏	yjp
 眼镜片	yjpi
 用出去	yjq
-舀出去	yjq
+运出去	yjq
 游击战	yjqa
 已经确定	yjqd
 用尽全力	yjql
 研究证明	yjqm
 游击战争	yjqq
 以及其它	yjqt
+舀出去	yjqu
 有激情	yjqv
 有奸情	yjqva
 一见倾心	yjqx
@@ -115295,6 +115304,7 @@ sort: original
 疑案	ykxfu
 一案	ykxfv
 异性	ykxg
+异形	ykxga
 异型	ykxga
 异姓	ykxgaa
 乙型	ykxgav
@@ -116065,6 +116075,7 @@ sort: original
 欲言	ylyfu
 鱼眼	ylyfui
 越来越高	ylyg
+越来越贵	ylyg
 御营	ylygu
 有来有回	ylyh
 一来一回	ylyh
@@ -121821,6 +121832,8 @@ sort: original
 怎么爱	zmxuu
 怎么样	zmy
 怎么用	zmy
+怎么样的	zmyd
+怎么样都	zmyd
 怎么样呢	zmyn
 怎么也	zmyu
 字面意义	zmyy
