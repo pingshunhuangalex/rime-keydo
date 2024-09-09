@@ -8056,7 +8056,8 @@
 女生宿舍	nese
 年少轻狂	neqk
 南沙群岛	neqd
-能伸能屈	nenq
+能伸能屈	nenqa
+奶声奶气	nenq
 蹑手蹑脚	nenj
 难舍难分	nenf
 泥沙俱下	nejx
@@ -20729,9 +20730,10 @@
 我都没	wdm_
 武大郎	wdlvv
 玩得来	wdlv
+我懂了	wdlu
 完蛋了	wdlo
 迟到了	wdla
-我懂了	wdl_
+吃多了	wdl_
 岔道口	wdk_
 舞蹈家	wdjuo
 稳定剂	wdju
@@ -30374,6 +30376,7 @@
 芝麻糊	fmhi
 这么火	fmh_
 父母官	fmgu
+这么高	fmgo
 芝麻官	fmgi
 这么搞	fmg_
 殖民者	fmfv
@@ -94892,6 +94895,7 @@
 还望	hhwp
 还问	hhwn
 害我	hhwl
+还吃	hhwk
 海外	hhwh
 海湾	hhwf
 嗨淘	hhtzo
@@ -119619,8 +119623,8 @@
 爆响	bzxx
 暴下	bzxso
 包下	bzxs
-报修	bzxqi
-保修	bzxq
+保修	bzxqi
+报修	bzxq
 报恩	bzxn
 保鲜	bzxmi
 保险	bzxm
