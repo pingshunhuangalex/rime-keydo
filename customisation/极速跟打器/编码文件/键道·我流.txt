@@ -2512,6 +2512,7 @@
 有针对性	yqdx
 一骑当千	yqdq
 玉砌雕阑	yqdl
+元气大伤	yqde
 义正辞严	yqcy
 有求必应	yqby
 一窍不通	yqbt
@@ -3773,7 +3774,7 @@
 暗送秋波	xsqb
 阿司匹林	xspla
 稀松平常	xspju
-寻死觅活	xsmh
+寻死觅活	xsmha
 阿斯利康	xslka
 奥斯卡奖	xskju
 细思恐极	xskja
@@ -13790,7 +13791,8 @@
 恕难从命	encm
 世贸组织	emzf
 深谋远虑	emyl
-拭目以待	emyd
+拭目以待	emydi
+什么样的	emyd
 声名远播	emyb
 神秘兮兮	emxx
 数码相机	emxj
@@ -21490,8 +21492,9 @@
 他告诉	tgs_
 托管人	tgr_
 弹钢琴	tgq_
-太干了	tglvv
-太功利	tglv
+太功利	tglvv
+太干了	tglv'
+太贵了	tglv
 挺过来	tgliv
 提供了	tglii
 推高了	tgli'
@@ -23340,6 +23343,7 @@
 真地道	qddu
 恰当地	qddo
 潜到底	qddav
+清淡点	qddaa
 强大的	qdda'
 清淡的	qdda
 强大到	qdd_
@@ -24537,8 +24541,10 @@
 秒差距	mwj_
 没文化	mwha
 门外汉	mwh_
-没问过	mwga
-没玩过	mwg'
+没问过	mwgao
+没玩够	mwga'
+没玩过	mwga
+没吃够	mwg'
 没吃过	mwg_
 门卫室	mwe_
 没吃的	mwda
@@ -27242,7 +27248,8 @@
 聚集地	jjdvi
 成绩单	jjdvao
 聚居地	jjdvaa
-超级多	jjdva
+超级多	jjdva'
+超级大	jjdva
 静静的	jjdv
 长久的	jjdu
 炒鸡蛋	jjdo
@@ -27865,7 +27872,8 @@
 还有些	hyxv
 很有限	hyxu
 回忆下	hyxi
-薅一下	hyx_
+薅一下	hyx'
+换一下	hyx_
 火药味	hywo
 还以为	hyw_
 会议厅	hyt_
@@ -30376,6 +30384,7 @@
 芝麻糊	fmhi
 这么火	fmh_
 父母官	fmgu
+这么贵	fmgo'
 这么高	fmgo
 芝麻官	fmgi
 这么搞	fmg_
@@ -45638,6 +45647,8 @@
 阿迷	xsmka
 虾米	xsmk
 阿姆	xsmj
+瞎卖	xsmh'
+瞎买	xsmh
 阿明	xsmg
 阿曼	xsmf
 虾苗	xsmc
@@ -53358,7 +53369,8 @@
 持股	wkgj
 叱干	wkgf
 吃个	wkge
-齿垢	wkgd
+齿垢	wkgdi
+吃够	wkgd
 池沼	wkfz
 池中	wkfya
 持重	wkfy
@@ -67383,6 +67395,7 @@
 清和	qgheau
 清河	qghea
 庆贺	qghe
+清灰	qghba
 请回	qghb
 清稿	qggza
 清高	qggz
@@ -70231,6 +70244,7 @@
 萍踪	pgzy
 平作	pgzl
 瓶子	pgzk
+平足	pgzj
 平仄	pgze
 平遥	pgyz
 平庸	pgyy
@@ -93971,6 +93985,7 @@
 很傻	hnes
 很生	hner
 很伤	hnep
+很神	hnenu
 很深	hnen
 很爽	hnem
 很是	hnek
