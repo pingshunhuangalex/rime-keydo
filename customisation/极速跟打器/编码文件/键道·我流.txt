@@ -5033,6 +5033,7 @@
 无可争辩	wkqb
 吃苦耐劳	wknlo
 无可奈何	wknhv
+我可能和	wknh
 无可救药	wkjy
 吹糠见米	wkjmo
 无可厚非	wkhf
@@ -7615,6 +7616,7 @@
 岂不可惜	qbkx
 区别开来	qbkl
 准备就绪	qbjxo
+长不出来	qbjl
 情报机构	qbjgo
 泣不成声	qbjea
 取保候审	qbhev
@@ -12623,6 +12625,7 @@
 肥头大耳	ftdx
 赴汤蹈火	ftdhv
 志同道合	ftdh
+方头菜刀	ftcd
 粪土不如	ftbro
 遮天蔽日	ftbr
 风俗习惯	fsxgu
@@ -22755,6 +22758,7 @@
 全贴合	qthia
 全天候	qthi
 洽谈会	qth_
+铸铁锅	qtgi
 主题歌	qtg_
 倾听者	qtf_
 前提是	qteo
@@ -28177,7 +28181,6 @@
 胡主席	hqxu
 好奇心	hqx_
 环球网	hqw_
-好兆头	hqta
 核潜艇	hqt_
 黑黢黢	hqqii
 黑漆漆	hqqi
@@ -28558,6 +28561,7 @@
 灰姑娘	hgnv
 还给你	hgn_
 横隔膜	hgm_
+很割裂	hglu
 合格率	hgliv
 回归了	hglii
 回国了	hgli
@@ -28600,6 +28604,7 @@
 合法性	hfx_
 化粪池	hfwi
 划分为	hfw_
+化妆台	hfti
 好兆头	hft_
 护发素	hfs_
 黑种人	hfri
@@ -29415,6 +29420,7 @@
 供给量	gjli
 滚出来	gjla
 搞出来	gjl_
+更健康	gjkv
 公交卡	gjk_
 工程处	gjjvu
 过家家	gjjvoo
@@ -51516,7 +51522,8 @@
 为这	wwfeo
 围着	wwfe
 微皱	wwfdu
-涠洲	wwfd
+涠洲	wwfda
+维州	wwfd
 微少	wwez
 为霜	wwex
 为谁	wwew
@@ -53271,7 +53278,7 @@
 驰念	wknm
 痴女	wknl
 吃腻	wknk
-吃奶	wknh
+吃奶	wknho
 痴男	wknf
 魑魅	wkmw
 尺码	wkmsa
@@ -71776,6 +71783,7 @@
 能进	nrjb
 能耗	nrhz
 能花	nrhq
+能换	nrht
 能活	nrhl
 能和	nrhe
 能给	nrgw
@@ -93040,7 +93048,8 @@
 还债	htfh
 患者	htfei
 换着	htfe
-浣纱	htes
+浣纱	htesa
+换啥	htes
 欢声	hter
 患上	htepi
 换上	htep
@@ -94844,6 +94853,7 @@
 胡编	hjbmu
 湖边	hjbm
 互搏	hjbl
+沪币	hjbka
 护壁	hjbk
 互补	hjbjv
 户部	hjbjo
