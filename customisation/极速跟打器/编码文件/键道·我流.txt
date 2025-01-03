@@ -327,6 +327,7 @@
 好马不吃回头草	hmbc
 好了疮疤忘了痛	hlwta
 虎落平阳被犬欺	hlpq
+好了伤疤忘了疼	hlet
 画虎画皮难画骨	hhhg
 好汉不吃眼前亏	hhbka
 皇上不急太监急	hebju
@@ -1958,6 +1959,7 @@
 摇摇欲坠	yyyfi
 跃跃欲试	yyyeo
 有氧运动	yyydv
+语音语调	yyydo
 一摇一摆	yyybv
 溢于言表	yyyb
 有样学样	yyxyv
@@ -3333,6 +3335,7 @@
 亦步亦趋	ybyq
 一笔一划	ybyhvu
 一笔一画	ybyhv
+应不应该	ybygo
 也不应该	ybyga
 言不由衷	ybyfo
 也不用对	ybyd'
@@ -6234,6 +6237,7 @@
 三纲五常	sgwj
 三个面向	sgmx
 三顾茅庐	sgml
+三瓜两枣	sglz
 三姑六婆	sglp
 苏格拉底	sgld
 损公肥私	sgfs
@@ -8555,6 +8559,7 @@
 没事找事	mefe
 马首是瞻	meeq
 魔兽世界	meej
+没啥大用	medy
 名声大振	medq
 漫山遍野	meby
 面对现实	mdxe
@@ -8898,10 +8903,10 @@
 量力而行	llxxo
 陆陆续续	llxxa
 理论创新	llwxv
-来来往往	llwwvv
 碌碌无为	llwwv
-里里外外	llwwii
 拉拉扯扯	llwwi
+里里外外	llww'
+来来往往	llww
 理论物理	llwl
 寥寥无几	llwjo
 拉拉扯扯	llwji
@@ -10664,6 +10669,7 @@
 精神境界	jejjo
 常胜将军	jejjiu
 坚实基础	jejjio
+净身出户	jejh
 城市建设	jejev
 长生久视	jejeu
 精神矍铄	jejeo
@@ -14964,6 +14970,7 @@
 大众文化	dfwh
 敌众我寡	dfwg
 东方卫视	dfwev
+倒反天罡	dftg
 答非所问	dfsw
 大智若愚	dfry
 地方政府	dfqfv
@@ -20985,10 +20992,10 @@
 体现了	txl'
 停下来	txl_
 天下苦	txk_
-探险家	txjia
-体现出	txji
+探险家	txji
+通信处	txjai
 退休金	txja
-通信处	txj_
+体现出	txj_
 天鹅湖	txhvu
 太喜欢	txhv
 图形化	txhiv
@@ -21406,7 +21413,8 @@
 提出了	tjl_
 挺健康	tjki
 塔吉克	tjk_
-挺持久	tjji
+挺持久	tjji'
+挺接近	tjji
 退出键	tjjaa
 添加剂	tjja
 统计局	tjj_
@@ -22003,8 +22011,9 @@
 四季歌	sjg_
 三角洲	sjfv
 撒酒疯	sjf_
-三件事	sjev
-随机数	sje_
+四脚蛇	sjei
+随机数	sjea
+三件事	sje_
 酸碱度	sjdvv
 三季度	sjdv
 所朝的	sjdu
@@ -23997,8 +24006,9 @@
 女青年	nqna
 男青年	nqn_
 虐囚门	nqm_
+哪去了	nqlo
 内驱力	nqli
-哪去了	nql_
+拿住了	nql_
 弄清楚	nqjv
 女主角	nqja
 男主角	nqj_
@@ -24362,6 +24372,7 @@
 闹别扭	nbno
 能不能	nbn_
 你爸妈	nbm_
+弄不了	nbl_
 你别哭	nbk_
 南北朝	nbjui
 牛板筋	nbju
@@ -24965,6 +24976,7 @@
 美洲豹	mfbo
 免费版	mfb_
 迷失在	mez_
+没啥用	meya
 马上要	mey_
 谋杀案	mexo
 描述性	mexi
@@ -29629,7 +29641,8 @@
 搞什么	gemi
 干什么	gem_
 故事里	gelu
-跟上了	gel_
+跟上了	gel'
+赶上了	gel_
 更深刻	gek_
 更顺畅	gejvu
 工商界	gejvo
@@ -33967,7 +33980,8 @@
 白天鹅	btxu
 不太行	btx_
 标题为	btwv
-白头翁	btw_
+白头翁	btwu
+鼻涕虫	btw_
 扁桃体	btto
 被淘汰	btt_
 不退缩	btsv
@@ -34502,6 +34516,7 @@
 不见得	bjd'
 不记得	bjd_
 保健操	bjc_
+比较薄	bjbv
 八极崩	bjbu
 编辑部	bjba
 笔记本	bjb_
@@ -52546,8 +52561,9 @@
 文胸	wnxy
 闻香	wnxxo
 蚊香	wnxx
+闻讯	wnxwo
 温驯	wnxwa
-闻讯	wnxw
+问询	wnxw
 文选	wnxt
 问下	wnxs
 文秀	wnxq
@@ -73142,7 +73158,6 @@
 捏住	ndqj
 孽债	ndqh
 镍氢	ndqg
-捏着	ndqe
 涅槃	ndpf
 捏弄	ndny
 聂能	ndnr
@@ -79143,7 +79158,7 @@
 滤芯	llxb
 落潮	llwz
 屡创	llwx
-落位	llww
+落位	llwwii
 罗刹	llwsiu
 落差	llwsi
 洛娃	llwsa
@@ -86631,7 +86646,8 @@
 长岭	jplg
 菖兰	jplf
 长乐	jpleu
-常乐	jplei
+常乐	jpleiu
+尝了	jplei
 长了	jple
 肠疗	jplc
 长林	jplb
@@ -91930,7 +91946,8 @@
 好重	hzfya
 好废	hzfwa
 耗费	hzfw
-好转	hzft
+好转	hzfta
+好赚	hzft
 毫发	hzfso
 好发	hzfs
 豪放	hzfpo

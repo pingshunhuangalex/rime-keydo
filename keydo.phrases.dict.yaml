@@ -2378,6 +2378,7 @@ sort: original
 不把	bjbs
 不见不散	bjbsv
 八极崩	bjbu
+比较薄	bjbv
 不被	bjbw
 不备	bjbw
 不悲	bjbwv
@@ -5676,7 +5677,8 @@ sort: original
 巴头探脑	bttn
 扁桃体	btto
 暴殄天物	bttw
-白头翁	btw
+鼻涕虫	btw
+白头翁	btwu
 标题为	btwv
 不太行	btx
 冰天雪地	btxd
@@ -11612,6 +11614,7 @@ sort: original
 弹头	dftd
 单帖	dftdo
 单谈	dftf
+倒反天罡	dftg
 单台	dfth
 单图	dftj
 单体	dftk
@@ -33784,6 +33787,7 @@ sort: original
 各款	gekt
 各矿	gekx
 隔空	geky
+赶上了	gel
 跟上了	gel
 格林	gelb
 阁僚	gelc
@@ -42117,6 +42121,7 @@ sort: original
 火神	hlen
 火上	hlep
 获胜	hler
+好了伤疤忘了疼	hlet
 寒来暑往	hlew
 或少	hlez
 火烧	hlezo
@@ -45525,7 +45530,8 @@ sort: original
 豪放	hzfpo
 好发	hzfs
 毫发	hzfso
-好转	hzft
+好赚	hzft
+好转	hzfta
 耗费	hzfw
 好废	hzfwa
 胡作非为	hzfwu
@@ -47947,6 +47953,7 @@ sort: original
 精神矍铄	jejeo
 长生久视	jejeu
 城市建设	jejev
+净身出户	jejh
 金沙江	jeji
 接收机	jejia
 旧世界	jejiv
@@ -52671,7 +52678,8 @@ sort: original
 肠疗	jplc
 长篇累牍	jpldu
 长了	jple
-常乐	jplei
+尝了	jplei
+常乐	jpleiu
 长乐	jpleu
 菖兰	jplf
 长岭	jplg
@@ -62894,11 +62902,11 @@ sort: original
 洛娃	llwsa
 落差	llwsi
 罗刹	llwsiu
-落位	llww
+来来往往	llww
+里里外外	llww
 拉拉扯扯	llwwi
-里里外外	llwwii
+落位	llwwii
 碌碌无为	llwwv
-来来往往	llwwvv
 屡创	llwx
 理论创新	llwxv
 落潮	llwz
@@ -66531,6 +66539,7 @@ sort: original
 木栓层	mec
 陌生的	med
 名声大振	medq
+没啥大用	medy
 魔术师	mee
 魔兽世界	meej
 马首是瞻	meeq
@@ -66591,6 +66600,7 @@ sort: original
 民事案件	mexj
 谋杀案	mexo
 马上要	mey
+没啥用	meya
 民生银行	meyh
 没啥意思	meys
 迷失在	mez
@@ -70766,6 +70776,7 @@ sort: original
 您看	nbkf
 您快	nbkg
 怒不可遏	nbkx
+弄不了	nbl
 鸟不拉屎	nble
 您来	nblh
 那不勒斯	nbls
@@ -70979,7 +70990,6 @@ sort: original
 涅槃	ndpf
 拿得准	ndq
 尿毒症	ndqa
-捏着	ndqe
 镍氢	ndqg
 孽债	ndqh
 拿得起	ndqi
@@ -72707,13 +72717,14 @@ sort: original
 纽克	nqke
 纽卡	nqks
 钮孔	nqky
-哪去了	nql
+拿住了	nql
 牛了	nqle
 牛栏	nqlf
 年轻力壮	nqlfu
 内驱力	nqli
 扭力	nqlk
 扭脸	nqlm
+哪去了	nqlo
 牛郎	nqlp
 牛柳	nqlq
 牛酪	nqlz
@@ -87618,6 +87629,7 @@ sort: original
 岁高龄	sglio
 苏格兰	sgliv
 三姑六婆	sglp
+三瓜两枣	sglz
 塑钢门	sgm
 三顾茅庐	sgml
 宋公明	sgmo
@@ -87801,9 +87813,11 @@ sort: original
 酸碱度	sjdvv
 速冻	sjdy
 苏东	sjdyi
-随机数	sje
+三件事	sje
+随机数	sjea
 涑水	sjeb
 苏珊	sjef
+四脚蛇	sjei
 素数	sjej
 俗世	sjek
 苏轼	sjeki
@@ -87816,7 +87830,6 @@ sort: original
 速生	sjer
 肃杀	sjes
 思觉失调	sjet
-三件事	sjev
 撒酒疯	sjf
 速追	sjfb
 苏州	sjfd
@@ -92298,6 +92311,7 @@ sort: original
 途经	tjjgi
 图景	tjjgio
 突厥	tjjh
+挺接近	tjji
 挺持久	tjji
 突出	tjjj
 凸出	tjjji
@@ -94545,16 +94559,16 @@ sort: original
 太虚幻境	txhjv
 太喜欢	txhv
 天鹅湖	txhvu
-通信处	txj
+体现出	txj
 退休金	txja
+通信处	txjai
 停下脚步	txjb
 痛心疾首	txje
 通信技术	txjea
 啼笑皆非	txjf
 体系结构	txjg
 同学聚会	txjh
-体现出	txji
-探险家	txjia
+探险家	txji
 体现出来	txjl
 退而结网	txjw
 天下苦	txk
@@ -99061,8 +99075,9 @@ sort: original
 文秀	wnxq
 问下	wnxs
 文选	wnxt
-闻讯	wnxw
+问询	wnxw
 温驯	wnxwa
+闻讯	wnxwo
 蚊香	wnxx
 闻香	wnxxo
 文胸	wnxy
@@ -111150,6 +111165,7 @@ sort: original
 阴影	ybyg
 也不应该	ybyga
 因应	ybygi
+应不应该	ybygo
 音乐	ybyh
 隐约	ybyha
 一笔一画	ybyhv
@@ -118800,6 +118816,7 @@ sort: original
 溢于言表	yyyb
 一摇一摆	yyybv
 用油	yyyd
+语音语调	yyydo
 有氧运动	yyydv
 永夜	yyye
 跃跃欲试	yyyeo
