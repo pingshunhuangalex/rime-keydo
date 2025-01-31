@@ -4,6 +4,7 @@ version: "1.0"
 sort: original
 ...
 不知道	bfo
+不坚持	bjiu
 不出来	bjvo
 不可以	bka
 不开心	bkoa
@@ -30,11 +31,13 @@ sort: original
 没发现	mfvv
 没关系	mgu
 没问题	mwo
+没想到	mxva
 你知道	nfo
 你这样	nfv
 你觉得	njuu
 你可以	nka
 你没有	nmv
+你准备	nqu
 你已经	nya
 你也是	nyoi
 你怎么	nzu
@@ -44,6 +47,7 @@ sort: original
 他觉得	tjuu
 他可以	tka
 他没有	tmv
+他准备	tqu
 他已经	tya
 他也是	tyoi
 他怎么	tzu
@@ -52,6 +56,7 @@ sort: original
 我觉得	wjuu
 我可以	wka
 我没有	wmv
+我准备	wqu
 我已经	wya
 我也是	wyoi
 我怎么	wzu

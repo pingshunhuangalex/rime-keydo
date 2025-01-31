@@ -2194,7 +2194,8 @@
 言行举止	yxjf
 一线城市	yxje
 遥相呼应	yxhy
-以血还血	yxhx
+以血还血	yxhxa
+一小会儿	yxhx
 月下花前	yxhq
 运行环境	yxhjv
 英雄豪杰	yxhj
@@ -14862,8 +14863,7 @@
 低级趣味	djqw
 当局者迷	djqmi
 大江南北	djnb
-单键连击	djljo
-弹尽粮绝	djlja
+弹尽粮绝	djlj
 当机立断	djldi
 到处可见	djkjv
 独具匠心	djjxu
@@ -16358,6 +16358,7 @@
 半睡半醒	bebxo
 不声不响	bebx
 半身不遂	bebs
+不是不能	bebn
 不声不吭	bebk
 笨手笨脚	bebj
 包山包海	bebh
@@ -18633,6 +18634,7 @@
 也不是	ybe_
 要不是	ybe_
 要不得	ybdv
+用不掉	ybdu'
 用不到	ybdu
 由不得	ybdi
 也变得	ybda
@@ -19830,8 +19832,9 @@
 想得到	xdd_
 许多次	xdc_
 爱丁堡	xdbu
+兄弟般	xdbo
 修订本	xdbi
-兄弟般	xdb_
+限定版	xdb_
 小册子	xczi
 下次再	xcz_
 二刺猿	xcyv
@@ -20855,6 +20858,7 @@
 窝边草	wbc_
 吃饱饱	wbbo
 吃不饱	wbb_
+挺自在	tzzi
 兔崽子	tzz_
 挺在意	tzyi
 替罪羊	tzy_
@@ -21195,7 +21199,8 @@
 土政策	tqc_
 挑战杯	tqb_
 汤婆子	tpz_
-太平洋	tpyv
+太平洋	tpyvv
+太便宜	tpyv
 特派员	tpyu
 谈朋友	tpy_
 头皮屑	tpxo
@@ -21694,6 +21699,7 @@
 疼不疼	tbt_
 汤不热	tbra
 投保人	tbr_
+挺逼真	tbqi
 贴标签	tbqa
 听不清	tbq_
 特别篇	tbpu
@@ -24165,8 +24171,10 @@
 弄出来	njl_
 能解开	njk_
 牛角尖	njju
+农机具	njjo
 那几句	njja
-农机具	njj_
+奶唧唧	njj'
+糯唧唧	njj_
 那句话	njha
 你将会	njh'
 你就和	njh_
@@ -29768,9 +29776,10 @@
 过不了	gblv
 狗不理	gbluv
 管不了	gblu
-给不了	gbla
-改不了	gbl'
-顾不了	gbl_
+给不了	gbla'
+改不了	gbla
+顾不了	gbl'
+干不了	gbl_
 广播剧	gbjo
 赶不及	gbj_
 告别后	gbhu
@@ -31575,7 +31584,8 @@
 伸懒腰	elyio
 傻了眼	elyi
 势利眼	ely_
-生理学	elxu
+生理学	elxu'
+生理性	elxu
 熟练下	elxo
 试了下	elx_
 说了它	elto
@@ -32099,8 +32109,9 @@
 说不清	ebq_
 受不鸟	ebnu
 数百年	ebno
-尚不能	ebni
-上半年	ebn_
+上半年	ebni
+尚不能	ebn'
+是不能	ebn_
 声笔码	ebmv
 识别码	ebm_
 失败了	eblu
@@ -33639,6 +33650,7 @@
 猜对了	cdlu
 擦到了	cdli
 擦掉了	cdl_
+催得紧	cdji
 猜得出	cdj_
 曾当过	cdg_
 测定法	cdf_
@@ -105781,7 +105793,8 @@
 复国	fjglu
 富国	fjglo
 拂过	fjgli
-负过	fjgl
+负过	fjgl'
+付过	fjgl
 复古	fjgj
 覆盖	fjgh
 复感	fjgf
@@ -111656,9 +111669,10 @@
 受雇	edgj
 手改	edgh
 手感	edgf
+首个	edgeoi
 首歌	edgeo
 收割	edgea
-首个	edge
+收个	edge
 收购	edgda
 受够	edgd
 收归	edgb
@@ -115436,7 +115450,7 @@
 镀铝	djll
 肚里	djlku
 独立	djlk
-嘟噜	djlj
+嘟噜	djljo
 读来	djlh
 独揽	djlf
 读了	djle
@@ -119596,6 +119610,7 @@
 淬毒	cbdj
 翠黛	cbdh
 催单	cbdf
+催得	cbde
 翠丛	cbcy
 摧藏	cbcp
 摧挫	cbcl
