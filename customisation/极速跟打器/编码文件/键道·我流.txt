@@ -16813,7 +16813,8 @@
 怎么讲	zmj_
 最美好	zmho
 怎么会	zmh_
-怎么搞	zmg_
+怎么搞	zmg'
+怎么个	zmg_
 贼麻烦	zmfa
 怎么翻	zmf_
 怎么说	zme_
@@ -20974,6 +20975,7 @@
 通信网	txwa
 他希望	txw_
 托儿所	txs_
+挺心疼	txti
 天鹅肉	txrvui
 天鹅绒	txrvu
 太吓人	txrv
@@ -21310,7 +21312,8 @@
 同龄人	tlr_
 太冷清	tlqv
 铁路桥	tlq_
-塔罗牌	tlpv
+塔罗牌	tlpvi
+太离谱	tlpv
 特朗普	tlpu
 秃噜皮	tlp_
 挺礼貌	tlmi
@@ -23943,8 +23946,9 @@
 奈我何	nwh_
 你外公	nwg_
 脑外伤	nwe_
+怒斥道	nwdau
 难忘的	nwda
-怒斥道	nwd_
+奶茶店	nwd_
 逆温层	nwc_
 泥腿子	ntz_
 女同学	ntxa
@@ -29511,10 +29515,11 @@
 工号牌	ghp_
 共患难	ghn_
 钢化膜	ghm_
+干活了	ghlva
 赶回来	ghlv
 搞混了	ghli
 改好了	ghla
-干活了	ghl'
+搞坏了	ghl'
 搞好了	ghl_
 怪好看	ghko
 更何况	ghk_
@@ -73889,6 +73894,7 @@
 没升	mwera
 没剩	mwer'
 没省	mwer
+没刷	mweq
 美神	mwen
 每双	mwem
 没说	mwel
@@ -91777,6 +91783,7 @@
 豪强	hzqx
 号群	hzqwo
 好准	hzqw
+好挣	hzqra
 好整	hzqr
 号球	hzqqo
 好球	hzqq
