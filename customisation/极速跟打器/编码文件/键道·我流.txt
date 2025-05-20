@@ -1902,6 +1902,7 @@
 罪不可赦	zbkei
 坐北朝南	zbjni
 自报家门	zbjmu
+做不出来	zbjl
 赞不绝口	zbjku
 足不出户	zbjho
 资本市场	zbej
@@ -11466,8 +11467,8 @@
 绘声绘色	hehs
 或深或浅	hehqv
 好声好气	hehqa
-话说回来	hehloo
 火烧火燎	hehlo
+话说回来	hehl
 何时何地	hehd
 好事之徒	hefta
 还手之力	hefl
@@ -18128,6 +18129,7 @@
 耶和华	yhhv
 晕乎乎	yhho
 一行行	yhh_
+腌黄瓜	yhgu
 烟灰缸	yhg_
 与会者	yhf_
 印花税	yheu
@@ -18614,8 +18616,9 @@
 一般会	ybh_
 一百个	ybgv
 迎宾馆	ybgu
-也不够	ybga
-也不过	ybg_
+也不够	ybga'
+也不过	ybga
+一把过	ybg_
 样板房	ybfvvo
 一百分	ybfvv
 一把抓	ybfvi
@@ -21229,6 +21232,7 @@
 它能让	tnr_
 太年轻	tnq_
 碳纳米	tnm_
+太腻了	tnlvu
 泰诺林	tnlvo
 太嫩了	tnlva
 太难了	tnlv
@@ -21445,6 +21449,7 @@
 挺成熟	tjdiv
 挺简单	tjdiu
 挺卷的	tjdio
+挺经典	tjdia
 挺紧的	tjdi'
 挺近的	tjdi
 台积电	tjda
@@ -21687,6 +21692,7 @@
 太惨了	tcl_
 体操课	tck_
 太刺激	tcj_
+甜菜根	tcg_
 跳槽者	tcfo
 调测费	tcf_
 同参数	tce_
@@ -26221,7 +26227,8 @@
 开开眼	kkyv
 可卡因	kky_
 可靠性	kkx_
-开快车	kkw_
+开快车	kkw'
+开开车	kkw_
 开空调	kktv
 看看他	kkt_
 可扩展	kkq_
@@ -30757,6 +30764,7 @@
 这个能	fgn_
 反革命	fgmu
 中国梦	fgmi
+这个嘛	fgm'
 覆盖面	fgm_
 飞过来	fglvv
 覆盖率	fglvo
@@ -38542,7 +38550,7 @@
 嘴贱	zbjmoa
 最贱	zbjmo
 最简	zbjm
-最具	zbjl
+最具	zbjlo
 醉鸡	zbjkv
 最忌	zbjko
 最急	zbjk
@@ -40110,6 +40118,7 @@
 养子	ypzk
 氧族	ypzj
 洋罪	ypzb
+羊腰	ypyz
 仰泳	ypyy
 养鸭	ypys
 痒痒	ypypo
@@ -65513,8 +65522,8 @@
 潜到	qmdza
 签到	qmdz
 牵动	qmdy
-前段	qmdto
-前端	qmdt
+前端	qmdto
+前段	qmdt
 欠打	qmds
 前灯	qmdr
 千点	qmdm
@@ -81601,7 +81610,8 @@
 靠海	kzhh
 考核	kzhe
 靠后	kzhd
-考工	kzgy
+考工	kzgyu
+考公	kzgy
 考官	kzgt
 考纲	kzgp
 考过	kzgl
@@ -91766,6 +91776,7 @@
 昊森	hzsn
 好死	hzska
 好似	hzsk
+好素	hzsj
 耗散	hzsf
 好色	hzse
 貉绒	hzry
@@ -95825,7 +95836,7 @@
 何话	hehqi
 荷花	hehq
 和黄	hehm
-合伙	hehl
+合伙	hehli
 合乎	hehji
 河湖	hehja
 呵护	hehj
