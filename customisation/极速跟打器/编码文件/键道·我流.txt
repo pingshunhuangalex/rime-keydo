@@ -1,5 +1,6 @@
 ﻿溥天之下，莫非王土；率土之滨，莫非王臣	ptfj
 为众人抱薪者，不可使其冻毙于风雪	wfrx
+阎王要你三更死，岂能留人到五更	ywygo
 忍一时风平浪静，退一步海阔天空	ryek
 人到中年不得已，保温杯里泡枸杞	rdfq
 两耳不闻窗外事，一心只读圣贤书	lxbev
@@ -9,6 +10,7 @@
 书中自有黄金屋，书中自有颜如玉	efzy
 中国共产主义青年团中央委员会	fgghi
 穷则独善其身，达则兼济天下	qzdx
+生前何必久睡，死后自会长眠	eqhm
 造谣一张嘴，辟谣跑断腿	zyytu
 以小人之心，度君子之腹	yxrf
 以其人之道还治其人之身	yqrea
@@ -28049,11 +28051,12 @@
 皇阿玛	hxmua
 很邪门	hxmu
 荷尔蒙	hxm_
-核泄露	hxlv
+核泄露	hxlva
+划下了	hxlv
 候选栏	hxliu
 黑暗里	hxli
 活下来	hxla
-划下了	hxl_
+换下来	hxl_
 很炫酷	hxkuo
 很辛苦	hxku
 化学课	hxki
@@ -34122,7 +34125,8 @@
 不如趁	brj_
 必然会	brho
 白热化	brh_
-半日制	brf_
+半日制	brfo
+白人饭	brf_
 不如说	brev
 必然是	breo
 别人说	bre'
@@ -49146,7 +49150,8 @@
 卸下	xdxsu
 写啊	xdxso
 写下	xdxs
-瓯绣	xdxq
+瓯绣	xdxqv
+邪修	xdxq
 谢恩	xdxn
 斜线	xdxm
 些许	xdxl
@@ -82204,6 +82209,7 @@
 款哥	ktge
 宽沟	ktgd
 宽轨	ktgb
+宽粉	ktfn
 款制	ktfk
 宽幅	ktfj
 宽窄	ktfh
