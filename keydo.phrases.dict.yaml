@@ -868,11 +868,11 @@ sort: original
 办事员	beya
 不说也罢	beyb
 不善言辞	beyc
-表示压力很大	beyd
 博士研究生	beye
 闭上眼睛	beyj
 冰山一角	beyjo
-榜上有名	beym
+不是一家人，不进一家门	beym
+榜上有名	beymv
 半山腰	beyo
 闭上眼	beyoi
 背水一战	beyq
@@ -16107,6 +16107,7 @@ sort: original
 当我没说	dwme
 趸卖	dwmh
 倒插门	dwmi
+低温慢煮	dwmq
 第五名	dwmu
 大五码	dwmv
 吨煤	dwmw
@@ -29461,8 +29462,9 @@ sort: original
 放晴	fpqg
 放轻	fpqgo
 放债	fpqh
-房主	fpqj
+防住	fpqj
 放逐	fpqjo
+房主	fpqjoo
 放气	fpqk
 房企	fpqko
 房契	fpqkov
@@ -42247,6 +42249,7 @@ sort: original
 火坑	hlkr
 获卡	hlks
 货款	hlkt
+很凉快	hlku
 火控	hlky
 火烤	hlkz
 灰溜溜	hll
@@ -42921,6 +42924,7 @@ sort: original
 很难	hnnf
 恨你	hnnk
 很黏	hnnm
+很嫩	hnnn
 很牛	hnnq
 很能	hnnr
 很浓	hnny
@@ -54564,7 +54568,8 @@ sort: original
 娟秀	jtxq
 交通安全	jtxqo
 捐选	jtxt
-街头巷尾	jtxw
+街头小吃	jtxw
+街头巷尾	jtxwu
 精挑细选	jtxx
 街谈巷议	jtxy
 狷傲	jtxz
@@ -66798,7 +66803,7 @@ sort: original
 瞒骗	mfpm
 慢爬	mfps
 慢跑	mfpz
-魔法阵	mfq
+没防住	mfq
 满勤	mfqb
 命中注定	mfqd
 瞒着	mfqe
@@ -66811,7 +66816,8 @@ sort: original
 蛮缺	mfqh
 满期	mfqk
 慢曲	mfql
-密封圈	mfqo
+魔法阵	mfqo
+密封圈	mfqov
 幔帐	mfqp
 梦中情人	mfqr
 蛮准	mfqw
@@ -72869,9 +72875,10 @@ sort: original
 能说	nrel
 能上	nrep
 能胜	nrer
-男人装	nrf
+嫩肉粉	nrf
 能否	nrfd
 能者	nrfe
+男人装	nrfi
 能指	nrfk
 能装	nrfm
 能赚	nrft
@@ -111525,8 +111532,9 @@ sort: original
 有方	ydfpvo
 云淡风轻	ydfq
 一对夫妻	ydfqv
-有风	ydfr
+油封	ydfr
 以德服人	ydfra
+有风	ydfrv
 油炸	ydfs
 油渣	ydfsa
 诱发	ydfso

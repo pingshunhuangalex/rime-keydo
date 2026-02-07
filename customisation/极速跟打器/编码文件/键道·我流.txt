@@ -30,6 +30,7 @@
 公说公有理，婆说婆有理	geglu
 是福不是祸，是祸躲不过	efbg
 本来无一物，何处染尘埃	blwxv
+不是一家人，不进一家门	beym
 我不入地狱，谁入地狱	wbry
 科学技术是第一生产力	kxjlu
 获得性免疫缺陷综合征	hdxq
@@ -720,7 +721,6 @@
 不知如何是好	bfrh
 不分青红皂白	bfqbv
 不知老之将至	bflfv
-表示压力很大	beyd
 不食人间烟火	berh
 表示毫无压力	behl
 不得已而为之	bdyfv
@@ -9844,7 +9844,8 @@
 交通运输	jtye
 街谈巷议	jtxy
 精挑细选	jtxx
-街头巷尾	jtxw
+街头巷尾	jtxwu
+街头小吃	jtxw
 交通安全	jtxqo
 畅通无阻	jtwz
 彻头彻尾	jtwwu
@@ -14600,6 +14601,7 @@
 洞察秋毫	dwqh
 对外政策	dwqca
 对外贸易	dwmy
+低温慢煮	dwmq
 当我没说	dwme
 达瓦里希	dwlx
 对我来说	dwle
@@ -16306,7 +16308,7 @@
 巴山夜雨	beyya
 不适用于	beyy
 背水一战	beyq
-榜上有名	beym
+榜上有名	beymv
 冰山一角	beyjo
 闭上眼睛	beyj
 不善言辞	beyc
@@ -24015,7 +24017,8 @@
 内燃机	nrj_
 拟人化	nrh_
 牛肉干	nrg_
-男人装	nrf_
+男人装	nrfi
+嫩肉粉	nrf_
 那阵子	nqz_
 内切圆	nqy_
 闹情绪	nqx_
@@ -24977,8 +24980,9 @@
 莫扎特	mft_
 满招损	mfs_
 木芙蓉	mfr_
-密封圈	mfqo
-魔法阵	mfq_
+密封圈	mfqov
+魔法阵	mfqo
+没防住	mfq_
 麻烦您	mfno
 麻烦你	mfn_
 摹状貌	mfmi
@@ -28377,6 +28381,7 @@
 华丽丽	hlli
 火辣辣	hll'
 灰溜溜	hll_
+很凉快	hlku
 喉咙口	hlko
 海陆空	hlka
 会来看	hlk_
@@ -43809,7 +43814,8 @@
 诱发	ydfso
 油渣	ydfsa
 油炸	ydfs
-有风	ydfr
+有风	ydfrv
+油封	ydfr
 有方	ydfpvo
 有房	ydfpv
 右方	ydfp
@@ -93950,6 +93956,7 @@
 很浓	hnny
 很能	hnnr
 很牛	hnnq
+很嫩	hnnn
 很黏	hnnm
 恨你	hnnk
 很难	hnnf
@@ -103609,8 +103616,9 @@
 房契	fpqkov
 房企	fpqko
 放气	fpqk
+房主	fpqjoo
 放逐	fpqjo
-房主	fpqj
+防住	fpqj
 放债	fpqh
 放轻	fpqgo
 放晴	fpqg
