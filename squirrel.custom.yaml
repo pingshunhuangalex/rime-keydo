@@ -35,5 +35,5 @@ patch:
         line_spacing: 8 # [Mac] 候选项行距（仅在竖排模式中有效，且无法影响首/末选项）
         spacing: 8 # 输入区与候选区间距
     app_options:
-        com.microsoft.VSCode:
+        com.microsoft.VSCode: # 在VS Code中使用Rime
             ascii_mode: false

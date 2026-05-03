@@ -47,5 +47,5 @@ patch:
         mark_text: '' # 高亮候选项标记
         preedit_type: preview_all # [Win] 输入区嵌入模式（默认预览编码）
     app_options:
-        code.exe:
+        code.exe: # 在VS Code中使用Rime
             ascii_mode: false
