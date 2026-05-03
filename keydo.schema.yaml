@@ -26,9 +26,6 @@ switches:
     - name: full_shape # 全角半角切换（默认半角）
       reset: 0
       states: ['半角', '全角']
-    - name: extended_charset # CJK字符集切换（默认全字符集）
-      reset: 1
-      states: ['常用', '扩展']
 
 # 输入方案引擎
 engine:
@@ -89,7 +86,7 @@ topup:
 # 截取特定结构的编码传递给下个逻辑块（避免某些按键直接上屏/清空输入区字符串）
 recognizer:
     patterns: # 配合`segmentor`的`prefix`和`suffix`完成段落划分与标记
-        calculator: "^=[^;']+$" # 计算器
+        calculator: "^;[^;/`']+$" # 计算器（以;为前缀，且编码不含引导键或次选键）
         char_lookup: '[a-z`]*`+[a-z`]*' # 编码反查
 
 # 根据拼写运算规则编辑输入区
@@ -97,8 +94,8 @@ speller:
     algebra: # 核心拼写运算规则（编译后会写入`build`文件夹中的`prism`文件）
         __include: 'layout/algebra' # 导入拼写运算规则
     auto_select: true # 是否开启无重码时自动上屏（仅在编码吻合时判断）
-    alphabet: 'abcdefghijklmnopqrstuvwxyz;/=`' # 待监听的按键
-    initials: 'abcdefghijklmnopqrstuvwxyz;/=`' # 待监听的首位按键（引导键）
+    alphabet: 'abcdefghijklmnopqrstuvwxyz;/`' # 待监听的按键
+    initials: 'abcdefghijklmnopqrstuvwxyz;/`' # 待监听的首位按键（引导键）
 
 # 将特定字符映射为标点符号或文字处理句读键、数字键
 punctuator:

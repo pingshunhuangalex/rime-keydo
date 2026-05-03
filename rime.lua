@@ -25,6 +25,13 @@
 -- - 过滤器 -> 将转换好的候选项进行过滤（增删改查）
 -- - https://github.com/rime/librime/blob/master/src/rime/filter.h
 
+-- 强制内存回收
+-- Lua无法感知C++对象的大小（如OpenCC, ReverseDb），因此默认情况下内存回收过于宽松，导致内存会无限增长
+-- 将setpause设置为50可以更早地触发内存回收，将setstepmul设置为400可以使每个内存回收步骤做更多的工作
+-- https://github.com/hchunhui/librime-lua/issues/206
+collectgarbage("setpause", 50)
+collectgarbage("setstepmul", 400)
+
 -------------------
 -- 键道·我流逻辑块 --
 -------------------

@@ -60,13 +60,13 @@ punctuator:
         '^': { commit: …… }
         '&': '&'
         '*': '*'
-        '(': （
-        ')': ）
+        '(': { commit: （ }
+        ')': { commit: ） }
         '-': '-'
         '_': { commit: —— }
         '+': '+'
         '=': '='
-        '[': { commit: '“' }
-        ']': { commit: '”' }
-        '{': { commit: '‘' }
-        '}': { commit: '’' }
+        '[': { commit: 〔 }
+        ']': { commit: 〕 }
+        '{': { commit: 「 }
+        '}': { commit: 」 }

@@ -161,7 +161,7 @@ end
 
 local function translator(input, seg, env)
 	-- env can be used for getting the state of a switch, e.g., `env.engine.context:get_option("jffh")` returns true/false (or nil if the switch does not exist)
-	if string.sub(input, 1, 1) == "=" then
+	if string.sub(input, 1, 1) == ";" then
 		local input2 = string.sub(input, 2)
 		if string.match(input2, "^[%+%-]?%d*%.?%d*$") then -- sadly, lua does not support regex like {0,4}
 			-- comment or reorder following lines to adjust the effects
