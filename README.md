@@ -24,6 +24,8 @@
 
 为达成这一目标，`键道·我流`力求对词库编码规则进行量化，以此来构建一个标准化的词库，从而使用户能通过记忆少量规则来自然反应出字词所需的编码。如词库设计得当，盲打应是`键道·我流`最有效的运用方式（初学者可开启[辅助轮设置]来降低学习难度）。
 
+<div align="center"><img width="25%" alt="With training wheels configs" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/customisation/preview/color_scheme_keydo.png" /></div>
+
 另外为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，`键道·我流`的[词库结构]对字词进行更为细化的归类，使长度更大且码长更小的字词优先得到映射。
 
 ## 简码整理逻辑
