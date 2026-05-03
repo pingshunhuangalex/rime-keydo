@@ -25,5 +25,4 @@
 #     menu/page_size: 6 # 尽可能显示关联候选项
 #     style:
 #         alpha: 1 # 显示候选区
-#         inline_candidate: false # 编码所见即所得
 #         inline_preedit: false # 关闭输入区嵌入
