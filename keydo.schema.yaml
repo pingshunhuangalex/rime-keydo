@@ -52,7 +52,7 @@ engine:
     translators: # 转换器 -> 将划分好的编码段转换为对应候选项
         - punct_translator # 句读转换器 -> 根据标点符号配置将特定按键映射为标点符号
         - history_translator@repeat_history # 历史转换器 -> 储存或调取历史输入候选项
-        - table_translator@char_lookup # 码表转换器 -> 通过编码查询词库（基于输入方案本身）
+        - table_translator # 码表转换器 -> 通过编码查询词库（基于输入方案本身）
         - lua_translator@keydo_date_time_translator # 日期与时间转换器 -> 获取当前日期与时间
         - lua_translator@number_translator # 数字转换器 -> 将阿拉伯数字转换为对应汉字或进行运算
     filters: # 过滤器 -> 将转换好的候选项进行过滤（增删改查）
@@ -121,7 +121,7 @@ repeat_history:
     size: 100 # 历史输入候选项储存量
     initial_quality: 10000 # 转换结果优先级
 
-# 通过编码查询词库（基于输入方案本身）
+# 用特定码表来反查词库中的编码
 char_lookup:
     dictionary: keydo # 指定编码查询所使用的词库
     tags: [char_lookup] # 指定编码查询所对应的标识

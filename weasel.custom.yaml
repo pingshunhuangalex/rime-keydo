@@ -28,7 +28,7 @@ patch:
         horizontal: true # 候选项是否横排（默认横排）
         inline_preedit: true # 是否开启输入区嵌入（默认开启）
         label_font_point: 12 # 候选项序号字号
-        label_format: '' # 候选项序号格式（`%s`为候选项序号）
+        label_format: ' %s' # 候选项序号格式（`%s`为候选项序号）
         layout: # [Win] 主题布局配置
             align_type: bottom # 候选区对齐方式
             border_height: 2 # 主题上下边框粗细（须与左右边框粗细同时使用）
@@ -46,3 +46,6 @@ patch:
             spacing: 8 # 输入区与候选区间距
         mark_text: '' # 高亮候选项标记
         preedit_type: preview_all # [Win] 输入区嵌入模式（默认预览编码）
+    app_options:
+        code.exe:
+            ascii_mode: false
