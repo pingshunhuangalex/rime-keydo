@@ -1,16 +1,14 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
-# miscnpm
+# OS generated files
 .DS_Store
 
-# production
+# Production
 build
 sync
 
-# user configs
+# User Configs
 *.userdb
-installation.yaml
 default.yaml
+installation.yaml
+squirrel.yaml
 user.yaml
 weasel.yaml
-squirrel.yaml
