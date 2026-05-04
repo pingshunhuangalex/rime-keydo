@@ -45,7 +45,7 @@ keydo_select_processor = require("keydo.processors.select")
 -- 日期与时间转换器
 keydo_date_time_translator = require("keydo.translators.date_time")
 
--- 数字转换器：将阿拉伯数字转换为对应汉字（由`=`引导）
+-- 数字转换器：将阿拉伯数字转换为对应汉字
 number_translator = require("xnumber")
 
 -- 候选过滤器
