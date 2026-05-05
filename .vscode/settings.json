@@ -1,10 +1,10 @@
 {
     "Lua.diagnostics.globals": [
-        "ReverseDb",
         "Candidate",
-        "yield",
         "keydo_select_processor",
         "keydo_date_time_translator",
-        "keydo_cand_filter"
+        "keydo_cand_filter",
+        "ReverseDb",
+        "yield"
     ]
 }

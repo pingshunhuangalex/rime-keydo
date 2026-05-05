@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker",
+        "sumneko.lua"
+    ]
+}

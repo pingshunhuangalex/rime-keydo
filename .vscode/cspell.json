@@ -1,0 +1,17 @@
+{
+    "dictionaries": ["Keydo", "Rime"],
+    "dictionaryDefinitions": [
+        {
+            "name": "Keydo",
+            "path": "./cspell/keydo.txt",
+            "addWords": true
+        },
+        {
+            "name": "Rime",
+            "path": "./cspell/rime.txt",
+            "addWords": true
+        }
+    ],
+    "ignorePaths": ["**/*.dict.yaml"],
+    "import": ["~/.config/cspell.json"]
+}
