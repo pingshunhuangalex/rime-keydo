@@ -25,8 +25,8 @@ patch:
         font_face: 'Sarasa Mono SC' # 主题字体样式
         font_point: 14 # 主题字体字号
         fullscreen: false # [Win] 是否在全屏显示输入窗口（默认隐藏）
-        horizontal: true # 候选项是否横排（默认横排）
-        inline_preedit: true # 是否开启输入区嵌入（默认开启）
+        horizontal: false # 候选项是否横排（默认竖排）
+        inline_preedit: false # 是否开启输入区嵌入（默认关闭）
         label_font_point: 12 # 候选项序号字号
         label_format: ' %s' # 候选项序号格式（`%s`为候选项序号）
         layout: # [Win] 主题布局配置
@@ -40,12 +40,13 @@ patch:
             hilite_padding: 6 # 高亮候选项填充空间
             hilite_spacing: 6 # 高亮候选项间距
             margin_x: 8 # 主题左右边距
-            margin_y: -1 # 主题上下边距（边距为负值时隐藏候选区）
+            margin_y: 8 # 主题上下边距（边距为负值时隐藏候选区）
             min_height: 0 # 主题最小高度
             min_width: 0 # 主题最小宽度
             spacing: 8 # 输入区与候选区间距
-        mark_text: '' # 高亮候选项标记
-        preedit_type: preview_all # [Win] 输入区嵌入模式（默认预览编码）
+        mark_text: '' # [Win] 高亮候选项标记
+        preedit_type: composition # [Win] 输入区嵌入模式（默认只预览编码）
     app_options:
-        code.exe: # 在VS Code中使用Rime
-            ascii_mode: false
+        code.exe:
+            ascii_mode: true
+            vim_mode: true

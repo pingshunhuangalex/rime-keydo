@@ -19,22 +19,28 @@ patch:
         name: 键道·我流／SPHS # 主题名称
         text_color: 0xffaa82 # 输入区字体颜色
     style: # 主题配置
-        alpha: 0 # 主题透明度
-        border_height: 2 # [Mac] 主题左右边框粗细（须与上下边框粗细同时使用）
-        border_width: 2 # [Mac] 主题上下边框粗细（须与左右边框粗细同时使用）
+        alpha: 1 # 主题透明度（默认显示候选区）
+        base_offset: 6 # [Mac] 文字基线高度（避免候选项文字抖动）
+        border_height: -2 # [Mac] 边框上下边缘高度（负值可收窄圆角产生的边缘空间）
+        border_width: 2 # [Mac] 边框左右边缘宽度（负值可收窄圆角产生的边缘空间）
         candidate_format: '[label] [candidate] [comment]' # [Mac] 候选项序号格式
         candidate_list_layout: stacked # 候选项是否横排（默认横排）
         color_scheme: keydo # 当前主题
         comment_font_point: 16 # [Mac] 候选项编码提示字体字号
-        corner_radius: 8 # [Mac] 候选区圆角半径（同时影响候选区上下左右填充空间）
+        corner_radius: 6 # [Mac] 候选区圆角半径（影响边框上下左右边缘空间）
         font_face: 'Sarasa Mono SC' # 主题字体样式（支持候补字体）
         font_point: 18 # 主题字体字号
         hilited_corner_radius: 2 # [Mac] 高亮候选项圆角半径
-        inline_candidate: true # [Mac] 是否预览编码（默认预览编码）
-        inline_preedit: true # 是否开启输入区嵌入（默认开启）
+        inline_candidate: false # [Mac] 是否开启首选项嵌入（默认关闭）
+        inline_preedit: false # 是否开启输入区嵌入（默认关闭）
         label_font_point: 14 # [Mac] 候选项序号字体字号
         line_spacing: 8 # [Mac] 候选项行距（仅在竖排模式中有效，且无法影响首/末选项）
+        memorize_size: true # [Mac] 避免输入区触及边缘时来回跳动
         spacing: 8 # 输入区与候选区间距
     app_options:
-        com.microsoft.VSCode: # 在VS Code中使用Rime
-            ascii_mode: false
+        com.microsoft.VSCode:
+            ascii_mode: true
+            vim_mode: true
+        md.obsidian:
+            ascii_mode: true
+            vim_mode: true

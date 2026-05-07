@@ -16,7 +16,7 @@ schema:
 
 # 候选项菜单
 menu:
-    page_size: 2 # 候选项显示个数
+    page_size: 6 # 候选项显示个数
 
 # 模式切换开关
 switches:
@@ -111,6 +111,8 @@ translator:
     enable_user_dict: false # 是否开启用户词库（用于记录动态字词频）
     encode_commit_history: false # 是否对已上屛的词进行自动成词
     max_phrase_length: 6 # 最大自动成词词长
+    comment_format: # 指定编码提示格式
+        - xform/^~// # 移除逐码提示前缀`~`
 
 # 储存或调取历史输入候选项
 repeat_history:
@@ -130,4 +132,4 @@ char_lookup:
     enable_user_dict: false # 是否开启用户词库（用于记录动态字词频）
     encode_commit_history: false # 是否对已上屛的词进行自动成词
     comment_format: # 指定编码提示格式
-        - xform/^~[a-z;]+// # 移除以`~`为前缀的逐码提示
+        - xform/^~// # 移除逐码提示前缀`~`
