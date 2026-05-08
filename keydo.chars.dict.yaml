@@ -199,7 +199,6 @@ sort: original
 掰	bhiuuo
 拜	bhiuvv
 佰	bhiv
-佰	bhivui
 佰	bhivuo
 呗	bho
 呗	bhoaoo
@@ -210,7 +209,6 @@ sort: original
 百	bhv
 柏	bhvu
 柏	bhvuia
-百	bhvuia
 百	bhvuoi
 部	bj
 步	bji
@@ -2428,7 +2426,7 @@ sort: original
 示	ekvviu
 式	ekvviv
 奭	ekvvu
-奭	ekvvui
+奭	ekvvuo
 栻	ekvvv
 栻	ekvvvi
 说	el
@@ -2956,7 +2954,7 @@ sort: original
 瘵	fhovu
 瘵	fhovua
 斋	fhovvu
-祭	fhua
+祭	fhu
 祭	fhuavv
 服	fj
 妇	fja
@@ -5132,6 +5130,8 @@ sort: original
 慌	hmooii
 恍	hmooio
 惶	hmooui
+噷	hmoov
+噷	hmoovo
 煌	hmou
 喤	hmoui
 喤	hmouia
@@ -6194,8 +6194,8 @@ sort: original
 际	jkai
 瀱	jkaia
 瀱	jkaiai
-亟	jkaii
-亟	jkaiia
+亟	jkaio
+亟	jkaioa
 际	jkaivv
 济	jkao
 鸡	jkaou
@@ -9116,8 +9116,6 @@ sort: original
 拇	mjiuaa
 仫	mjiuao
 亩	mjo
-呣	mjoa
-呣	mjoaao
 𧿹	mjoi
 𧿹	mjoiaa
 亩	mjovia
@@ -11033,7 +11031,7 @@ sort: original
 绮	qkaavu
 骑	qkaavu
 亟	qkai
-亟	qkaiia
+亟	qkaioa
 泣	qkao
 泣	qkaovo
 汔	qkau
@@ -13450,7 +13448,6 @@ sort: original
 庑	wjovv
 痦	wjovvi
 吴	wjovvu
-呒	wjovvu
 庑	wjovvv
 物	wju
 务	wjua
@@ -14612,7 +14609,7 @@ sort: original
 铒	xjiovi
 佴	xjiv
 佴	xjivii
-咡	xjov
+咡	xjo
 咡	xjovii
 儿	xju
 尔	xjua
@@ -14978,6 +14975,7 @@ sort: original
 诜	xmoa
 禒	xmoaa
 禒	xmoaaa
+呣	xmoaao
 诜	xmoauv
 祆	xmoav
 祆	xmoavv
@@ -15006,6 +15004,8 @@ sort: original
 痫	xmovoi
 冼	xmovu
 冼	xmovuv
+呒	xmovv
+呒	xmovvu
 鲜	xmu
 馅	xmua
 猃	xmuai
@@ -16739,7 +16739,7 @@ sort: original
 咏	yyooaa
 慵	yyooo
 慵	yyooov
-㶲	yyouu
+㶲	yyou
 㶲	yyouua
 庸	yyov
 雍	yyova

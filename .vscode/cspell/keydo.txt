@@ -3,6 +3,7 @@ BBGGRR
 bcdefghjklmnpqrstwxyz
 cand
 keydo
+Keytao
 punct
 sbbb
 sbbbb
