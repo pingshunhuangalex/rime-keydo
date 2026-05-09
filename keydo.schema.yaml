@@ -20,8 +20,8 @@ menu:
 
 # 模式切换开关
 switches:
-    - name: ascii_mode # 中英文切换（默认中文）
-      reset: 0
+    - name: ascii_mode # 中英文切换（默认英文）
+      reset: 1 # Rime加载时默认使用英文
       states: ['中', '英']
     - name: full_shape # 全角半角切换（默认半角）
       reset: 0

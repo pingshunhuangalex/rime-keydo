@@ -38,6 +38,8 @@ patch:
         memorize_size: true # [Mac] 避免输入区触及边缘时来回跳动
         spacing: 8 # 输入区与候选区间距
     app_options:
+        com.google.Chrome:
+            ascii_mode: true
         com.microsoft.VSCode:
             ascii_mode: true
             vim_mode: true
