@@ -1,6 +1,6 @@
 # 键道·我流
 
-<a href="https://github.com/xkinput/KeyTao/commits/master/"><img align="right" alt="星空键道（Keytao）2026.02.16 - 17a936e" src="https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93%EF%BC%88Keytao%EF%BC%89-v1.0.1-c792ea" /></a>
+<a href="https://github.com/xkinput/KeyTao/commits/master/"><img align="right" alt="星空键道（Keytao）2026.02.17 - f22824e" src="https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93%EF%BC%88Keytao%EF%BC%89-v1.0.1-c792ea" /></a>
 
 [![小狼毫（Win）](https://img.shields.io/badge/%E5%B0%8F%E7%8B%BC%E6%AF%AB%EF%BC%88Win%EF%BC%89-v0.16.3-82aaff)](https://github.com/rime/weasel/releases/tag/0.16.3) [![鼠须管（Mac）](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%EF%BC%88Mac%EF%BC%89-v1.1.2-f78c6a)](https://github.com/rime/squirrel/releases/tag/1.1.2)
 
