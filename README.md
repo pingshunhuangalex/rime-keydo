@@ -1,8 +1,8 @@
 # 键道·我流
 
-<a href="https://github.com/xkinput/KeyTao/commits/master/"><img align="right" alt="星空键道" src="https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93-2023.10.12%20--%20bb4d810-brightgreen" /></a>
+<a href="https://github.com/xkinput/KeyTao/commits/master/"><img align="right" alt="星空键道（Keytao）2023.10.12 - bb4d810" src="https://img.shields.io/badge/%E6%98%9F%E7%A9%BA%E9%94%AE%E9%81%93%EF%BC%88Keytao%EF%BC%89-v1.0.0-c792ea" /></a>
 
-[![小狼毫（Win）](https://img.shields.io/badge/%E5%B0%8F%E7%8B%BC%E6%AF%AB%EF%BC%88Win%EF%BC%89-v0.16.3-blue)](https://github.com/rime/weasel/releases/tag/0.16.3) [![鼠须管（Mac）](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%EF%BC%88Mac%EF%BC%89-v1.1.2-orange)](https://github.com/rime/squirrel/releases/tag/1.1.2)
+[![小狼毫（Win）](https://img.shields.io/badge/%E5%B0%8F%E7%8B%BC%E6%AF%AB%EF%BC%88Win%EF%BC%89-v0.16.3-82aaff)](https://github.com/rime/weasel/releases/tag/0.16.3) [![鼠须管（Mac）](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%EF%BC%88Mac%EF%BC%89-v1.1.2-f78c6a)](https://github.com/rime/squirrel/releases/tag/1.1.2)
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
 

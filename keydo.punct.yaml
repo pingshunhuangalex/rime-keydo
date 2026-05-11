@@ -1,7 +1,7 @@
 # 键道·我流标点符号
 # encoding: utf-8
 
-config_version: '1.0'
+config_version: '1.0.0'
 punctuator:
     full_shape:
         ' ': { commit: '　' }
