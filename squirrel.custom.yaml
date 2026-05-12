@@ -32,7 +32,7 @@ patch:
         font_point: 18 # 主题字体字号
         hilited_corner_radius: 2 # [Mac] 高亮候选项圆角半径
         inline_candidate: false # [Mac] 是否开启首选项嵌入（默认关闭）
-        inline_preedit: false # 是否开启输入区嵌入（默认关闭）
+        inline_preedit: true # 是否开启输入区嵌入（默认开启以解决Chrome中回退键删除异常问题：https://github.com/rime/home/issues/315）
         label_font_point: 14 # [Mac] 候选项序号字体字号
         line_spacing: 8 # [Mac] 候选项行距（仅在竖排模式中有效，且无法影响首/末选项）
         memorize_size: true # [Mac] 避免输入区触及边缘时来回跳动

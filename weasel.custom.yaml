@@ -26,7 +26,7 @@ patch:
         font_point: 14 # 主题字体字号
         fullscreen: false # [Win] 是否在全屏显示输入窗口（默认隐藏）
         horizontal: false # 候选项是否横排（默认竖排）
-        inline_preedit: false # 是否开启输入区嵌入（默认关闭）
+        inline_preedit: true # 是否开启输入区嵌入（默认开启）
         label_font_point: 12 # 候选项序号字号
         label_format: '%s' # 候选项序号格式（`%s`为候选项序号）
         layout: # [Win] 主题布局配置
