@@ -28,19 +28,19 @@ patch:
         horizontal: false # 候选项是否横排（默认竖排）
         inline_preedit: false # 是否开启输入区嵌入（默认关闭）
         label_font_point: 12 # 候选项序号字号
-        label_format: ' %s' # 候选项序号格式（`%s`为候选项序号）
+        label_format: '%s' # 候选项序号格式（`%s`为候选项序号）
         layout: # [Win] 主题布局配置
-            align_type: bottom # 候选区对齐方式
-            border_height: 2 # 主题上下边框粗细（须与左右边框粗细同时使用）
-            border_width: 2 # 主题左右边框粗细（须与上下边框粗细同时使用）
+            align_type: center # [Win] 候选区对齐方式
+            baseline: 0 # [Win] 文字基线高度
+            border_width: 2 # [Win] 主题边框粗细
             candidate_spacing: 12 # 候选项间距
             corner_radius: 6 # 候选区圆角半径
-            enhanced_position: true # 允许在光标位置获取失败时于窗口左上角绘制候选框（而不是桌面左上角）
-            hilited_corner_radius: 6 # 候选项圆角半径
+            hilited_corner_radius: 2 # 候选项圆角半径
             hilite_padding: 6 # 高亮候选项填充空间
             hilite_spacing: 6 # 高亮候选项间距
-            margin_x: 8 # 主题左右边距
-            margin_y: 8 # 主题上下边距（边距为负值时隐藏候选区）
+            linespacing: 0 # [Win] 候选项行距（仅在竖排模式中有效，且无法影响首/末选项）
+            margin_x: 8 # [Win] 主题左右边距
+            margin_y: 8 # [Win] 主题上下边距（边距为负值时隐藏候选区）
             min_height: 0 # 主题最小高度
             min_width: 0 # 主题最小宽度
             spacing: 8 # 输入区与候选区间距

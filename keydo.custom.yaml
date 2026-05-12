@@ -24,5 +24,7 @@
 #         - xform/^~[a-z;]+// # 隐藏以`~`为前缀的逐码提示
 #     style:
 #         inline_preedit: true # 开启输入区嵌入
-#         layout/margin_y: -1 # 隐藏候选区
+#         label_format: '' # 隐藏候选项序号
+#         layout:
+#             margin_y: -1 # 隐藏候选区
 #         preedit_type: preview_all # 输入区同时预览编码和候选项
