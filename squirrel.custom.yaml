@@ -43,6 +43,8 @@ patch:
         com.microsoft.VSCode:
             ascii_mode: true
             vim_mode: true
+        com.tencent.xinWeChat:
+            ascii_mode: false
         md.obsidian:
             ascii_mode: true
             vim_mode: true
