@@ -4,7 +4,7 @@
 
 [![[Mac] 鼠须管 (Squirrel)](<https://img.shields.io/badge/鼠须管%20(Squirrel)-1.1.2-f78c6a?logo=apple&style=for-the-badge>)](https://github.com/rime/squirrel/releases/tag/1.1.2) [![[Win] 小狼毫 (Weasel)](<https://img.shields.io/badge/小狼毫%20(Weasel)-0.17.4-82aaff?logo=airplayvideo&style=for-the-badge>)](https://github.com/rime/weasel/releases/tag/0.17.4)
 
-`键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
+`键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。作为键道家族的一员，用户可前往[键道官网]加载`键道·我流`，无需安装即可进行试用与练习。
 
 作为一款独立的输入方案，用户只需在[下载安装Rime]后将本仓库覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。想要进一步了解这款优雅的中文输入方案？先看看我自制的[输入法文档]吧!
 
@@ -179,5 +179,6 @@
 [Rime开源输入平台]: https://github.com/rime
 [输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
 [下载安装Rime]: https://rime.im/download/
+[键道官网]: https://keytao.vercel.app/practice
 [隐秘设置]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/platform/mac/keydo.custom.yaml
 [词库结构]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/keydo.dict.yaml

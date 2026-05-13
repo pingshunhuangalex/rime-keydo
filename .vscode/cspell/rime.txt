@@ -2,6 +2,7 @@ Eisu
 hilite
 hilited
 linespacing
+mitchellh
 preedit
 segmentor
 segmentors
