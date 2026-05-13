@@ -6,7 +6,7 @@
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。
 
-作为一款独立的输入方案，用户只需在[下载安装Rime]后将本仓库覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。想要进一步了解这款优雅的中文输入方案？先看看我自制的[键道·我流输入法文档]吧!
+作为一款独立的输入方案，用户只需在[下载安装Rime]后将本仓库覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。想要进一步了解这款优雅的中文输入方案？先看看我自制的[输入法文档]吧!
 
 <div align="center"><img alt="Colemak-DH Matrix Layout" src="./preview/keyboard_layout_keydo.png" /></div>
 
@@ -177,7 +177,7 @@
 [星空键道]: https://github.com/xkinput/KeyTao
 [Colemak-DH Matrix布局]: https://colemakmods.github.io/mod-dh/keyboards.html#matrix-keyboards
 [Rime开源输入平台]: https://github.com/rime
-[键道·我流输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
+[输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
 [下载安装Rime]: https://rime.im/download/
-[隐秘设置]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/keydo.custom.yaml
+[隐秘设置]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/platform/mac/keydo.custom.yaml
 [词库结构]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/keydo.dict.yaml
