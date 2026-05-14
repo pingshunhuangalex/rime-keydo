@@ -9299,6 +9299,7 @@ sort: original
 粗茶淡饭	cwdf
 存单	cwdfv
 存贷	cwdh
+错误的	cwdi
 忖度	cwdl
 村店	cwdm
 存档	cwdp
@@ -17420,7 +17421,8 @@ sort: original
 实报实销	ebex
 是不是要	ebey
 胜败输赢	ebeyu
-水少	ebez
+是不是在	ebez
+水少	ebeza
 睡少	ebezi
 睡不着	ebf
 伸不直	ebf
@@ -38072,6 +38074,7 @@ sort: original
 更像是	gxev
 干些啥	gxevi
 广顺	gxew
+更像是在	gxez
 高血脂	gxf
 高消费	gxf
 光锥	gxfb
@@ -39428,8 +39431,8 @@ sort: original
 会商	hbep
 会上	hbepi
 徽商	hbepu
-回升	hber
-回声	hberi
+回声	hber
+回升	hberi
 回生	hberiu
 灰沙	hbes
 后半生	hbeu
@@ -45081,6 +45084,7 @@ sort: original
 皇家	hxjs
 黄绢	hxjt
 海尔集团	hxjta
+很安静	hxju
 皇军	hxjw
 黄酱	hxjx
 惶窘	hxjy
@@ -59999,6 +60003,7 @@ sort: original
 拷贝	kzbwi
 靠猜	kzch
 烤瓷	kzck
+枯燥的	kzd
 烤得	kzde
 考得	kzde
 烤的	kzdeo
@@ -65577,7 +65582,8 @@ sort: original
 离心离德	lxld
 亮了	lxle
 凉了	lxleo
-拉下脸	lxli
+落下来	lxli
+拉下脸	lxliv
 两路	lxlj
 靓丽	lxlk
 亮丽	lxlko
@@ -68257,7 +68263,8 @@ sort: original
 迷藏	mkcp
 密从	mkcy
 没看懂	mkd
-米的	mkde
+密的	mkde
+米的	mkdeo
 嘧啶	mkdg
 米袋	mkdh
 密度	mkdj
@@ -80021,7 +80028,8 @@ sort: original
 铸钢	qjgpi
 主观	qjgt
 主管	qjgto
-戚继光	qjgv
+清楚感	qjgv
+戚继光	qjgva
 竹棍	qjgw
 烛光	qjgx
 主公	qjgy
@@ -96741,7 +96749,9 @@ sort: original
 车锁	wesl
 五十岁	wesv
 扯臊	wesz
-卫生厅	wet
+往上调	wet
+往上跳	wet
+卫生厅	weta
 撤退	wetb
 车条	wetc
 车头	wetd
@@ -99748,9 +99758,9 @@ sort: original
 王师	wpekvi
 王氏	wpekvu
 王朔	wpel
-网上	wpep
-网商	wpepi
-往上	wpepu
+往上	wpep
+网上	wpepi
+网商	wpepio
 旺盛	wper
 往生	wperu
 枉杀	wpes
@@ -101855,6 +101865,7 @@ sort: original
 虫草	wycz
 差一点	wyd
 晚一点	wyd
+迟疑的	wyda
 冲兑	wydb
 万用电表	wydbv
 冲掉	wydc
@@ -111877,6 +111888,7 @@ sort: original
 因要	ybyz
 一兵一卒	ybyzv
 也不在	ybz
+也不再	ybz
 因在	ybzh
 印在	ybzhu
 因子	ybzk
@@ -121514,8 +121526,9 @@ sort: original
 阻断	zjdt
 造成的	zjdu
 造就的	zjduo
-走极端	zjdv
+再长的	zjdv
 增加到	zjdva
+走极端	zjdvv
 再加上	zje
 租税	zjeb
 租售	zjed
@@ -122562,6 +122575,7 @@ sort: original
 最美的	zmdo
 最慢的	zmdoo
 自民党	zmdu
+再密的	zmdv
 自鸣得意	zmdy
 怎么说	zme
 怎么说呢	zmen
@@ -123439,11 +123453,12 @@ sort: original
 子系统	zxt
 仔细听	zxti
 罪恶滔天	zxtt
-自行车	zxw
+总希望	zxw
 在线文档	zxwd
 钻心剜骨	zxwg
 走乡串户	zxwh
 做学问	zxwi
+自行车	zxwu
 子虚乌有	zxwy
 自信心	zxx
 自下而上	zxxe
