@@ -8,7 +8,7 @@
 
 作为一款独立的输入方案，用户只需在[下载安装Rime]后将本仓库覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。想要进一步了解这款优雅的中文输入方案？先看看我自制的[输入法文档]吧!
 
-<div align="center"><img alt="Colemak-DH Matrix Layout" src="./preview/keyboard_layout_keydo.png" /></div>
+<div align="center"><img alt="Colemak-DH Matrix Layout" src="./preview/keyboard_layout.png" /></div>
 
 ## 回归初心
 
@@ -22,7 +22,7 @@
 
 为达成这一目标，`键道·我流`力求对词库编码规则进行量化，以此来构建一个标准化的词库，从而使用户能通过记忆少量规则来自然反应出字词所需的编码。如词库设计得当，盲打应是`键道·我流`最有效的运用方式（集大成者可开启[隐秘设置]隐藏输入界面从而获取极简体验）。
 
-<div align="center"><img width="25%" alt="Stealth Mode Configs" src="./preview/color_scheme_keydo.png" /></div>
+<div align="center"><img width="25%" alt="Stealth Mode Configs" src="./preview/color_scheme.png" /></div>
 
 另外为加强字词检索时的效率与准确性，同时优化「极速跟打器」中的编码提示与可视化，`键道·我流`的[词库结构]对字词进行更为细化的归类，使长度更大且码长更小的字词优先得到映射。
 
