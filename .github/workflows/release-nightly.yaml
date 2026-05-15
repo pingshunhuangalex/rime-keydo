@@ -139,7 +139,7 @@ jobs:
                   echo "🟣 Preparing the nightly release..."
 
                   RELEASE_NOTES=$(cat <<'EOF'
-                  <img width="2624" height="1464" alt="Ouroboros" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/preview/release_banner.png" />
+                  <img width="2624" height="1464" alt="Ouroboros" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/preview/release_nightly.png" />
 
                   ### 安装说明
                   下载对应平台的压缩包，解压后将所有文件覆盖于`Rime用户文件夹`，便可无需配置立即使用。
