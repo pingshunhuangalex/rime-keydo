@@ -27,47 +27,47 @@ jobs:
 
                   # Force run if manually triggered, otherwise check for commits in the last 24 hours
                   if [[ -z $(git log --since="24 hours ago" --oneline) && "${{ github.event_name }}" != "workflow_dispatch" ]]; then
-                    echo "🟡 [INFO] No new commits found in the last 24 hours. Ending gracefully."
+                    echo "🟡 No new commits found in the last 24 hours."
                     echo "skip=true" >> "$GITHUB_OUTPUT"
+                    echo "🟢 The existing release is still valid. No changes were made."
                   else
                     echo "skip=false" >> "$GITHUB_OUTPUT"
                     echo "🟢 New commits detected (or manual run triggered)!"
                   fi
 
-            - name: Syntax and general issues check for Lua
+            - name: Syntax and linting issues check for Lua
               if: steps.check.outputs.skip == 'false'
               run: |
                   trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
                   set -e
 
-                  echo "🟣 Installing dependencies and checking Lua files..."
-
-                  # Redirect standard output to null so logs stay clean, but errors will still show
+                  echo "🟣 Installing dependencies..."
                   sudo apt-get update > /dev/null 2>&1
                   sudo apt-get install -y lua5.3 liblua5.3-dev luarocks build-essential unzip > /dev/null 2>&1
-                  sudo luarocks install luacheck
+                  sudo luarocks install luacheck > /dev/null 2>&1
 
-                  echo "🔎 Running Luacheck..."
+                  echo "🟣 Checking Lua files via Luacheck..."
                   luacheck lua/ rime.lua \
                       --exclude-files "lua/*.draft.lua" \
                       --no-color \
                       --only 0
 
-                  echo "🔎 Running strict Lua compilation check..."
+                  echo "🟣 Running strict Lua compilation check..."
                   find . -name "*.lua" ! -name "*.draft.lua" -exec luac5.3 -p {} \;
 
                   echo "🟢 All Lua files passed the syntax and linting checks!"
 
-            - name: Package OS-specific assets
+            - name: Package OS-specific Keydo assets
               if: steps.check.outputs.skip == 'false'
               run: |
                   trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
                   set -e
 
-                  echo "🟣 Zipping Mac and Windows assets..."
-
+                  echo "🟣 Checking the date today..."
                   DATE=$(date +"%Y.%m.%d")
+                  echo "NIGHTLY_TAG=nightly-$DATE" >> "$GITHUB_ENV"
 
+                  echo "🟣 Preparing Keydo for Mac..."
                   cp platform/mac/keydo.custom.yaml ./keydo.custom.yaml
                   zip -qr "keydo-mac-nightly-$DATE.zip" \
                       lua/ \
@@ -78,6 +78,7 @@ jobs:
                       -x "lua/*.draft.lua"
                   rm keydo.custom.yaml
 
+                  echo "🟣 Preparing Keydo for Windows..."
                   cp platform/win/keydo.custom.yaml ./keydo.custom.yaml
                   zip -qr "keydo-win-nightly-$DATE.zip" \
                       lua/ \
@@ -91,25 +92,9 @@ jobs:
                   echo "MAC_ASSET=keydo-mac-nightly-$DATE.zip" >> "$GITHUB_ENV"
                   echo "WIN_ASSET=keydo-win-nightly-$DATE.zip" >> "$GITHUB_ENV"
 
-                  echo "🟢 Files compressed into $MAC_ASSET and $WIN_ASSET!"
+                  echo "🟢 Keydo assets were compressed and ready!"
 
-            - name: Move nightly tag to the latest commit
-              if: steps.check.outputs.skip == 'false'
-              run: |
-                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
-                  set -e
-
-                  echo "🟣 Updating the 'nightly' tag to HEAD..."
-
-                  git config user.name "github-actions[bot]"
-                  git config user.email "github-actions[bot]@users.noreply.github.com"
-
-                  git tag -f nightly
-                  git push -f origin nightly
-
-                  echo "🟢 Tag moved successfully!"
-
-            - name: Prepare GitHub Release
+            - name: Clean up legacy nightly tags and releases
               if: steps.check.outputs.skip == 'false'
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -117,19 +102,43 @@ jobs:
                   trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
                   set -e
 
-                  echo "🟣 Managing GitHub Releases..."
+                  echo "🟣 Setting up the GitHub actions bot..."
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
 
-                  # Check if the release exists
-                  if gh release view nightly > /dev/null 2>&1; then
-                    echo "🔄 Found existing nightly release. Clearing old assets..."
-                    ASSETS=$(gh release view nightly --json assets -q '.assets[].name' || echo "")
-                    for ASSET in $ASSETS; do
-                      gh release delete-asset nightly "$ASSET" -y
-                    done
-                  else
-                    echo "🟡 Nightly release not found! Creating a new pre-release to match setup..."
+                  echo "🟣 Scanning old nightly tags and releases..."
 
-                    RELEASE_NOTES=$(cat <<-EOF
+                  LEGACY_RELEASES=$(git ls-remote --tags origin 'refs/tags/nightly-*' | awk -F'/' '{print $3}')
+
+                  for TAG in $LEGACY_RELEASES; do
+                    echo "🟣 Cleaning up old release $TAG..."
+                    gh release delete "$TAG" --yes || echo "🟡 Release $TAG is already gone"
+
+                    echo "🟣 Cleaning up old tag $TAG..."
+                    git push origin --delete "$TAG" || echo "🟡 Tag $TAG is already gone"
+                    git tag -d "$TAG" || true
+                  done
+
+                  echo "🟢 Legacy tags and releases were cleaned up successfully!"
+
+            - name: Prepare the nightly tag and release
+              if: steps.check.outputs.skip == 'false'
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  set -e
+
+                  echo "🟣 Preparing the nightly tag..."
+
+                  NIGHTLY_TAG=${{ env.NIGHTLY_TAG }}
+
+                  git tag "$NIGHTLY_TAG"
+                  git push origin "$NIGHTLY_TAG"
+
+                  echo "🟣 Preparing the nightly release..."
+
+                  RELEASE_NOTES=$(cat <<'EOF'
                   <img width="2624" height="1464" alt="Ouroboros" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/preview/release_banner.png" />
 
                   ### 安装说明
@@ -148,13 +157,12 @@ jobs:
                   EOF
                   )
 
-                    gh release create nightly \
-                      --title "键道·我流 Nightly Build - Ouroboros (衔尾蛇)" \
-                      --prerelease \
-                      --notes "$RELEASE_NOTES"
-                  fi
+                  gh release create "$NIGHTLY_TAG" \
+                    --title "键道·我流 Nightly Build - Ouroboros (衔尾蛇)" \
+                    --prerelease \
+                    --notes "$RELEASE_NOTES"
 
-                  echo "📦 Uploading new zip files..."
-                  gh release upload nightly "${{ env.MAC_ASSET }}" "${{ env.WIN_ASSET }}"
+                  echo "🟣 Uploading Keydo assets..."
+                  gh release upload "$NIGHTLY_TAG" "${{ env.MAC_ASSET }}" "${{ env.WIN_ASSET }}"
 
-                  echo "🟢 Assets uploaded and the release is live!"
+                  echo "🟢 Keydo assets attached and the release $NIGHTLY_TAG is now live!"
