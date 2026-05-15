@@ -1,0 +1,160 @@
+name: Nightly Release
+
+on:
+    schedule:
+        - cron: '0 20 * * *' # Run at 20:00 UTC (6:00 AM AEST)
+    workflow_dispatch: # Allow manually triggering the workflow from the Actions tab
+
+jobs:
+    build-and-release:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write # Required for pushing tags and updating releases
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0 # Fetch full history to reliably check 24-hour commits and move tags
+
+            - name: Check for new commits in the past 24 hours
+              id: check
+              run: |
+                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  set -e
+
+                  echo "🟣 Checking commit history..."
+
+                  # Force run if manually triggered, otherwise check for commits in the last 24 hours
+                  if [[ -z $(git log --since="24 hours ago" --oneline) && "${{ github.event_name }}" != "workflow_dispatch" ]]; then
+                    echo "🟡 [INFO] No new commits found in the last 24 hours. Ending gracefully."
+                    echo "skip=true" >> "$GITHUB_OUTPUT"
+                  else
+                    echo "skip=false" >> "$GITHUB_OUTPUT"
+                    echo "🟢 New commits detected (or manual run triggered)!"
+                  fi
+
+            - name: Syntax and general issues check for Lua
+              if: steps.check.outputs.skip == 'false'
+              run: |
+                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  set -e
+
+                  echo "🟣 Installing dependencies and checking Lua files..."
+
+                  # Redirect standard output to null so logs stay clean, but errors will still show
+                  sudo apt-get update > /dev/null 2>&1
+                  sudo apt-get install -y lua5.3 liblua5.3-dev luarocks build-essential unzip > /dev/null 2>&1
+                  sudo luarocks install luacheck
+
+                  echo "🔎 Running Luacheck..."
+                  luacheck lua/ rime.lua \
+                      --exclude-files "lua/*.draft.lua" \
+                      --no-color \
+                      --only 0
+
+                  echo "🔎 Running strict Lua compilation check..."
+                  find . -name "*.lua" ! -name "*.draft.lua" -exec luac5.3 -p {} \;
+
+                  echo "🟢 All Lua files passed the syntax and linting checks!"
+
+            - name: Package OS-specific assets
+              if: steps.check.outputs.skip == 'false'
+              run: |
+                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  set -e
+
+                  echo "🟣 Zipping Mac and Windows assets..."
+
+                  DATE=$(date +"%Y.%m.%d")
+
+                  cp platform/mac/keydo.custom.yaml ./keydo.custom.yaml
+                  zip -qr "keydo-mac-nightly-$DATE.zip" \
+                      lua/ \
+                      rime.lua \
+                      default.custom.yaml \
+                      squirrel.custom.yaml \
+                      keydo.*.yaml \
+                      -x "lua/*.draft.lua"
+                  rm keydo.custom.yaml
+
+                  cp platform/win/keydo.custom.yaml ./keydo.custom.yaml
+                  zip -qr "keydo-win-nightly-$DATE.zip" \
+                      lua/ \
+                      rime.lua \
+                      default.custom.yaml \
+                      weasel.custom.yaml \
+                      keydo.*.yaml \
+                      -x "lua/*.draft.lua"
+                  rm keydo.custom.yaml
+
+                  echo "MAC_ASSET=keydo-mac-nightly-$DATE.zip" >> "$GITHUB_ENV"
+                  echo "WIN_ASSET=keydo-win-nightly-$DATE.zip" >> "$GITHUB_ENV"
+
+                  echo "🟢 Files compressed into $MAC_ASSET and $WIN_ASSET!"
+
+            - name: Move nightly tag to the latest commit
+              if: steps.check.outputs.skip == 'false'
+              run: |
+                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  set -e
+
+                  echo "🟣 Updating the 'nightly' tag to HEAD..."
+
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+
+                  git tag -f nightly
+                  git push -f origin nightly
+
+                  echo "🟢 Tag moved successfully!"
+
+            - name: Prepare GitHub Release
+              if: steps.check.outputs.skip == 'false'
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  set -e
+
+                  echo "🟣 Managing GitHub Releases..."
+
+                  # Check if the release exists
+                  if gh release view nightly > /dev/null 2>&1; then
+                    echo "🔄 Found existing nightly release. Clearing old assets..."
+                    ASSETS=$(gh release view nightly --json assets -q '.assets[].name' || echo "")
+                    for ASSET in $ASSETS; do
+                      gh release delete-asset nightly "$ASSET" -y
+                    done
+                  else
+                    echo "🟡 Nightly release not found! Creating a new pre-release to match setup..."
+
+                    RELEASE_NOTES=$(cat <<-EOF
+                  <img width="2624" height="1464" alt="Ouroboros" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/preview/release_banner.png" />
+
+                  ### 安装说明
+                  下载对应平台的压缩包，解压后将所有文件覆盖于`Rime用户文件夹`，便可无需配置立即使用。
+
+                  ### Rime用户文件夹说明
+                  - [Mac] 鼠须管 (Squirrel): `~/Library/Rime/`
+                  - [Win] 小狼毫 (Weasel): `%APPDATA%\Rime\`
+
+                  ### 下载文件说明
+                  - [Mac] 鼠须管 (Squirrel): `keydo-mac-nightly-<date>.zip`
+                  - [Win] 小狼毫 (Weasel): `keydo-win-nightly-<date>.zip`
+
+                  ### 更新内容
+                  请查看[提交历史](https://github.com/pingshunhuangalex/rime-keydo/commits/main/)以了解更新详情。
+                  EOF
+                  )
+
+                    gh release create nightly \
+                      --title "键道·我流 Nightly Build - Ouroboros (衔尾蛇)" \
+                      --prerelease \
+                      --notes "$RELEASE_NOTES"
+                  fi
+
+                  echo "📦 Uploading new zip files..."
+                  gh release upload nightly "${{ env.MAC_ASSET }}" "${{ env.WIN_ASSET }}"
+
+                  echo "🟢 Assets uploaded and the release is live!"

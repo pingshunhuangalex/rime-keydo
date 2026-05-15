@@ -1,4 +1,4 @@
-# 键道·我流
+# 键道·我流 [![Nightly Build](https://github.com/pingshunhuangalex/rime-keydo/actions/workflows/release-nightly.yaml/badge.svg)](https://github.com/pingshunhuangalex/rime-keydo/actions/workflows/release-nightly.yaml)
 
 <a href="https://github.com/xkinput/KeyTao/releases/tag/v1.2.8"><img align="right" alt="星空键道 (Keytao) - 2026.05.10 - 4968067" src="https://img.shields.io/badge/星空键道%20(Keytao)-1.2.8-c792ea?logo=monkeytype&logoColor=fff&style=for-the-badge" /></a>
 
@@ -6,7 +6,7 @@
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。作为键道家族的一员，用户可前往[键道官网]加载`键道·我流`，无需安装即可进行试用与练习。
 
-作为一款独立的输入方案，用户只需在[下载安装Rime]后将本仓库覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。想要进一步了解这款优雅的中文输入方案？先看看我自制的[输入法文档]吧!
+作为一款独立的输入方案，用户只需在[下载安装Rime]后将本[输入方案]覆盖于`Rime用户文件夹`，便可无需配置立即使用`键道·我流`。想要进一步了解这款优雅的中文输入方案？先看看我自制的[输入法文档]吧!
 
 <div align="center"><img alt="Colemak-DH Matrix Layout" src="./preview/keyboard_layout.png" /></div>
 
@@ -181,6 +181,7 @@
 [Rime开源输入平台]: https://github.com/rime
 [输入法文档]: https://pingshunhuangalex.gitbook.io/rime-xkjd/
 [下载安装Rime]: https://rime.im/download/
+[输入方案]: https://github.com/pingshunhuangalex/rime-keydo/releases
 [键道官网]: https://keytao.vercel.app/practice
 [隐秘设置]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/platform/mac/keydo.custom.yaml
 [词库结构]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/keydo.dict.yaml

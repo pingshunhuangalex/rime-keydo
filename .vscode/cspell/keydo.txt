@@ -4,6 +4,10 @@ bcdefghjklmnpqrstwxyz
 cand
 keydo
 Keytao
+liblua
+luac
+luacheck
+luarocks
 punct
 sbbb
 sbbbb
