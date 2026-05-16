@@ -158,6 +158,7 @@ jobs:
                   )
 
                   gh release create "$NIGHTLY_TAG" \
+                    --target "$GITHUB_SHA" \
                     --title "键道·我流 Nightly Build - Ouroboros (衔尾蛇)" \
                     --prerelease \
                     --notes "$RELEASE_NOTES"
