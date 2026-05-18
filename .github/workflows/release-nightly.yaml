@@ -15,6 +15,7 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v6
               with:
+                  token: ${{ secrets.SPHS_BOT_TOKEN }}
                   fetch-depth: 0 # Fetch full history to reliably check 24-hour commits and move tags
 
             - name: Check for new commits in the past 24 hours
@@ -97,14 +98,13 @@ jobs:
             - name: Clean up legacy nightly tags and releases
               if: steps.check.outputs.skip == 'false'
               env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.SPHS_BOT_TOKEN }}
               run: |
                   trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
                   set -e
 
-                  echo "🟣 Setting up the GitHub actions bot..."
-                  git config user.name "github-actions[bot]"
-                  git config user.email "41898282+github-actions[bot]@users.noreply.github.com" # Grab bot ID from https://api.github.com/users/github-actions[bot]
+                  git config user.name "SPHS [Bot]"
+                  git config user.email "107382682+sphs-bot@users.noreply.github.com" # Grab bot ID from https://api.github.com/users/sphs-bot
 
                   echo "🟣 Scanning old nightly tags and releases..."
 
@@ -124,7 +124,7 @@ jobs:
             - name: Prepare the nightly tag and release
               if: steps.check.outputs.skip == 'false'
               env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.SPHS_BOT_TOKEN }}
               run: |
                   trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
                   set -e
