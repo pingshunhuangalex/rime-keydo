@@ -104,7 +104,8 @@ sort: original
 斑驳陆离	bbll
 殡殓	bblm
 冰冰凉	bblo
-不必了	bblv
+不包了	bblv
+不必了	bblvo
 帮帮忙	bbm
 𰻞𰻞面	bbmo
 本部门	bbmv
@@ -6872,10 +6873,11 @@ sort: original
 报料	bzlci
 爆裂	bzld
 暴烈	bzldo
-报了	bzle
-抱了	bzlei
+饱了	bzle
+报了	bzlei
+抱了	bzleia
 爆了	bzleo
-饱了	bzleu
+包了	bzleu
 笔走龙蛇	bzleuv
 包揽	bzlf
 宝蓝	bzlfo
@@ -10000,7 +10002,8 @@ sort: original
 对局	dbjl
 对句	dbjla
 对称	dbjn
-道不尽	dbjo
+读不出	dbjo
+道不尽	dbjov
 对唱	dbjp
 对旧	dbjq
 对家	dbjs
@@ -25441,8 +25444,8 @@ sort: original
 折价	fejsi
 这架	fejso
 愤世嫉俗	fejsov
-知识界	feju
-直升机	fejuu
+直升机	feju
+知识界	fejuo
 转瞬间	fejv
 副书记	fejva
 转身就忘	fejw
@@ -74135,6 +74138,7 @@ sort: original
 农具	nyjl
 农建	nyjm
 弄臣	nyjn
+哪一间	nyjo
 哪一场	nyjo
 农业局	nyjoi
 农场	nyjp
@@ -98846,6 +98850,7 @@ sort: original
 我曾	wlcr
 我擦	wlcs
 我村	wlcw
+我从	wlcy
 卧槽	wlcz
 我操	wlczu
 窝里斗	wld
@@ -121533,6 +121538,7 @@ sort: original
 再长的	zjdv
 增加到	zjdva
 走极端	zjdvv
+租到	zjdz
 再加上	zje
 租税	zjeb
 租售	zjed
