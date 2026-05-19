@@ -12,17 +12,49 @@ jobs:
             contents: write # Required for pushing tags and updating releases
 
         steps:
+            - name: Generate bot token
+              id: app-token
+              uses: actions/create-github-app-token@v3
+              with:
+                  client-id: ${{ vars.SPHS_ACTIONS_CLIENT_ID }}
+                  private-key: ${{ secrets.SPHS_ACTIONS_PRIVATE_KEY }}
+
+            - name: Get bot ID
+              id: get-bot-id
+              env:
+                  GH_TOKEN: ${{ steps.app-token.outputs.token }}
+              run: |
+                  # Fetch bot identity via token
+                  BOT_ID=$(gh api "/users/${{ steps.app-token.outputs.app-slug }}[bot]" --jq '.id')
+
+                  echo "bot-id=${BOT_ID}" >> "$GITHUB_OUTPUT"
+                  echo "🟢 Bot ID ${BOT_ID} is identified!"
+
             - name: Checkout code
               uses: actions/checkout@v6
               with:
-                  token: ${{ secrets.SPHS_BOT_TOKEN }}
+                  token: ${{ steps.app-token.outputs.token }}
                   fetch-depth: 0 # Fetch full history to reliably check 24-hour commits and move tags
+
+            - name: Configure Git for bot
+              run: |
+                  # Set up Git for bot
+                  APP_SLUG="${{ steps.app-token.outputs.app-slug }}"
+                  BOT_ID="${{ steps.get-bot-id.outputs.bot-id }}"
+
+                  BOT_NAME="${APP_SLUG}[bot]"
+                  BOT_EMAIL="${BOT_ID}+${APP_SLUG}[bot]@users.noreply.github.com" # Grab bot info from https://api.github.com/users/sphs-actions[bot]
+
+                  git config --global user.name "${BOT_NAME}"
+                  git config --global user.email "${BOT_EMAIL}"
+
+                  echo "🟢 Bot ${BOT_NAME}<${BOT_EMAIL}> is ready!"
 
             - name: Check for new commits in the past 24 hours
               id: commit-check
               run: |
                   # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
                   set -e
 
                   echo "🟣 Checking commit history..."
@@ -41,7 +73,7 @@ jobs:
               if: steps.commit-check.outputs.skip == 'false'
               run: |
                   # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
                   set -e
 
                   echo "🟣 Installing dependencies..."
@@ -61,19 +93,20 @@ jobs:
                   echo "🟢 All Lua files passed the syntax and linting checks!"
 
             - name: Package OS-specific Keydo assets
+              id: get-keydo-assets
               if: steps.commit-check.outputs.skip == 'false'
               run: |
                   # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
                   set -e
 
                   echo "🟣 Checking the date today..."
                   DATE=$(date +"%Y.%m.%d")
-                  echo "NIGHTLY_TAG=nightly-$DATE" >> "$GITHUB_ENV"
+                  echo "nightly-tag=nightly-${DATE}" >> "$GITHUB_OUTPUT"
 
                   echo "🟣 Preparing Keydo for Mac..."
                   cp platform/mac/keydo.custom.yaml ./keydo.custom.yaml
-                  zip -qr "keydo-mac-nightly-$DATE.zip" \
+                  zip -qr "keydo-mac-nightly-${DATE}.zip" \
                       lua/ \
                       rime.lua \
                       default.custom.yaml \
@@ -84,7 +117,7 @@ jobs:
 
                   echo "🟣 Preparing Keydo for Windows..."
                   cp platform/win/keydo.custom.yaml ./keydo.custom.yaml
-                  zip -qr "keydo-win-nightly-$DATE.zip" \
+                  zip -qr "keydo-win-nightly-${DATE}.zip" \
                       lua/ \
                       rime.lua \
                       default.custom.yaml \
@@ -93,34 +126,31 @@ jobs:
                       -x "lua/*.draft.lua"
                   rm keydo.custom.yaml
 
-                  echo "MAC_ASSET=keydo-mac-nightly-$DATE.zip" >> "$GITHUB_ENV"
-                  echo "WIN_ASSET=keydo-win-nightly-$DATE.zip" >> "$GITHUB_ENV"
+                  echo "mac-asset=keydo-mac-nightly-${DATE}.zip" >> "$GITHUB_OUTPUT"
+                  echo "win-asset=keydo-win-nightly-${DATE}.zip" >> "$GITHUB_OUTPUT"
 
                   echo "🟢 Keydo assets were compressed and ready!"
 
             - name: Clean up legacy nightly tags and releases
               if: steps.commit-check.outputs.skip == 'false'
               env:
-                  GITHUB_TOKEN: ${{ secrets.SPHS_BOT_TOKEN }}
+                  GH_TOKEN: ${{ steps.app-token.outputs.token }}
               run: |
                   # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
                   set -e
-
-                  git config user.name "SPHS [Bot]"
-                  git config user.email "107382682+sphs-bot@users.noreply.github.com" # Grab bot ID from https://api.github.com/users/sphs-bot
 
                   echo "🟣 Scanning old nightly tags and releases..."
 
                   LEGACY_RELEASES=$(git ls-remote --tags origin 'refs/tags/nightly-*' | awk -F'/' '{print $3}')
 
-                  for TAG in $LEGACY_RELEASES; do
-                    echo "🟣 Cleaning up old release $TAG..."
-                    gh release delete "$TAG" --yes || echo "🟡 Release $TAG is already gone"
+                  for TAG in ${LEGACY_RELEASES}; do
+                    echo "🟣 Cleaning up old release ${TAG}..."
+                    gh release delete "${TAG}" --yes || echo "🟡 Release ${TAG} is already gone"
 
-                    echo "🟣 Cleaning up old tag $TAG..."
-                    git push origin --delete "$TAG" || echo "🟡 Tag $TAG is already gone"
-                    git tag -d "$TAG" || true
+                    echo "🟣 Cleaning up old tag ${TAG}..."
+                    git push origin --delete "${TAG}" || echo "🟡 Tag ${TAG} is already gone"
+                    git tag -d "${TAG}" || true
                   done
 
                   echo "🟢 Legacy tags and releases were cleaned up successfully!"
@@ -128,47 +158,47 @@ jobs:
             - name: Prepare the nightly tag and release
               if: steps.commit-check.outputs.skip == 'false'
               env:
-                  GITHUB_TOKEN: ${{ secrets.SPHS_BOT_TOKEN }}
+                  GH_TOKEN: ${{ steps.app-token.outputs.token }}
               run: |
                   # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code $RC"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit $RC' ERR
+                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
                   set -e
 
                   echo "🟣 Preparing the nightly tag..."
 
-                  NIGHTLY_TAG=${{ env.NIGHTLY_TAG }}
+                  NIGHTLY_TAG=${{ steps.get-keydo-assets.outputs.nightly-tag }}
 
-                  git tag "$NIGHTLY_TAG"
-                  git push origin "$NIGHTLY_TAG"
+                  git tag "${NIGHTLY_TAG}"
+                  git push origin "${NIGHTLY_TAG}"
 
                   echo "🟣 Preparing the nightly release..."
 
-                  RELEASE_NOTES=$(cat <<'EOF'
+                  RELEASE_NOTES=$(cat <<EOF
                   <img width="2624" height="1464" alt="Ouroboros" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/preview/release_nightly.png" />
 
                   ### 安装说明
-                  下载对应平台的压缩包，解压后将所有文件覆盖于`Rime用户文件夹`，便可无需配置立即使用。
+                  下载对应平台的压缩包，解压后将所有文件覆盖于\`Rime用户文件夹\`，便可无需配置立即使用。
 
                   ### Rime用户文件夹说明
-                  - [Mac] 鼠须管 (Squirrel): `~/Library/Rime/`
-                  - [Win] 小狼毫 (Weasel): `%APPDATA%\Rime\`
+                  - [Mac] 鼠须管 (Squirrel): \`~/Library/Rime/\`
+                  - [Win] 小狼毫 (Weasel): \`%APPDATA%\\Rime\\\`
 
                   ### 下载文件说明
-                  - [Mac] 鼠须管 (Squirrel): `keydo-mac-nightly-<date>.zip`
-                  - [Win] 小狼毫 (Weasel): `keydo-win-nightly-<date>.zip`
+                  - [Mac] 鼠须管 (Squirrel): \`keydo-mac-${NIGHTLY_TAG}.zip\`
+                  - [Win] 小狼毫 (Weasel): \`keydo-win-${NIGHTLY_TAG}.zip\`
 
                   ### 更新内容
                   请查看[提交历史](https://github.com/pingshunhuangalex/rime-keydo/commits/main/)以了解更新详情。
                   EOF
                   )
 
-                  gh release create "$NIGHTLY_TAG" \
+                  gh release create "${NIGHTLY_TAG}" \
                     --target "$GITHUB_SHA" \
                     --title "键道·我流 Nightly Build - Ouroboros (衔尾蛇)" \
                     --prerelease \
-                    --notes "$RELEASE_NOTES"
+                    --notes "${RELEASE_NOTES}"
 
                   echo "🟣 Uploading Keydo assets..."
-                  gh release upload "$NIGHTLY_TAG" "${{ env.MAC_ASSET }}" "${{ env.WIN_ASSET }}"
+                  gh release upload "${NIGHTLY_TAG}" "${{ steps.get-keydo-assets.outputs.mac-asset }}" "${{ steps.get-keydo-assets.outputs.win-asset }}"
 
-                  echo "🟢 Keydo assets attached and the release $NIGHTLY_TAG is now live!"
+                  echo "🟢 Keydo assets attached and the release ${NIGHTLY_TAG} is now live!"
