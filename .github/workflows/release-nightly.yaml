@@ -53,10 +53,7 @@ jobs:
             - name: Check for new commits in the past 24 hours
               id: commit-check
               run: |
-                  # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
-                  set -e
-
+                  # Check for new commits in the past 24 hours
                   echo "🟣 Checking commit history..."
 
                   # Force run if manually triggered, otherwise check for commits in the last 24 hours
@@ -72,10 +69,7 @@ jobs:
             - name: Syntax and linting issues check for Lua
               if: steps.commit-check.outputs.skip == 'false'
               run: |
-                  # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
-                  set -e
-
+                  # Check for syntax and linting issues in Lua files
                   echo "🟣 Installing dependencies..."
                   sudo apt-get update > /dev/null 2>&1
                   sudo apt-get install -y lua5.3 liblua5.3-dev luarocks build-essential unzip > /dev/null 2>&1
@@ -96,10 +90,7 @@ jobs:
               id: get-keydo-assets
               if: steps.commit-check.outputs.skip == 'false'
               run: |
-                  # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
-                  set -e
-
+                  # Prepare Keydo assets based on OS
                   echo "🟣 Checking the date today..."
                   DATE=$(date +"%Y.%m.%d")
                   echo "nightly-tag=nightly-${DATE}" >> "$GITHUB_OUTPUT"
@@ -136,10 +127,7 @@ jobs:
               env:
                   GH_TOKEN: ${{ steps.app-token.outputs.token }}
               run: |
-                  # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
-                  set -e
-
+                  # Clean up legacy nightly tags and releases
                   echo "🟣 Scanning old nightly tags and releases..."
 
                   LEGACY_RELEASES=$(git ls-remote --tags origin 'refs/tags/nightly-*' | awk -F'/' '{print $3}')
@@ -160,10 +148,7 @@ jobs:
               env:
                   GH_TOKEN: ${{ steps.app-token.outputs.token }}
               run: |
-                  # Error trap with exit code, line number and code
-                  trap 'RC=$?; echo "🔴 Command failed with exit code ${RC}"; echo "📍 Location: Line $LINENO"; echo "💻 Code: $(sed -n "${LINENO}p" $0 2>/dev/null || echo "Unknown")"; exit ${RC}' ERR
-                  set -e
-
+                  # Prepare the nightly tag and release
                   echo "🟣 Preparing the nightly tag..."
 
                   NIGHTLY_TAG=${{ steps.get-keydo-assets.outputs.nightly-tag }}
