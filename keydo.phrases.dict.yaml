@@ -15242,12 +15242,12 @@ sort: original
 达观	dsgtva
 大官	dsgtvo
 第四个	dsgu
-打滚	dsgw
-打给	dsgwi
+打给	dsgw
+打滚	dsgwi
 打光	dsgx
 打工	dsgy
-大公	dsgyv
-大功	dsgyvv
+大功	dsgyv
+大公	dsgyvu
 大搞	dsgz
 电算化	dsh
 大会	dshb
@@ -29953,10 +29953,11 @@ sort: original
 至亲骨肉	fqgr
 转折关头	fqgt
 支气管炎	fqgy
-凤求凰	fqh
+副账户	fqh
 抓获	fqhl
 抓痕	fqhn
 爪痕	fqhnu
+凤求凰	fqhu
 负屈含冤	fqhy
 抓好	fqhz
 发展成	fqj
@@ -32313,6 +32314,7 @@ sort: original
 中烘	fyhy
 中号	fyhz
 反映出	fyj
+发邮件	fyja
 重金	fyjb
 中教	fyjc
 中觉	fyjci
@@ -54661,10 +54663,11 @@ sort: original
 嫁入	jsrjau
 假日	jsrk
 假若	jsrl
-家人	jsrn
+加人	jsrn
 嫁人	jsrna
 佳人	jsrni
 假人	jsrnii
+家人	jsrno
 嘉荣	jsry
 稼穑	jsse
 加赛	jssh
@@ -82577,7 +82580,6 @@ sort: original
 张海	qphh
 招聘会	qphi
 账户	qphj
-帐户	qphji
 前仆后继	qphjo
 仗火	qphl
 张皇	qphm
@@ -82586,7 +82588,6 @@ sort: original
 涨红	qphy
 亲朋好友	qphyo
 账号	qphz
-帐号	qphzi
 长进	qpjb
 掌教	qpjc
 章节	qpjd
@@ -82871,7 +82872,7 @@ sort: original
 珍珠港	qqgv
 求告	qqgz
 悄悄话	qqh
-庆祝会	qqh
+主账户	qqh
 秋后	qqhd
 强取豪夺	qqhda
 巧取豪夺	qqhdv
@@ -82881,7 +82882,8 @@ sort: original
 前前后后	qqhh
 全球化	qqhi
 求活	qqhl
-亲情号	qqho
+庆祝会	qqho
+亲情号	qqhoo
 秋华	qqhq
 欠债还钱	qqhqu
 求欢	qqht
@@ -85424,10 +85426,8 @@ sort: original
 惹到	redzi
 如是说	ree
 惹是生非	reef
-认识世界	reej
 惹事	reek
 热身	reen
-认识上	reeo
 人生中	ref
 热饭	reff
 如释重负	reffa
