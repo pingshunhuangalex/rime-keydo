@@ -60,8 +60,8 @@ sort: original
 错了	cai
 沧桑	cao
 刺激	cau
+脆弱	cav
 词汇	cav
-村民	cav
 从小	ci
 从此	ci
 从中	cia
@@ -79,17 +79,20 @@ sort: original
 此刻	cov
 措施	cov
 才行	cu
-采用	cu
-匆匆	cua
+此外	cu
+采用	cua
 猜猜	cua
+摧毁	cui
 错的	cui
 参考	cuo
 厕所	cuu
 才算	cuv
+侧重	cuv
 才有	cv
 存在	cv
 参与	cva
 从事	cvi
+错过	cvi
 从来	cvo
 从未	cvv
 到了	da
@@ -235,13 +238,14 @@ sort: original
 刚刚	gia
 赶紧	gii
 各位	gio
+关键	gio
 高手	giu
-赶上	giv
-关上	giv
+观点	giv
 感觉	go
 干啥	go
 告诉	goa
 更是	goi
+感情	goo
 国家	goo
 跟着	gou
 更新	gov
@@ -272,7 +276,7 @@ sort: original
 好打	hi
 忽略	hia
 后果	hia
-换个	hii
+行业	hii
 花钱	hio
 黄金	hio
 很少	hiu
@@ -309,8 +313,9 @@ sort: original
 打得	iu
 上去	iv
 上来	ivo
-继续	ja
+就那	ja
 就又	ja
+继续	jaa
 成绩	jaa
 除了	jai
 绝对	jao
@@ -328,6 +333,7 @@ sort: original
 就会	jiv
 机会	jiv
 建议	jo
+及时	jo
 惊讶	joa
 出门	joi
 决定	joo
@@ -365,7 +371,7 @@ sort: original
 看见	kia
 开花	kii
 刻苦	kii
-块钱	kio
+开销	kio
 看看	kiu
 科技	kiu
 考虑	kiv
@@ -399,6 +405,7 @@ sort: original
 露出	lai
 练习	lao
 两边	lau
+良好	lau
 立即	lav
 浪费	lav
 令人	li
@@ -407,8 +414,7 @@ sort: original
 老人	lii
 两位	lio
 老师	liu
-路上	liv
-脸上	liv
+联合	liv
 老是	lo
 了啊	lo
 来说	loa
@@ -432,6 +438,7 @@ sort: original
 来到	lva
 留下	lvi
 离去	lvo
+领域	lvo
 里面	lvu
 老板	lvu
 离开	lvv
@@ -499,7 +506,8 @@ sort: original
 难道	no
 难怪	no
 难说	noa
-内心	noa
+耐心	noa
+哪是	noi
 内容	noo
 怒火	nou
 内部	nov
@@ -527,7 +535,7 @@ sort: original
 评价	pii
 平常	pio
 拍摄	piu
-碰上	piv
+凭借	piv
 拼命	piv
 漂亮	po
 普遍	po
@@ -539,12 +547,13 @@ sort: original
 判断	pou
 片刻	pov
 平衡	pu
-品质	pu
 排名	pua
 平凡	pua
+片段	pui
 品牌	pui
 评分	puo
 平分	puo
+品质	puu
 屁股	puu
 皮肤	puv
 朋友	pv
@@ -561,6 +570,7 @@ sort: original
 情绪	qaa
 正经	qaa
 整了	qai
+取消	qai
 针对	qao
 前台	qao
 强忍	qau
@@ -569,6 +579,7 @@ sort: original
 其中	qia
 整个	qii
 正常	qio
+掌握	qiu
 震撼	qiu
 整体	qiv
 其实	qo
@@ -618,7 +629,7 @@ sort: original
 人家	roo
 人数	rou
 人类	rou
-人文	rov
+任意	rov
 如意	rov
 然后	ru
 日后	ru
@@ -630,6 +641,7 @@ sort: original
 人生	ruv
 然而	rv
 柔软	rva
+如下	rvi
 认可	rvo
 人格	rvu
 让开	rvv
@@ -638,8 +650,8 @@ sort: original
 随即	sa
 送给	saa
 算了	sai
+所能	sao
 速通	sao
-三流	sao
 散发	sau
 算法	sav
 随便	si
@@ -669,7 +681,7 @@ sort: original
 所在	sv
 送到	sva
 搜到	sva
-私聊	svi
+私下	svi
 苏醒	svi
 送来	svo
 损坏	svo
@@ -725,7 +737,7 @@ sort: original
 我又	wa
 网络	waa
 为了	wai
-完了	wai
+充满	wai
 温柔	wao
 无力	wau
 污染	wau
@@ -741,6 +753,7 @@ sort: original
 问题	wo
 为啥	wo
 忘记	woa
+问问	woi
 温暖	woi
 稳定	woo
 完美	wou
@@ -804,7 +817,7 @@ sort: original
 显示	xvv
 安静	xvv
 已经	ya
-一丝	yaa
+预测	yaa
 延续	yaa
 样子	yai
 也能	yao
@@ -856,7 +869,7 @@ sort: original
 再见	zia
 作业	zii
 咱们	zio
-左手	ziu
+责任	ziu
 早上	ziv
 总是	zo
 再说	zoa
@@ -874,9 +887,10 @@ sort: original
 总算	zuv
 自我	zuv
 怎样	zv
+在于	zv
 做到	zva
+走过	zvi
 自带	zvi
-坐下	zvi
 再来	zvo
 走来	zvo
 左右	zvu

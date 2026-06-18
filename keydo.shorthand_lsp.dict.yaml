@@ -3,11 +3,14 @@ name: keydo.shorthand_lsp
 version: '1.0.0'
 sort: original
 ...
+不采用	bcua
+不错过	bcvi
 不知道	bfo
 不花钱	bhio
 不好吃	bhou
 不合适	bhuv
 不坚持	bjiu
+不及时	bjo
 不解决	bjov
 不接受	bjuo
 不进行	bjuu
@@ -20,6 +23,7 @@ sort: original
 不明白	bmuu
 不明确	bmvu
 不努力	bnau
+不耐心	bnoa
 不便宜	bpoo
 不平衡	bpu
 不匹配	bpvi
@@ -30,6 +34,7 @@ sort: original
 不容易	broi
 不认得	bruu
 不推荐	bti
+不问问	bwoi
 不稳定	bwoo
 不完美	bwou
 不完整	bwvi
@@ -45,6 +50,7 @@ sort: original
 不一定	byoo
 不一样	byv
 不怎么	bzu
+不在于	bzv
 不再来	bzvo
 才好吃	bhou
 才觉得	cjuu
@@ -84,8 +90,10 @@ sort: original
 就立刻	jlov
 就算是	jso
 就行了	jxai
+就在于	jzv
 可操作	kci
 可还行	khu
+可任意	krov
 可提供	ktiv
 可以为	kyo
 没动力	mdau
@@ -96,7 +104,6 @@ sort: original
 没方向	mfui
 没找到	mfva
 没发现	mfvv
-没赶上	mgiv
 没关系	mgu
 没话说	mhoa
 没解决	mjov
@@ -104,6 +111,7 @@ sort: original
 没空间	mkoi
 没看过	mkvi
 没理解	mlua
+没掌握	mqiu
 没区别	mqoa
 没问题	mwo
 没休息	mxui
@@ -111,6 +119,7 @@ sort: original
 没意思	myia
 你不管	nbuv
 你猜猜	ncua
+你错过	ncvi
 你上面	nevu
 你这边	nfau
 你知道	nfo
@@ -146,6 +155,7 @@ sort: original
 三不管	sbuv
 他不管	tbuv
 他猜猜	tcua
+他错过	tcvi
 他上面	tevu
 他这边	tfau
 他知道	tfo
@@ -171,6 +181,7 @@ sort: original
 我不管	wbuv
 我从小	wci
 我猜猜	wcua
+我错过	wcvi
 我上面	wevu
 我这边	wfau
 我知道	wfo
@@ -197,12 +208,12 @@ sort: original
 我也是	wyoi
 我自己	wza
 我怎么	wzu
+而在于	xzv
 一部分	ybuo
 一上午	yeuv
 一收到	yeva
 一开始	ykau
 一两个	ylii
-一路上	yliv
 一两次	ylov
 一两年	yluv
 一两天	ylvv
@@ -214,7 +225,6 @@ sort: original
 再看看	zkiu
 在考虑	zkiv
 再考虑	zkiv
-在路上	zliv
 在里面	zlvu
 在前面	zqvu
 再创造	zwuv
