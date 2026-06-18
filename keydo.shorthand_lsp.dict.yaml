@@ -10,7 +10,7 @@ sort: original
 不好吃	bhou
 不合适	bhuv
 不坚持	bjiu
-不及时	bjo
+不及时	bjou
 不解决	bjov
 不接受	bjuo
 不进行	bjuu
@@ -20,7 +20,7 @@ sort: original
 不开心	bkoa
 不来了	blai
 不理解	blua
-不明白	bmuu
+不明白	bmui
 不明确	bmvu
 不努力	bnau
 不耐心	bnoa
@@ -41,6 +41,7 @@ sort: original
 不喜欢	bxa
 不行了	bxai
 不安全	bxiv
+不像是	bxoi
 不习惯	bxoo
 不想着	bxou
 不相关	bxou
@@ -49,6 +50,7 @@ sort: original
 不应该	byoa
 不一定	byoo
 不一样	byv
+不作为	bzo
 不怎么	bzu
 不在于	bzv
 不再来	bzvo
@@ -69,11 +71,13 @@ sort: original
 是因为	eyo
 这什么	feu
 这部分	fbuo
+这就有	fjv
+这就要	fjv
 这两天	flvv
 之所在	fsv
 这意思	fyia
 个部分	gbuo
-个小时	gxoi
+个小时	gxo
 好办法	hbav
 好刺激	hcau
 好多了	hda
@@ -85,11 +89,14 @@ sort: original
 好习惯	hxoo
 好意思	hyia
 就那样	javo
+就这次	jfov
+就好像	jhiu
 就可以	jka
 就开始	jkau
 就立刻	jlov
-就算是	jso
+就算是	jsoi
 就行了	jxai
+就一点	jyi
 就在于	jzv
 可操作	kci
 可还行	khu
@@ -124,6 +131,7 @@ sort: original
 你这边	nfau
 你知道	nfo
 你这样	nfv
+你还是	nhoi
 你后面	nhvu
 你觉得	njuu
 你可以	nka
@@ -160,6 +168,7 @@ sort: original
 他这边	tfau
 他知道	tfo
 他这样	tfv
+他还是	thoi
 他后面	thvu
 他觉得	tjuu
 他可以	tka
@@ -186,7 +195,7 @@ sort: original
 我这边	wfau
 我知道	wfo
 我这样	wfv
-我还是	who
+我还是	whoi
 我后面	whvu
 我决定	wjoo
 我觉得	wjuu
@@ -218,9 +227,9 @@ sort: original
 一两年	yluv
 一两天	ylvv
 一千万	yqva
-一小时	yxoi
+一小时	yxo
 在上面	zevu
-在这次	zfo
+在这次	zfov
 在后面	zhvu
 再看看	zkiu
 在考虑	zkiv

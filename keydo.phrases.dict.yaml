@@ -5629,7 +5629,6 @@ sort: original
 比特率	btlvuo
 不太冷	btlvv
 半透明	btm
-不太明白	btmb
 半透明的	btmd
 悲天悯人	btmr
 不透明	btmv
@@ -6955,7 +6954,7 @@ sort: original
 报团	bztt
 抱团	bztti
 报童	bzty
-不作为	bzw
+不足为	bzw
 报酬	bzwd
 报仇	bzwdi
 不足为道	bzwdv
@@ -24355,7 +24354,6 @@ sort: original
 少礼	ezlki
 十字路口	ezlku
 稍绿	ezll
-师资力量	ezlli
 少练	ezlm
 少留	ezlq
 烧腊	ezls
@@ -26923,7 +26921,6 @@ sort: original
 府里	fjlkoi
 复利	fjlku
 风尘碌碌	fjll
-中坚力量	fjlli
 妇联	fjlm
 复联	fjlmu
 敷脸	fjlmv
@@ -27248,7 +27245,6 @@ sort: original
 负于	fjylu
 孵育	fjyluo
 馥郁	fjyluv
-这就要	fjyo
 抚养	fjyp
 俯仰	fjypi
 扶养	fjypio
@@ -28841,7 +28837,6 @@ sort: original
 织毛衣	fmya
 驸马爷	fmyaa
 装有	fmyd
-这么一点	fmydo
 这么一说	fmye
 风靡一时	fmyeu
 庄严	fmyf
@@ -29699,8 +29694,7 @@ sort: original
 发展中国家	fqfja
 夫妻之间	fqfjv
 分期付款	fqfk
-放弃治疗	fqfl
-风起风落	fqflu
+风起风落	fqfl
 反清复明	fqfm
 抓抓	fqfq
 追逐着	fqfu
@@ -33624,7 +33618,6 @@ sort: original
 狗熊	gdxy
 干瞪眼	gdy
 勾引	gdyb
-果断一点	gdyd
 购由	gdyda
 够油	gdydu
 狗眼	gdyf
@@ -45467,7 +45460,6 @@ sort: original
 黑云压城城欲摧	hyyc
 红油	hyyd
 毁于一旦	hyydu
-还有一点	hyydv
 红叶	hyye
 红颜	hyyf
 红岩	hyyfa
@@ -48084,9 +48076,7 @@ sort: original
 节省了	jeli
 尘世里	jeliv
 车路	jelj
-军事力量	jell
-精神力量	jello
-军事理论	jellov
+军事理论	jell
 车链	jelm
 减少了	jelo
 产生了	jelo
@@ -48438,7 +48428,6 @@ sort: original
 沉着冷静	jflja
 禅理	jflk
 产率	jfll
-集中力量	jflli
 蝉联	jflm
 产流	jflq
 产卵	jflt
@@ -49506,7 +49495,6 @@ sort: original
 决心	jhxb
 拆信	jhxbi
 拆卸	jhxd
-就好像是	jhxe
 觉岸	jhxf
 借花献佛	jhxfi
 觉醒	jhxg
@@ -49908,7 +49896,6 @@ sort: original
 进出境	jjjva
 初春	jjjw
 除菌	jjjwa
-即将成为	jjjwao
 纪检监察	jjjwav
 借酒浇愁	jjjwi
 楚江	jjjx
@@ -49956,7 +49943,6 @@ sort: original
 厨力	jjlkv
 出落	jjll
 经济理论	jjlla
-经济力量	jjllaa
 饥肠辘辘	jjllu
 基础理论	jjllv
 初恋	jjlm
@@ -54927,7 +54913,6 @@ sort: original
 纯酷	jwkj
 继往开来	jwkl
 军垦	jwkn
-成为可能	jwknv
 春困	jwkw
 纯靠	jwkz
 均靠	jwkzv
@@ -55104,7 +55089,6 @@ sort: original
 春晓	jwxcv
 春宵	jwxcvo
 军械	jwxd
-成为现实	jwxe
 淳安	jwxf
 纯形	jwxg
 唇形	jwxgv
@@ -55674,7 +55658,8 @@ sort: original
 窘促	jycj
 假以辞色	jycs
 决一雌雄	jycx
-就一点	jyd
+近一点	jyd
+长一点	jyd
 加一点	jyda
 胶原蛋白	jydb
 江洋大盗	jydd
@@ -55683,8 +55668,6 @@ sort: original
 常言道	jydio
 久仰大名	jydm
 家用电器	jydq
-近一点	jydu
-长一点	jyduv
 救援队	jydv
 沉冤得雪	jydx
 就越是	jye
@@ -66279,7 +66262,6 @@ sort: original
 民政	mbqr
 民权	mbqt
 名不正	mbqu
-明白人	mbr
 敏锐	mbrb
 泯然	mbrf
 默伯桑	mbs
@@ -66839,7 +66821,8 @@ sort: original
 慢来	mflh
 慢录	mflj
 蛮力	mflk
-曼联	mflm
+满脸	mflm
+曼联	mflmo
 漫流	mflq
 蛮冷	mflr
 满拉	mfls
@@ -73659,8 +73642,7 @@ sort: original
 农村	nycw
 匿影藏形	nycx
 那也得	nyd
-那一点	nyda
-那一段	nydav
+那一段	nyda
 弄对	nydb
 弄掉	nydc
 弄得	nyde
@@ -75525,8 +75507,8 @@ sort: original
 疲软	pkrt
 披散	pksf
 劈死	pksk
-匹萨	pkss
-披萨	pkssi
+披萨	pkss
+匹萨	pkssv
 劈腿	pktb
 批条	pktc
 皮条	pktca
@@ -79345,8 +79327,7 @@ sort: original
 确如	qhrj
 侵华日军	qhrji
 斋日	qhrk
-确认	qhrn
-缺人	qhrnu
+缺人	qhrn
 却让	qhrp
 却仍	qhrr
 震撼人心	qhrx
@@ -79546,7 +79527,8 @@ sort: original
 斩尽杀绝	qjejv
 主食	qjek
 主使	qjek
-注释	qjeka
+注视	qjeka
+注释	qjekau
 诸事	qjeko
 主事	qjekov
 轻车熟路	qjel
@@ -80012,7 +79994,6 @@ sort: original
 青出于蓝	qjylv
 青出于蓝而胜于蓝	qjylva
 珠玉	qjylvv
-这就要	qjyo
 助养	qjyp
 千军易得，一将难求	qjyqu
 奇技淫巧	qjyqv
@@ -87338,7 +87319,6 @@ sort: original
 散射	sfee
 三摄	sfeev
 三山	sfef
-随着时间	sfej
 三叔	sfej
 三属	sfejv
 三十	sfek
@@ -96570,7 +96550,6 @@ sort: original
 万历	wflkvv
 万缕	wfll
 威风凛凛	wfllv
-武装力量	wfllvo
 挽联	wflm
 五福临门	wflmv
 忘发了	wflo
@@ -103952,8 +103931,7 @@ sort: original
 形式逻辑	xeljv
 恶例	xelk
 鳄梨	xelku
-新生力量	xell
-小时了了	xelli
+小时了了	xell
 鄂莲	xelm
 安身立命	xelmo
 恶浪	xelp
@@ -109576,15 +109554,14 @@ sort: original
 学习实践	xxejoa
 新兴市场	xxejoo
 相属	xxejv
-像是	xxek
-向使	xxek
+相识	xxek
 乡试	xxeka
 详实	xxeko
 翔实	xxekoo
 箱式	xxeku
+向使	xxekui
 香市	xxekuo
-相识	xxekv
-想事	xxekvv
+想事	xxekv
 想说	xxel
 洗洗睡了	xxela
 详细说明	xxem
@@ -110875,9 +110852,8 @@ sort: original
 一臂之力	ybflv
 银装	ybfm
 印方	ybfp
-永不放弃	ybfq
+玉不琢，不成器	ybfq
 月白风清	ybfqu
-玉不琢，不成器	ybfqv
 阴风	ybfr
 引发	ybfs
 银发	ybfsi
@@ -111050,7 +111026,6 @@ sort: original
 要避免	ybm
 预报名	ybma
 淫民	ybmb
-也不明白	ybmba
 阴谋	ybmd
 隐灭	ybmda
 隐瞒	ybmf
@@ -111447,7 +111422,6 @@ sort: original
 又从	ydcy
 又糙	ydcz
 一点点	ydd
-一点都	ydd
 已达到	ydda
 又对	yddb
 又掉	yddc
@@ -111500,8 +111474,7 @@ sort: original
 运动队	yddvva
 一丁点	yddvvi
 一堆堆	yddvvv
-一点东西	yddx
-一丁点儿	yddxv
+一丁点儿	yddx
 游动	yddy
 又到	yddz
 游到	yddz
@@ -111517,7 +111490,6 @@ sort: original
 又设	ydee
 友善	ydef
 一段时光	ydeg
-一点时间	ydej
 一段时间	ydej
 有数	ydejv
 有事	ydek
@@ -112214,8 +112186,6 @@ sort: original
 一大一小	ydyxv
 有用	ydyy
 游泳	ydyya
-一定要有	ydyyv
-一点也没有	ydyyvi
 又要	ydyz
 一大早	ydz
 一肚子	ydz
@@ -112490,7 +112460,6 @@ sort: original
 夜里	yelk
 耶律	yell
 衣衫褴褛	yello
-有生力量	yellv
 冶炼	yelm
 意识流	yelo
 野狼	yelp
@@ -114631,9 +114600,8 @@ sort: original
 一低	ykdkvi
 夷狄	ykdkvu
 一朵	ykdl
-一点	ykdm
+疑点	ykdm
 伊甸	ykdmi
-疑点	ykdmu
 一挡	ykdp
 一档	ykdpv
 已丢	ykdq
@@ -118434,7 +118402,6 @@ sort: original
 用错	yycl
 亚运村	yycv
 永存	yycw
-有一点	yyd
 有一段	yyd
 隐隐的	yyda
 预言帝	yydao
@@ -118675,7 +118642,6 @@ sort: original
 油盐柴米酱醋茶	yyjwa
 拥军	yyjwi
 永春	yyjwo
-一跃成为	yyjwv
 应用程序	yyjx
 牙龈出血	yyjxv
 应有尽有	yyjy
@@ -120322,7 +120288,6 @@ sort: original
 暂由	zfyd
 咱也	zfye
 最重要的事	zfyeo
-在这一点上	zfyev
 造福一方	zfyf
 簪缨	zfyg
 左支右绌	zfyj
@@ -120811,7 +120776,6 @@ sort: original
 总会有	zhy
 在因	zhyb
 在有	zhyd
-最后一点	zhydo
 载有	zhydu
 再有	zhydv
 再由	zhydvi
@@ -122160,7 +122124,6 @@ sort: original
 卒章显志	zqxf
 自主性	zqxu
 最主要	zqy
-在这一点上	zqye
 自主研发	zqyf
 杂七杂八	zqzb
 自轻自贱	zqzj
@@ -122688,7 +122651,6 @@ sort: original
 作文题	zwt
 贼秃	zwtj
 尊堂	zwtp
-作为我	zww
 贼窝	zwwl
 贼王	zwwp
 贼船	zwwt
