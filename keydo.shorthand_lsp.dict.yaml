@@ -49,7 +49,7 @@ sort: original
 不显示	bxvv
 不应该	byoa
 不一定	byoo
-不一样	byv
+不一样	byvo
 不作为	bzo
 不怎么	bzu
 不在于	bzv
@@ -148,7 +148,7 @@ sort: original
 你下面	nxvu
 你已经	nya
 你以为	nyo
-你也是	nyoi
+你要是	nyoi
 你自己	nza
 你怎么	nzu
 去看看	qkiu
@@ -184,7 +184,7 @@ sort: original
 他下面	txvu
 他已经	tya
 他以为	tyo
-他也是	tyoi
+他要是	tyoi
 他自己	tza
 他怎么	tzu
 我不管	wbuv
@@ -214,7 +214,7 @@ sort: original
 我习惯	wxoo
 我已经	wya
 我以为	wyo
-我也是	wyoi
+我要是	wyoi
 我自己	wza
 我怎么	wzu
 而在于	xzv
@@ -227,7 +227,9 @@ sort: original
 一两年	yluv
 一两天	ylvv
 一千万	yqva
+也同样	ytvo
 一小时	yxo
+也一样	yyvo
 在上面	zevu
 在这次	zfov
 在后面	zhvu

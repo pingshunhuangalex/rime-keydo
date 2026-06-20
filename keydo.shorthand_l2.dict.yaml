@@ -18,6 +18,7 @@ sort: original
 不行	bx
 不要	by
 不在	bz
+不再	bz
 从此	cc
 才是	ce
 才刚	cg
@@ -170,6 +171,8 @@ sort: original
 能去	nq
 你人	nr
 你我	nw
+你一	ny
+你也	ny
 你在	nz
 能在	nz
 你再	nz
@@ -224,6 +227,8 @@ sort: original
 天气	tq
 他人	tr
 同学	tx
+他一	ty
+他也	ty
 他在	tz
 我不	wb
 我吧	wb
@@ -245,22 +250,25 @@ sort: original
 完全	wq
 我人	wr
 我一	wy
+我也	wy
 我在	wz
 而是	xe
 而你	xn
 而能	xn
 而他	xt
 因此	yc
+也是	ye
 有时	ye
 一个	yg
 以及	yj
 要么	ym
 郁闷	ym
-一年	yn
+也能	yn
 要求	yq
 一人	yr
 以下	yx
 因而	yx
+也在	yz
 再次	zc
 在此	zc
 在的	zd
@@ -275,3 +283,4 @@ sort: original
 昨天	zt
 在我	zw
 仔细	zx
+再也	zy
