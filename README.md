@@ -2,7 +2,7 @@
 
 <a href="https://github.com/xkinput/KeyTao/releases/tag/v1.3.2"><img align="right" alt="星空键道 (Keytao) - 2026.06.17 - 4dcec6e" src="https://img.shields.io/badge/星空键道%20(Keytao)-1.3.2-c792ea?logo=monkeytype&logoColor=fff&style=for-the-badge" /></a>
 
-[![[Mac] 鼠须管 (Squirrel)](<https://img.shields.io/badge/鼠须管%20(Squirrel)-1.1.2-f78c6a?logo=apple&style=for-the-badge>)](https://github.com/rime/squirrel/releases/tag/1.1.2) [![[Win] 小狼毫 (Weasel)](<https://img.shields.io/badge/小狼毫%20(Weasel)-0.17.4-82aaff?logo=airplayvideo&style=for-the-badge>)](https://github.com/rime/weasel/releases/tag/0.17.4)
+[![[Mac] 鼠须管 (Squirrel)](<https://img.shields.io/badge/鼠须管%20(Squirrel)-1.1.2-f78c6a?logo=apple&logoColor=fff&style=for-the-badge>)](https://github.com/rime/squirrel/releases/tag/1.1.2) [![[Win] 小狼毫 (Weasel)](<https://img.shields.io/badge/小狼毫%20(Weasel)-0.17.4-82aaff?logo=airplayvideo&logoColor=fff&style=for-the-badge>)](https://github.com/rime/weasel/releases/tag/0.17.4)
 
 `键道·我流`是一款脱胎于[星空键道]的音形码顶功输入方案。该方案基于[Colemak-DH Matrix布局]并通过[Rime开源输入平台]得以实现。作为键道家族的一员，用户可前往[键道官网]加载`键道·我流`，无需安装即可进行试用与练习。
 
