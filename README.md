@@ -1,4 +1,4 @@
-# 键道·我流 [![Nightly Build](https://github.com/pingshunhuangalex/rime-keydo/actions/workflows/release-nightly.yaml/badge.svg)](https://github.com/pingshunhuangalex/rime-keydo/actions/workflows/release-nightly.yaml)
+# 键道·我流 [![日更动态 (Ouroboros)](<https://img.shields.io/github/actions/workflow/status/pingshunhuangalex/rime-keydo/release-nightly.yaml?branch=main&label=日更动态%20(Ouroboros)&logo=github&logoColor=fff&style=for-the-badge>)](https://github.com/pingshunhuangalex/rime-keydo/releases)
 
 <a href="https://github.com/xkinput/KeyTao/releases/tag/v1.3.2"><img align="right" alt="星空键道 (Keytao) - 2026.06.17 - 4dcec6e" src="https://img.shields.io/badge/星空键道%20(Keytao)-1.3.2-c792ea?logo=monkeytype&logoColor=fff&style=for-the-badge" /></a>
 
