@@ -99,6 +99,7 @@ sort: original
 多了	da
 大约	daa
 电池	daa
+对了	dai
 肚子	dai
 动力	dau
 打架	dau
@@ -270,7 +271,6 @@ sort: original
 孩子	hai
 还能	hao
 还好	hau
-很强	hav
 喝酒	hav
 好上	hi
 好打	hi
@@ -286,7 +286,7 @@ sort: original
 好啊	ho
 话说	hoa
 还是	hoi
-或是	hoi
+会是	hoi
 回家	hoo
 好吃	hou
 火焰	hou
@@ -894,7 +894,6 @@ sort: original
 自带	zvi
 再来	zvo
 走来	zvo
-左右	zvu
 坐在	zvu
 自动	zvv
 走进	zvv
