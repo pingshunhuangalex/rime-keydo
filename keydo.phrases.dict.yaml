@@ -2621,7 +2621,8 @@ sort: original
 北京话	bjhi
 保监会	bjhii
 不呼	bjhj
-捕获	bjhl
+不就好了	bjhl
+捕获	bjhli
 补货	bjhlo
 不惑	bjhlv
 不慌	bjhm
@@ -5289,6 +5290,7 @@ sort: original
 霸道	bsdz
 拔刀	bsdzi
 不算数	bse
+不算事	bse
 把水	bseb
 把手	bsed
 把守	bsed
@@ -5312,7 +5314,7 @@ sort: original
 坝上	bsep
 八省	bser
 巴沙	bses
-不算事	bsev
+百岁山	bsev
 伴随着	bsf
 八周	bsfd
 把这	bsfe
@@ -22567,6 +22569,7 @@ sort: original
 神奇女侠	eqnx
 耍弄	eqny
 耍闹	eqnz
+杀猪盘	eqp
 耍贫	eqpb
 刷屏	eqpg
 耍泼	eqpl
@@ -30280,8 +30283,9 @@ sort: original
 发的	fsdea
 法德	fsdeau
 乍得	fsdeu
-炸弹	fsdf
-罚单	fsdfi
+罚单	fsdf
+发单	fsdfa
+炸弹	fsdfo
 法定	fsdg
 发呆	fsdh
 发带	fsdha
@@ -30604,6 +30608,7 @@ sort: original
 副司长	fsqva
 发强	fsqx
 法强	fsqxa
+重色轻友	fsqy
 发照	fsqz
 烦死人	fsr
 发热	fsre
@@ -33193,7 +33198,8 @@ sort: original
 龟头	gbtdu
 柜台	gbth
 归途	gbtj
-贵体	gbtk
+柜体	gbtk
+贵体	gbtki
 妫佗	gbtl
 归天	gbtm
 跪舔	gbtmo
@@ -35267,10 +35273,11 @@ sort: original
 骨龄	gjlgi
 古来	gjlh
 干柴烈火	gjlhv
-供给量	gjli
-刚出来不久	gjlj
+刚出来	gjli
+供给量	gjlia
+国际劳动节	gjlj
 骨碌	gjlji
-国际劳动节	gjljia
+骨露	gjljiv
 咕噜	gjljo
 轱辘	gjljv
 鼓励	gjlk
@@ -43891,6 +43898,7 @@ sort: original
 横遭	hrzz
 贺岁版	hsb
 哈白	hsbh
+荤素不忌	hsbj
 哈勃	hsbl
 哈巴	hsbs
 好死不死	hsbsa
@@ -48654,6 +48662,7 @@ sort: original
 竞斗	jgdd
 京豆	jgddo
 惊得	jgde
+敬德	jgdei
 景德	jgdeo
 静的	jgdev
 京蛋	jgdf
@@ -49083,6 +49092,8 @@ sort: original
 晶体	jgtko
 惊天	jgtm
 金戈铁马	jgtmi
+景田	jgtmo
+景甜	jgtmou
 剪个头	jgto
 经堂	jgtp
 结构调整	jgtq
@@ -51920,7 +51931,8 @@ sort: original
 槛车	jmje
 瞠目结舌	jmjei
 减产	jmjf
-简晶	jmjg
+肩颈	jmjg
+简晶	jmjgu
 坚决	jmjh
 紧密结合	jmjhi
 兼差	jmjho
@@ -77333,6 +77345,7 @@ sort: original
 起搏器	qbqv
 秦腔	qbqx
 正本清源	qbqy
+秦琼	qbqyv
 枕边人	qbr
 禽肉	qbrd
 亲热	qbre
@@ -83624,6 +83637,7 @@ sort: original
 裙撑	qwjr
 准将	qwjx
 占为己有	qwjy
+群嘲	qwjz
 请查看	qwk
 群口	qwkd
 裙裤	qwkj
@@ -84927,7 +84941,7 @@ sort: original
 热炕	rekp
 热卡	reks
 热狂	rekx
-认识论	rel
+软实力	rel
 热疗	relc
 热烈	reld
 热了	rele
@@ -84937,6 +84951,7 @@ sort: original
 热力	relk
 热络	rell
 热恋	relm
+认识论	relo
 热浪	relp
 热流	relq
 热辣	rels
@@ -85808,6 +85823,7 @@ sort: original
 弱于	rlyl
 若遇	rlyli
 若与	rlyliv
+软路由	rlyv
 若用	rlyy
 若要	rlyz
 若泽	rlze
@@ -86391,6 +86407,7 @@ sort: original
 软风	rtfr
 软炸	rtfs
 肉体凡胎	rtft
+软装	rtfx
 软种	rtfy
 软着	rtfz
 认同感	rtg
@@ -88092,7 +88109,8 @@ sort: original
 速写	sjxd
 伺机而动	sjxdi
 苏俄	sjxe
-塑性	sjxg
+塑形	sjxg
+塑性	sjxgo
 俗学	sjxh
 溯溪	sjxk
 苏溪	sjxki
@@ -97906,6 +97924,7 @@ sort: original
 无限	wjxm
 诬陷	wjxmo
 无线	wjxmv
+五险	wjxmva
 吴承恩	wjxo
 午休	wjxq
 无休	wjxqv
@@ -104953,6 +104972,7 @@ sort: original
 形态	xgth
 邢台	xgthv
 星图	xgtj
+星途	xgtjo
 形体	xgtk
 星体	xgtko
 形托	xgtl
@@ -112489,7 +112509,7 @@ sort: original
 叶卡	yeks
 页框	yekx
 夜空	yeky
-夜深了	yel
+压上来	yel
 约束力	yela
 椰林	yelb
 夜聊	yelc
@@ -112510,13 +112530,14 @@ sort: original
 耶律	yell
 衣衫褴褛	yello
 冶炼	yelm
-意识流	yelo
+夜深了	yelo
+意识流	yeloo
 野狼	yelp
 夜郎	yelpo
 液冷	yelr
 液蜡	yels
 优胜劣汰	yelt
-压上来	yelv
+硬实力	yelv
 叶轮	yelw
 叶类	yelwo
 一声令下	yelx
@@ -119459,6 +119480,7 @@ sort: original
 在本次	zbc
 最脆	zbcb
 最惨	zbcf
+最菜	zbch
 最粗	zbcj
 最次	zbck
 罪错	zbcl
