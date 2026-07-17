@@ -1,6 +1,11 @@
 {
-    "dictionaries": ["Keydo", "Rime"],
+    "dictionaries": ["GitHub", "Keydo", "Rime"],
     "dictionaryDefinitions": [
+        {
+            "name": "GitHub",
+            "path": "./cspell/github.txt",
+            "addWords": true
+        },
         {
             "name": "Keydo",
             "path": "./cspell/keydo.txt",

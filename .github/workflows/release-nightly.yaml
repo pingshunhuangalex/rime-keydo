@@ -70,15 +70,15 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v6
 
-            - name: Prepare OS-specific artifacts
+            - name: Build OS-specific artifacts
               id: build-artifacts
               run: |
-                  # Prepare Keydo artifacts based on OS
+                  # Build Keydo artifacts based on OS
                   echo "🟣 Checking the date today..."
                   DATE=$(date +"%Y.%m.%d")
                   echo "nightly-tag=nightly-${DATE}" >> "$GITHUB_OUTPUT"
 
-                  echo "🟣 Preparing Keydo for Mac..."
+                  echo "🟣 Building Keydo for Mac..."
                   cp platform/mac/keydo.custom.yaml ./keydo.custom.yaml
                   zip -qr "keydo-mac-nightly-${DATE}.zip" \
                       lua/ \
@@ -89,7 +89,7 @@ jobs:
                       -x "lua/*.draft.lua"
                   rm keydo.custom.yaml
 
-                  echo "🟣 Preparing Keydo for Windows..."
+                  echo "🟣 Building Keydo for Windows..."
                   cp platform/win/keydo.custom.yaml ./keydo.custom.yaml
                   zip -qr "keydo-win-nightly-${DATE}.zip" \
                       lua/ \
@@ -117,7 +117,7 @@ jobs:
                   name: win-artifact
                   path: ${{ steps.build-artifacts.outputs.win-artifact }}
 
-    publish-release:
+    publish-releases:
         runs-on: ubuntu-latest
         needs: [check-commits, validate-features, build-images]
         if: needs.check-commits.outputs.skip == 'false'
@@ -167,12 +167,12 @@ jobs:
 
                   echo "🟢 Legacy tags and releases cleaned up!"
 
-            - name: Prepare the nightly tag
+            - name: Relocate the nightly tag
               env:
                   GH_TOKEN: ${{ steps.app-token.outputs.token }}
               run: |
-                  # Prepare the nightly tag
-                  echo "🟣 Preparing the nightly tag..."
+                  # Relocate the nightly tag
+                  echo "🟣 Relocating the nightly tag..."
                   NIGHTLY_TAG=${{ needs.build-images.outputs.nightly-tag }}
 
                   OWNER="${{ github.repository_owner }}"
@@ -190,8 +190,8 @@ jobs:
                   chmod 600 ~/.ssh/signing_key
 
                   git config --global gpg.format ssh
-                  git config --global user.signingkey ~/.ssh/signing_key
                   git config --global tag.gpgSign true
+                  git config --global user.signingkey ~/.ssh/signing_key
 
                   git tag -s "${NIGHTLY_TAG}" -m "Nightly Build ${NIGHTLY_TAG}"
                   git push https://x-token-auth:${{ steps.app-token.outputs.token }}@github.com/${{ github.repository }}.git "${NIGHTLY_TAG}"
@@ -201,49 +201,38 @@ jobs:
 
                   echo "🟢 Nightly tag ${NIGHTLY_TAG} is ready!"
 
-            - name: Prepare the nightly release
-              env:
-                  GH_TOKEN: ${{ steps.app-token.outputs.token }}
-              run: |
-                  # Prepare the nightly release
-                  echo "🟣 Preparing the nightly release..."
-                  NIGHTLY_TAG=${{ needs.build-images.outputs.nightly-tag }}
+            - name: Publish the nightly release
+              uses: softprops/action-gh-release@v3
+              with:
+                  token: ${{ steps.app-token.outputs.token }}
+                  fail_on_unmatched_files: true
+                  prerelease: true
+                  tag_name: ${{ needs.build-images.outputs.nightly-tag }}
+                  target_commitish: ${{ github.sha }}
+                  name: 'Keydo Nightly Build - Ouroboros (衔尾蛇)'
+                  body: |
+                      <img width="2624" height="1464" alt="Ouroboros" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/preview/release_nightly.png" />
 
-                  RELEASE_NOTES=$(cat <<EOF
-                  <img width="2624" height="1464" alt="Ouroboros" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/preview/release_nightly.png" />
+                      ## 键道·我流 - 日更版
 
-                  ## 键道·我流 - 日更版
+                      ### 安装说明
+                      下载对应平台的压缩包，解压后将所有文件覆盖于`Rime用户文件夹`，便可无需配置立即使用。
 
-                  ### 安装说明
-                  下载对应平台的压缩包，解压后将所有文件覆盖于\`Rime用户文件夹\`，便可无需配置立即使用。
+                      ### Rime用户文件夹说明
+                      - [Mac] 鼠须管 (Squirrel): `~/Library/Rime/`
+                      - [Win] 小狼毫 (Weasel): `%APPDATA%\Rime\`
 
-                  ### Rime用户文件夹说明
-                  - [Mac] 鼠须管 (Squirrel): \`~/Library/Rime/\`
-                  - [Win] 小狼毫 (Weasel): \`%APPDATA%\\Rime\\\`
+                      ### 下载文件说明
+                      - [Mac] 鼠须管 (Squirrel): `keydo-mac-${{ needs.build-images.outputs.nightly-tag }}.zip`
+                      - [Win] 小狼毫 (Weasel): `keydo-win-${{ needs.build-images.outputs.nightly-tag }}.zip`
 
-                  ### 下载文件说明
-                  - [Mac] 鼠须管 (Squirrel): \`keydo-mac-${NIGHTLY_TAG}.zip\`
-                  - [Win] 小狼毫 (Weasel): \`keydo-win-${NIGHTLY_TAG}.zip\`
+                      ### 更新内容
+                      请查看[提交历史](https://github.com/pingshunhuangalex/rime-keydo/commits/main/)以了解更新详情。
 
-                  ### 更新内容
-                  请查看[提交历史](https://github.com/pingshunhuangalex/rime-keydo/commits/main/)以了解更新详情。
-
-                  <details>
-                  <summary><h3>致谢</h3></summary>
-                  <ul>
-                  <li>审词: @pingshunhuangalex</li>
-                  </ul>
-                  </details>
-                  EOF
-                  )
-
-                  gh release create "${NIGHTLY_TAG}" \
-                    --target "$GITHUB_SHA" \
-                    --title "Keydo Nightly Build - Ouroboros (衔尾蛇)" \
-                    --prerelease \
-                    --notes "${RELEASE_NOTES}"
-
-                  echo "🟣 Attaching Keydo images..."
-                  gh release upload "${NIGHTLY_TAG}" "${{ needs.build-images.outputs.mac-artifact }}" "${{ needs.build-images.outputs.win-artifact }}"
-
-                  echo "🟢 Keydo images attached and the release ${NIGHTLY_TAG} is now live!"
+                      <details>
+                          <summary><h3>致谢</h3></summary>
+                          <ul><li>审词: @pingshunhuangalex</li></ul>
+                      </details>
+                  files: |
+                      ${{ needs.build-images.outputs.mac-artifact }}
+                      ${{ needs.build-images.outputs.win-artifact }}
