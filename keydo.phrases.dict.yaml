@@ -1212,7 +1212,8 @@ sort: original
 半坡	bfpl
 半片	bfpm
 般配	bfpw
-本周起	bfq
+不值钱	bfq
+不赚钱	bfq
 不分青红皂白	bfqb
 板桥	bfqc
 伴着	bfqe
@@ -1237,8 +1238,8 @@ sort: original
 不乏其人	bfqrv
 版权	bfqt
 不服气	bfqv
-不值钱	bfqvi
 百褶裙	bfqvo
+本周起	bfqvu
 不知去向	bfqx
 板墙	bfqx
 不知其二	bfqxv
@@ -6646,7 +6647,7 @@ sort: original
 薄纱	bzes
 白噪声	bzeu
 不作声	bzev
-不尊重	bzf
+不在这	bzf
 煲粥	bzfd
 抱着	bzfe
 包着	bzfeu
@@ -6665,7 +6666,8 @@ sort: original
 保值	bzfki
 保质	bzfkiu
 包纸	bzfku
-薄酌	bzfl
+不在这了	bzfl
+薄酌	bzfli
 包装	bzfm
 报分	bzfn
 包房	bzfp
@@ -6674,6 +6676,7 @@ sort: original
 爆炸	bzfs
 暴发	bzfso
 包赚	bzft
+不尊重	bzfv
 报废	bzfw
 保费	bzfwi
 百足之虫	bzfwv
@@ -10701,8 +10704,7 @@ sort: original
 都老	ddlz
 多打磨	ddm
 豆苗	ddmc
-达到目的	ddmd
-电动马达	ddmdi
+电动马达	ddmd
 兜鍪	ddmdu
 都目	ddmj
 豆面	ddmm
@@ -10891,7 +10893,6 @@ sort: original
 堞眼	ddyf
 都应	ddyg
 叠影	ddyga
-达到一个	ddygv
 瞪大眼睛	ddyj
 大跌眼镜	ddyjv
 都已	ddyk
@@ -31858,8 +31859,9 @@ sort: original
 飞扬跋扈	fybha
 直言不讳	fybhu
 风云变幻	fybhuv
-值夜班	fybi
-中译本	fybio
+找一波	fybi
+值夜班	fybio
+中译本	fybiov
 招议标	fybiov
 中部	fybj
 中比	fybk
@@ -55449,6 +55451,7 @@ sort: original
 姜昆	jxkw
 将空	jxky
 接下来	jxl
+记下来	jxl
 纪晓岚	jxla
 降临	jxlb
 将临	jxlbo
@@ -55468,9 +55471,8 @@ sort: original
 讲理	jxlko
 降落	jxll
 犟驴	jxlla
-记下来	jxlo
+觉醒了	jxlo
 产销量	jxloi
-觉醒了	jxlov
 江郎	jxlp
 江流	jxlq
 僵冷	jxlr
@@ -55480,7 +55482,6 @@ sort: original
 静下来	jxlv
 程序名	jxm
 江民	jxmb
-教学目的	jxmd
 讲明	jxmg
 僵木	jxmj
 江米	jxmk
@@ -66458,7 +66459,8 @@ sort: original
 描摹	mcml
 庙门	mcmn
 渺茫	mcmp
-描眉	mcmw
+秒没	mcmw
+描眉	mcmwi
 庙貌	mcmz
 秒内	mcnw
 买彩票	mcp
@@ -66750,7 +66752,8 @@ sort: original
 陌上桑	mes
 民事诉讼	mess
 卖身投靠	metk
-墨水池	mew
+马上冲	mew
+墨水池	mewi
 没事儿	mex
 没失效	mex
 没声儿	mexa
@@ -98707,10 +98710,10 @@ sort: original
 外来务工人员	wlwyu
 我朝	wlwz
 物理学	wlx
-窝心	wlxb
+我心	wlxb
 戳心	wlxba
 位列仙班	wlxbi
-我心	wlxbu
+窝心	wlxbo
 我校	wlxc
 我写	wlxd
 我额	wlxe
@@ -112371,8 +112374,8 @@ sort: original
 叶典	yedmo
 意识到	yedo
 夜灯	yedr
-夜大	yeds
-也大	yedsa
+也大	yeds
+夜大	yedso
 也短	yedt
 冶锻	yedto
 饮食店	yedu
@@ -112419,6 +112422,7 @@ sort: original
 有识之士	yefev
 夜饭	yeff
 由始至终	yeffi
+也是这个	yefg
 鱼水之欢	yefh
 衣裳之会	yefho
 有伤风化	yefhv
@@ -113326,6 +113330,7 @@ sort: original
 验钞	yfwz
 言者无罪	yfwzo
 一直想	yfx
+也只想	yfx
 异质性	yfxa
 岩芯	yfxb
 岩心	yfxbi
@@ -122176,11 +122181,14 @@ sort: original
 最亲近	zqjoo
 早期教育	zqjy
 自找苦吃	zqkw
-增长了	zql
-坐起来	zqli
+做起来	zql
+坐起来	zql
+组起来	zqla
+钻起来	zqli
 躁起来	zqlo
 造起来	zqlu
-增长率	zqlv
+增长了	zqlv
+增长率	zqlvu
 最起码	zqm
 自取灭亡	zqmw
 自去年	zqn
