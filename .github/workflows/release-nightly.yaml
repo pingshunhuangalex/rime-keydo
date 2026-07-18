@@ -42,21 +42,7 @@ jobs:
             - name: Syntax and linting check for Lua
               run: |
                   # Check for syntax and linting issues in Lua files
-                  echo "🟣 Installing dependencies..."
-                  sudo apt-get update > /dev/null 2>&1
-                  sudo apt-get install -y lua5.3 liblua5.3-dev luarocks build-essential unzip > /dev/null 2>&1
-                  sudo luarocks install luacheck > /dev/null 2>&1
-
-                  echo "🟣 Checking Lua files via Luacheck..."
-                  luacheck lua/ rime.lua \
-                      --exclude-files "lua/*.draft.lua" \
-                      --no-color \
-                      --only 0
-
-                  echo "🟣 Running strict Lua compilation check..."
-                  find . -name "*.lua" ! -name "*.draft.lua" -exec luac5.3 -p {} \;
-
-                  echo "🟢 All Lua files pass the syntax and linting checks!"
+                  bash scripts/validate-lua.sh --install-deps
 
     build-images:
         runs-on: ubuntu-latest
