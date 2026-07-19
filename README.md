@@ -183,5 +183,5 @@
 [下载安装Rime]: https://rime.im/download/
 [输入方案]: https://github.com/pingshunhuangalex/rime-keydo/releases
 [键道官网]: https://keytao.vercel.app/practice
-[隐秘设置]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/platform/mac/keydo.custom.yaml
+[隐秘设置]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/schema/mac/keydo.custom.yaml
 [词库结构]: https://github.com/pingshunhuangalex/rime-keydo/blob/main/keydo.dict.yaml

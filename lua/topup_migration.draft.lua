@@ -1,5 +1,5 @@
-local utils = require("utils")
-local helpers = require("helpers")
+local utils = require("keydo_utils")
+local helpers = require("keydo_helpers")
 
 local is_valid = utils.is_valid
 local starts_with = utils.starts_with

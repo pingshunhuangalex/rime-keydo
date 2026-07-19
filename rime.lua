@@ -35,13 +35,13 @@
 topup_processor = require("for_topup")
 
 -- 选择处理器
-keydo_select_processor = require("keydo.processors.select")
+keydo_select_processor = require("processors.keydo_select")
 
 -- 日期与时间转换器
-keydo_date_time_translator = require("keydo.translators.date_time")
+keydo_date_time_translator = require("translators.keydo_date_time")
 
 -- 数字转换器：将阿拉伯数字转换为对应汉字
 number_translator = require("xnumber")
 
 -- 候选过滤器
-keydo_cand_filter = require("keydo.filters.cand")
+keydo_cand_filter = require("filters.keydo_cand")

@@ -1,5 +1,5 @@
-local constants = require("constants")
-local utils = require("utils")
+local constants = require("keydo_constants")
+local utils = require("keydo_utils")
 
 local castings = constants.castings
 local formatters = constants.formatters

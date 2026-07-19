@@ -39,7 +39,7 @@ else
 fi
 
 echo "🟣 Building Keydo for Mac..."
-cp platform/mac/keydo.custom.yaml ./keydo.custom.yaml
+cp schema/mac/keydo.custom.yaml ./keydo.custom.yaml
 zip -qr "${MAC_IMAGE}" \
     lua/ \
     rime.lua \
@@ -50,7 +50,7 @@ zip -qr "${MAC_IMAGE}" \
 rm ./keydo.custom.yaml
 
 echo "🟣 Building Keydo for Windows..."
-cp platform/win/keydo.custom.yaml ./keydo.custom.yaml
+cp schema/win/keydo.custom.yaml ./keydo.custom.yaml
 zip -qr "${WIN_IMAGE}" \
     lua/ \
     rime.lua \
