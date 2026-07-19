@@ -166,6 +166,13 @@ jobs:
 
                   echo "🟢 Nightly tag ${NIGHTLY_TAG} is ready!"
 
+            - name: Generate the nightly release notes
+              env:
+                  NIGHTLY_TAG: ${{ needs.build-images.outputs.nightly-tag }}
+              run: |
+                  # Generate release notes from the nightly release template
+                  envsubst < .github/templates/NIGHTLY_RELEASE_TEMPLATE.md > ${{ runner.temp }}/NIGHTLY_RELEASE.md
+
             - name: Publish the nightly release
               uses: softprops/action-gh-release@v3
               with:
@@ -175,29 +182,7 @@ jobs:
                   tag_name: ${{ needs.build-images.outputs.nightly-tag }}
                   target_commitish: ${{ github.sha }}
                   name: 'Keydo Nightly Build - Ouroboros (衔尾蛇)'
-                  body: |
-                      <img width="2624" height="1464" alt="Ouroboros" src="https://github.com/pingshunhuangalex/rime-keydo/blob/main/preview/release_nightly.png" />
-
-                      ## 键道·我流 - 日更版
-
-                      ### 安装说明
-                      下载对应平台的压缩包，解压后将所有文件覆盖于`Rime用户文件夹`，便可无需配置立即使用。
-
-                      ### Rime用户文件夹说明
-                      - [Mac] 鼠须管 (Squirrel): `~/Library/Rime/`
-                      - [Win] 小狼毫 (Weasel): `%APPDATA%\Rime\`
-
-                      ### 下载文件说明
-                      - [Mac] 鼠须管 (Squirrel): `keydo-mac-${{ needs.build-images.outputs.nightly-tag }}.zip`
-                      - [Win] 小狼毫 (Weasel): `keydo-win-${{ needs.build-images.outputs.nightly-tag }}.zip`
-
-                      ### 更新内容
-                      请查看[提交历史](https://github.com/pingshunhuangalex/rime-keydo/commits/main/)以了解更新详情。
-
-                      <details>
-                          <summary><h3>致谢</h3></summary>
-                          <ul><li>审词: @pingshunhuangalex</li></ul>
-                      </details>
+                  body_path: ${{ runner.temp }}/NIGHTLY_RELEASE.md
                   files: |
                       ${{ needs.build-images.outputs.mac-artifact }}
                       ${{ needs.build-images.outputs.win-artifact }}

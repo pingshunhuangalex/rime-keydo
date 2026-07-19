@@ -66,7 +66,7 @@ if [[ "$IS_RELEASE" -eq 1 ]]; then
     printf "| %-8s | %-40s |\n" "Platform" "Artifact"
     echo "+----------+------------------------------------------+"
     printf "| %-8s | %-40s |\n" "Mac" "${MAC_IMAGE}"
-    printf "| %-8s | %-40s |\n" "Windows" "${WIN_IMAGE}"
+    printf "| %-8s | %-40s |\n" "Win" "${WIN_IMAGE}"
     echo "+----------+------------------------------------------+"
 else
     echo "🟢 Keydo images built!"
