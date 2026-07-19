@@ -62,34 +62,13 @@ jobs:
                   # Build Keydo artifacts based on OS
                   echo "🟣 Checking the date today..."
                   DATE=$(date +"%Y.%m.%d")
-                  echo "nightly-tag=nightly-${DATE}" >> "$GITHUB_OUTPUT"
+                  NIGHTLY_TAG="nightly-${DATE}"
 
-                  echo "🟣 Building Keydo for Mac..."
-                  cp platform/mac/keydo.custom.yaml ./keydo.custom.yaml
-                  zip -qr "keydo-mac-nightly-${DATE}.zip" \
-                      lua/ \
-                      rime.lua \
-                      default.custom.yaml \
-                      squirrel.custom.yaml \
-                      keydo.*.yaml \
-                      -x "lua/*.draft.lua"
-                  rm keydo.custom.yaml
+                  bash scripts/build-images.sh --release --tag "${NIGHTLY_TAG}"
 
-                  echo "🟣 Building Keydo for Windows..."
-                  cp platform/win/keydo.custom.yaml ./keydo.custom.yaml
-                  zip -qr "keydo-win-nightly-${DATE}.zip" \
-                      lua/ \
-                      rime.lua \
-                      default.custom.yaml \
-                      weasel.custom.yaml \
-                      keydo.*.yaml \
-                      -x "lua/*.draft.lua"
-                  rm keydo.custom.yaml
-
+                  echo "nightly-tag=${NIGHTLY_TAG}" >> "$GITHUB_OUTPUT"
                   echo "mac-artifact=keydo-mac-nightly-${DATE}.zip" >> "$GITHUB_OUTPUT"
                   echo "win-artifact=keydo-win-nightly-${DATE}.zip" >> "$GITHUB_OUTPUT"
-
-                  echo "🟢 Keydo artifacts built and compressed!"
 
             - name: Upload Mac artifact
               uses: actions/upload-artifact@v7

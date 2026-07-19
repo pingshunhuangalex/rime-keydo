@@ -1,6 +1,9 @@
 #!/bin/bash
 set -euo pipefail
 
+REPO_ROOT=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
+cd "${REPO_ROOT}"
+
 # Allow installing dependencies specifically for the CI environment
 if [ "$1" == "--install-deps" ]; then
     echo "🟣 Installing dependencies..."
@@ -35,11 +38,11 @@ while IFS= read -r -d '' file; do
     clean_file_path="${file#./}"
     printf "%-50s" "Checking $clean_file_path"
 
-    if err_msg=$("$LUAC" -p "$file" 2>&1); then
+    if error_message=$("$LUAC" -p "$file" 2>&1); then
         echo "OK"
     else
         echo "FAIL"
-        echo "   $err_msg" >&2
+        echo "   $error_message" >&2
         ERROR_COUNT=$((ERROR_COUNT + 1))
     fi
 done < <(find . -name "*.lua" ! -name "*.draft.lua" -print0 | sort -z)
