@@ -26,6 +26,31 @@ luacheck lua/ rime.lua \
     --only 0
 
 echo "🟣 Running strict Lua compilation check using ${LUAC}..."
-find . -name "*.lua" ! -name "*.draft.lua" -exec "$LUAC" -p {} \;
+FILE_COUNT=0
+ERROR_COUNT=0
+
+while IFS= read -r -d '' file; do
+    FILE_COUNT=$((FILE_COUNT + 1))
+
+    clean_file_path="${file#./}"
+    printf "%-50s" "Checking $clean_file_path"
+
+    if err_msg=$("$LUAC" -p "$file" 2>&1); then
+        echo "OK"
+    else
+        echo "FAIL"
+        echo "   $err_msg" >&2
+        ERROR_COUNT=$((ERROR_COUNT + 1))
+    fi
+done < <(find . -name "*.lua" ! -name "*.draft.lua" -print0 | sort -z)
+
+ERROR_LABEL="errors"
+[ "$ERROR_COUNT" -eq 1 ] && ERROR_LABEL="error"
+
+FILE_LABEL="files"
+[ "$FILE_COUNT" -eq 1 ] && FILE_LABEL="file"
+
+echo ""
+echo "Total: 0 warnings / $ERROR_COUNT $ERROR_LABEL in $FILE_COUNT $FILE_LABEL"
 
 echo "🟢 All Lua files pass the syntax and linting checks!"
