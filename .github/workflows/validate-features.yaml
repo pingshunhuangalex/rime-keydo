@@ -1,0 +1,22 @@
+name: Validate Features
+
+on:
+    push:
+        branches:
+            - main
+    pull_request:
+        branches:
+            - main
+
+jobs:
+    validate-logic:
+        runs-on: ubuntu-latest
+        if: github.event.sender.type != 'Bot'
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v6
+
+            - name: Syntax and linting check for Lua
+              run: |
+                  # Check for syntax and linting issues in Lua files
+                  bash scripts/validate-logic.sh --install-deps

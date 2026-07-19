@@ -31,7 +31,7 @@ jobs:
                     echo "🟢 New commits detected (or manual run triggered)!"
                   fi
 
-    validate-features:
+    validate-logic:
         runs-on: ubuntu-latest
         needs: check-commits
         if: needs.check-commits.outputs.skip == 'false'
@@ -42,11 +42,11 @@ jobs:
             - name: Syntax and linting check for Lua
               run: |
                   # Check for syntax and linting issues in Lua files
-                  bash scripts/validate-lua.sh --install-deps
+                  bash scripts/validate-logic.sh --install-deps
 
     build-images:
         runs-on: ubuntu-latest
-        needs: [check-commits, validate-features]
+        needs: [check-commits, validate-logic]
         if: needs.check-commits.outputs.skip == 'false'
         outputs:
             nightly-tag: ${{ steps.build-artifacts.outputs.nightly-tag }}
@@ -105,7 +105,7 @@ jobs:
 
     publish-releases:
         runs-on: ubuntu-latest
-        needs: [check-commits, validate-features, build-images]
+        needs: [check-commits, validate-logic, build-images]
         if: needs.check-commits.outputs.skip == 'false'
         permissions:
             contents: write # Required for pushing tags and updating releases
