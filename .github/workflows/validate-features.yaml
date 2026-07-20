@@ -9,9 +9,29 @@ on:
             - main
 
 jobs:
+    detect-changes:
+        runs-on: ubuntu-latest
+        outputs:
+            logic_changed: ${{ steps.filter-changes.outputs.logic }}
+            dicts_changed: ${{ steps.filter-changes.outputs.dicts }}
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v6
+
+            - name: Filter changes
+              uses: dorny/paths-filter@v4
+              id: filter-changes
+              with:
+                  filters: |
+                      logic:
+                          - 'logic/**'
+                      dicts:
+                          - 'dicts/**'
+
     validate-logic:
         runs-on: ubuntu-latest
-        if: github.event.sender.type != 'Bot'
+        needs: detect-changes
+        if: ${{ needs.detect-changes.outputs.logic_changed == 'true' }}
         steps:
             - name: Checkout code
               uses: actions/checkout@v6

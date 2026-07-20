@@ -1,2 +1,3 @@
+dorny
 envsubst
 softprops
