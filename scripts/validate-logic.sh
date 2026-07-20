@@ -25,7 +25,7 @@ luacheck logic/ \
     --no-color \
     --only 0
 
-echo "🟣 Running strict Lua compilation check using ${LUAC}..."
+echo "🟣 Running strict Lua compilation check..."
 FILE_COUNT=0
 ERROR_COUNT=0
 

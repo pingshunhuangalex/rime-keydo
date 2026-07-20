@@ -3,7 +3,7 @@ name: Nightly Release
 on:
     schedule:
         - cron: '0 20 * * *' # Run at 20:00 UTC (6:00 AM AEST)
-    workflow_dispatch: # Allow manually triggering the workflow from the Actions tab
+    workflow_dispatch: # Allow manually triggering the workflow
 
 jobs:
     check-commits:
@@ -31,22 +31,14 @@ jobs:
                     echo "🟢 New commits detected (or manual run triggered)!"
                   fi
 
-    validate-logic:
-        runs-on: ubuntu-latest
+    validate:
         needs: check-commits
         if: needs.check-commits.outputs.skip == 'false'
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v6
-
-            - name: Syntax and linting check for Lua
-              run: |
-                  # Check for syntax and linting issues in Lua files
-                  bash scripts/validate-logic.sh --install-deps
+        uses: ./.github/workflows/_validate-features.yaml
 
     build-images:
         runs-on: ubuntu-latest
-        needs: [check-commits, validate-logic]
+        needs: [check-commits, validate]
         if: needs.check-commits.outputs.skip == 'false'
         outputs:
             nightly-tag: ${{ steps.build-artifacts.outputs.nightly-tag }}
@@ -84,7 +76,7 @@ jobs:
 
     publish-releases:
         runs-on: ubuntu-latest
-        needs: [check-commits, validate-logic, build-images]
+        needs: [check-commits, validate, build-images]
         if: needs.check-commits.outputs.skip == 'false'
         permissions:
             contents: write # Required for pushing tags and updating releases

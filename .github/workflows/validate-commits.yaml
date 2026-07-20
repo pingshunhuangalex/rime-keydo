@@ -1,4 +1,4 @@
-name: Validate Features
+name: Validate Commits
 
 on:
     push:
@@ -12,8 +12,8 @@ jobs:
     detect-changes:
         runs-on: ubuntu-latest
         outputs:
-            logic_changed: ${{ steps.filter-changes.outputs.logic }}
             dicts_changed: ${{ steps.filter-changes.outputs.dicts }}
+            logic_changed: ${{ steps.filter-changes.outputs.logic }}
         steps:
             - name: Checkout code
               uses: actions/checkout@v6
@@ -28,15 +28,9 @@ jobs:
                       dicts:
                           - 'dicts/**'
 
-    validate-logic:
-        runs-on: ubuntu-latest
+    validate:
         needs: detect-changes
-        if: ${{ needs.detect-changes.outputs.logic_changed == 'true' }}
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v6
-
-            - name: Syntax and linting check for Lua
-              run: |
-                  # Check for syntax and linting issues in Lua files
-                  bash scripts/validate-logic.sh --install-deps
+        uses: ./.github/workflows/_validate-features.yaml
+        with:
+            dicts_changed: ${{ needs.detect-changes.outputs.dicts_changed }}
+            logic_changed: ${{ needs.detect-changes.outputs.logic_changed }}
