@@ -1,4 +1,4 @@
-local constants = require("keydo_constants")
+local constants = require("common.keydo_constants")
 
 local results = constants.results
 

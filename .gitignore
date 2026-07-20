@@ -1,12 +1,12 @@
 # OS generated files
 .DS_Store
 
-# Production
+# Non-prod env files
 build
 sync
-
-# User Configs
 *.userdb
+
+# Rime base configs
 default.yaml
 installation.yaml
 squirrel.yaml

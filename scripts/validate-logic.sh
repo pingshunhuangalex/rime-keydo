@@ -4,7 +4,7 @@ set -euo pipefail
 REPO_ROOT=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
 cd "${REPO_ROOT}"
 
-if [ "$1" == "--install-deps" ]; then
+if [ "${1:-}" == "--install-deps" ]; then
     echo "🟣 Installing dependencies..."
     sudo apt-get update > /dev/null 2>&1
     sudo apt-get install -y lua5.3 liblua5.3-dev luarocks build-essential unzip > /dev/null 2>&1
@@ -20,8 +20,8 @@ if ! command -v luacheck &> /dev/null || [ -z "$LUAC" ]; then
 fi
 
 echo "🟣 Checking Lua files via Luacheck..."
-luacheck lua/ rime.lua \
-    --exclude-files "lua/*.draft.lua" \
+luacheck logic/ \
+    --exclude-files "logic/**/*.draft.lua" \
     --no-color \
     --only 0
 
@@ -42,7 +42,7 @@ while IFS= read -r -d '' file; do
         echo "   $error_message" >&2
         ERROR_COUNT=$((ERROR_COUNT + 1))
     fi
-done < <(find . -name "*.lua" ! -name "*.draft.lua" -print0 | sort -z)
+done < <(find logic/ -name "*.lua" ! -name "*.draft.lua" -print0 | sort -z)
 
 ERROR_LABEL="errors"
 [ "$ERROR_COUNT" -eq 1 ] && ERROR_LABEL="error"

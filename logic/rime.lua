@@ -32,7 +32,7 @@
 -------------------
 
 -- 顶功处理器
-topup_processor = require("for_topup")
+topup_processor = require("processors.for_topup")
 
 -- 选择处理器
 keydo_select_processor = require("processors.keydo_select")
@@ -41,7 +41,7 @@ keydo_select_processor = require("processors.keydo_select")
 keydo_date_time_translator = require("translators.keydo_date_time")
 
 -- 数字转换器：将阿拉伯数字转换为对应汉字
-number_translator = require("xnumber")
+number_translator = require("translators.xnumber")
 
 -- 候选过滤器
 keydo_cand_filter = require("filters.keydo_cand")

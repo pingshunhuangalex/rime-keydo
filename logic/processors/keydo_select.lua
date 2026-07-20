@@ -1,6 +1,6 @@
-local constants = require("keydo_constants")
-local utils = require("keydo_utils")
-local helpers = require("keydo_helpers")
+local constants = require("common.keydo_constants")
+local utils = require("common.keydo_utils")
+local helpers = require("common.keydo_helpers")
 
 local results = constants.results
 
