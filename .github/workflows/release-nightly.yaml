@@ -42,8 +42,6 @@ jobs:
         if: needs.check-commits.outputs.skip == 'false'
         outputs:
             nightly-tag: ${{ steps.build-artifacts.outputs.nightly-tag }}
-            mac-artifact: ${{ steps.build-artifacts.outputs.mac-artifact }}
-            win-artifact: ${{ steps.build-artifacts.outputs.win-artifact }}
         steps:
             - name: Checkout code
               uses: actions/checkout@v6
@@ -59,20 +57,12 @@ jobs:
                   bash scripts/build-images.sh --release --tag "${NIGHTLY_TAG}"
 
                   echo "nightly-tag=${NIGHTLY_TAG}" >> "$GITHUB_OUTPUT"
-                  echo "mac-artifact=keydo-mac-nightly-${DATE}.zip" >> "$GITHUB_OUTPUT"
-                  echo "win-artifact=keydo-win-nightly-${DATE}.zip" >> "$GITHUB_OUTPUT"
 
-            - name: Upload Mac artifact
+            - name: Upload release artifacts
               uses: actions/upload-artifact@v7
               with:
-                  name: mac-artifact
-                  path: ${{ steps.build-artifacts.outputs.mac-artifact }}
-
-            - name: Upload Windows artifact
-              uses: actions/upload-artifact@v7
-              with:
-                  name: win-artifact
-                  path: ${{ steps.build-artifacts.outputs.win-artifact }}
+                  name: release-artifacts
+                  path: build/*.zip
 
     publish-releases:
         runs-on: ubuntu-latest
@@ -94,15 +84,11 @@ jobs:
                   token: ${{ steps.app-token.outputs.token }}
                   fetch-depth: 0 # Fetch full history to reliably move tags
 
-            - name: Download Mac artifact
+            - name: Download release artifacts
               uses: actions/download-artifact@v8
               with:
-                  name: mac-artifact
-
-            - name: Download Windows artifact
-              uses: actions/download-artifact@v8
-              with:
-                  name: win-artifact
+                  name: release-artifacts
+                  path: build/
 
             - name: Clean up legacy nightly tags and releases
               env:
@@ -175,6 +161,4 @@ jobs:
                   target_commitish: ${{ github.sha }}
                   name: 'Keydo Nightly Build - Ouroboros (衔尾蛇)'
                   body_path: ${{ runner.temp }}/NIGHTLY_RELEASE.md
-                  files: |
-                      ${{ needs.build-images.outputs.mac-artifact }}
-                      ${{ needs.build-images.outputs.win-artifact }}
+                  files: build/*.zip
