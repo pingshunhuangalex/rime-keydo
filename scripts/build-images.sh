@@ -30,14 +30,20 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
-OS_TYPE="unknown"
+readonly ENUM_OS_MAC="mac"
+readonly ENUM_OS_WIN="win"
+readonly ENUM_OS_UNKNOWN="unknown"
+OS_TYPE=""
 
 case "$(uname -s)" in
     Darwin*)
-        OS_TYPE="mac"
+        OS_TYPE="${ENUM_OS_MAC}"
         ;;
     CYGWIN*|MINGW32*|MSYS*|MINGW*)
-        OS_TYPE="win"
+        OS_TYPE="${ENUM_OS_WIN}"
+        ;;
+    *)
+        OS_TYPE="${ENUM_OS_UNKNOWN}"
         ;;
 esac
 
@@ -56,52 +62,81 @@ rm -rf "${BUILD_DIR}"
 mkdir -p "${BUILD_DIR}"
 
 build_image() {
-    local platform=$1
+    local target_os=$1
     local target_image=$2
-    local schema_src=$3
-    local platform_specific_yaml=$4
+    local platform
 
-    echo "🟣 Building Keydo for ${platform}..."
+    case "$target_os" in
+        "${ENUM_OS_MAC}")
+            platform=" for Mac"
+            ;;
+        "${ENUM_OS_WIN}")
+            platform=" for Windows"
+            ;;
+        *)
+            platform=""
+            ;;
+    esac
+
+    echo "🟣 Building Keydo${platform}..."
     local target_path="${BUILD_DIR}/${target_image}"
     mkdir -p "${target_path}"
 
-    cp -R lua/ "${target_path}/"
-    find "${target_path}/lua" -name "*.draft.lua" -type f -delete
-    cp rime.lua default.custom.yaml "${platform_specific_yaml}" "${target_path}/"
+    for folder in rime schema dicts; do
+        if [[ -d "$folder" ]]; then
+            find "$folder" -maxdepth 1 -type f -exec cp -a {} "${target_path}/" \; 2>/dev/null || true
 
-    for f in keydo.*.yaml; do
-        [[ -e "$f" ]] && cp "$f" "${target_path}/"
+            if [[ -d "$folder/$target_os" ]]; then
+                find "$folder/$target_os" -mindepth 1 -maxdepth 1 -exec cp -a {} "${target_path}/" \; 2>/dev/null || true
+            fi
+        fi
     done
 
-    cp "${schema_src}" "${target_path}/keydo.custom.yaml"
+    if [[ -d "logic" ]]; then
+        mkdir -p "${target_path}/lua"
+
+        find logic -maxdepth 1 -type f ! -name "*.draft.*" -exec cp -a {} "${target_path}/" \; 2>/dev/null || true
+        find logic -mindepth 1 -maxdepth 1 -type d -exec cp -a {} "${target_path}/lua/" \; 2>/dev/null || true
+        find "${target_path}/lua" -type f -name "*.draft.*" -delete 2>/dev/null || true
+    fi
+
+    # Display directory structure for the built image
+    if command -v eza &> /dev/null; then
+        eza --tree "${target_path}"
+    elif command -v tree &> /dev/null; then
+        tree "${target_path}"
+    else
+        find "${target_path}" -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'
+    fi
 
     if [[ "$IS_RELEASE" -eq 1 ]]; then
-        echo "🟣 Compressing Keydo ${platform} image for releases..."
+        echo "🟣 Compressing Keydo release image${platform}..."
         (cd "${target_path}" && zip -qr "../${target_image}.zip" *)
     fi
 }
 
 HAS_MAC_IMAGE=0
 HAS_WIN_IMAGE=0
+IMAGE_EXT=""
 
 if [[ "$IS_RELEASE" -eq 1 ]]; then
     HAS_MAC_IMAGE=1
     HAS_WIN_IMAGE=1
 else
-    if [[ "$OS_TYPE" == "mac" || "$OS_TYPE" == "unknown" ]]; then
+    if [[ "$OS_TYPE" == "${ENUM_OS_MAC}" || "$OS_TYPE" == "${ENUM_OS_UNKNOWN}" ]]; then
         HAS_MAC_IMAGE=1
     fi
-    if [[ "$OS_TYPE" == "win" || "$OS_TYPE" == "unknown" ]]; then
+    if [[ "$OS_TYPE" == "${ENUM_OS_WIN}" || "$OS_TYPE" == "${ENUM_OS_UNKNOWN}" ]]; then
         HAS_WIN_IMAGE=1
     fi
 fi
 
 if [[ "$HAS_MAC_IMAGE" -eq 1 ]]; then
-    build_image "Mac" "${MAC_IMAGE}" "schema/mac/keydo.custom.yaml" "squirrel.custom.yaml"
+    build_image "${ENUM_OS_MAC}" "${MAC_IMAGE}"
 fi
 
 if [[ "$HAS_WIN_IMAGE" -eq 1 ]]; then
-    build_image "Windows" "${WIN_IMAGE}" "schema/win/keydo.custom.yaml" "weasel.custom.yaml"
+    build_image "${ENUM_OS_WIN}" "${WIN_IMAGE}"
 fi
 
 if [[ "$IS_RELEASE" -eq 1 ]]; then
@@ -110,9 +145,9 @@ else
     IMAGE_EXT="/"
 fi
 
-echo "🟢 Keydo images built!"
+echo "🟢 Keydo images built and are ready for Rime deployment!"
 echo "+----------+------------------------------------------+"
-printf "| %-8s | %-40s |\n" "Platform" "Output"
+printf "| %-8s | %-40s |\n" "Platform" "Image"
 echo "+----------+------------------------------------------+"
 
 if [[ "$HAS_MAC_IMAGE" -eq 1 ]]; then
