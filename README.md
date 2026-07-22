@@ -1,6 +1,6 @@
 # 键道·我流 [![日更动态 (Ouroboros)](<https://img.shields.io/github/actions/workflow/status/pingshunhuangalex/rime-keydo/release-nightly.yaml?branch=main&label=日更动态%20(Ouroboros)&logo=github&logoColor=fff&style=for-the-badge>)](https://github.com/pingshunhuangalex/rime-keydo/releases)
 
-<a href="https://github.com/xkinput/KeyTao/releases/tag/v1.3.5"><img align="right" alt="星空键道 (Keytao) - 2026.07.12 - f293f2c" src="https://img.shields.io/badge/星空键道%20(Keytao)-1.3.5-c792ea?logo=monkeytype&logoColor=fff&style=for-the-badge" /></a>
+<a href="https://github.com/xkinput/KeyTao/releases/tag/v1.3.7"><img align="right" alt="星空键道 (Keytao) - 2026.07.22 - 5df8fc1" src="https://img.shields.io/badge/星空键道%20(Keytao)-1.3.7-c792ea?logo=monkeytype&logoColor=fff&style=for-the-badge" /></a>
 
 [![[Mac] 鼠须管 (Squirrel)](<https://img.shields.io/badge/鼠须管%20(Squirrel)-1.1.2-f78c6a?logo=apple&logoColor=fff&style=for-the-badge>)](https://github.com/rime/squirrel/releases/tag/1.1.2) [![[Win] 小狼毫 (Weasel)](<https://img.shields.io/badge/小狼毫%20(Weasel)-0.17.4-82aaff?logo=airplayvideo&logoColor=fff&style=for-the-badge>)](https://github.com/rime/weasel/releases/tag/0.17.4)
 

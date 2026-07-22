@@ -1273,6 +1273,7 @@ sort: original
 不知所踪	bfsz
 不折腾	bft
 巴菲特	bfta
+避风塘	bftau
 半条	bftc
 版头	bftd
 半头	bftdo
@@ -1442,6 +1443,7 @@ sort: original
 兵地	bgdk
 冰滴	bgdko
 冰点	bgdm
+冰垫	bgdmo
 不敢怠慢	bgdmv
 宝贵的	bgdo
 冰灯	bgdr
@@ -2276,6 +2278,7 @@ sort: original
 白血	bhxhu
 保护性	bhxi
 拜耳	bhxj
+鼻后嗅觉	bhxju
 白皙	bhxk
 不寒而栗	bhxl
 白絮	bhxl
@@ -3407,6 +3410,7 @@ sort: original
 闭会	bkhboi
 笔会	bkhbu
 壁厚	bkhd
+鼻后	bkhdu
 闭合	bkhe
 不堪回首	bkhev
 不可忽视	bkhevv
@@ -12207,7 +12211,8 @@ sort: original
 大好河山	dhhe
 带坏	dhhg
 灯火辉煌	dhhh
-带火	dhhl
+带货	dhhl
+带火	dhhlv
 电话号码	dhhm
 待换	dhht
 动画化	dhhv
@@ -13788,6 +13793,7 @@ sort: original
 多细	dlxk
 多蓄	dlxl
 多线	dlxm
+剁馅	dlxmu
 道了谢	dlxo
 鼎力相助	dlxq
 夺下	dlxs
@@ -13857,6 +13863,7 @@ sort: original
 点拨	dmbl
 点播	dmbl
 电波	dmbli
+店播	dmblo
 颠簸	dmblu
 独木不成林	dmbluv
 电变	dmbm
@@ -15876,6 +15883,7 @@ sort: original
 端门	dtmn
 短码	dtms
 断码	dtmso
+段码	dtmsu
 短毛	dtmz
 大厅内	dtn
 端凝	dtng
@@ -16804,6 +16812,7 @@ sort: original
 东岳	dyyh
 冬月	dyyhu
 电影院	dyyi
+代运营	dyyiv
 动议	dyyk
 冬衣	dyyku
 冬雨	dyyl
@@ -17762,7 +17771,8 @@ sort: original
 瘦得	edde
 熟的	eddeo
 瘦的	eddeo
-寿诞	eddf
+首单	eddf
+寿诞	eddfv
 收订	eddg
 手袋	eddh
 少得多	eddi
@@ -22418,7 +22428,8 @@ sort: original
 水平线	epx
 伤心	epxb
 上心	epxb
-赏心	epxbi
+上新	epxbi
+赏心	epxbio
 上校	epxc
 上写	epxd
 上颚	epxe
@@ -24661,6 +24672,7 @@ sort: original
 斐波那契	fbnq
 放鞭炮	fbp
 追平	fbpg
+追评	fbpgu
 追捧	fbpr
 追赔	fbpw
 追跑	fbpz
@@ -27696,6 +27708,7 @@ sort: original
 制出	fkjjua
 直击	fkjk
 织机	fkjka
+值机	fkjki
 之际	fkjko
 只鸡	fkjkoa
 之计	fkjkoo
@@ -27780,6 +27793,7 @@ sort: original
 质料	fklcuo
 之列	fkld
 只露	fkldo
+直列	fkldu
 值了	fkle
 芝兰	fklf
 芷兰	fklfi
@@ -32076,6 +32090,7 @@ sort: original
 中耕	fygr
 制药公司	fygs
 中观	fygt
+风吟港	fygu
 转一个	fygv
 斧钺钩叉	fygw
 重要贡献	fygx
@@ -35239,6 +35254,7 @@ sort: original
 固件	gjjm
 国家机密	gjjmi
 古剑	gjjmu
+古建	gjjmua
 高精尖	gjjo
 关机键	gjjov
 古旧	gjjq
@@ -35406,6 +35422,7 @@ sort: original
 古筝	gjqr
 股权	gjqt
 顾全	gjqtv
+古建筑	gjqu
 攻坚战	gjqv
 股群	gjqw
 骨腔	gjqx
@@ -36134,6 +36151,7 @@ sort: original
 光棍	gmgw
 怪模怪样	gmgy
 广工	gmgyo
+狗模狗样	gmgyu
 广告	gmgz
 革命工作	gmgzv
 规模化	gmh
@@ -36407,6 +36425,7 @@ sort: original
 根苗	gnmc
 根蔓	gnmf
 跟买	gnmh
+根脉	gnmhv
 根毛	gnmz
 姑奶奶	gnn
 跟您	gnnb
@@ -38665,6 +38684,7 @@ sort: original
 工艺	gyyk
 公益	gyyku
 公寓	gyyl
+公域	gyylu
 惯用语	gyyo
 供养	gyyp
 公羊	gyypu
@@ -39822,10 +39842,11 @@ sort: original
 海底世界	hdej
 后输	hdej
 后述	hdeju
-后世	hdek
-后市	hdeku
-后是	hdekuo
-后事	hdekuv
+后是	hdek
+后事	hdeku
+后世	hdeku
+后室	hdekuo
+后市	hdekuo
 厚实	hdekv
 后说	hdel
 候审	hden
@@ -43157,12 +43178,13 @@ sort: original
 行块	hpkg
 活泼可爱	hpkx
 航空	hpky
-和平里	hpl
+好评率	hpl
 杭疗	hplc
 行列	hpld
 航路	hplj
 航旅	hpll
 很漂亮	hplu
+和平里	hpluv
 海平面	hpm
 航母	hpmj
 航模	hpml
@@ -54163,6 +54185,7 @@ sort: original
 计算过	jsg
 家规	jsgb
 加够	jsgd
+加购	jsgd
 架构	jsgda
 加个	jsge
 甲肝	jsgf
@@ -56981,6 +57004,7 @@ sort: original
 可凭	kepg
 科普	kepj
 磕破	kepl
+客片	kepm
 磕碰	kepr
 可怕	keps
 可啪	kepsv
@@ -57650,6 +57674,7 @@ sort: original
 开斋	khfh
 开赴	khfj
 开服	khfjv
+开智	khfk
 铠装	khfm
 忾愤	khfn
 开房	khfp
@@ -61272,6 +61297,7 @@ sort: original
 领过	lggl
 另过	lgglo
 灵光	lggm
+灵根	lggn
 领港	lggp
 领馆	lggt
 伶官	lggti
@@ -63037,7 +63063,7 @@ sort: original
 理论体系	lltx
 勠力同心	lltxa
 流落他乡	lltxai
-兰陵王	llw
+流量池	llw
 两肋插刀	llwd
 绫罗绸缎	llwda
 驴车	llwe
@@ -63050,6 +63076,7 @@ sort: original
 屡创	llwm
 螺纹	llwn
 律文	llwnu
+兰陵王	llwo
 落网	llwp
 滤网	llwpa
 绿网	llwpai
@@ -63332,7 +63359,8 @@ sort: original
 连累	lmlw
 链轮	lmlwi
 连亮	lmlx
-帘栊	lmly
+两模两样	lmly
+帘栊	lmlyo
 老妈妈	lmm
 怜悯	lmmb
 联名	lmmg
@@ -63738,6 +63766,7 @@ sort: original
 留手	lqedu
 六摄	lqee
 流山	lqef
+刘禅	lqefo
 柳树	lqej
 六书	lqejo
 流失	lqek
@@ -64429,11 +64458,13 @@ sort: original
 拉床	lswm
 拉网	lswp
 拉斯维加斯	lsws
+拉茶	lswsi
 辣味	lsww
 腊味	lswwu
 拉床	lswx
 蜡虫	lswy
 硫酸锌	lsx
+拉新	lsxb
 腊雪	lsxh
 腊尔	lsxj
 拉稀	lsxk
@@ -66405,6 +66436,7 @@ sort: original
 妙对	mcdb
 庙殿	mcdm
 妙答	mcds
+秒懂	mcdy
 妙道	mcdz
 苗刀	mcdzi
 秒睡	mceb
@@ -67250,6 +67282,7 @@ sort: original
 明盘	mgpf
 名牌	mgph
 铭牌	mgphi
+明牌	mgpho
 名片	mgpm
 名篇	mgpmu
 铭佩	mgpw
@@ -76674,6 +76707,7 @@ sort: original
 破铜烂铁	ptlt
 品头论足	ptlz
 评头论足	ptlzo
+帕特农神庙	ptnm
 泡腾片	ptp
 普陀区	ptq
 普通青年	ptqn
@@ -85924,6 +85958,7 @@ sort: original
 人民战争	rmqq
 人民日报	rmrb
 若明若暗	rmrx
+人模人样	rmry
 入木三分	rmsf
 人面桃花	rmth
 人民网	rmw
@@ -88649,6 +88684,7 @@ sort: original
 死于	skyl
 私欲	skylu
 私语	skyluo
+私域	skyluv
 死鱼	skylv
 饲养	skyp
 四样	skypi
@@ -93322,6 +93358,7 @@ sort: original
 天波	tmbl
 天边	tmbm
 田边	tmbmi
+天崩	tmbr
 天霸	tmbs
 太明白	tmbv
 填报	tmbz
@@ -99454,6 +99491,7 @@ sort: original
 往里	wplk
 网罗	wpll
 网恋	wplm
+差评率	wplo
 汪流	wplq
 忘啦	wpls
 王磊	wplw
@@ -100473,11 +100511,12 @@ sort: original
 未必	wwbk
 威逼	wwbkv
 万万不可	wwbkvv
-微博	wwbl
-微薄	wwblu
+微薄	wwbl
+围脖	wwbli
+微博	wwblu
 微波	wwblua
-韦伯	wwblv
-无往不利	wwblvu
+无往不利	wwblv
+韦伯	wwblvi
 未变	wwbm
 为本	wwbn
 万万不能	wwbnv
@@ -105343,6 +105382,7 @@ sort: original
 哀告	xhgzo
 笑呵呵	xhh
 笑哈哈	xhh
+续火花	xhha
 学会	xhhb
 爱辉	xhhbu
 瑷珲	xhhbv
@@ -107286,6 +107326,7 @@ sort: original
 鲜卑	xmbwu
 羡慕不已	xmby
 献宝	xmbz
+线报	xmbza
 现报	xmbzv
 新名词	xmc
 献策	xmce
@@ -109159,7 +109200,8 @@ sort: original
 喧闹	xtnz
 新突破	xtp
 阿托品	xtpa
-选聘	xtpb
+选品	xtpb
+选聘	xtpbu
 选票	xtpc
 宣判	xtpf
 选派	xtph
@@ -113771,7 +113813,7 @@ sort: original
 硬碰	ygpr
 英培	ygpw
 英配	ygpwi
-晕过去	ygq
+一个准	ygq
 迎亲	ygqb
 迎着	ygqe
 倚官仗势	ygqei
@@ -113793,6 +113835,7 @@ sort: original
 遥亘千里	ygqlu
 赢钱	ygqm
 应诊	ygqn
+晕过去	ygqo
 营长	ygqp
 营帐	ygqpi
 硬仗	ygqpv
@@ -113800,7 +113843,7 @@ sort: original
 应征	ygqr
 嬴政	ygqro
 鹰犬	ygqt
-一个准	ygqv
+雨刮器	ygqv
 营墙	ygqx
 阳光照耀	ygqy
 映照	ygqz
@@ -115749,7 +115792,8 @@ sort: original
 于丹	yldfv
 预定	yldg
 预订	yldga
-玉带	yldh
+雨带	yldh
+玉带	yldhv
 余地	yldk
 遇敌	yldki
 欲滴	yldku
@@ -115885,6 +115929,7 @@ sort: original
 浴缸	ylgp
 渔港	ylgpa
 鱼缸	ylgpu
+雨刮	ylgq
 鱼贯	ylgt
 与狼共舞	ylgw
 余光	ylgx
@@ -116491,6 +116536,7 @@ sort: original
 掩面而泣	ymxq
 一门心思	ymxs
 亚马逊	ymxv
+亚马尔	ymxva
 一脉相传	ymxw
 月明星稀	ymxx
 亿美元	ymy
@@ -119179,6 +119225,8 @@ sort: original
 要过	yzgl
 咬过	yzglo
 腰果	yzglu
+摇光	yzgm
+瑶光	yzgmv
 要跟	yzgn
 要挂	yzgq
 药罐	yzgt
