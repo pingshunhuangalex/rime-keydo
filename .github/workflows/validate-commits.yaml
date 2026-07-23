@@ -39,8 +39,7 @@ jobs:
             dicts_changed: ${{ needs.detect-changes.outputs.dicts_changed }}
             logic_changed: ${{ needs.detect-changes.outputs.logic_changed }}
 
-    build-images:
-        runs-on: ubuntu-latest
+    build:
         needs: detect-changes
         if: >-
             ${{
@@ -48,24 +47,10 @@ jobs:
                 needs.detect-changes.outputs.logic_changed == 'true' ||
                 needs.detect-changes.outputs.schema_changed == 'true'
             }}
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v6
-
-            - name: Build OS-specific artifacts
-              id: build-artifacts
-              run: |
-                  # Build Keydo artifacts based on OS
-                  bash scripts/build-images.sh
-
-            - name: Upload image artifacts
-              uses: actions/upload-artifact@v7
-              with:
-                  name: image-artifacts
-                  path: build/
+        uses: ./.github/workflows/_build-images.yaml
 
     post-validate:
-        needs: [detect-changes, build-images]
+        needs: [detect-changes, build]
         uses: ./.github/workflows/_validate-schema.yaml
         with:
             dicts_changed: ${{ needs.detect-changes.outputs.dicts_changed }}

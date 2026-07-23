@@ -10,6 +10,7 @@ jobs:
         runs-on: ubuntu-latest
         outputs:
             skip: ${{ steps.commit-check.outputs.skip }}
+            nightly-tag: ${{ steps.commit-check.outputs.nightly-tag }}
         steps:
             - name: Checkout code
               uses: actions/checkout@v6
@@ -31,47 +32,30 @@ jobs:
                     echo "🟢 New commits detected (or manual run triggered)!"
                   fi
 
+                  DATE=$(date +"%Y.%m.%d")
+                  echo "nightly-tag=nightly-${DATE}" >> "$GITHUB_OUTPUT"
+
     pre-validate:
         needs: check-commits
         if: needs.check-commits.outputs.skip == 'false'
         uses: ./.github/workflows/_validate-features.yaml
 
-    build-images:
-        runs-on: ubuntu-latest
+    build:
         needs: check-commits
         if: needs.check-commits.outputs.skip == 'false'
-        outputs:
-            nightly-tag: ${{ steps.build-artifacts.outputs.nightly-tag }}
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v6
-
-            - name: Build OS-specific artifacts
-              id: build-artifacts
-              run: |
-                  # Build Keydo artifacts based on OS
-                  echo "🟣 Checking the date today..."
-                  DATE=$(date +"%Y.%m.%d")
-                  NIGHTLY_TAG="nightly-${DATE}"
-
-                  bash scripts/build-images.sh --release --tag "${NIGHTLY_TAG}"
-
-                  echo "nightly-tag=${NIGHTLY_TAG}" >> "$GITHUB_OUTPUT"
-
-            - name: Upload release artifacts
-              uses: actions/upload-artifact@v7
-              with:
-                  name: release-artifacts
-                  path: build/
+        uses: ./.github/workflows/_build-images.yaml
+        with:
+            is_release: 'true'
+            tag_name: ${{ needs.check-commits.outputs.nightly-tag }}
 
     post-validate:
-        needs: [check-commits, build-images]
+        needs: [check-commits, build]
         if: needs.check-commits.outputs.skip == 'false'
         uses: ./.github/workflows/_validate-schema.yaml
 
     publish-releases:
         runs-on: ubuntu-latest
-        needs: [check-commits, pre-validate, build-images, post-validate]
+        needs: [check-commits, pre-validate, build, post-validate]
         if: needs.check-commits.outputs.skip == 'false'
         permissions:
             contents: write # Required for pushing tags and updating releases
@@ -89,10 +73,10 @@ jobs:
                   token: ${{ steps.app-token.outputs.token }}
                   fetch-depth: 0 # Fetch full history to reliably move tags
 
-            - name: Download release artifacts
+            - name: Download image artifacts
               uses: actions/download-artifact@v8
               with:
-                  name: release-artifacts
+                  name: image-artifacts
                   path: build/
 
             - name: Clean up legacy nightly tags and releases
@@ -121,7 +105,7 @@ jobs:
               run: |
                   # Relocate the nightly tag
                   echo "🟣 Relocating the nightly tag..."
-                  NIGHTLY_TAG=${{ needs.build-images.outputs.nightly-tag }}
+                  NIGHTLY_TAG=${{ needs.check-commits.outputs.nightly-tag }}
 
                   OWNER="${{ github.repository_owner }}"
                   NAME=$(gh api /users/${OWNER} --jq '.name // .login'); NAME="${NAME% (*}"
@@ -151,7 +135,7 @@ jobs:
 
             - name: Generate the nightly release notes
               env:
-                  NIGHTLY_TAG: ${{ needs.build-images.outputs.nightly-tag }}
+                  NIGHTLY_TAG: ${{ needs.check-commits.outputs.nightly-tag }}
               run: |
                   # Generate release notes from the nightly release template
                   envsubst < .github/templates/NIGHTLY_RELEASE_TEMPLATE.md > ${{ runner.temp }}/NIGHTLY_RELEASE.md
@@ -162,7 +146,7 @@ jobs:
                   token: ${{ steps.app-token.outputs.token }}
                   fail_on_unmatched_files: true
                   prerelease: true
-                  tag_name: ${{ needs.build-images.outputs.nightly-tag }}
+                  tag_name: ${{ needs.check-commits.outputs.nightly-tag }}
                   target_commitish: ${{ github.sha }}
                   name: 'Keydo Nightly Build - Ouroboros (衔尾蛇)'
                   body_path: ${{ runner.temp }}/NIGHTLY_RELEASE.md

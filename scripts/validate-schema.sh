@@ -13,14 +13,21 @@ fi
 
 if [ "${1:-}" == "--install-deps" ]; then
     echo "🟣 Installing dependencies..."
-    sudo apt-get update -qq
-    sudo apt-get install -yqq librime-bin
+    sudo apt-get update > /dev/null 2>&1
+    sudo apt-get install -y librime-bin librime-data > /dev/null 2>&1
 fi
 
 DEPLOYER=$(command -v rime_deployer || true)
 
 if [ -z "$DEPLOYER" ]; then
     echo "🔴 Dependencies 'rime_deployer' not found." >&2
+    exit 1
+fi
+
+SHARED_DATA_DIR=/usr/share/rime-data
+
+if [ ! -d "$SHARED_DATA_DIR" ]; then
+    echo "🔴 Rime shared data directory $SHARED_DATA_DIR not found." >&2
     exit 1
 fi
 
@@ -41,14 +48,21 @@ for image in build/*/; do
         printf "%-50s" "Compiling $image_name"
 
         set +e
-        # NOTE: Passing "$image_dir" twice as the image built is a fully self-contained schema. No shared data needed
-        output=$("$DEPLOYER" --build "$image_dir" "$image_dir" "$output_dir" 2>&1)
+        output=$(GLOG_logtostderr=1 "$DEPLOYER" --build "$image_dir" "$SHARED_DATA_DIR" "$output_dir" 2>&1)
         exit_code=$?
         set -e
 
         if echo "$output" | grep -qE "^E[0-9]" || [ $exit_code -ne 0 ]; then
             echo "FAIL"
-            echo "$output" | grep "^E" | sed 's/^/   /' >&2 || echo "$output" | sed 's/^/   /' >&2
+
+            if [ -n "$output" ]; then
+                if echo "$output" | grep -q "^E"; then
+                    echo "$output" | grep "^E" | sed 's/^/   /' >&2
+                else
+                    echo "$output" | sed 's/^/   /' >&2
+                fi
+            fi
+
             ERROR_COUNT=$((ERROR_COUNT + 1))
         else
             echo "OK"

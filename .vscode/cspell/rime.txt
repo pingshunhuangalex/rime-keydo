@@ -1,8 +1,10 @@
 Eisu
+GLOG
 hilite
 hilited
 librime
 linespacing
+logtostderr
 mitchellh
 preedit
 segmentor

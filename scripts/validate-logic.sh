@@ -6,8 +6,8 @@ cd "${REPO_ROOT}"
 
 if [ "${1:-}" == "--install-deps" ]; then
     echo "🟣 Installing dependencies..."
-    sudo apt-get update -qq
-    sudo apt-get install -yqq lua5.3 liblua5.3-dev luarocks build-essential unzip
+    sudo apt-get update > /dev/null 2>&1
+    sudo apt-get install -y lua5.3 liblua5.3-dev luarocks build-essential unzip > /dev/null 2>&1
     sudo luarocks install luacheck > /dev/null 2>&1
 fi
 
@@ -38,7 +38,7 @@ while IFS= read -r -d '' file; do
         echo "OK"
     else
         echo "FAIL"
-        echo "$error_message" >&2
+        echo "   $error_message" >&2
         ERROR_COUNT=$((ERROR_COUNT + 1))
     fi
 done < <(find logic/ -name "*.lua" ! -name "*.draft.lua" -print0 | sort -z)

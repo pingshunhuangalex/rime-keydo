@@ -1,0 +1,46 @@
+name: Build Images
+
+on:
+    workflow_call: # Reusable workflow parts (callee) to be called by other workflows
+        inputs:
+            is_release:
+                description: 'Whether to append the --release flag to the build-images.sh script'
+                type: string
+                required: false
+                default: 'false'
+            tag_name:
+                description: 'The value of the --tag flag appended to the build-images.sh script'
+                type: string
+                required: false
+                default: ''
+
+jobs:
+    images:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v6
+
+            - name: Build OS-specific artifacts
+              id: build-artifacts
+              run: |
+                  # Build Keydo artifacts based on OS
+                  set --
+
+                  if [ "${{ inputs.is_release }}" == "true" ]; then
+                    set -- "$@" --release
+                  fi
+
+                  TAG_NAME="${{ inputs.tag_name }}"
+
+                  if [ "$TAG_NAME" != "" ]; then
+                    set -- "$@" --tag "$TAG_NAME"
+                  fi
+
+                  bash scripts/build-images.sh "$@"
+
+            - name: Upload image artifacts
+              uses: actions/upload-artifact@v7
+              with:
+                  name: image-artifacts
+                  path: build/
