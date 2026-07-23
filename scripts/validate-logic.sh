@@ -6,13 +6,12 @@ cd "${REPO_ROOT}"
 
 if [ "${1:-}" == "--install-deps" ]; then
     echo "🟣 Installing dependencies..."
-    sudo apt-get update > /dev/null 2>&1
-    sudo apt-get install -y lua5.3 liblua5.3-dev luarocks build-essential unzip > /dev/null 2>&1
+    sudo apt-get update -qq
+    sudo apt-get install -yqq lua5.3 liblua5.3-dev luarocks build-essential unzip
     sudo luarocks install luacheck > /dev/null 2>&1
 fi
 
-# Locate the correct Lua compiler (handles variations across OS/environments)
-LUAC=$(command -v luac5.3 || command -v luac || echo "")
+LUAC=$(command -v luac5.3 || command -v luac || true)
 
 if ! command -v luacheck &> /dev/null || [ -z "$LUAC" ]; then
     echo "🔴 Dependencies 'luacheck' or 'luac' not found." >&2
@@ -32,14 +31,14 @@ ERROR_COUNT=0
 while IFS= read -r -d '' file; do
     FILE_COUNT=$((FILE_COUNT + 1))
 
-    clean_file_path="${file#./}"
-    printf "%-50s" "Checking $clean_file_path"
+    file_dir="${file#./}"
+    printf "%-50s" "Checking $file_dir"
 
     if error_message=$("$LUAC" -p "$file" 2>&1); then
         echo "OK"
     else
         echo "FAIL"
-        echo "   $error_message" >&2
+        echo "$error_message" >&2
         ERROR_COUNT=$((ERROR_COUNT + 1))
     fi
 done < <(find logic/ -name "*.lua" ! -name "*.draft.lua" -print0 | sort -z)
@@ -51,6 +50,10 @@ FILE_LABEL="files"
 [ "$FILE_COUNT" -eq 1 ] && FILE_LABEL="file"
 
 echo ""
-echo "Total: 0 warnings / $ERROR_COUNT $ERROR_LABEL in $FILE_COUNT $FILE_LABEL"
+echo "Total: $ERROR_COUNT $ERROR_LABEL in $FILE_COUNT $FILE_LABEL"
 
-echo "🟢 All Lua files pass the syntax and linting checks!"
+if [ $ERROR_COUNT -eq 0 ]; then
+    echo "🟢 All Lua files pass the syntax and linting checks!"
+else
+    exit 1
+fi

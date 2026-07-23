@@ -31,14 +31,14 @@ jobs:
                     echo "🟢 New commits detected (or manual run triggered)!"
                   fi
 
-    validate:
+    pre-validate:
         needs: check-commits
         if: needs.check-commits.outputs.skip == 'false'
         uses: ./.github/workflows/_validate-features.yaml
 
     build-images:
         runs-on: ubuntu-latest
-        needs: [check-commits, validate]
+        needs: check-commits
         if: needs.check-commits.outputs.skip == 'false'
         outputs:
             nightly-tag: ${{ steps.build-artifacts.outputs.nightly-tag }}
@@ -62,11 +62,16 @@ jobs:
               uses: actions/upload-artifact@v7
               with:
                   name: release-artifacts
-                  path: build/*.zip
+                  path: build/
+
+    post-validate:
+        needs: [check-commits, build-images]
+        if: needs.check-commits.outputs.skip == 'false'
+        uses: ./.github/workflows/_validate-schema.yaml
 
     publish-releases:
         runs-on: ubuntu-latest
-        needs: [check-commits, validate, build-images]
+        needs: [check-commits, pre-validate, build-images, post-validate]
         if: needs.check-commits.outputs.skip == 'false'
         permissions:
             contents: write # Required for pushing tags and updating releases

@@ -14,6 +14,7 @@ jobs:
         outputs:
             dicts_changed: ${{ steps.filter-changes.outputs.dicts }}
             logic_changed: ${{ steps.filter-changes.outputs.logic }}
+            schema_changed: ${{ steps.filter-changes.outputs.schema }}
         steps:
             - name: Checkout code
               uses: actions/checkout@v6
@@ -23,14 +24,50 @@ jobs:
               id: filter-changes
               with:
                   filters: |
-                      logic:
-                          - 'logic/**'
                       dicts:
                           - 'dicts/**'
+                      logic:
+                          - 'logic/**'
+                      schema:
+                          - 'rime/**'
+                          - 'schema/**'
 
-    validate:
+    pre-validate:
         needs: detect-changes
         uses: ./.github/workflows/_validate-features.yaml
         with:
             dicts_changed: ${{ needs.detect-changes.outputs.dicts_changed }}
             logic_changed: ${{ needs.detect-changes.outputs.logic_changed }}
+
+    build-images:
+        runs-on: ubuntu-latest
+        needs: detect-changes
+        if: >-
+            ${{
+                needs.detect-changes.outputs.dicts_changed == 'true' ||
+                needs.detect-changes.outputs.logic_changed == 'true' ||
+                needs.detect-changes.outputs.schema_changed == 'true'
+            }}
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v6
+
+            - name: Build OS-specific artifacts
+              id: build-artifacts
+              run: |
+                  # Build Keydo artifacts based on OS
+                  bash scripts/build-images.sh
+
+            - name: Upload image artifacts
+              uses: actions/upload-artifact@v7
+              with:
+                  name: image-artifacts
+                  path: build/
+
+    post-validate:
+        needs: [detect-changes, build-images]
+        uses: ./.github/workflows/_validate-schema.yaml
+        with:
+            dicts_changed: ${{ needs.detect-changes.outputs.dicts_changed }}
+            logic_changed: ${{ needs.detect-changes.outputs.logic_changed }}
+            schema_changed: ${{ needs.detect-changes.outputs.schema_changed }}

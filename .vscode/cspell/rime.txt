@@ -1,6 +1,7 @@
 Eisu
 hilite
 hilited
+librime
 linespacing
 mitchellh
 preedit

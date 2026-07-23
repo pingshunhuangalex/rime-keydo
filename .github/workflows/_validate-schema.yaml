@@ -1,0 +1,44 @@
+name: Validate Schema
+
+on:
+    workflow_call: # Reusable workflow parts (callee) to be called by other workflows
+        inputs:
+            dicts_changed:
+                type: string
+                description: 'Modification status on Keydo dictionaries (dicts/*)'
+                required: false
+                default: 'true'
+            logic_changed:
+                type: string
+                description: 'Modification status on Keydo logic (logic/*)'
+                required: false
+                default: 'true'
+            schema_changed:
+                type: string
+                description: 'Modification status on Keydo schema (rime/*, schema/*)'
+                required: false
+                default: 'true'
+
+jobs:
+    schema:
+        runs-on: ubuntu-latest
+        if: >-
+            ${{
+                inputs.dicts_changed == 'true' ||
+                inputs.logic_changed == 'true' ||
+                inputs.schema_changed == 'true'
+            }}
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v6
+
+            - name: Download image artifacts
+              uses: actions/download-artifact@v8
+              with:
+                  name: image-artifacts
+                  path: build/
+
+            - name: Schema check for images
+              run: |
+                  # Check for schema issues in images
+                  bash scripts/validate-schema.sh --install-deps
