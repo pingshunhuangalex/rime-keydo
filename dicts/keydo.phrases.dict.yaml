@@ -4601,6 +4601,7 @@ sort: original
 奔到	bndz
 本岛	bndzv
 不能说	bne
+不能申	bne
 编年史	bnea
 笨手	bned
 本社	bnee
@@ -35945,7 +35946,9 @@ sort: original
 过缩	glsl
 国丧	glsp
 果酸	glst
-过松	glsy
+更类似	glsv
+更类似于	glsy
+过松	glsyv
 过两天	glt
 裹腿	gltb
 果条	gltc
@@ -43618,7 +43621,8 @@ sort: original
 花容	hqryi
 华容	hqryio
 花色	hqse
-花丝	hqsk
+滑丝	hqsk
+花丝	hqski
 花洒	hqss
 划算	hqst
 核潜艇	hqt
@@ -48438,11 +48442,12 @@ sort: original
 阐发	jffs
 急转直下	jffx
 颤沼	jffz
-价值观	jfg
-焦灼感	jfg
+趁这个	jfg
 馋鬼	jfgb
 谗构	jfgd
-旧中国	jfgi
+价值观	jfgi
+旧中国	jfgii
+焦灼感	jfgio
 蟾光	jfgm
 价值观念	jfgn
 产钢	jfgp
@@ -69340,10 +69345,12 @@ sort: original
 民主集中制	mqjfa
 谬奖	mqjx
 没去了	mql
-迷住了	mql
+忙起来	mql
+买起来	mqla
 目前来看	mqlk
-忙起来	mqlo
+迷住了	mqlo
 米其林	mqlov
+卖起来	mqlu
 麦哲伦	mqlv
 谬论	mqlw
 密切联系	mqlx
@@ -70650,6 +70657,7 @@ sort: original
 媚眼如丝	myrs
 牧羊人	myru
 某一人	myrv
+没隐私	mys
 名扬四海	mysh
 买一送一	mysy
 每一天	myt
@@ -80999,7 +81007,7 @@ sort: original
 取男	qlnf
 娶你	qlnk
 驱傩	qlnl
-去那	qlns
+去拿	qlns
 去哪	qlnsv
 取暖	qlnt
 区内	qlnw
@@ -81800,6 +81808,7 @@ sort: original
 甄嬛	qnhtv
 震寰	qnhtvo
 震惶	qnhx
+真好	qnhz
 祝你好运	qnhy
 七年级	qnj
 真金	qnjb
@@ -109030,6 +109039,7 @@ sort: original
 儿童不宜	xtby
 宣报	xtbz
 先天不足	xtbzu
+新套餐	xtc
 选萃	xtcb
 选材	xtch
 炫彩	xtcho
@@ -120308,6 +120318,7 @@ sort: original
 暂存	zfcw
 早知道	zfd
 咱队	zfdb
+攒的	zfde
 暂定	zfdg
 暂代	zfdh
 足智多谋	zfdm
