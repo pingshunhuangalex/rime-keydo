@@ -5,7 +5,7 @@ patch:
     ascii_composer: # 英文模式配置
         good_old_caps_lock: false # 用`Caps Lock`切换英文模式时，是否激活大写锁定（默认关闭）
         switch_key: # 英文模式切换键配置
-            Shift_L: commit_text # 按下左`Shift`时（默认上屏候选项）
+            Shift_L: noop # 禁用左`Shift`以防止误触
             Shift_R: commit_text # 按下右`Shift`时（默认上屏候选项）
             Control_L: commit_code # 按下左`Control`时（默认上屏编码）
             Control_R: commit_code # 按下右`Control`时（默认上屏编码）
@@ -18,4 +18,4 @@ patch:
         caption: '「切换方案」' # 方案切换标识（在输入区会予以显示）
         fix_schema_list_order: true # 固定方案顺序
         hotkeys: # 方案切换快捷键
-            - 'Shift+space'
+            - 'Alt+Shift+space'
