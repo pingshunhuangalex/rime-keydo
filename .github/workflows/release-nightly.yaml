@@ -126,7 +126,21 @@ jobs:
                   git config --global user.signingkey ~/.ssh/signing_key
 
                   git tag -s "${NIGHTLY_TAG}" -m "Nightly Build ${NIGHTLY_TAG}"
-                  git push https://x-token-auth:${{ steps.app-token.outputs.token }}@github.com/${{ github.repository }}.git "${NIGHTLY_TAG}"
+
+                  max_retries=3
+                  retry=1
+                  sleep_time=60
+
+                  until git push https://x-token-auth:${{ steps.app-token.outputs.token }}@github.com/${{ github.repository }}.git "${NIGHTLY_TAG}"; do
+                    if [ $retry -eq $((max_retries + 1)) ]; then
+                      echo "🔴 Relocating the nightly tag failed due to GitHub's internal server issues."
+                      exit 1
+                    fi
+
+                    echo "🟡 Retrying in ${sleep_time}s... (Attempt $retry of $max_retries)"
+                    sleep "${sleep_time}"
+                    retry=$((retry + 1))
+                  done
 
                   rm -rf ~/.ssh
                   git config --global --unset user.signingkey || true
