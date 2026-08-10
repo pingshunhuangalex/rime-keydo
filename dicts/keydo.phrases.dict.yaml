@@ -1916,6 +1916,7 @@ sort: original
 百十	bhek
 百试	bhek
 拜师	bheki
+白事	bheku
 百事	bhekv
 白说	bhel
 拜神	bhen
@@ -6093,6 +6094,7 @@ sort: original
 北湾	bwwf
 北外	bwwh
 北屋	bwwj
+霸王茶姬	bwwjv
 被吃	bwwk
 被我	bwwl
 被窝	bwwlo
@@ -6440,6 +6442,7 @@ sort: original
 不要接	byjvv
 不研究	byjvvo
 不遗巨细	byjx
+伯牙绝弦	byjxi
 不愉快	byk
 不用客气	bykq
 扮演了	byl
@@ -18407,6 +18410,7 @@ sort: original
 上升到	eed
 深深地	eeda
 深深的	eedaa
+双声道	eedav
 社队	eedb
 束手待毙	eedbv
 射雕	eedc
@@ -18469,7 +18473,7 @@ sort: original
 闪闪发光	eefg
 杀身之祸	eefh
 慑服	eefj
-傻傻分不清楚	eefji
+射覆	eefju
 设置	eefk
 摄制	eefki
 闪闪发亮	eefl
@@ -27096,6 +27100,7 @@ sort: original
 转接器	fjqvi
 副处长	fjqvu
 副厂长	fjqvv
+覆准	fjqw
 富强	fjqx
 腹腔	fjqxu
 封建主义	fjqy
@@ -27189,6 +27194,7 @@ sort: original
 复查	fjws
 茯茶	fjwsi
 福娃	fjwso
+覆查	fjwsv
 浮船	fjwt
 支撑我	fjwu
 支撑位	fjwui
@@ -40904,7 +40910,8 @@ sort: original
 旱情	hfqgo
 汗珠	hfqj
 寒气	hfqk
-火中取栗	hfql
+喊去	hfql
+火中取栗	hfqlo
 涵箴	hfqn
 寒秋	hfqq
 花枝招展	hfqqi
@@ -64470,6 +64477,7 @@ sort: original
 拉抬	lsth
 莱索托	lsti
 拉图	lstj
+磷酸铁锂	lstl
 拉他	lsts
 邋遢	lstsa
 罗森塔尔	lstx
@@ -67716,6 +67724,7 @@ sort: original
 幕宾	mjbb
 目标	mjbc
 木板	mjbf
+母版	mjbfa
 模板	mjbfv
 募兵	mjbg
 幕布	mjbj
@@ -70939,7 +70948,8 @@ sort: original
 猫熊	mzxy
 没在意	mzy
 满足于	mzya
-毛蚴	mzyd
+猫又	mzyd
+毛蚴	mzydu
 名噪一时	mzye
 冒烟	mzyf
 帽沿	mzyfi
@@ -74649,6 +74659,7 @@ sort: original
 牌照费	pff
 品种繁多	pffd
 盼着	pffe
+攀着	pffev
 颇费周折	pfff
 攀摘	pffh
 排风罩	pffi
@@ -88526,6 +88537,7 @@ sort: original
 四郎	sklp
 四六	sklq
 死啦	skls
+撕拉	sklsi
 四轮	sklw
 四类	sklwi
 思量	sklx
@@ -89806,6 +89818,7 @@ sort: original
 送殓	sylm
 宋拉	syls
 嵩峦	sylt
+三元锂	sylv
 送粮	sylx
 三言两语	syly
 松龙	sylyv
@@ -91011,6 +91024,7 @@ sort: original
 铁叉	tdws
 投传	tdwt
 铁船	tdwti
+透传	tdwtu
 投喂	tdww
 头尾	tdwwo
 天地万物	tdwwv
@@ -94021,6 +94035,7 @@ sort: original
 谈朋友	tpy
 唐寅	tpyb
 倘有	tpyd
+糖油	tpydo
 糖业	tpye
 天蓬元帅	tpyev
 太平要术	tpyevv
@@ -103441,6 +103456,7 @@ sort: original
 写本	xdbn
 兄弟般	xdbo
 鞋帮	xdbp
+蟹棒	xdbpu
 谢巴	xdbs
 欧巴	xdbsv
 爱丁堡	xdbu
@@ -103801,6 +103817,7 @@ sort: original
 相对主义	xdqyv
 写照	xdqz
 想当然	xdr
+蟹肉	xdrd
 偶然	xdrf
 写入	xdrj
 殴辱	xdrjv
@@ -108425,6 +108442,7 @@ sort: original
 修造	xqzz
 小日本	xrb
 显然不是	xrbe
+蟹肉棒	xrbu
 形容词	xrc
 洗染店	xrd
 轩然大波	xrdb
@@ -109439,6 +109457,7 @@ sort: original
 学无止境	xwfjov
 殉职	xwfk
 寻址	xwfka
+窨制	xwfko
 宣传周	xwfo
 辛烷值	xwfoo
 寻访	xwfp
@@ -109619,6 +109638,7 @@ sort: original
 寻网	xwwp
 巡查	xwws
 巡察	xwwsa
+窨茶	xwwso
 下午茶	xwwv
 二重性	xwx
 寻衅	xwxb
@@ -115787,7 +115807,8 @@ sort: original
 引力波	ylba
 鱼标	ylbc
 鱼鳖	ylbd
-玉版	ylbf
+预拌	ylbf
+玉版	ylbfv
 语病	ylbg
 鱼白	ylbh
 英联邦	ylbi
@@ -116014,7 +116035,8 @@ sort: original
 羽化	ylhq
 玉环	ylht
 有理化	ylhv
-郁黑	ylhw
+预混	ylhw
+郁黑	ylhwv
 玉皇	ylhx
 雨洪	ylhy
 鱼龙混杂	ylhz
@@ -121281,6 +121303,7 @@ sort: original
 足月	zjyho
 早就已经	zjyj
 族裔	zjyk
+阻抑	zjyka
 足矣	zjyko
 足浴	zjyl
 自成一派	zjyp
