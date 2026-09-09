@@ -1540,6 +1540,7 @@ sort: original
 冰挂	bggq
 不敢苟同	bggt
 并关	bggto
+碧根果	bggv
 冰棍	bggw
 并给	bggwo
 不敢恭维	bggwv
@@ -5737,7 +5738,8 @@ sort: original
 备存	bwcw
 白炽灯	bwd
 背对	bwdb
-北调	bwdc
+背调	bwdc
+北调	bwdci
 北斗	bwdd
 倍的	bwde
 博闻多识	bwdeu
@@ -16002,7 +16004,8 @@ sort: original
 短小	dtxc
 短些	dtxd
 大体相当	dtxdv
-断案	dtxf
+短按	dtxf
+断案	dtxfo
 断行	dtxg
 短靴	dtxh
 短儿	dtxj
@@ -23202,6 +23205,7 @@ sort: original
 傻掉	esdci
 傻屌	esdcia
 瘦死的骆驼比马大	esdd
+沙爹	esdda
 杀跌	esddu
 啥的	esde
 杀得	esdeu
@@ -29367,6 +29371,7 @@ sort: original
 方伯	fpbl
 方波	fpblo
 方便	fpbm
+放鞭	fpbmo
 坊本	fpbn
 放榜	fpbp
 防备	fpbw
@@ -31973,7 +31978,8 @@ sort: original
 肿包	fybzu
 转一次	fyc
 飞燕草	fyca
-中册	fyce
+众测	fyce
+中册	fycei
 重要措施	fyceu
 职业操守	fycev
 中餐	fycf
@@ -42434,15 +42440,13 @@ sort: original
 很凉快	hlku
 火控	hlky
 火烤	hlkz
-灰溜溜	hll
-火辣辣	hll
+货拉拉	hll
 火燎	hllc
 火烈	hlld
 活了	hlle
 火了	hlleo
 或蓝	hllf
 华丽丽	hlli
-货拉拉	hllii
 火炉	hllj
 活路	hllja
 获利了结	hllji
@@ -42451,14 +42455,16 @@ sort: original
 火力	hllko
 活络	hlll
 火镰	hllm
-哗啦啦	hllo
+火辣辣	hllo
+哗啦啦	hlloo
 货郎	hllp
 货流	hllq
 火辣	hlls
 祸乱	hllt
 霍乱	hlltv
 很累了	hllu
-轰隆隆	hllv
+灰溜溜	hllv
+轰隆隆	hllva
 货轮	hllw
 豁亮	hllx
 火龙	hlly
@@ -47752,6 +47758,7 @@ sort: original
 结盟	jdmr
 解梦	jdmru
 解码	jdms
+接码	jdmsi
 季度末	jdmu
 姐妹	jdmw
 皆美	jdmwv
@@ -50316,7 +50323,8 @@ sort: original
 竞技体育	jjtyo
 出逃	jjtz
 常常为	jjw
-沉积物	jjwa
+居酒屋	jjwa
+沉积物	jjwau
 出丑	jjwd
 除臭	jjwda
 出车	jjwe
@@ -50806,6 +50814,7 @@ sort: original
 几斤	jkjbuu
 极尽	jkjbv
 计较	jkjc
+鸡脚	jkjca
 犄角	jkjcu
 季节	jkjd
 集结	jkjdi
@@ -53139,8 +53148,8 @@ sort: original
 嫦娥	jpxe
 金盆洗手	jpxei
 长篇小说	jpxeu
-长安	jpxf
-长按	jpxfu
+长按	jpxf
+长安	jpxfu
 长靴	jpxh
 肠癌	jpxhu
 场雪	jpxhv
@@ -67065,7 +67074,8 @@ sort: original
 蔓菁	mfjg
 满处	mfjj
 满级	mfjk
-满腹经纶	mfjl
+漫剧	mfjl
+满腹经纶	mfjla
 满减	mfjm
 慢件	mfjmo
 漫长	mfjp
@@ -75139,6 +75149,7 @@ sort: original
 跑高速	pgs
 瓶塞	pgsh
 平素	pgsj
+平扫	pgsz
 排骨汤	pgt
 凭条	pgtc
 平头	pgtd
@@ -94111,6 +94122,7 @@ sort: original
 糖精	tpjg
 唐初	tpjj
 汤剂	tpjk
+台澎金马	tpjm
 汤臣	tpjn
 糖厂	tpjp
 糖酒	tpjq
@@ -94927,6 +94939,7 @@ sort: original
 太扯了	twlv
 太丑了	twlva
 太差了	twlvo
+天外来物	twlw
 屯粮	twlx
 太完美	twm
 吞灭	twmd
@@ -100140,7 +100153,8 @@ sort: original
 插戴	wsdh
 瓦岱	wsdhv
 查毒	wsdj
-洼地	wsdk
+茶底	wsdk
+洼地	wsdka
 挖地	wsdki
 茶地	wsdkiv
 差多	wsdl
@@ -100421,6 +100435,7 @@ sort: original
 插销	wsxc
 差些	wsxd
 挖些	wsxdi
+茶歇	wsxdio
 差额	wsxe
 查案	wsxf
 娃儿	wsxj
@@ -100621,7 +100636,8 @@ sort: original
 串联	wtlm
 串连	wtlmi
 穿透力	wtlo
-川流	wtlq
+串流	wtlq
+川流	wtlqu
 维他命	wtm
 船民	wtmb
 串谋	wtmd
@@ -103686,6 +103702,7 @@ sort: original
 协定	xddg
 谢顶	xddgo
 携带	xddh
+藕带	xddhi
 懈怠	xddho
 鞋带	xddhv
 小弟弟	xddi
@@ -107445,7 +107462,8 @@ sort: original
 圩区	xlqlv
 续签	xlqm
 圩镇	xlqn
-虚张	xlqp
+序章	xlqp
+虚张	xlqpi
 需求	xlqq
 按劳取酬	xlqw
 心理障碍	xlqx
@@ -117594,6 +117612,7 @@ sort: original
 押金	ysjb
 压紧	ysjbv
 压脚	ysjc
+鸭脚	ysjci
 押解	ysjd
 耶稣基督	ysjdv
 押车	ysje
@@ -121006,6 +121025,7 @@ sort: original
 在即	zhjk
 再急	zhjkv
 在距	zhjl
+载具	zhjlu
 再聚	zhjlv
 再建	zhjm
 在沉	zhjn
