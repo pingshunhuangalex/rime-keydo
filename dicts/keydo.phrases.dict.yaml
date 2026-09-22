@@ -31825,7 +31825,8 @@ sort: original
 方向盘	fxp
 庄票	fxpc
 装盘	fxpf
-装瓶	fxpg
+风险评估	fxpg
+装瓶	fxpgo
 飞蛾扑火	fxph
 撞破	fxpl
 撞骗	fxpm
@@ -94031,6 +94032,7 @@ sort: original
 童年时光	tneg
 太难受	tnev
 团年饭	tnf
+头脑风暴	tnfb
 它能够	tng
 挺暖和	tnh
 天南海北	tnhb
@@ -95685,6 +95687,7 @@ sort: original
 天造地设	tzdev
 逃顶	tzdg
 天字第一号	tzdh
+挺早的	tzdi
 挺脏的	tzdi
 陶都	tzdj
 掏底	tzdk
