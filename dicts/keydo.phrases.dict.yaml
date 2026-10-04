@@ -8434,6 +8434,7 @@ sort: original
 词块	ckkg
 词库	ckkj
 磁卡	ckks
+次卡	ckkso
 此款	ckkt
 此空	ckky
 词库里	ckl
@@ -16904,6 +16905,7 @@ sort: original
 道标	dzbco
 道别	dzbd
 盗版	dzbf
+倒班	dzbfi
 刀柄	dzbg
 电子表格	dzbgi
 道白	dzbh
@@ -16947,6 +16949,7 @@ sort: original
 倒地	dzdki
 到点	dzdm
 导电	dzdma
+到店	dzdmv
 多灾多难	dzdn
 倒挡	dzdp
 叨登	dzdr
@@ -24560,7 +24563,8 @@ sort: original
 少充	ezwy
 少超	ezwz
 上自习	ezx
-捎信	ezxb
+烧心	ezxb
+捎信	ezxbi
 少校	ezxc
 少些	ezxd
 烧鹅	ezxe
@@ -31971,7 +31975,8 @@ sort: original
 钟表	fybc
 中标	fybci
 种别	fybd
-中办	fybf
+中班	fybf
+中办	fybfi
 重要标志	fybfu
 重病	fybg
 重兵	fybgu
@@ -33555,7 +33560,6 @@ sort: original
 沟中	gdfy
 够着	gdfz
 孤独感	gdg
-高低杠	gdg
 滚的滚	gdga
 够贵	gdgb
 狗狗	gdgd
@@ -33567,10 +33571,12 @@ sort: original
 高低贵贱	gdgjo
 勾股	gdgju
 够过	gdgl
-郭德纲	gdgo
+高低杠	gdgo
+郭德纲	gdgou
 勾挂	gdgq
 高度关注	gdgqo
 狗官	gdgt
+公对公	gdgu
 够高	gdgz
 过得好	gdh
 干得好	gdh
@@ -35722,6 +35728,7 @@ sort: original
 公开化	gkh
 刚看见	gkj
 公开场合	gkjh
+光刻机	gkji
 高科技	gkjo
 光可鉴人	gkjr
 古柯碱	gkju
@@ -47262,6 +47269,7 @@ sort: original
 教唆	jcsl
 浇洒	jcss
 较松	jcsy
+九层塔	jct
 叫退	jctb
 教条	jctc
 教头	jctd
@@ -53260,7 +53268,8 @@ sort: original
 长醉	jpzb
 常走	jpzd
 常在	jpzh
-长足	jpzj
+长租	jpzj
+长足	jpzju
 肠子	jpzk
 场子	jpzkv
 厂子	jpzkva
@@ -60648,6 +60657,7 @@ sort: original
 领导地位	lddwi
 垄断地位	lddwv
 漏洞	lddy
+楼栋	lddyv
 楼道	lddz
 列岛	lddzv
 两点水	lde
@@ -66378,7 +66388,8 @@ sort: original
 涝区	lzqla
 捞取	lzqli
 老区	lzqlu
-捞钱	lzqm
+老钱	lzqm
+捞钱	lzqmi
 落枕	lzqn
 老张	lzqp
 老仇	lzqq
@@ -70029,7 +70040,8 @@ sort: original
 马三立	mslav
 马琳	mslb
 马料	mslc
-马列	msld
+吗喽	msld
+马列	mslda
 骂了	msle
 马勒	mslea
 麻了	msleo
@@ -71587,6 +71599,7 @@ sort: original
 浓妆淡抹	nfdma
 难当	nfdp
 难打	nfds
+男大	nfdsi
 南大	nfdsu
 南端	nfdt
 南方的	nfdu
@@ -72584,14 +72597,15 @@ sort: original
 年龄层	nlc
 女厕	nlce
 挪蹭	nlcr
-哪来的	nld
-年龄大	nld
+年龄段	nld
 女队	nldb
 女的	nlde
 女单	nldf
 女弟	nldk
 女店	nldm
-年龄段	nldu
+哪来的	nldo
+女大	nlds
+年龄大	nldu
 诺顿	nldw
 挪动	nldy
 挪到	nldz
@@ -72887,7 +72901,8 @@ sort: original
 年假	nmjs
 农民家庭	nmjt
 年均	nmjw
-年春	nmjwu
+年春	nmjw
+黏菌	nmjwu
 那么快	nmk
 年刊	nmkf
 年卡	nmks
@@ -75391,8 +75406,9 @@ sort: original
 排华	phhq
 排患	phht
 排洪	phhy
-牌号	phhz
-拍好	phhzi
+拍好	phhz
+排号	phhzi
+牌号	phhzu
 平滑肌	phj
 排解	phjd
 派车	phje
@@ -90990,7 +91006,8 @@ sort: original
 头上	tdep
 贴上	tdepa
 头刷	tdeq
-偷生	tder
+头绳	tder
+偷生	tderi
 头纱	tdes
 铁砂	tdesi
 铁栓	tdet
@@ -120464,6 +120481,7 @@ sort: original
 走着	zdfe
 奏折	zdfev
 走直	zdfk
+走之	zdfkv
 走访	zdfp
 诹访	zdfpo
 走风	zdfr
@@ -120791,6 +120809,7 @@ sort: original
 足智多谋	zfdm
 赞达	zfds
 暂短	zfdt
+走之底	zfdv
 攒到	zfdz
 赞道	zfdzu
 在这时	zfe
@@ -120862,6 +120881,7 @@ sort: original
 赞诺	zfnlu
 再分配	zfp
 造反派	zfpu
+走之旁	zfpv
 赞佩	zfpw
 走着瞧	zfq
 攒着	zfqe
@@ -123748,6 +123768,7 @@ sort: original
 早衰	zzeg
 枣树	zzej
 早市	zzek
+藻饰	zzeki
 早逝	zzeko
 造势	zzeku
 早说	zzel
